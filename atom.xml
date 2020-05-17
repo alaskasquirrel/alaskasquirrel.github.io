@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
-    <title>A New Old Language</title>
-    <updated>2020-05-17T05:32:19.060Z</updated>
+    <title>NewOld </title>
+    <updated>2020-05-17T05:40:38.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
     <subtitle>Plan in decade. Think in years. Work in months. Live in days.</subtitle>
     <logo>https://alaskasquirrel.github.io/images/avatar.png</logo>
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, A New Old Language</rights>
+    <rights>All rights reserved 2020, NewOld </rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://alaskasquirrel.github.io/post/hello-gridea/</id>
