@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-06-12T13:42:59.373Z</updated>
+    <updated>2020-06-14T04:19:16.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -11,9 +11,46 @@
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, NewOld </rights>
     <entry>
+        <title type="html"><![CDATA[[转载] 感悟《哥德尔》]]></title>
+        <id>https://alaskasquirrel.github.io/post/哥德尔/</id>
+        <link href="https://alaskasquirrel.github.io/post/哥德尔/">
+        </link>
+        <updated>2020-05-21T16:03:43.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>纪志刚  2003年1月<br>
+http://shc2000.sjtu.edu.cn/030104/ganwu.htm</li>
+</ul>
+<p>  有一个人曾在不到两年的时间内让数学界感受了大喜与大悲的经历，他就是哥德尔（Kurt Gödel,1906.4.28-1978.1.14）。<br>
+　　1929年秋，哥德尔在他的博士论文中证明了一阶逻辑的完全性，这对于当时试图以“公理化”方法构建数学基础的形式主义学派是一个莫大的鼓舞。希尔伯特，形式主义学派的领军人物，确信他的元数学和证明论将会成功地确立全部数学的相容性和完全性。哥德尔的逻辑完全性定理似乎表明曙光就在前头。1930年夏天，柯尼斯堡，康德的诞生地，也是希尔伯特的故乡，在接受“荣誉市民”受礼仪式的演说中，希尔伯特坚定地说出最后一句话：“我们必须知道，我们必将知道（Wir müssen wissen. Wir werden wissen）”。<br>
+　　但就在第二年，哥德尔发表的另一篇论文却打开了“潘多拉的盒子”。这篇题为《论〈数学原理〉及有关系统的形式不可判定命题》（1931年）的论文包含了两个惊世骇俗的结论，其中对数学界尤具毁灭性的断言是：任何数学系统，只要其能包含整数的算术，其相容性就不可能通过几个基础学派（逻辑主义学派、形式主义学派、集合论公理化学派）采用的逻辑原理建立。希尔伯特的幻想破灭了，数学的“灾难”降临了！有人悲叹地说：“上帝是存在的，因为数学无疑是相容的；魔鬼也是存在的，因为我们不能证明这种相容性。”（外尔）<br>
+  哥德尔的影响是深远的，最新的一个例子足以说明。2002年夏天北京国际数学家大会，霍金的报告就是《哥德尔与Ｍ理论》。在当今国际物理研究领域，很多科学家提出有可能存在一个能描述一切物理现象的理论，并把这一理论称为超弦理论。霍金认为，建立一个单一的描述宇宙的大统一理论是不太可能的。霍金说他的这一推测正是基于数学领域的哥德尔不完全性定理。<br>
+　　可是，哥德尔却一直是一位被神秘所笼罩的传奇人物。他的生活特异独行，超然遁世，他的思想沉奥深邃，意蕴广远。我们中的很多人也许是读了侯世达（Hofstadter,D.R.）的《哥德尔、艾舍尔、巴赫—集异璧之大成》（《GEB—一条永恒的金带》是该书节译本）了解哥德尔的。其实，这部奇书在哥德尔的头上增添了更神秘的光环。感谢王浩先生，他的《哥德尔》（Reflections on Kurt Gödel ,1987，1991，康宏魁译，上海世纪集团出版社，上海译文出版社，2002年9月第1版）一书使我们终于可以走近哥德尔，去感受那平凡躯体下伟大而真诚的心灵。<br>
+　　哥德尔的与众不同表现在他的思想、他的关注、他的生活格调、他内心深处的精神世界。王浩先生正是从献身基本理论的角度展开哥德尔的生平的。值得注意的是王浩先生首先将焦点聚集在与哥德尔生平和事业密切相关的三样重要的史料（哥德尔哥哥答复王浩的回信、格兰琼专为哥德尔设计的生平调查表、哥德尔获得洛克菲勒大学荣誉学位时王浩的引荐辞）。正是在许多珍贵史料基础上，王浩为我们仔细勾画了哥德尔毕生事业的全貌。似乎是历史的巧合，当哥德尔几经周折从维也纳抵达普林斯顿后，与爱因斯坦成了结交10年以上的好友。王浩先生巧妙地“假道爱因斯坦”，以对比的手法，描述了两位智者的友谊以及他们在物理、逻辑、哲学、政治、艺术甚至宗教上思想与见解。这样就为读者通达哥德尔的精神思想打开了一条便道。<br>
+　　哥德尔的科学工作令人赞叹，这也是王浩先生着力描写的重点。可是，照哥德尔自己说，他一生用于哲学的时间和精力比用于科学的还要多。在哲学中，哥德尔所推崇的5种好品格“善取舍、求准确、弃偏见、慎试验、有胆魄” 确实令人动心。哥德尔的博大视野与敏锐眼光还在他对科学、技术与社会的评述中显示出来。书中披露哥德尔在1962年就指出“人类并不会因为登上月球就有所改进。这必定跟‘自然’科学与‘精神’科学之间的老冲突有关。……如果史学、法权与国家学说、哲学、心理学、文学、艺术等等的进展像物理学那么大，原子战争的危险就不会有了。”读书至此怎能不掩卷感慨！诚可谓“哥德尔的事迹发人深省，其意境超乎学院天地，实在得有一种能顾盼几个世纪的历史眼光才行。”<br>
+　　作者王浩先生是著名的数理逻辑学家，早年在西南联大时就自学过哥德尔的初等逻辑完全性证明。后来与晚年的哥德尔频繁往来，广泛交谈，亲笔录下为数可观的口头资料。在他的笔下一个栩栩欲活、个性丰满的哥德尔跃然于纸上。在书中我们看到哥德尔生活的简朴、对荣华富贵的淡漠、做学问的坚韧刻苦、寻求根本原理的矢志不移和锲而不舍。<br>
+　　哥德尔处在另一时代，另一环境，他的专深研究也难免让常人觉得高不可攀。那么《哥德尔》对当代青年的意义何在呢？王浩先生“中译本序”的一段话是很有意义的：<br>
+　　我想，译者的苦心是盼望一些有识有志的青年人拿他当一面镜子，学会净化自我，学会在荆棘丛中踏出自己该走的路，不论其所爱好的是艺术还是科学、是文科还是理科。哥德尔成功的事实还提醒我们，一个人天赋再高，想获得一点真重要真耐久的成绩，必须对外界诱惑保持清醒的头脑，永不懈怠地埋头苦干，靠众人的喝彩、神秘的灵感或不诚实的手段根本做不到。<br>
+　　王浩先生1995年5月病逝于纽约。当我们阅读《哥德尔》的事迹，回味王浩先生的忠告，必然会有一种超然的感悟。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《乡村里的中国》(冷暖人生)]]></title>
+        <id>https://alaskasquirrel.github.io/post/农村-农民/</id>
+        <link href="https://alaskasquirrel.github.io/post/农村-农民/">
+        </link>
+        <updated>2020-05-21T14:38:07.000Z</updated>
+        <content type="html"><![CDATA[<p>“我从来就不热爱土地”</p>
+<p>  赖以生存的土地，却也是这辈子千方百计势要挣脱的枷锁。这里是中国最真实的农村，生活着最朴素的农民。不愿回想昔日的土里土气，而那一面恰是最中国的地方。</p>
+<p>  乡村好像很多时候它是沉默的，但是其实它是一个特别广大的真实。因为它在中国所占的比重这么大，但是这一大片的真实，他们怎么活着，其实我们是了解得非常之少。很多时候他是无声的，他们不是发出了很热闹的声响。（凤凰卫视《冷暖人生》）</p>
+<ul>
+<li><a href="https://v.qq.com/x/cover/i7sc2ih3x6qhzra/f0019al8ax5.html">焦波纪录电影《乡村里的中国》（98分钟院线版）</a></li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[趣闻] Intel英特尔 CPU漏洞]]></title>
-        <id>https://alaskasquirrel.github.io/post/qu-wen-intel-ying-te-er-cpu-lou-dong/</id>
-        <link href="https://alaskasquirrel.github.io/post/qu-wen-intel-ying-te-er-cpu-lou-dong/">
+        <id>https://alaskasquirrel.github.io/post/amd-intel/</id>
+        <link href="https://alaskasquirrel.github.io/post/amd-intel/">
         </link>
         <updated>2020-05-20T10:14:38.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://hardware.slashdot.org/comments.pl?sid=13046218&amp;cid=57792828">Slashdot</a></p>
@@ -44,8 +81,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[[转载] 霍金：哥德尔和物理学的终结]]></title>
-        <id>https://alaskasquirrel.github.io/post/zhuan-zai-huo-jin-ge-de-er-he-wu-li-xue-de-zhong-jie/</id>
-        <link href="https://alaskasquirrel.github.io/post/zhuan-zai-huo-jin-ge-de-er-he-wu-li-xue-de-zhong-jie/">
+        <id>https://alaskasquirrel.github.io/post/霍金-哥德尔-物理学/</id>
+        <link href="https://alaskasquirrel.github.io/post/霍金-哥德尔-物理学/">
         </link>
         <updated>2020-05-19T04:38:26.000Z</updated>
         <content type="html"><![CDATA[<p>原文 http://www.hawking.org.uk/godel-and-the-end-of-physics.html<br>
