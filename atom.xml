@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-06-14T04:19:16.187Z</updated>
+    <updated>2020-07-08T15:00:52.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -10,6 +10,96 @@
     <logo>https://alaskasquirrel.github.io/images/avatar.png</logo>
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, NewOld </rights>
+    <entry>
+        <title type="html"><![CDATA[[翻译] History of Symbolics lisp machines]]></title>
+        <id>https://alaskasquirrel.github.io/post/history-of-symbolics-lisp-machines/</id>
+        <link href="https://alaskasquirrel.github.io/post/history-of-symbolics-lisp-machines/">
+        </link>
+        <updated>2020-05-23T16:39:55.000Z</updated>
+        <content type="html"><![CDATA[<p>原文：<a href="https://danluu.com/symbolics-lisp-machines/">History of Symbolics lisp machines</a>. This is an archive of Dan Weinreb's comments on Symbolics and Lisp machines.<br>
+译文：</p>
+<h3 id="rebuttal-to-stallmans-story-about-the-formation-of-symbolics-and-lmi">Rebuttal to Stallman’s Story About The Formation of Symbolics and LMI</h3>
+<p>  多年来，Richard Stallman 一直在讲述一个关于Lisp Machine 公司的起源，以及它对 M.I.T Artificial Intelligence Lab 影响力的故事。他将其发表在一本书和一篇被广泛引用的论文中，您可以在 https://www.gnu.org/gnu/rms-lisp.html 上找到这篇论文。<br>
+  Richard Stallman 的叙述有很大的偏见，在很多地方完全错误。以下是我对实际发生的事情的看法。<br>
+  Richard Greenblatt 提议成立Lisp Machine 公司的两个前提。首先，不应该有外部投资（这是完全不现实的: 一家制造计算机硬件的公司需要资金）。其次，Richard Greenblatt 本人将担任CEO。Lisp Machine 项目的其他成员对 Greenblatt 管理公司的能力深为怀疑。于是，Richard Greenblatt 和其他人分道扬镳，成立了两家公司。<br>
+  Stallman 将其描述为“暗箭伤人”，并认为 Symbolic 绝非 &quot;肆无忌惮&quot;，这纯粹是废话。这里没有任何的背后中伤。Symbolics 是极其严谨的。Stallman对于Symbolics的描述”寻求摧毁“LMI，这纯粹是幻想。<br>
+  Stallman 声称 Symbolics &quot;雇佣了所有黑客&quot;，&quot;致使MIT AI Lab 无人可用&quot;,&quot;没人预想到AI Lab 的黑客团队就此消失&quot;，Symbolics ”消灭了MIT“。首先，仅此一家Lisp Machine 公司便如Stallman所料了，这些人终将离开 AI Lab。其次，Symbolics 仅仅从 AI Lab雇佣了四名全职和一位兼职人员(见下文)。<br>
+  Stallman 接着说:“Symbolics 想出了一个计划。他们对 AI Lab说，‘我们会继续对系统进行修改，供你们使用，但你们不能把它放进MIT Lisp machine 系统。相反，我们将允许您访问Symbolics的Lisp machine系统，您可以运行它，但这就是您所能做的。’”换句话说，Symbolics开发的软件并不是免费提供给LMI的。这有那么令人惊讶吗?无论如何，这不是Symbolics的“计划”;这是MIT许可协议的一部分，与LMI签署的协议完全相同。LMI的改变也都是LMI专有的。<br>
+  接着，他说:“过了一段时间，我得出了一个结论，那就是我甚至不去看他们的代码都是最好的。当他们发布了一个beta版的公告并给出了发布说明时，我会看看有哪些特性，然后去实现它们。等到他们发布真正的版本时，我也这么做了。“首先，他真的在看Symbolics代码;我们发现他做了好几次。其次，即使他没有，复制别人已经设计的东西也比自己设计要容易得多。他复制的是增量改进:这里有一个新的编辑器命令，那里有一个新的Lisp实用程序。这只是Symbolics公司软件开发的一小部分。<br>
+  他将此描述为“惩罚”Symbolics 是愚蠢的。他所做的对Symbolics没有任何影响。在现实生活中，Symbolics很少与LMI竞争销售。LMI的存在与Symbolics的底线关系不大。<br>
+  我要澄清的是，最初的(TECO-based)Emacs是由Guy L. Steele Jr.和David Moon创建和设计的。在他们让它工作之后，它已经成为 AI Lab的标准文本编辑器，Stallman接管了它的维护工作。<br>
+   以下是Symbolics创始人的名单。请注意，Bruce Edwards 和我曾在MIT AI Lab 共事过，但是在Symbolics创立之前，且他们已离开那里去他处工作了。Henry Baker 并非Stallman 所提记得黑客。</p>
+<ul>
+<li>Robert Adams (original CEO, California)<br>
+Russell Noftsker (CEO thereafter)<br>
+Minoru Tonai (CFO, California)<br>
+John Kulp (from MIT Plasma Physics Lab)<br>
+Tom Knight (from MIT AI Lab)<br>
+Jack Holloway (from MIT AI Lab)<br>
+David Moon (half-time as MIT AI Lab)<br>
+Dan Weinreb (from Lawrence Livermore Labs)<br>
+Howard Cannon (from MIT AI Lab)<br>
+Mike McMahon (from MIT AI Lab)<br>
+Jim Kulp (from IIASA, Vienna)<br>
+Bruce Edwards (from IIASA, Vienna)<br>
+Bernie Greenberg (from Honeywell CISL)<br>
+Clark Baker (from MIT LCS)<br>
+Chris Terman (from MIT LCS)<br>
+John Blankenbaker (hardware engineer, California)<br>
+Bob Williams (hardware engineer, California)<br>
+Bob South (hardware engineer, California)<br>
+Henry Baker (from MIT)<br>
+Dave Dyer (from USC ISI)<br>
+<img src="https://alaskasquirrel.github.io/post-images/1594056215160.jpg" alt="" loading="lazy"></li>
+</ul>
+<h3 id="why-did-symbolics-fail">Why Did Symbolics Fail?</h3>
+<p>  在此前的一篇博文的评论中，有人问我为什么Symbolics失败。下面的内容过于简单，但应该足够好了。我非常欢迎老朋友发表评论，并对其进行修改或添加，当然也邀请每个人发表评论。<br>
+  首先，请注意在1980年左右Symbolics开始出现的时候，多数的计算机用户使用分时系统。一个人拥有一台完整的电脑的想法是大胆的，几乎是异端邪说。每家电脑公司(Prime、Data General、DEC)都有自己的硬件和软件套件。那时没有pc，没有Mac，没有工作站。MIT AI Lab，15名研究人员共享一台CPU为0.0001 GHz、主存为0.0002 GB的计算机。<br>
+  Symbolics销售给两种类型的客户，我称之为主要客户和次要客户。主要客户使用 Lisp Machine 作为软件开发环境。最初的目标市场是MIT AI Lab自己，随后是类似的机构:大学、企业研究实验室等等。次要客户使用Lisp machine运行由其他方编写的应用程序。<br>
+  我们在主要客户中取得了巨大的成功。我想如果我们的市场营销做得更好的话，我们会创造更多这样的产品。例如，您是否知道Symbolics为Fortran、C、Ada和其他流行语言提供了世界级的软件开发环境，在编辑器中具有惊人的语义理解能力、强大的调试器、语言之间相互调用的能力等等?我们在这上面花了很多功夫，但从来没有宣传过。<br>
+  但我们知道，真正成功的唯一途径是开发二级市场。ICAD制作了一个先进的基于约束的计算机辅助设计系统，该系统只在Symbolics机器上运行。可悲的是，他们是唯一一家这样做的公司。为什么?<br>
+  世界改变很快。新的“工作站”类型的计算机出现了:Suns和Apollos等等。实现Lisp的新技术被发明，它允许好的Lisp实现在传统的硬件上运行;虽然不如我们的好，但对于大多数用途来说已经足够好了。因此，我们特殊的Lisp体系结构的真正增值突然减少了。大量有用的Unix软件出现了，并且在Unix工作站之间是可移植的:每个供应商不再需要开发整个软件套件。而工作站厂商也开始利用 Intel、Motorola和IBM生产的速度越来越快、价格越来越便宜的CPU，Symbolics很难跟上这些厂商的步伐。我们对这一点承认得很慢。我们相信自己的“教条”，即使它变得不那么真实。它根植于我们的企业文化中。如果你提出异议，你的同事会觉得你“就是不明白”，可以说你不是“家族”中的一员。这抑制了客观分析。(这是一个很容易陷入的问题——不要让它发生在你身上!)<br>
+  二级市场经常有他们需要使用工作站(后来是PC)硬件的原因。他们通常需要与其他不能在Symbolics运行的软件进行交互。或者他们想要与其他没有在Symbolics上运行的应用程序共享硬件成本。与“通用”Unix工作站(以及后来的Windows pc)相比，Symbolics machine 被视为“特殊用途的硬件”。它们价格昂贵，但不能用于越来越多的Unix软件。很少有厂商想要制造一种只能在“专用硬件”上运行的产品。(谢谢,ICAD;我们爱你!)<br>
+  而且，许多Symbolics的销售都是基于基于规则的专家系统的承诺，早期的例子是用Lisp编写的。基于规则的专家系统是一个很好的东西，目前得到了广泛的应用(但通常不在Lisp中)。但是它们被某些学者和他们的行业大肆宣传，导致了1988年前后的巨大反弹。“人工智能”失宠;“冬天”来临。<br>
+  (Symbolics确实推出了自己的努力，为PC生产一种名为CLOE的Lisp，并且还与其他Lisp公司合作，特别是Gold Hill，这样客户就可以在Symbolics上开发并部署在传统的机器上。我们不是完全愚蠢的。最重要的是，人们对Lisp的兴趣下降太多了。)<br>
+  与此同时，在Symbolics公司，出现了巨大的内部管理冲突，导致很多高层管理人员辞职，他们被董事会取代，取而代之的是新CEO，这些CEO表现不佳，也没有远见了解发生了什么。Symbolics公司签下了大型新办公室和新工厂的长期租约，预期增长并未到来，但由于办公空间过剩，耗费了大量资金，无法转租这些物业。有几轮裁员。我们中越来越多的人意识到发生了什么，而Symbolics并没有反应。在为Lisp创建了一个名为Statice的面向对象数据库系统之后，我在1988年和几个同事离开，成立了Object Design, Inc.，为全新的主流面向对象语言c++创建了一个面向对象的数据库系统。(该公司非常成功，目前作为Progress Software的ObjectStore分部存在(www.objectstore.com)。我期待着明年夏天的二十年同学会。)<br>
+  Symbolics确实试图处理这种情况，首先通过制造可以连接到传统计算机的插件板 Lisp machine。一个问题是，他们一直押错了赌注。MacIvory是Symbolics Ivory芯片(是的，我们自己做CPU芯片)，可以插入到Macintosh上的NuBus(早就没了,且不是主流平台)。后来，他们最终放弃了与大型芯片制造商的竞争，转而使用一家主要制造商的快速芯片制造了插电板:DEC Alpha架构(被HP/Compaq淘汰了，应该使用英特尔)。这时，一切都太微不足道，太迟了。<br>
+  此前一篇博文引用了Eve Philips的一篇MIT硕士论文(参见http://www.sts.tu-harburg.de/~r.f.moeller/symbolics-info/ AI -business.pdf)，评论文章的人称之为“如果它成功了，它就不是AI:人工智能创业的商业观察”。这是我第一次听说它，但显然她得到了Tom Knight的帮助，Tom Knight是Symbolics的另一位联合创始人，他比我更了解Symbolics的历史，让我们看看她怎么说。<br>
+  这看起来很棒。值得一读!她绝对知道自己在说什么，而且读起来很有趣。它给我带回了很多过去的回忆。如果你曾经想要创建一个公司，你可以从阅读像这里一样的“战争故事”中学到很多。<br>
+  下面是我阅读时的一些评论。这篇论文的大部分内容都是关于人工智能软件供应商的，但他们的命运对Symbolics有着强烈的影响。<br>
+   另一方面，美国国防部高级研究计划局在80年代末削减资金的事实是非常重要的。Symbolics的许多主要市场客户得到了DARPA的资助。<br>
+  是的，基于规则的专家系统取得了一些令人兴奋的成功。美国运通公司的“授权人助理”，帮助与您通话的人确保您没有使用美国运通卡，该公司在Symbolics的机器上运行。我在这里了解到，它有45-67%的内部投资回报率，这是非常令人印象深刻的。<br>
+  这篇论文有一个时代错误:“提供语言的大型软件公司(即微软)很少提供任何形式的Lisp支持。“这些事件发生时，微软的统治地位已经是几年前的事了。例如，还记得1990年发布的第一个可行的Windows O/S 3.1版本吗?但她的总体观点是正确的。<br>
+   她说:“人工智能社区非常傲慢，认为Lisp会改变世界各地计算机系统的运行方式，这并非完全没有道理。这绝对是真的。它并没有听起来那么错误:Lisp的许多想法已经成为主流，特别是managed(garbage-collected)storage，Lisp在面向对象编程方面获得了一些赞誉。毫无疑问，Lisp对Java和c#有着巨大的影响。值得注意的是，微软的公共语言运行时技术目前是由Patrick Dussud领导的，他是第三家MIT-Lisp-machine公司德州仪器的主要Lisp专家。<br>
+  但那时候我们真的相信Lisp。我们只对那些试图用C写一个专家系统的人表示蔑视;这是我们企业文化的一部分。我们确实认为Lisp会“改变世界”，就像“六十年代”的人们认为“和平、爱和欢乐”可以改变世界一样。但这并不容易。<br>
+  这提醒了我，我对Richard Gabriel所著的<Patterns of Software: Tales from the Software Community>这本书再怎么推荐也不为过，这本书讲述了技术从实验室走向市场的过程。Gabriel是五个主要的 Common Lisp 设计师之一(还有Guy Steele、Scott Fahlman、David Moon和我自己)，但这里的重点远远超出了Lisp。这是以他最初的“Worse is Better”开始的一系列论文的高潮。这里的思想要发达得多。他的见解独特且极具说服力。<br>
+  好了，回到Eve Philips:在第五章她描述了“人工智能硬件产业”，从MIT的Lisp machine开始。她做对了吗?她说“14名 AI Lab 黑客加入了他们”;请参阅我之前关于这个数字的文章，但在上下文中，这是一个非常小的问题。故事的其余部分是正确的。(她甚至提到了我上面指出的房地产问题!)她也充分展示了Symbolics 管理和营销的弱点。这是一件优秀的作品。<br>
+  Symbolics 是非常有趣的。我们有一段时间非常成功，然后上市了。我的同事是一些技术娴熟、讨人喜欢的技术人员，你可能永远都希望与他们一起工作。我从他们身上学到了很多。我怎么也不会错过的。<br>
+  离开后，我以为再也见不到Lisp了。但是现在我发现自己在ITA软件公司，在那里我们正在编写一个巨大的、复杂的事务处理系统(一个新的航空预订系统，最初是为加拿大航空公司开发的)，其核心是Common Lisp。几乎可以肯定，我们拥有世界上最大的公共Lisp程序员团队。我们的开发环境还不错，但我真的希望我能再拥有一台Lisp机器。</p>
+<h3 id="more-about-why-symbolics-failed">More about Why Symbolics Failed</h3>
+<p>  <a href="http://www.sts.tu-harburg.de/~r.f.moeller/symbolics-info/Symbolics.pdf">Symbolics, Inc: A failure of heterogeneous engineering</a> Alvin Graylin, Kari Anne Hoir Kjolaas, Jonathan Loflin and Jimmie D. WakerIII<br>
+  这是一篇优秀的论文，如果对于Symbolics有什么感兴趣，这是必读的。<br>
+  这篇论文的论点基于一个名为“heterogeneous engineering”的概念，但除了“运营好一家公司”之外，很难理解他们所说的异质工程是什么意思。他们有很好的方式说你不能只做技术，你必须做市场，销售，财务等等，这是很明显的。他们对Symbolics 的长期愿景有着广泛的不同感受，这是非常正确的，我应该在我的文章中提到这是Symbolics 的最大问题之一。研发的随机变动，常常与公司的其他部门不协调，在这里得到了很好的描述(他们有很好的资源，包括来自Dave Moon 的许多具有特色的、非常诚实的电子邮件)。公司在马萨诸塞州剑桥市的软件部门和位于加州伍德兰山(后来的查兹沃斯)的硬件部门之间的分离也是一个真正的问题。他们说，“一旦资金可用，Symbolics 的花钱就像彩票中奖者和新发现的财富一样”，这是绝对正确的。特性蔓延确实非常猖獗。该论文还提供了一些Symbolics 的财务数据，这些数据很有趣，也很有启发性，显示出1986年的稳步增长，1987年至1989年的收入下降，收入为负。<br>
+  这里有一些我不同意的观点。他们表示，“在公司发展的这些年里，Symbolics一直在寻找一位首席执行官”，最终聘请了Brian Sear。我敢肯定，那只是在麻烦开始的时候才发生的。我不同意Brian Sear所说的我们没有照顾到我们现有的客户; 我们在这方面确实很努力，我想这也是很多曾经的Symbolics客户如此怀旧的原因之一。我不认为Russell说的“许多Symbolics Machine 是由研究人员通过星球大战计划资助购买的”是正确的，他们多次重复这一点。然而，许多项目是由美国国防部高级研究计划局资助的，如果你用它来代替所有关于“星球大战”的说法，那么他们说的就是对的。“LISP machine的激增可能已经超过了LISP程序员的激增”的说法是夸张的。没有人想到比研究人员更广阔的市场，这不是真的; 相反，我们打算销售给增值经销商(VAR)和原始设备制造商(OEM)。“VARs and OEMs”这句话实际上是一句咒语。不幸的是，我们只做了一次(ICAD)。虽然他们认为 Sun machines“可以用于许多其他应用程序”是正确的，但有趣的是原因:为什么Sun machine 有许多可用的应用程序?Unix作为可移植平台的兴起(这在当时是一个新概念)和Sun的价格有很大关系。他们不考虑Apollo失败的原因<br>
+  感谢各位读者!</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[翻译] Lisp：50周年 （1958-2008）]]></title>
+        <id>https://alaskasquirrel.github.io/post/Lisp50/</id>
+        <link href="https://alaskasquirrel.github.io/post/Lisp50/">
+        </link>
+        <updated>2020-05-23T08:07:38.000Z</updated>
+        <content type="html"><![CDATA[<p>原文：<a href="https://franz.com/services/conferences_seminars/lisp_50th-birthday.lhtml">Lisp's 50th Birthday Celebration</a> by <a href="https://www.dreamsongs.com/Bio.html">Richard P. Gabriel</a></p>
+<p>译文：<br>
+  事起1958 年 10 月，John McCarthy 发表了一系列关于自己正致力于设计一个适用于人工智能研究的新编程语言的报告中的一篇。该篇报告里首次将这一新编程语言命名为 LISP。此后50 年，Lisp 仍被广泛使用。在过往的 50 年中，伴随着许多变化和调整，并产生出一些在许多方面与其最初设计截然不同的方言，但是它的中心思想仍然不变，使其成为今天仍在使用的最古老的语言之一，仅次于 Fortran。</p>
+<p>  第一个 Lisp 的最终实现发表在 1960 年的 Communications of the ACM (CACM) 上。那一版本的 Lisp 首创了几个至今仍被采纳的语言特性：Lisp 引入了一个条件表达式，后来被其他语言拿去作一般性的 if 语句；它引入了递归和第一类 (first-class) 函数，函数式和其他编程语言的核心成分；它引入了变量的引用语义，若没它的话便不会有面向对象编程语言；它引入了符号表达式，通用和统一的数据和程序的表示形式 (被重新发明成 XML)，后者使得程序可以在应用里进行转换；它很早就在编程语言里引入了垃圾收集机制；并且它甚至已经有了一个元数据组合以及基于符号和属性列表的动态派发机制。</p>
+<p>  Lisp 无疑是计算机科学史上最具影响力的编程语言之一：Timothy Hart 在 1960 年代为 Lisp 增加了宏；Warren Teitelman 在 60 年代发明了一个 advice 机制，成为了面向对象 (aspect-oriented) 编程的最早先驱；Carl Hewitt 将 Lisp 作为一个开发回溯 (逻辑编程的本质) 和其他 actor 模型的平台；Alan Kay 也承认 Lisp 对于 SmallTalk 的重要影响，后者是第一个明确的面向对象编程语言；Brian Smith 开发了第一个基于续延 (continuation-based) 的 Web 应用；直到今天 Lisp 仍处在即将到来的 Web 3.0 的前沿。</p>
+<p>  我们想着庆祝Lisp的50岁生日。而OOPSLA 2008恰是举办这样一场庆祝活动的绝佳场所，因为面向对象编程从Lisp思想中受益匪浅，况且OOPSLA 2008是在10月份举行的，这正好是Lisp问世的50年后。</p>
+<p>  John McCarthy已同意做一个关于Lisp早期历史的演讲，他曾在OOPSLA 2007上做了演讲此番再回到了OOPSLA。Guy Steele 和 Richard Gabriel 将展现一组不同寻常的幻灯片，重复他们关于1992年以来Lisp发展的HOPL-II演讲。Pascal Costanza 将谈论Lisp社区最近的发展，这个社区在经历了人工智能的冬天之后，迎来了令人惊讶的复苏。我们将邀请其他有影响力的Lisp，介绍过去50年里Lisp发展的重要方面。最后，我们将举行一个关于Lisp未来50年的公开小组讨论。</p>
+<p>  OOPSLA 2008将于10月19日至23日在美国田纳西州的纳什维尔举行。OOPSLA是全世界面向对象编程的主要年度会议，20余年来一直吸引着该领域数最优秀的人才。更多关于OOPSLA 2008的信息，请访问http://oopsla.org 。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[转载] 感悟《哥德尔》]]></title>
         <id>https://alaskasquirrel.github.io/post/哥德尔/</id>
@@ -128,31 +218,7 @@ http://shc2000.sjtu.edu.cn/030104/ganwu.htm</li>
 <ul>
 <li>https://www.bilibili.com/video/av15920063<br>
 <img src="https://alaskasquirrel.github.io/post-images/1591199092647.jpg" alt="" loading="lazy"></li>
-<li>资料持更：</li>
 </ul>
-<p>1793 马噶尔尼<br>
-阿美士德 使团<br>
-《中国摄影史 1842-1860》泰瑞 贝内特 Terry Bennett<br>
-《我在北京的四年 1880-1884》  菲利斯 比托 （Felice Beato 1832-1909）<br>
-《西德尼 D 甘博 的中国影像 1917-1932》<br>
-《中国与中国人影像》illustrations of china and its people  约翰逊 汤姆逊 （1837-1921）<br>
-《中国沙漠中的遗址》Ruins of Desert Cathay     Sir Aurel Stein 斯坦因 1912<br>
-《西域考古图记》  Serindia    Aurel Stein 1921<br>
-《中国陶瓷图录》A Catalogue of Chinese Pottery and Porcelain in the Collection of Sir Percival David   1934<br>
-《云冈石窟》水野清一 田中重雄<br>
-勒柯克中亚地区探险系列 Albert von Le Coq<br>
-《古代和田》Ancient Khotan       Marc Aurel Stein  1907<br>
-《支那文化史迹》常盘大定 关野贞 1941<br>
-《支那佛教史迹踏查记》常盘大定 1942<br>
-《斯坦因在中亚古寺遗址发现的壁画》Wall Paintings from Ancient Shrines in Central Asia         Fred H. Andrews 1948<br>
-《玉石调查与研究》The Bishop Collection.investigations and studies in jade 1906<br>
-《北京 历史和记述》Peking.historie et description     Alphonse Favier 1897</p>
-<p>《遗失 1920-1941的中国》<br>
-寻找遗失在西方的中国史 西洋镜<br>
-《大英图书馆特藏中国清代外销画精萃》<br>
-《中国建筑史》梁思成</p>
-<p>北京记忆 http://www.bjmem.com.cn<br>
-近代中国 http://modernchina.org</p>
 ]]></content>
     </entry>
     <entry>
