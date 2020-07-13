@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-07-11T12:55:12.536Z</updated>
+    <updated>2020-07-13T15:18:58.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -116,18 +116,16 @@ Permissioned 区块链网络允许等更为传统的角色 管理员、用户、
         <link href="https://alaskasquirrel.github.io/post/self-driving/">
         </link>
         <updated>2020-05-24T19:14:54.000Z</updated>
-        <content type="html"><![CDATA[<h5 id="封面-httpswwwlandmarkdividendcomself-driving-car">（封面 https://www.landmarkdividend.com/self-driving-car/）</h5>
+        <content type="html"><![CDATA[<ul>
+<li>（封面 https://www.landmarkdividend.com/self-driving-car/）</li>
+</ul>
 <figure data-type="image" tabindex="1"><img src="https://alaskasquirrel.github.io/post-images/1594375460765.png" alt="" loading="lazy"></figure>
-<h5 id="图片1-httpswwwthesimpledollarcominsuranceautohow-self-driving-cars-work">（图片1 https://www.thesimpledollar.com/insurance/auto/how-self-driving-cars-work）</h5>
 <figure data-type="image" tabindex="2"><img src="https://alaskasquirrel.github.io/post-images/1594322160914.gif" alt="" loading="lazy"></figure>
-<h5 id="图片2-httpswwwthesimpledollarcominsuranceautohow-self-driving-cars-work">（图片2 https://www.thesimpledollar.com/insurance/auto/how-self-driving-cars-work）</h5>
 <figure data-type="image" tabindex="3"><img src="https://alaskasquirrel.github.io/post-images/1594322178933.gif" alt="" loading="lazy"></figure>
-<h5 id="图片3-httpswwwthesimpledollarcominsuranceautohow-self-driving-cars-work">（图片3 https://www.thesimpledollar.com/insurance/auto/how-self-driving-cars-work）</h5>
 <figure data-type="image" tabindex="4"><img src="https://alaskasquirrel.github.io/post-images/1594322191191.gif" alt="" loading="lazy"></figure>
-<h5 id="图片4-httpswwwthesimpledollarcominsuranceautohow-self-driving-cars-work">（图片4 https://www.thesimpledollar.com/insurance/auto/how-self-driving-cars-work）</h5>
 <p>Reference:</p>
 <ul>
-<li>https://www.thesimpledollar.com/insurance/auto/how-self-driving-cars-work</li>
+<li>图片 https://www.thesimpledollar.com/insurance/auto/how-self-driving-cars-work</li>
 <li>https://www.tesla.com/autopilot</li>
 <li>https://blogs.nvidia.com/blog/2019/04/15/how-does-a-self-driving-car-see/</li>
 </ul>
@@ -224,13 +222,43 @@ Dave Dyer (from USC ISI)<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[转载] 感悟《哥德尔》]]></title>
+        <title type="html"><![CDATA[Godel on Minds and Machines]]></title>
         <id>https://alaskasquirrel.github.io/post/哥德尔/</id>
         <link href="https://alaskasquirrel.github.io/post/哥德尔/">
         </link>
         <updated>2020-05-21T16:03:43.000Z</updated>
         <content type="html"><![CDATA[<ul>
-<li>纪志刚  2003年1月  http://shc2000.sjtu.edu.cn/030104/ganwu.htm</li>
+<li>
+<p>逻辑之旅：从哥德尔到哲学 . 王浩. 第6章 - 心灵与机器：论可计算主义. P231.<br>
+  可以设想(虽然远远超过今日科学的界限)，脑生理学将发展到这样的高度，让人们能够在经验上肯定：(1) 人脑足以理解所有的心智现象，它在图灵的意义上就是一台机器; (2)人脑进行数学思维的部分，其物质构造何生理功能不外是如此一般。—— 哥德尔，吉布斯 演讲，1951年.</p>
+</li>
+<li>
+<p>'From Mathematics to Philosophy' 王浩, 1974，P324.<br>
+  In Godel’s opinion (as set forth in the unpublished 25th Josiah<br>
+Willard Gibbs Lecture13 delivered by him at Providence on Decem­<br>
+ber 26, 1951) the two most interesting rigorously proved results<br>
+about minds and machines are these:<br>
+  1 The human mind is incapable of formulating (or mechanizing)<br>
+all its mathematical intuitions. I.e.: If it has succeeded in formulating<br>
+some of them, this very fact yields new intuitive knowledge, e.g. the<br>
+consistency of this formalism. This fact may be called the‘incom-<br>
+pletability’ of mathematics. On the other hand, on the basis of what<br>
+has been proved so far, it remains possible that there may exist (and<br>
+even be empirically discoverable) a theorem-proving machine which<br>
+in fact is equivalent to mathematical intuition, but cannot be proved<br>
+to be so, nor even be proved to yield only correct theorems of finitary<br>
+number theory.<br>
+  2 The second result is the following disjunction: Either the human<br>
+mind surpasses all machines (to be more precise: it can decide more<br>
+number theoretical questions than any machine) or else there exist<br>
+number theoretical questions undecidable for the human mind.</p>
+</li>
+<li>
+<p>Kurt Godel. Collected Works   Volume III , Unpublished essays and lectures .</p>
+</li>
+<li>
+<p>纪志刚  2003年1月 <a href="http://shc2000.sjtu.edu.cn/030104/ganwu.htm">感悟《哥德尔》</a></p>
+</li>
 </ul>
 <p>  有一个人曾在不到两年的时间内让数学界感受了大喜与大悲的经历，他就是哥德尔（Kurt Gödel,1906.4.28-1978.1.14）。<br>
 　　1929年秋，哥德尔在他的博士论文中证明了一阶逻辑的完全性，这对于当时试图以“公理化”方法构建数学基础的形式主义学派是一个莫大的鼓舞。希尔伯特，形式主义学派的领军人物，确信他的元数学和证明论将会成功地确立全部数学的相容性和完全性。哥德尔的逻辑完全性定理似乎表明曙光就在前头。1930年夏天，柯尼斯堡，康德的诞生地，也是希尔伯特的故乡，在接受“荣誉市民”受礼仪式的演说中，希尔伯特坚定地说出最后一句话：“我们必须知道，我们必将知道（Wir müssen wissen. Wir werden wissen）”。<br>
@@ -257,15 +285,28 @@ Dave Dyer (from USC ISI)<br>
 <ul>
 <li><a href="https://v.qq.com/x/cover/i7sc2ih3x6qhzra/f0019al8ax5.html">焦波纪录电影《乡村里的中国》（98分钟院线版）</a></li>
 </ul>
+<p>好奇心日报：<a href="https://www.qdaily.com/articles/58248.html">中国居民财富总额 18 年增长 1300%，但中位数最近没怎么变</a>.  2018年11月13日,<br>
+按照上海发展研究基金会高级研究员刘海影的说法，一旦经济增速无法达到预期，居民工资收入减少，高房价收入比难以维系，人们对房屋的投资性需求将会降低。而这一变化又反过来使跟地产、基建紧紧挂钩的中国经济增速进一步下滑，进一步否定维持高房价的投资理由。对于债务比已经接近 50% 的家庭部门而言，房屋不能变现将直接影响其财富水平。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[趣闻] Intel英特尔 CPU漏洞]]></title>
+        <title type="html"><![CDATA[CPU]]></title>
         <id>https://alaskasquirrel.github.io/post/amd-intel/</id>
         <link href="https://alaskasquirrel.github.io/post/amd-intel/">
         </link>
         <updated>2020-05-20T10:14:38.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://hardware.slashdot.org/comments.pl?sid=13046218&amp;cid=57792828">Slashdot</a></p>
+        <content type="html"><![CDATA[<p><a href="https://www.computerhope.com/history/processor.htm">Computer processor history</a><br>
+http://www.cpu-zone.com/4004.htm<br>
+<img src="https://alaskasquirrel.github.io/post-images/1594604346746.jpg" alt="" loading="lazy"><br>
+On the lower right-hand corner of the 4004 chip are the initials F.F. for Federico Faggin, the project leader and author of the silicon design.<br>
+<img src="https://alaskasquirrel.github.io/post-images/1594604182852.jpeg" alt="" loading="lazy"><br>
+(http://www.intel4004.com/)<br>
+http://www.cpu-world.com/CPUs/4004/index.html<br>
+<a href="http://www.siga.com.cn/kepu-other-CPU.htm">微处理器（CPU）的发展演变历程</a><br>
+<a href="https://zhuanlan.zhihu.com/p/131480417">微处理器</a><br>
+<a href="https://www.eet-china.com/mp/a19150.html">首批微处理器的惊人故事</a><br>
+<a href="https://www.righto.com/">Ken Shirriff's blog</a></p>
+<p>趣闻：<a href="https://hardware.slashdot.org/comments.pl?sid=13046218&amp;cid=57792828">Slashdot</a></p>
 <p>We all know how all Intel CPUs are broken, but the why is very important.</p>
 <p>AMD invented 64-bit for x86 chips AND invented the first true dual core x64 part. At that time AMD had a massive lead over Intel, and it's god-awful, hyper long pipeline Netburts. Tho outlets like Slashdot and Anandtech informed you, at the time, that Netburst- with its race to 10GHz- was the WINNING architecture.</p>
 <p>Then Netburst went bust, and Intel went back to the Pentium 3, updated it with AMD's best ideas (legal due to cross patent agreement) and produced the Core 2 architecture.</p>
@@ -280,7 +321,7 @@ Dave Dyer (from USC ISI)<br>
 <p>In other words, ALL the advantages Intel seemed to have over AMD from the core 2 onwards were down to Intel using an illegal (in CS terms) broken by design CPU architecture.</p>
 <p>Today the ONLY way to fix the Intel issue is to run ONE thread at a time on the CPU, and do a complete state flush between multi-tasking thread exchanges. The performance hit would approach 80-95%, which is why no solution uses this extreme but correct adjustment.</p>
 <p>Next year, AMD's Zen 2 (ryzen 3) utterly wipes out Intel- and Intel will never recover. But Intel sits on a literal mountain of cash, so expect no end of PAID Intel promotion on sites like Slashdot in the continuing future.</p>
-<p><a href="https://www.solidot.org/story?sid=59396">中文</a></p>
+<p>趣闻<a href="https://www.solidot.org/story?sid=59396">中文</a></p>
 <p>  AMD 发明了 64 位 x86 芯片，发明了第一个真正的双核 x64 芯片，而当时英特尔和科技新闻网站则在吹它的 NetBurst 微架构，号称能冲击 10GHz。NetBurst 失败了。英特尔回到了奔腾 3，利用与 AMD 签署的交叉专利授权协议使用 AMD 的创意推出了 Core 2 架构。但在此过程中，英特尔做出了让 NSA 开心（削弱安全）以及有利于提升性能的决定，它破坏了 CPU 的多线程设计。正确的 CPU 多线程设计需要有锁和钥匙。每个线程需要有独一的 ID，ID 充当了钥匙去打开线程需要访问的内存资源的锁。英特尔没有实现这一设计，而 AMD 实现了。</p>
 <ul>
 <li>英特尔的作弊方法所具有的优势包括：<br>
