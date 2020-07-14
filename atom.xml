@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-07-13T15:23:37.704Z</updated>
+    <updated>2020-07-14T15:59:04.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -11,11 +11,27 @@
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, NewOld </rights>
     <entry>
+        <title type="html"><![CDATA[2050再见——幻影]]></title>
+        <id>https://alaskasquirrel.github.io/post/future/</id>
+        <link href="https://alaskasquirrel.github.io/post/future/">
+        </link>
+        <updated>2020-05-30T16:22:50.000Z</updated>
+        <content type="html"><![CDATA[<p>不负责任的胡思乱想：</p>
+<ul>
+<li>可靠的商业核聚变发电站</li>
+<li>完备的人造脑</li>
+<li>量子计算机</li>
+<li>人工智能</li>
+<li>大型对撞机</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[翻译] Blockchain: Application Considerations]]></title>
         <id>https://alaskasquirrel.github.io/post/blockchain-application-considerations/</id>
         <link href="https://alaskasquirrel.github.io/post/blockchain-application-considerations/">
         </link>
-        <updated>2020-07-11T02:37:33.000Z</updated>
+        <updated>2020-05-29T02:37:33.000Z</updated>
         <content type="html"><![CDATA[<p>原文：<a href="https://doi.org/10.6082/NIST.IR.8202">Blockchain Technology Overview</a> National Institute of Standards and Technology</p>
 <p>  由于区块链技术仍然是新技术，许多组织正在寻找兼容的方法运用在自身的商业中。人们非常担心错过这项技术。组织机构将这个问题视为“我们想在某个地方使用区块链，我们可以在哪里使用? 这导致了人们对这项技术的失望，因为它不能得到普遍应用。最好的方法是首先了解区块链技术，了解其适用范围，然后再进行分析。确定可能适合区块链范式的系统。<br>
   如果活动或系统需要以下特性，则区块链技术解决方案可能适用：</p>
@@ -67,7 +83,7 @@ Permissioned 区块链网络允许等更为传统的角色 管理员、用户、
         <id>https://alaskasquirrel.github.io/post/earth/</id>
         <link href="https://alaskasquirrel.github.io/post/earth/">
         </link>
-        <updated>2020-07-10T13:03:03.000Z</updated>
+        <updated>2020-05-27T13:03:03.000Z</updated>
         <content type="html"><![CDATA[<ul>
 <li>
 <p>(封面 https://pixabay.com/）</p>
@@ -369,26 +385,6 @@ http://www.cpu-world.com/CPUs/4004/index.html<br>
   哥德尔定理和我们是否能以有限数量的原理构建宇宙终极理论有什么关系呢？一个联系是明显的。根据实证论科学哲学，一个物理理论乃是一数学模型。因此如果有数学命题不能证明的话，那就有物理问题不能预测。<br>
   在标准的实证论科学哲学看来，物理理论无偿居住于柏拉图式理想数学模型天国中。也就是说，一个模型可以任意程度地详细，可以包含任意多量的信息，而不会影响它们所描述的宇宙本身。但我们不是天使，可以从外面观察宇宙。相反，我们和我们的模型两者都是我们所描述的宇宙中的组成部分，因此一个物理理论是自指的，就像哥德尔定理所说的那样。人们因此可以认为它或者是不一致的，或者是不完备的。我们迄今所有的各种物理理论既是不一致的，也是不完备的。<br>
   如果不存在一种可从有限条数原理推导出来的终极理论，一些人将非常失望。我过去就属于这个阵营。但是我已改变了我的看法。现在我很高兴我们寻求知识的努力永远都不会到达终点，我们始终都有获得新发现的挑战。没有这种挑战，我们就会停滞。哥德尔定理保证了数学家们总有事情要做，我想M－理论也将为物理学家们做同样的事情。（凌高/摘译）</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年轻摄影师的“旧中国梦”]]></title>
-        <id>https://alaskasquirrel.github.io/post/旧中国影像/</id>
-        <link href="https://alaskasquirrel.github.io/post/旧中国影像/">
-        </link>
-        <updated>2020-05-18T15:24:49.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>（封面 Felice Beato, North and East Corner of the Wall of Pekin, 1860）</li>
-</ul>
-<p>【一席】王溪：把100多年前国外所有关于中国的影像集合在一起，第一名的关键词大伙猜是什么？</p>
-<ul>
-<li>https://www.bilibili.com/video/av15920063</li>
-</ul>
-<p><img src="https://alaskasquirrel.github.io/post-images/1591199092647.jpg" alt="" loading="lazy"><br>
-Panorama of Peking, Taken from the South Gate, Leading into the Chinese City<br>
-Felice Beato (English.born Italy, 1832-1909)<br>
-Henry Hering (British 1814-1893)<br>
-negative October 1860, print 1862.</p>
 ]]></content>
     </entry>
 </feed>
