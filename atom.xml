@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-07-14T15:59:04.819Z</updated>
+    <updated>2020-07-21T14:37:51.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://alaskasquirrel.github.io/images/avatar.png</logo>
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, NewOld </rights>
+    <entry>
+        <title type="html"><![CDATA[旅程]]></title>
+        <id>https://alaskasquirrel.github.io/post/learn/</id>
+        <link href="https://alaskasquirrel.github.io/post/learn/">
+        </link>
+        <updated>2020-07-16T13:09:28.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.cs.cmu.edu/~rwh/pfpl/">Practical Foundations for Programming Languages</a> by <a href="https://www.cs.cmu.edu/~rwh/">Robert Harper</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[转载] 严锋——不必读的书的清单]]></title>
+        <id>https://alaskasquirrel.github.io/post/books/</id>
+        <link href="https://alaskasquirrel.github.io/post/books/">
+        </link>
+        <updated>2020-06-03T14:27:57.000Z</updated>
+        <content type="html"><![CDATA[<p>这里提供一份我心目中<br>
+不必读的书的清单<br>
+严锋写给读者<br>
+2017年8月5日<br>
+  人生有涯，千万不要不加选择地读书，这里提供一份我心目中不必读的书的清单。<br>
+  首先我从来不认同开卷有益这种说法。读书并非开卷有益，有些书无益，有些书无聊，有些书还有害。读书要做减法，从前如此，现在更如此。现在读书的时间本来就被微博微信挤掉那么多，剩下的就更要小心使用了。信息时代，如果什么都看，人就被信息淹死了。<br>
+  专业阅读与非专业阅读的差别非常大。专业人士需要搞清楚与自己研究相关的一切文献，有趣无趣都得看，也是没有办法。非专业人士就没有必要受这个罪了。所以对于专业人士推荐的书，非专业人士也要长个心眼，别听见风就是雨，也许他的蜜糖，就是你的毒药。<br>
+  我也不认同要多看经典的空泛说法。很多经典的意义，仅仅是一种历史意义，它们推动了历史的发展，照亮了人类的道路。但我们对之顶礼膜拜就可以了，今天就不用真的去读了。比如哥白尼的《天体运行论》，牛顿的《自然哲学的数学原理》，康德的《宇宙发展史概论》等等。</p>
+<p>我是中文系的，所以主要谈谈文学方面不要读的书。</p>
+<p>第一，很多中国古典小说不必读。我这么说会激起很多人的强烈反感，但小说真的不是我们的强项。具体原因这里就不展开了。除了四大名著、《金瓶梅》《儒林外史》《聊斋》“三言二拍”以外，好的真是不多了。比如《封神演义》，人物刻板，情节单一，思想陈腐，盛名之下，其实难副。我这辈子最后悔的一件事，就是在年轻时写了一本《封神演义导读》，那时候真是太缺钱了。<br>
+第二，绝大多数从1949年到1976年的中国当代文学作品不必读。这段时期的作品，非文学的因素占比例太大，而这些非文学因素也已经时过境迁，今非昔比，所以，不必像我们小时候那样饿急了什么都吃，捡到碗里都是菜了。<br>
+第三，很多当代中国人写的历史小说不必读。历史小说是最难写的小说之一，需要经历、学识、性情、沉浸，最吃细节、韵味、笔力、文字功夫，这些对于当代中国人来说，尤其困难。比如有一位非常有名的历史小说作家，描写一位晚清宦海沉浮几十年的封疆大吏：“激动得两眼闪动着泪花”，“两双滚烫的大手紧紧地握着”……我的天呀。<br>
+第四，绝大多数西方通俗小说不必读。因为真正好看的也就那么少数。请注意，我这里说的还仅仅是好看，还不是好。绝大部分都是垃圾，真正的垃圾，包括许多知名作家和知名作品。比如有位号称头号畅销的作家，这位先生是垃圾中的战斗机。<br>
+第五，所有名著的续书不必读。无论古今中外，名著的续书都很失败，都完美解释了一句成语的含义叫狗尾续貂。道理很简单：此作者非彼作者。<br>
+第六，一些古老的哲学著作也不必再读了。这条会引起很多人的强烈反感。但哲学著作往往很晦涩，有很多功能又正在逐渐被科学所替代，所以也可以在很大程度上淡出普通读者的视野了。文学青年动不动就海德格尔如何，维特根斯坦如何，胡塞尔如何。恕我直言：你看得懂吗？我年轻的时候，把别人谈恋爱的时间都用来啃哲学了，结果什么也没啃出来，只啃出个晚婚。<br>
+第七，所有的成功学、心灵学、鸡汤类书都不必读。骗人的，没用。<br>
+第八，所有阴谋论的书不要读。骗人的，有害。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2050再见——幻影]]></title>
         <id>https://alaskasquirrel.github.io/post/future/</id>
@@ -303,88 +337,6 @@ number theoretical questions undecidable for the human mind.</p>
 </ul>
 <p>好奇心日报：<a href="https://www.qdaily.com/articles/58248.html">中国居民财富总额 18 年增长 1300%，但中位数最近没怎么变</a>.  2018年11月13日,<br>
 按照上海发展研究基金会高级研究员刘海影的说法，一旦经济增速无法达到预期，居民工资收入减少，高房价收入比难以维系，人们对房屋的投资性需求将会降低。而这一变化又反过来使跟地产、基建紧紧挂钩的中国经济增速进一步下滑，进一步否定维持高房价的投资理由。对于债务比已经接近 50% 的家庭部门而言，房屋不能变现将直接影响其财富水平。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CPU]]></title>
-        <id>https://alaskasquirrel.github.io/post/amd-intel/</id>
-        <link href="https://alaskasquirrel.github.io/post/amd-intel/">
-        </link>
-        <updated>2020-05-20T10:14:38.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://www.computerhope.com/history/processor.htm">Computer processor history</a><br>
-http://www.cpu-zone.com/4004.htm<br>
-<img src="https://alaskasquirrel.github.io/post-images/1594604346746.jpg" alt="" loading="lazy"><br>
-On the lower right-hand corner of the 4004 chip are the initials F.F. for Federico Faggin, the project leader and author of the silicon design.<br>
-<img src="https://alaskasquirrel.github.io/post-images/1594604182852.jpeg" alt="" loading="lazy"><br>
-(http://www.intel4004.com/)<br>
-http://www.cpu-world.com/CPUs/4004/index.html<br>
-<a href="http://www.siga.com.cn/kepu-other-CPU.htm">微处理器（CPU）的发展演变历程</a><br>
-<a href="https://zhuanlan.zhihu.com/p/131480417">微处理器</a><br>
-<a href="https://www.eet-china.com/mp/a19150.html">首批微处理器的惊人故事</a><br>
-<a href="https://www.righto.com/">Ken Shirriff's blog</a></p>
-<p>趣闻：<a href="https://hardware.slashdot.org/comments.pl?sid=13046218&amp;cid=57792828">Slashdot</a></p>
-<p>We all know how all Intel CPUs are broken, but the why is very important.</p>
-<p>AMD invented 64-bit for x86 chips AND invented the first true dual core x64 part. At that time AMD had a massive lead over Intel, and it's god-awful, hyper long pipeline Netburts. Tho outlets like Slashdot and Anandtech informed you, at the time, that Netburst- with its race to 10GHz- was the WINNING architecture.</p>
-<p>Then Netburst went bust, and Intel went back to the Pentium 3, updated it with AMD's best ideas (legal due to cross patent agreement) and produced the Core 2 architecture.</p>
-<p>But, here's the thing. Intel made the NSA and performance friendly decision to BREAK multi-threading on the CPU.</p>
-<p>Proper on-chip multi-threading MUST be 'lock and key'. This means each thread has a unique ID, and that ID acts as a 'key' to open the 'lock' of memory resources that thread has the right to access. Intel NEVER implemented 'lock and key' but AMD always did.</p>
-<p>So what did Intel's CHEAT achieve apart from ensuring the NSA always has low level access to your Intel CPU?</p>
-<ol>
-<li>massively improved memory latency, for the hardware mechanism that implements the 'lock' has a real impact on access speeds.</li>
-<li>massive improvements on power efficiency (the lock and key takes power for each memory access)</li>
-<li>much higher clock speeds due to 1 and 2</li>
-</ol>
-<p>In other words, ALL the advantages Intel seemed to have over AMD from the core 2 onwards were down to Intel using an illegal (in CS terms) broken by design CPU architecture.</p>
-<p>Today the ONLY way to fix the Intel issue is to run ONE thread at a time on the CPU, and do a complete state flush between multi-tasking thread exchanges. The performance hit would approach 80-95%, which is why no solution uses this extreme but correct adjustment.</p>
-<p>Next year, AMD's Zen 2 (ryzen 3) utterly wipes out Intel- and Intel will never recover. But Intel sits on a literal mountain of cash, so expect no end of PAID Intel promotion on sites like Slashdot in the continuing future.</p>
-<p>趣闻<a href="https://www.solidot.org/story?sid=59396">中文</a></p>
-<p>  AMD 发明了 64 位 x86 芯片，发明了第一个真正的双核 x64 芯片，而当时英特尔和科技新闻网站则在吹它的 NetBurst 微架构，号称能冲击 10GHz。NetBurst 失败了。英特尔回到了奔腾 3，利用与 AMD 签署的交叉专利授权协议使用 AMD 的创意推出了 Core 2 架构。但在此过程中，英特尔做出了让 NSA 开心（削弱安全）以及有利于提升性能的决定，它破坏了 CPU 的多线程设计。正确的 CPU 多线程设计需要有锁和钥匙。每个线程需要有独一的 ID，ID 充当了钥匙去打开线程需要访问的内存资源的锁。英特尔没有实现这一设计，而 AMD 实现了。</p>
-<ul>
-<li>英特尔的作弊方法所具有的优势包括：<br>
-1）极大的改进内存延迟，因为实现锁的硬件机制对访问速度有影响；<br>
-2）极大的改进了功耗，因为内存访问的钥匙和锁都有功耗；<br>
-3）以上两点让它的频速更高。</li>
-</ul>
-<p>英特尔 Core 2 架构相对于 AMD 的优势实际上是英特尔破坏 CPU 正确设计实现的。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[转载] 霍金：哥德尔和物理学的终结]]></title>
-        <id>https://alaskasquirrel.github.io/post/霍金-哥德尔-物理学/</id>
-        <link href="https://alaskasquirrel.github.io/post/霍金-哥德尔-物理学/">
-        </link>
-        <updated>2020-05-19T04:38:26.000Z</updated>
-        <content type="html"><![CDATA[<p>原文 http://www.hawking.org.uk/godel-and-the-end-of-physics.html<br>
-音频 http://www.damtp.cam.ac.uk/events/strings02/dirac/hawking/<br>
-中文 http://cssm.org.cn/view.php?id=3985 中国战略与管理研究会</p>
-<p>  本次演讲中，我想问的是，我们在追求理解和知识方面能走多远：我们是否能最终发现一套完备形式的自然规律？我所说的完备形式是指一套规则，这些规则至少原则上可使我们任意精确地预测未来，了解任一时刻宇宙的状态。</p>
-<ul>
-<li>决定论流传久远</li>
-</ul>
-<p>  从亚里士多德往后，哲学家和科学家都一直只是定性地认识规律。牛顿在1687年发表了包含其万有引力理论的《自然哲学数学原理》，正是牛顿的这一著作使人们开始来定量和精确地认识规律。这导致了“科学决定论”思想，这种思想大概是由拉普拉斯最先表达的。如果在某一时刻，一个人知道宇宙中所有粒子的位置和速度，那么根据科学规律我们就能计算得出它们在任何其它时刻的位置和速度，无论是过去还是未来。<br>
-  20世纪初期，一系列的科学发现诸如放射性原子的衰减似乎是随机发生的，使决定论思想濒于破产，用爱因斯坦的语言来说，似乎是“上帝在掷骰子”。不过，科学界通过重新定义什么是对宇宙的完整理解及更改目标，重新挽救了决定论。这主要是狄拉克的贡献。<br>
-  狄拉克表明，薛定谔和海森堡的工作可以整合到对实在进行描述的新图景——量子理论中。在量子理论中，一个粒子不是像在经典牛顿理论中那样用位置和速度两个量来描述，而是用单一量——波函数来描述。</p>
-<ul>
-<li>打了折的决定论</li>
-</ul>
-<p>  波函数给出粒子可能在某一点出现的概率和从一个点到另一个点之间运动速度变化的概率，人们可以在波函数中求解到精确的位置或者精确的速度，但不能同时确定两者。乍看这似乎是使完整的决定论变得不可能。因为人们不能同时精确地知道粒子在某一时刻的位置和速度，怎么能预测其未来状况呢？但是在量子理论中，人们不需要同时知道位置和速度两个量。如果一个人知道物理规律及某一时刻的波函数，那他就可用薛定谔方程计算出该波函数随时间变化有多快，进而计算出任何其它时刻的波函数。<br>
-  人们因此可以宣称这还是一种决定论，不过这种决定论是一种打了折的决定论。因为人们不能精确地预测位置和速度这两个量，而只能预测波函数一个量。我们得到的是一种被重新定义的决定论，刚好是拉普拉斯所设想的决定论的一半。<br>
-  为了计算出波函数如何随时间变化，人们需要了解在整个宇宙都成立的量子规律。因此问题是，我们对这样的规律知道多少？</p>
-<ul>
-<li>没有理论能预测未来</li>
-</ul>
-<p>  尽管量子理论以及涉及电磁力的麦克斯韦方程的确适用于绝大部分领域，但还有两个重要的领域在其适用范围之外，一个是核力，一个是引力。核力决定了太阳发光、元素的形成，而引力导致了恒星和行星乃至宇宙本身的形成。所以，为了完整地理解宇宙，至少能够原则上精确地预测各种事物，需要把这些方面都统一起来。<br>
-  弱核力已与麦克斯韦方程统一起来，形成电弱统一理论。对强核力，则由另一种不同的理论——称为QCD——加以描述。电弱统一理论和QCD理论加在一起就组成粒子物理学的所谓“标准模型”，其目标是描述除引力外的所有事物。<br>
-  尽管标准模型在一切实际用途中都已足够用，但科学家们仍然在孜孜寻求，试图阐发出可以适用于整个宇宙的完备理论。这种追求的动力不在于经济原因。从伽利略以来，没有任何一个科学家是为了金钱而进行基本理论研究的。我们寻求一个完备理论的真正原因是我们想理解宇宙，我们觉得我们不只是黑暗而神秘力量的牺牲品。如果我们认识了宇宙，那么我们就可在某种意义上控制它。而现在的标准模型很清楚不能满足这个要求。<br>
-  如果我们要理解宇宙的话，就必须有一个完全协调一致的量子引力理论。在过去30多年间，构建量子引力理论成了理论物理学界的最重大问题。但是这非常困难。<br>
-  从1985年以来，我们就认识到超引力和超弦理论都属于一个更大结构，即M－理论，而M－理论不是一种通常意义上的理论，而是一系列理论的集合。该集合中的每一理论在限制条件如低能量或低辐射情况下都成立，但是超出这限制条件就不适用了。这意味着它们中没有任何一个理论能够精确地预测宇宙的未来。</p>
-<ul>
-<li>我们不是天使</li>
-</ul>
-<p>  直至目前，大多数人都含蓄地假定存在一种终极理论，我们最终能够发现它。事实上，我本人就曾说过我们会很快找到这个理论。但是M－理论让我怀疑这是否是真的。也许要以有限数量的命题来阐述宇宙终极理论是不可能的。这和哥德尔不完备性定理非常相似，该定理说任何有限公理系统都不足以证明其中的每一个数学命题。<br>
-  哥德尔定理和我们是否能以有限数量的原理构建宇宙终极理论有什么关系呢？一个联系是明显的。根据实证论科学哲学，一个物理理论乃是一数学模型。因此如果有数学命题不能证明的话，那就有物理问题不能预测。<br>
-  在标准的实证论科学哲学看来，物理理论无偿居住于柏拉图式理想数学模型天国中。也就是说，一个模型可以任意程度地详细，可以包含任意多量的信息，而不会影响它们所描述的宇宙本身。但我们不是天使，可以从外面观察宇宙。相反，我们和我们的模型两者都是我们所描述的宇宙中的组成部分，因此一个物理理论是自指的，就像哥德尔定理所说的那样。人们因此可以认为它或者是不一致的，或者是不完备的。我们迄今所有的各种物理理论既是不一致的，也是不完备的。<br>
-  如果不存在一种可从有限条数原理推导出来的终极理论，一些人将非常失望。我过去就属于这个阵营。但是我已改变了我的看法。现在我很高兴我们寻求知识的努力永远都不会到达终点，我们始终都有获得新发现的挑战。没有这种挑战，我们就会停滞。哥德尔定理保证了数学家们总有事情要做，我想M－理论也将为物理学家们做同样的事情。（凌高/摘译）</p>
 ]]></content>
     </entry>
 </feed>

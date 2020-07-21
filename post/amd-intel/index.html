@@ -51,6 +51,10 @@
             
                 <li>
                     
+                        <a href="https://github.com/alaskasquirrel" target="_blank">
+                            <i class="fab fa-github"></i>
+                        </a>
+                    
                 </li>
             
                 <li>
@@ -307,6 +311,14 @@ http://www.cpu-world.com/CPUs/4004/index.html<br>
         });
     });
 
+    
+        var allImg = $("img");
+        allImg.on("contextmenu", function () {
+            return false;
+        });
+        allImg.on("dragstart", function () {
+            return false;
+        });
     
 </script>
 
