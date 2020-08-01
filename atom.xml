@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-07-31T09:44:41.939Z</updated>
+    <updated>2020-08-01T14:35:59.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -10,6 +10,72 @@
     <logo>https://alaskasquirrel.github.io/images/avatar.png</logo>
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, NewOld </rights>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 配置]]></title>
+        <id>https://alaskasquirrel.github.io/post/windows/</id>
+        <link href="https://alaskasquirrel.github.io/post/windows/">
+        </link>
+        <updated>2020-08-01T12:15:51.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://support.microsoft.com/zh-cn/help/3159635/windows-10-update-assistant">Windows 10 更新助手</a><br>
+<a href="https://www.w10privacy.de/english-home/">W10Privacy</a> 禁用追踪监控功能</p>
+<p><a href="https://github.com/lukesampson/scoop">Scoop</a> 软件包管理器，开源软件替代商业应用：</p>
+<ul>
+<li>PotPlayer 影音视频播放器</li>
+<li>7zip 解压软件</li>
+<li>ccleaner 系统清理</li>
+<li>GoldenDict 词典</li>
+<li>Everything 文件搜索</li>
+<li>Brave 浏览器 https://github.com/brave</li>
+</ul>
+<p>Malwarebytes 安全防护 https://www.malwarebytes.com/premium/<br>
+GlassWire 网络防火墙 https://www.glasswire.com<br>
+TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
+<p>国内搜索引擎：</p>
+<ul>
+<li>DogeDoge https://www.dogedoge.com</li>
+<li>秘迹搜索 https://mijisou.com</li>
+</ul>
+<p>RIME 开源输入法 https://rime.im  /  https://github.com/rime</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国经济——两个美国人的分析视角]]></title>
+        <id>https://alaskasquirrel.github.io/post/economic/</id>
+        <link href="https://alaskasquirrel.github.io/post/economic/">
+        </link>
+        <updated>2020-08-01T10:16:42.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.youtube.com/watch?v=Mh0vEaac78U">Bridgewater’s Ray Dalio Discusses the Impact of China’s Growth on the World Economy</a>  (Aug 6, 2019) + <a href="https://www.bridgewater.com/china/">Our Views on China</a></p>
+<ul>
+<li>Ray Dalio 预测，中国经济未来必将超越美国，领导全球经济。倘若有所变数，主要因素是：中美冲突、气候问题、流行疾病、政治问题。</li>
+</ul>
+<p>AEI(The American Enterprise Institute, 美国企业研究所) <a href="https://www.aei.org/profile/derek-m-scissors">Derek Scissors</a>: <a href="https://www.aei.org/research-products/report/chinas-economic-miracle-in-context/">China's economic 'miracle' in context</a> Aug 26, 2019.</p>
+<ul>
+<li>Derek Scissors 尝试将中日韩三国的经济腾飞阶段建立起比较，呈现三国在经济改革相似历史时间节点上的表现，描述出多维度的差异。结论：多指标上来看，中国的发展水平不如同期的韩国，接近日本。中国的“经济奇迹”并未超越一般性的战后重建。现阶段，日韩都已进入相对停滞时期，而中国似乎难以逃脱经济诅咒。</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱国守法]]></title>
+        <id>https://alaskasquirrel.github.io/post/law/</id>
+        <link href="https://alaskasquirrel.github.io/post/law/">
+        </link>
+        <updated>2020-08-01T10:16:18.000Z</updated>
+        <content type="html"><![CDATA[<p>《中华人民共和国宪法》(2018修正)<br>
+《中华人民共和国民法典》<br>
+《中华人民共和国密码法》<br>
+《中华人民共和国电子签名法》<br>
+《中华人民共和国社会保险法》<br>
+《中华人民共和国企业所得税法》<br>
+《中华人民共和国个人所得税法》<br>
+《中华人民共和国劳动法》<br>
+《中华人民共和国妇女权益保障法》<br>
+《中华人民共和国公司法》<br>
+《中华人民共和国电子商务法》<br>
+《中华人民共和国网络安全法》<br>
+《互联网信息服务管理办法》<br>
+《区块链信息服务管理规定》</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[转载] 严锋——不必读的书的清单]]></title>
         <id>https://alaskasquirrel.github.io/post/books/</id>
@@ -742,12 +808,19 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <td style="text-align:center">详见 http://ropas.snu.ac.kr/~kwang/#teaching</td>
 <td style="text-align:center">Seoul National 서울대학교</td>
 </tr>
+<tr>
+<td style="text-align:center">Norbert Zeh</td>
+<td style="text-align:center">详见 https://web.cs.dal.ca/~nzeh/index.html</td>
+<td style="text-align:center">Dalhousie</td>
+</tr>
 </tbody>
 </table>
 <ul>
 <li><a href="https://amturing.acm.org/award_winners/perlis_0132439.cfm">Alan J. Perlis</a>  (1922-1990)</li>
 <li><a href="https://www.cs.utexas.edu/users/EWD/">E.W. Dijkstra</a> (1930-2002)</li>
 <li><a href="http://www-formal.stanford.edu/jmc/">John McCarthy</a> (1927-2011)</li>
+<li><a href="https://www.cs.yale.edu/homes/aspnes/">James Aspnes</a></li>
+<li><a href="https://legacy.cs.indiana.edu/~dyb/">R. Kent Dybvig</a></li>
 <li><a href="http://webyrd.net">William Eyrd</a></li>
 <li><a href="http://www.madore.org/~david/sitemap.html">David Madore</a></li>
 </ul>
