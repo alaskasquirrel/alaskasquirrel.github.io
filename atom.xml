@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-08-01T14:55:03.072Z</updated>
+    <updated>2020-08-02T13:23:15.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -15,42 +15,47 @@
         <id>https://alaskasquirrel.github.io/post/windows/</id>
         <link href="https://alaskasquirrel.github.io/post/windows/">
         </link>
-        <updated>2020-08-01T12:15:51.000Z</updated>
+        <updated>2020-06-16T12:15:51.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://support.microsoft.com/zh-cn/help/3159635/windows-10-update-assistant">Windows 10 更新助手</a><br>
 <a href="https://www.w10privacy.de/english-home/">W10Privacy</a> 禁用追踪监控功能</p>
-<p><a href="https://github.com/lukesampson/scoop">Scoop</a> 软件包管理器，开源软件替代商业应用：</p>
+<p><a href="https://github.com/lukesampson/scoop">Scoop</a> 软件包搜索安装管理，开源软件替代商业应用：⚙️</p>
 <ul>
 <li>PotPlayer 影音视频播放器</li>
 <li>7zip 解压软件</li>
-<li>ccleaner 系统清理</li>
-<li>GoldenDict 词典</li>
-<li>Everything 文件搜索</li>
 <li>Brave 浏览器 https://github.com/brave</li>
+<li>ccleaner 系统清理 ，亦可通过它卸载某些软件.</li>
+<li>Everything 文件搜索</li>
+<li>GoldenDict 词典</li>
+<li>SumatraPDF 阅读器</li>
 </ul>
-<p>Malwarebytes 安全防护 https://www.malwarebytes.com/premium/<br>
+<p>O&amp;O ShutUp10 隐私保护和设置优化工具 https://www.oo-software.com/en/shutup10<br>
+网络DNS ：<a href="https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1">1.1.1.1</a><br>
+Malwarebytes 安全防护 https://www.malwarebytes.com/premium/<br>
 GlassWire 网络防火墙 https://www.glasswire.com<br>
 TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
-<p>国内搜索引擎：</p>
+<p>国内搜索引擎：👁‍🗨</p>
 <ul>
 <li>DogeDoge https://www.dogedoge.com</li>
 <li>秘迹搜索 https://mijisou.com</li>
 </ul>
 <p>RIME 开源输入法 https://rime.im  /  https://github.com/rime</p>
+<p>系统设置：🔒 可选项一律 off 关闭<br>
+如若通过 Microsoft Store 安装应用，推荐 Grover Podcast 播客管理软件。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国经济——两个美国人的分析视角]]></title>
+        <title type="html"><![CDATA[中国经济  — 两个美国人的分析视角2019]]></title>
         <id>https://alaskasquirrel.github.io/post/economic/</id>
         <link href="https://alaskasquirrel.github.io/post/economic/">
         </link>
-        <updated>2020-08-01T10:16:42.000Z</updated>
+        <updated>2020-06-12T10:16:42.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://www.youtube.com/watch?v=Mh0vEaac78U">Bridgewater’s Ray Dalio Discusses the Impact of China’s Growth on the World Economy</a>  (Aug 6, 2019) + <a href="https://www.bridgewater.com/china/">Our Views on China</a></p>
 <ul>
 <li>Ray Dalio 预测，中国经济未来必将超越美国，领导全球经济。倘若有所变数，主要因素是：中美冲突、气候问题、流行疾病、政治问题。</li>
 </ul>
 <p>AEI(The American Enterprise Institute, 美国企业研究所) <a href="https://www.aei.org/profile/derek-m-scissors">Derek Scissors</a>: <a href="https://www.aei.org/research-products/report/chinas-economic-miracle-in-context/">China's economic 'miracle' in context</a> Aug 26, 2019.</p>
 <ul>
-<li>Derek Scissors 尝试将中日韩三国的经济腾飞阶段建立起比较，呈现三国在经济改革相似历史时间节点上的表现，描述出多维度的差异。结论：多指标上来看，中国的发展水平不如同期的韩国，接近日本。中国的“经济奇迹”并未超越一般性的战后重建。现阶段，日韩都已进入相对停滞时期，而中国似乎难以逃脱经济诅咒。</li>
+<li>Derek Scissors 尝试将中日韩三国的经济腾飞阶段建立起比较，呈现三国在经济改革相似历史时间节点上的表现，描述出多维度的差异。结论：多指标上来看，中国的发展水平不如同期的韩国，接近日本。中国的“经济奇迹”并未超越一般性的战后重建。现阶段，日韩都已进入相对停滞时期，而中国似乎难逃经济诅咒。</li>
 </ul>
 ]]></content>
     </entry>
@@ -59,7 +64,7 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
         <id>https://alaskasquirrel.github.io/post/law/</id>
         <link href="https://alaskasquirrel.github.io/post/law/">
         </link>
-        <updated>2020-08-01T10:16:18.000Z</updated>
+        <updated>2020-06-10T10:16:18.000Z</updated>
         <content type="html"><![CDATA[<p>《中华人民共和国宪法》(2018修正)<br>
 《中华人民共和国民法典》<br>
 《中华人民共和国密码法》<br>
@@ -77,6 +82,7 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 《中华人民共和国国家安全法》<br>
 &lt;工业和信息化部关于清理规范互联网网络接入服务市场的通知&gt;2017年1月17日<br>
 &lt;具有舆论属性或社会动员能力的互联网信息服务安全评估规定&gt;中国网信网，2018年11月30日起施行。<br>
+&lt;教育移动互联网应用程序备案管理办法&gt;教育部<br>
 《中华人民共和国刑法》第二百八十五、六、七条.</p>
 ]]></content>
     </entry>
@@ -469,7 +475,7 @@ http://www.cpu-world.com/CPUs/4004/index.html<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[年轻摄影师的“旧中国梦”]]></title>
+        <title type="html"><![CDATA[旧记忆]]></title>
         <id>https://alaskasquirrel.github.io/post/旧中国影像/</id>
         <link href="https://alaskasquirrel.github.io/post/旧中国影像/">
         </link>
@@ -583,8 +589,10 @@ negative October 1860, print 1862.</p>
         </link>
         <updated>2020-05-16T13:09:28.000Z</updated>
         <content type="html"><![CDATA[<p>计算机科学：✴️</p>
-<p><a href="https://www.cs.cmu.edu/~rwh/courses/ppl/phil.html">Why Study Programming Languages?</a> by Robert Harper<br>
+<p><a href="https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/">As We May Think</a>   Vannevar Bush 1945  译&lt;诚如我们的想象&gt;<br>
+<a href="https://www.cs.cmu.edu/~rwh/courses/ppl/phil.html">Why Study Programming Languages?</a> by Robert Harper<br>
 <a href="http://ed-thelen.org/comp-hist/EarlyBritish.html">Early British Computers</a><br>
+<a href="http://ed-thelen.org/comp-hist/CBC.html">Computing Before Computers</a><br>
 &lt; The Pattern on the Stone&gt; Danny Hillis       解释计算机如何运转<br>
 <a href="https://www.bbc.com/news/technology-18327261">Prof Simon Lavington (Computer historian) - &quot;Alan Turing: Is he really the father of computing?&quot;</a><br>
 <a href="https://people.cs.clemson.edu/~mark/uprog.html">A Brief History of Microprogramming</a><br>
@@ -628,7 +636,8 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <a href="https://turing100.acm.org/lambda_calculus_timeline.pdf">λ-Calculus: Then &amp; Now</a>     Dana S. Scott<br>
 <a href="https://www.cs.utah.edu/~mflatt/past-courses/cs7520/public_html/s06/notes.pdf">Programming Languages and Lambda Calculi</a><br>
 &lt; Type and Programming Languages &gt; 译《类型和程序设计语言》<br>
-<a href="http://lambda-the-ultimate.org">Lambda the Ultimate</a></p>
+<a href="http://lambda-the-ultimate.org">Lambda the Ultimate</a><br>
+<a href="https://theory.cs.princeton.edu/complexity/book.pdf">&lt; Computational Complexity: A Modern Approach &gt;</a></p>
 <p>Lisp：<a href="https://github.com/alaskasquirrel/Lisp-China">本人github项目Lisp-China</a></p>
 <ul>
 <li><a href="https://www.whoishostingthis.com/resources/lisp/">Learn Lisp Programming:Intro,Versions,and More</a></li>
@@ -733,6 +742,16 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <td style="text-align:center">复旦大学 哲学系</td>
 </tr>
 <tr>
+<td style="text-align:center">Courses in CSE</td>
+<td style="text-align:center">详见 https://www.cs.washington.edu/education/courses</td>
+<td style="text-align:center">Washington</td>
+</tr>
+<tr>
+<td style="text-align:center">CS143: Compiler</td>
+<td style="text-align:center">详见 https://web.stanford.edu/class/cs143/</td>
+<td style="text-align:center">Stanford</td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://legacy-cs.sice.indiana.edu/~dfried/">Daniel P. Friedman</a></td>
 <td style="text-align:center"><a href="https://cgi.soic.indiana.edu/~c311/doku.php">Programming Languages</a></td>
 <td style="text-align:center">Indiana</td>
@@ -827,6 +846,16 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <li><a href="https://legacy.cs.indiana.edu/~dyb/">R. Kent Dybvig</a></li>
 <li><a href="http://webyrd.net">William Eyrd</a></li>
 <li><a href="http://www.madore.org/~david/sitemap.html">David Madore</a></li>
+<li><a href="https://users.cs.duke.edu/~reif/">John H. Reif</a></li>
+<li><a href="https://www.cs.princeton.edu/~arora/">Sanjeev Arora</a></li>
+<li><a href="https://www.boazbarak.org/">Boaz Barak</a></li>
+</ul>
+<p>Channel 9:</p>
+<ul>
+<li><a href="https://https://channel9.msdn.com/Blogs/Charles/Anders-Hejlsberg-and-Guy-Steele-Comcurrency-and-Language-Design">Anders Hejlsberg and Guy Steele: Concurrency and Language Design</a> October 6, 2008.</li>
+<li><a href="https://channel9.msdn.com/Blogs/Charles/Anders-Heljsberf-and-Gilad-Bracha-Perspectives-on-Programming-Language-Design">Anders Hejlsberg and Gilad Bracha: Perspectives on Programming Language Design</a> April 29, 2009.</li>
+<li><a href="https://channel9.msdn.com/Blog/mtthijs/Anders-Hejlsberg-Trends-and-Future-Directions-in-Programming-Languages-DevDays-2010-Keynote">Anders Hejlsberg Trends and Future Directions in Programming Languages</a> April 20, 2010.</li>
+<li><a href="https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction">Anders Hejlsberg on Modern Compiler Construction</a> May 13, 2016.</li>
 </ul>
 <p>追踪学习：🈺</p>
 <p>&lt; The Quest for Artificial Intelligence&gt;Nils Nilsson 2010     介绍早期人工智能<br>
@@ -839,18 +868,21 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <a href="https://www.henryailabs.com">Henry AI Labs</a><br>
 <a href="https://www.nature.com/articles/s41599-020-0494-4">Why general artificial intelligence will not be realized</a><br>
 <a href="https://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/">The Man Who Would Teach Machines to Think</a><br>
+&lt; The Logical Road to Human Level&gt;John McCarthy 2005<br>
+&lt; What is Artificial Interlligence?&gt;John McCarthy 2007<br>
 <a href="https://deepmind.com/blog/">DeepMind</a><br>
 <a href="https://openai.com">OpenAI</a><br>
 <a href="https://www.fast.ai/">Fast.AI</a><br>
 <a href="https://ethfans.org">EthFans | 以太坊爱好者</a><br>
 <a href="https://eprint.iacr.org/">Cryptology ePrint Archive</a><br>
 <a href="https://nakamotoinstitute.org/">Satoshi Nakamoto Institute</a><br>
+<a href="https://doi.org/10.6082/NIST.IR.8202">Blockchain Technology Overview</a><br>
 <a href="https://bitcoinmagazine.com">Bitcoin Magazine</a><br>
 <a href="https://breakermag.com/">BREAKERMAG</a><br>
 <a href="https://unchainedpodcast.com/">Laura Shin - Unchained Podcast</a><br>
 <a href="https://www.lopp.net/">Jameson Lopp</a><br>
 <a href="https://adamcaudill.com/2018/06/21/bitcoin-is-a-cult/">Adam Caudill- Bitcoin is a Cult</a></p>
-<p>历史、文化与经济：💮</p>
+<p>历史、文化与经济：☪️</p>
 <ul>
 <li>《中国摄影史》Terry Bennett 中国摄影出版社。</li>
 <li><a href="http://www.bjmem.com.cn">北京記憶</a></li>
@@ -903,6 +935,7 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <a href="https://faculty.washington.edu/chudler/hist.html">History of Neuroscience</a><br>
 《神经科学——探索脑》<br>
 &lt; The Mind &amp; The Brain: Neuroplasticity and  the Power of Mental Force(2002)&gt;译《心智和大脑：神经可塑性和精神力量》<br>
+&lt; Is the Brain a Quantum Computer?&gt;<br>
 <a href="https://nancysbraintalks.mit.edu">MIT: The Human Brain</a><br>
 <a href="https://www.humanbrainproject.eu/en.">Human Brain Project</a><br>
 <a href="https://science.sciencemag.org">Science</a><br>
