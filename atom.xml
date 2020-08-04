@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-08-02T13:25:07.202Z</updated>
+    <updated>2020-08-04T09:45:48.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -38,7 +38,7 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 <li>DogeDoge https://www.dogedoge.com</li>
 <li>秘迹搜索 https://mijisou.com</li>
 </ul>
-<p>RIME 开源输入法 https://rime.im  /  https://github.com/rime</p>
+<p>RIME 开源输入法 https://rime.im</p>
 <p>系统设置：🔒 可选项一律 off 关闭<br>
 如若通过 Microsoft Store 安装应用，推荐 Grover Podcast 播客管理软件。</p>
 ]]></content>
@@ -53,7 +53,7 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 <ul>
 <li>Ray Dalio 预测，中国经济未来必将超越美国，领导全球经济。倘若有所变数，主要因素是：中美冲突、气候问题、流行疾病、政治问题。</li>
 </ul>
-<p>AEI(The American Enterprise Institute, 美国企业研究所) <a href="https://www.aei.org/profile/derek-m-scissors">Derek Scissors</a>: <a href="https://www.aei.org/research-products/report/chinas-economic-miracle-in-context/">China's economic 'miracle' in context</a> Aug 26, 2019.</p>
+<p>AEI(The American Enterprise Institute, 美国企业研究所) <a href="https://www.aei.org/profile/derek-m-scissors">Derek Scissors</a> :  <a href="https://www.aei.org/research-products/report/chinas-economic-miracle-in-context/">China's economic 'miracle' in context</a> Aug 26, 2019.</p>
 <ul>
 <li>Derek Scissors 尝试将中日韩三国的经济腾飞阶段建立起比较，呈现三国在经济改革相似历史时间节点上的表现，描述出多维度的差异。结论：多指标上来看，中国的发展水平不如同期的韩国，接近日本。中国的“经济奇迹”并未超越一般性的战后重建。现阶段，日韩都已进入相对停滞时期，而中国似乎难逃经济诅咒。</li>
 </ul>
@@ -82,8 +82,15 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 《中华人民共和国国家安全法》<br>
 &lt;工业和信息化部关于清理规范互联网网络接入服务市场的通知&gt;2017年1月17日<br>
 &lt;具有舆论属性或社会动员能力的互联网信息服务安全评估规定&gt;中国网信网，2018年11月30日起施行。<br>
-&lt;教育移动互联网应用程序备案管理办法&gt;教育部<br>
-《中华人民共和国刑法》第二百八十五、六、七条.</p>
+&lt;教育移动互联网应用程序备案管理办法&gt;教育部</p>
+<ul>
+<li>《中华人民共和国刑法》：<br>
+  第二百八十五  违反国家规定，侵入国家事务、国防建设、尖端科学技术领域的计算机信息系统的，处三年以下有期徒刑或者拘役。<br>
+  第二百八十六条    违反国家规定，对计算机信息系统功能进行删除、修改、增加、干扰，造成计算机信息系统不能正常运行，后果严重的，处五年以下有期徒刑或者拘役；后果特别严重的，处五年以上有期徒刑。<br>
+  违反国家规定，对计算机信息系统中存储、处理或者传输的数据和应用程序进行删除、修改、增加的操作，后果严重的，依照前款的规定处罚。<br>
+  故意制作、传播计算机病毒等破坏性程序，影响计算机系统正常运行，后果严重的，依照第一款的规定处罚。<br>
+  第二百八十七条    利用计算机实施金融诈骗、盗窃、贪污、挪用公款、窃取国家秘密或者其他犯罪的，依照本法有关规定定罪处罚。</li>
+</ul>
 ]]></content>
     </entry>
     <entry>
@@ -214,7 +221,7 @@ Permissioned 区块链网络允许等更为传统的角色 管理员、用户、
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Self-Driving Car, 漫谈人工智能]]></title>
+        <title type="html"><![CDATA[Self-Driving Car]]></title>
         <id>https://alaskasquirrel.github.io/post/self-driving/</id>
         <link href="https://alaskasquirrel.github.io/post/self-driving/">
         </link>
@@ -222,6 +229,14 @@ Permissioned 区块链网络允许等更为传统的角色 管理员、用户、
         <content type="html"><![CDATA[<ul>
 <li>（封面 https://www.landmarkdividend.com/self-driving-car/）</li>
 </ul>
+<p>  至于我这样不考驾照的人，自动驾驶简直福音，尤记得第一次听晓GoogleWaymo时的激动不已，此后再面对劝考驾照的人，终有所说词啦。<br>
+  万万未想到索尼竟会推出<a href="https://www.sony.net/SonyInfo/vision-s/">Sony Vision-S</a>，官方说明: corresponds to Level 2+driver assistance. 基于33个感测器的安全方案，利用支持HDR的高分辨率<a href="https://www.sony.net/SonyInfo/technology/stories/IMX490/">CMOS</a>影像传感器(路面、物体侦测、色彩识别)、固态LiDAR(日间、夜间视觉和物体探测)和ToF感测器(辨别车内外人、物)为车辆提供360度的全方位保护。(注：CMOS全球份额多半被索尼占据)<br>
+Camera：(https://www.sony.net/SonyInfo/vision-s/safety.html)<br>
+<img src="https://alaskasquirrel.github.io/post-images/1596531855435.bmp" alt="" loading="lazy"><br>
+Radar / Ultra Sonic: (https://www.sony.net/SonyInfo/vision-s/safety.html)<br>
+<img src="https://alaskasquirrel.github.io/post-images/1596531468337.bmp" alt="" loading="lazy"><br>
+Solid State LiDAR: (https://www.sony.net/SonyInfo/vision-s/safety.html)<br>
+<img src="https://alaskasquirrel.github.io/post-images/1596531484340.bmp" alt="" loading="lazy"></p>
 <figure data-type="image" tabindex="1"><img src="https://alaskasquirrel.github.io/post-images/1594375460765.png" alt="" loading="lazy"></figure>
 <figure data-type="image" tabindex="2"><img src="https://alaskasquirrel.github.io/post-images/1594322160914.gif" alt="" loading="lazy"></figure>
 <figure data-type="image" tabindex="3"><img src="https://alaskasquirrel.github.io/post-images/1594322178933.gif" alt="" loading="lazy"></figure>
@@ -230,6 +245,7 @@ Permissioned 区块链网络允许等更为传统的角色 管理员、用户、
 <ul>
 <li>图片 https://www.thesimpledollar.com/insurance/auto/how-self-driving-cars-work</li>
 <li>https://www.tesla.com/autopilot</li>
+<li><a href="https://www.sony.net/SonyInfo/vision-s/">Sony Vision-S</a></li>
 <li>https://blogs.nvidia.com/blog/2019/04/15/how-does-a-self-driving-car-see/</li>
 </ul>
 ]]></content>
@@ -647,9 +663,17 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <li>&lt; Scheme and the Art of Programing &gt;</li>
 <li>&lt; Essentials of Programming Languages &gt;</li>
 <li>&lt;<a href="https://www.scheme.com/tspl4">The Scheme Programming Language, 4th Edition</a>&gt;</li>
-<li>&lt;<a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/cltl2.html">Common Lisp the Language, 2nd Edition</a>&gt;</li>
-<li>&lt;<a href="https://mitpress.mit.edu/sites/default/files/sicp/index.html">Structure and Interpretation of Computer Programs</a>&gt; 译《计算机程序的构造与解释》</li>
-<li>&lt;<a href="https://github.com/norvig/paip-lisp">Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp</a>&gt;</li>
+<li>&lt;<a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/cltl2.html">Common Lisp the Language, 2nd Edition</a>&gt; by  Guy L. Steele Jr. 全面且详细</li>
+<li><a href="http://paulgraham.com/onlisptext.html">&lt; On Lisp: Advanced Techniques for Common Lisp&gt;</a>Paul Graham 高级编程 <a href="https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download">中文翻译</a></li>
+<li><a href="https://letoverlambda.com/textmode.cl"><Let Over Lambda></a>Doug Hoyte 《On《On Lisp》》</li>
+<li><a href="https://www.gigamonkeys.com/book/"><Practical Common Lisp></a>Peter Seibel 译《实用Common Lisp编程》田春</li>
+<li>&lt; Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS&gt;Sonja E. Keene</li>
+<li>&lt; ANSI Common Lisp &gt;Paul Graham <a href="https://acl.readthedocs.io/en/latest/zhCN/index.html">中文翻译</a> 基础教程</li>
+<li>&lt;<a href="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html">Structure and Interpretation of Computer Programs</a>&gt; 译《计算机程序的构造与解释》</li>
+<li>&lt; Lisp in Small Pieces&gt; Christian Queinnec</li>
+<li>&lt;<a href="https://github.com/norvig/paip-lisp">Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp</a>&gt;经典AI算法，侧重逻辑和推理。study lisp.</li>
+<li><a href="https://legacy-cs.sice.indiana.edu/~dfried/">&lt;小人书&gt;</a>Daniel P. Friedman</li>
+<li>&lt; Clojure Programming &gt;</li>
 </ul>
 <p>&lt;<a href="https://www.cs.cmu.edu/~rwh/pfpl/">Practical Foundations for Programming Languages</a>&gt;  Second Editon by Robert Harper<br>
 &lt; Programming Language Pragmatics&gt; 译《程序设计语言——实践之路》Michael L. Scott<br>
@@ -922,6 +946,7 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《后发优势与后发劣势——与杨小凯教授商榷》</a> 林毅夫 2003年。</li>
 <li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《经济改革与宪政转轨：回应》</a> 杨小凯 2003年。</li>
 <li>《百年中国经济史笔记-从晚清到2002》杨小凯(1948-2004)</li>
+<li><a href="http://www.rmlt.com.cn/2016/0620/429319.shtml">&lt;准确认识今天的世界&gt;</a> 吴建民(1939-2016) . 2016年3月30日, 外交学院。</li>
 </ul>
 <p>科学：☢️</p>
 <p><a href="https://www.math.columbia.edu/~woit/wordpress">Not Even Wrong</a>  Peter Woit<br>
