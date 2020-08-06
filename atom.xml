@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-08-04T09:45:48.142Z</updated>
+    <updated>2020-08-06T06:46:17.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -39,7 +39,7 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 <li>秘迹搜索 https://mijisou.com</li>
 </ul>
 <p>RIME 开源输入法 https://rime.im</p>
-<p>系统设置：🔒 可选项一律 off 关闭<br>
+<p>系统设置：🔒 <a href="https://fix10.isleaked.com">可选项一律 off 关闭</a><br>
 如若通过 Microsoft Store 安装应用，推荐 Grover Podcast 播客管理软件。</p>
 ]]></content>
     </entry>
@@ -638,6 +638,7 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <a href="http://logic.fudan.edu.cn/home">Mathematical Logic at Fudan</a><br>
 <a href="https://logic.pku.edu.cn/index.htm">北京大学 - 逻辑、语言与认知研究中心</a><br>
 <a href="https://openlogicproject.org">Open Logic Project</a><br>
+<a href="https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic">Handbook of the History of Logic</a><br>
 <a href="https://www.logicmatters.net">Logic Matters</a><br>
 <a href="https://www.seas.harvard.edu/courses/cs252/2016fa/">History of Programming Languages</a><br>
 <a href="https://learnxinyminutes.com">Learn X in Y Minutes</a><br>
@@ -681,6 +682,7 @@ From Mathematics to Philosophy 王浩 1974.<br>
 &lt; Inside The Python Virtual Machine&gt; Obi ike-Nwosu<br>
 <a href="https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice">10 Papers Every Developer Should Read</a><br>
 &lt; The Golden Ticket&gt; 2013 介绍NP完全问题和P=NP问题<br>
+&lt; From Frege to Godel A Source Book in Mathematical Logic, 1879-1931 &gt;<br>
 &lt; The Annotated Turing&gt; Charles Petzold 2008<br>
 《数学哲学：对数学的思考》Stewart Shapiro 郝兆宽(译) 杨睿之(译)<br>
 《图灵的秘密：他的生平、思想及论文解读》Charles Petzold<br>
@@ -906,6 +908,15 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <a href="https://unchainedpodcast.com/">Laura Shin - Unchained Podcast</a><br>
 <a href="https://www.lopp.net/">Jameson Lopp</a><br>
 <a href="https://adamcaudill.com/2018/06/21/bitcoin-is-a-cult/">Adam Caudill- Bitcoin is a Cult</a></p>
+<p>Security：⌚️</p>
+<p><a href="https://paper.seebug.org">SeeBug Paper 安全技术精粹</a><br>
+<a href="https:krebsonsecurity.com">KrebsOnSecurity</a><br>
+<a href="https://www.schneier.com">️️Bruce Schneier on Security</a><br>
+<a href="http://wiki.ioin.in">Sec-News 安全文摘</a><br>
+<a href="https://citizenlab.ca">The Citizen Lab</a><br>
+<a href="https://www.cryptolux.org/index.php/Home">CryptoLUX</a><br>
+<a href="https://crypto.stanford.edu">Applied Cryptography Group</a><br>
+<a href="http://seclab.stanford.edu">Stanford Computer Security Laboratory</a></p>
 <p>历史、文化与经济：☪️</p>
 <ul>
 <li>《中国摄影史》Terry Bennett 中国摄影出版社。</li>
@@ -920,6 +931,7 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <li>《叫魂：1768年中国妖术大恐慌》孔飞力(1933-2016) 著 上海三联书店2012年出版。</li>
 <li>《正倉院考古記》傅雲子(1902-1948) , 東京文求堂書店出版1941年。</li>
 <li>金毓黻(1887-1962)</li>
+<li>《國粹學報》(古學彙刊)</li>
 <li>《甲寅雜誌》章士钊(1881-1973)等</li>
 <li><a href="http://www.nssd.org/journal/cn/81391X/200701/">&lt;新文化是如何&quot;运动&quot;起来的——以《新青年》为视点&gt;王奇生</a><br>
 《五四新論：既非文藝復興，亦非啓蒙運動》（[五四]八十周年紀念論文集）余英時等著<br>
