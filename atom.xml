@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-08-06T06:46:17.931Z</updated>
+    <updated>2020-08-07T17:57:06.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://alaskasquirrel.github.io/post/windows/</id>
         <link href="https://alaskasquirrel.github.io/post/windows/">
         </link>
-        <updated>2020-06-16T12:15:51.000Z</updated>
+        <updated>2020-06-26T12:15:51.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://support.microsoft.com/zh-cn/help/3159635/windows-10-update-assistant">Windows 10 更新助手</a><br>
 <a href="https://www.w10privacy.de/english-home/">W10Privacy</a> 禁用追踪监控功能</p>
 <p><a href="https://github.com/lukesampson/scoop">Scoop</a> 软件包搜索安装管理，开源软件替代商业应用：⚙️</p>
@@ -173,51 +173,19 @@ Permissioned 区块链网络允许等更为传统的角色 管理员、用户、
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[能源变革，悄无声息]]></title>
-        <id>https://alaskasquirrel.github.io/post/earth/</id>
-        <link href="https://alaskasquirrel.github.io/post/earth/">
+        <title type="html"><![CDATA[[翻译] Lisp：50周年 （1958-2008）]]></title>
+        <id>https://alaskasquirrel.github.io/post/Lisp50/</id>
+        <link href="https://alaskasquirrel.github.io/post/Lisp50/">
         </link>
-        <updated>2020-05-27T13:03:03.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>
-<p>(封面 https://pixabay.com/）</p>
-</li>
-<li>
-<p>据Fraunhofer 研究所的报告，2018年德国可更新能源的发电量首次超过了煤炭发电。德国作为欧洲最大的经济体，原定到 2030 年由可更新能源提供 65% 的电力，且预到 2022 年完全退出核能，并计划逐步淘汰煤炭。研究显示，去年德国太阳能、风能、生物质能和水电产生了 219 TWh 的电力，占到了总发电量 542 TWh 的四成以上，超过了煤炭的 38%。研究人员认为 2019 年可更新能源的发电量同样不会低于四成。</p>
-</li>
-<li>
-<p>2019年6月，英国国家电网表示，本年前五个月，来自清洁能源发电量占到了 48% ，超过了煤炭和天然气的 47%，其余是生物质燃烧。英国国家电网称，煤炭的发电量过去十年从 30% 降至了 3%，而风能从 1% 提高到 19%。同时英国还从欧洲大陆进口了一部分电，主要来自法国核电。英国估计到 2030 年清洁能源来源将占到九成。</p>
-</li>
-<li>
-<p>2020年6月10日，到周三的午夜，英国已经两个整月没有用燃煤发电。而在十年前，英国四成的电力来自煤炭，新冠是故事的一部分，但不是全部。为遏制疫情快速扩散，英国实施了封锁政策，电力需求大幅下跌，国家电网随后从电网中下线了部分发电厂，而英国最后的 4 座燃煤发电厂是首当其冲遭到关闭的。最后的燃煤发电站离线是在 4 月 9 日午夜，无火电的情况一直持续至今。十年前，英国 3% 的电力来自风力和太阳能，今天英国有着世界规模最大的离岸风电行业。十年前的英国最大燃煤发电厂如今已经转向了压缩木球。</p>
-</li>
-<li>
-<p>受新冠疫情的影响，美国可更新能源发电量今年有望首次超过燃煤火电。这一结果在十年前是无法想象的，当时美国的电力需求近半是由火电供应。随着风力电场和太阳能的建造成本降低，经济力量驱动了火电的减少，疫情更是将美国的煤电行业推入深渊。为遏制病毒的扩散，美国的经济活动大幅下降，工厂、零售商、办公楼纷纷关闭，电力需求相应的也大幅减少，由于煤电的运营成本比燃气和可更新能源更高，电力公司因此关闭了燃煤发电厂。今年已经有 90 天美国的风电、太阳能和水电发电量超过了煤电。在过去十年里，可再生能源的成本急剧下降，一直超过专家的预期。从2009年到2019年，风力发电的成本下降了70%，而大型太阳能的成本下降了近90，2010年到2019年，太阳能电池成本也下降了近90%。<br>
-<img src="https://alaskasquirrel.github.io/post-images/1594469598317.jpg" alt="" loading="lazy"><br>
-图为美国国家可再生能源实验室的年度技术基准(ATB)对未来风能和太阳能的成本预测。从图中可以看出，风能和太阳能发电的成本下降速度一直都过预期。(https://www.2035report.com/)<br>
-<img src="https://alaskasquirrel.github.io/post-images/1594470068960.jpg" alt="" loading="lazy"></p>
-</li>
-</ul>
-<p>消息来源：</p>
-<ul>
-<li>https://www.reuters.com/article/us-germany-power-renewables/renewables-overtake-coal-as-germanys-main-energy-source-idUSKCN1OX0U2</li>
-<li>https://www.bbc.com/news/science-environment-48711649</li>
-<li>https://www.bbc.com/news/science-environment-52973089</li>
-<li>https://www.nytimes.com/2020/05/13/climate/coronavirus-coal-electricity-renewables.html</li>
-</ul>
-<p>悄无声息：</p>
-<ul>
-<li><a href="https://spectrum.ieee.org/energy/nuclear/too-cheap-to-meter-nuclear-power-revisited">After 50 years of operation, nuclear electric generation is still having teething pains</a></li>
-<li><a href="https://spectrum.ieee.org/energywise/energy/nuclear/a-double-first-in-china-for-advanced-nuclear-reactors">Safer reactors designed in the U.S. and Europe make their power grid debuts in China</a></li>
-<li><a href="https://thebulletin.org/2019/12/good-news-for-climate-change-india-gets-out-of-coal-and-into-renewable-energy/">Good news for climate change: India gets out of coal and into renewable energy<br>
-</a></li>
-<li><a href="https://thebulletin.org/2013/06/nuclear-aging-not-so-graceful/">Nuclear aging: Not so graceful<br>
-</a></li>
-<li><a href="https://chinadialogue.net/en/energy/5808-chinese-nuclear-disaster-highly-probable-by-2-3/">Chinese nuclear disaster “highly probable” by 2030<br>
-</a></li>
-<li><a href="https://www.theguardian.com/world/2015/may/25/china-nuclear-power-plants-expansion-he-zuoxiu">China warned over 'insane' plans for new nuclear power plants<br>
-</a></li>
-</ul>
+        <updated>2020-05-28T08:07:38.000Z</updated>
+        <content type="html"><![CDATA[<p>原文：<a href="https://franz.com/services/conferences_seminars/lisp_50th-birthday.lhtml">Lisp's 50th Birthday Celebration</a> by <a href="https://www.dreamsongs.com/Bio.html">Richard P. Gabriel</a></p>
+<p>译文：<br>
+  事起1958 年 10 月，John McCarthy 发表了一系列关于自己正致力于设计一个适用于人工智能研究的新编程语言的报告中的一篇。该篇报告里首次将这一新编程语言命名为 LISP。此后50 年，Lisp 仍被广泛使用。在过往的 50 年中，伴随着许多变化和调整，并产生出一些在许多方面与其最初设计截然不同的方言，但是它的中心思想仍然不变，使其成为今天仍在使用的最古老的语言之一，仅次于 Fortran。</p>
+<p>  第一个 Lisp 的最终实现发表在 1960 年的 Communications of the ACM (CACM) 上。那一版本的 Lisp 首创了几个至今仍被采纳的语言特性：Lisp 引入了一个条件表达式，后来被其他语言拿去作一般性的 if 语句；它引入了递归和第一类 (first-class) 函数，函数式和其他编程语言的核心成分；它引入了变量的引用语义，若没它的话便不会有面向对象编程语言；它引入了符号表达式，通用和统一的数据和程序的表示形式 (被重新发明成 XML)，后者使得程序可以在应用里进行转换；它很早就在编程语言里引入了垃圾收集机制；并且它甚至已经有了一个元数据组合以及基于符号和属性列表的动态派发机制。</p>
+<p>  Lisp 无疑是计算机科学史上最具影响力的编程语言之一：Timothy Hart 在 1960 年代为 Lisp 增加了宏；Warren Teitelman 在 60 年代发明了一个 advice 机制，成为了面向对象 (aspect-oriented) 编程的最早先驱；Carl Hewitt 将 Lisp 作为一个开发回溯 (逻辑编程的本质) 和其他 actor 模型的平台；Alan Kay 也承认 Lisp 对于 SmallTalk 的重要影响，后者是第一个明确的面向对象编程语言；Brian Smith 开发了第一个基于续延 (continuation-based) 的 Web 应用；直到今天 Lisp 仍处在即将到来的 Web 3.0 的前沿。</p>
+<p>  我们想着庆祝Lisp的50岁生日。而OOPSLA 2008恰是举办这样一场庆祝活动的绝佳场所，因为面向对象编程从Lisp思想中受益匪浅，况且OOPSLA 2008是在10月份举行的，这正好是Lisp问世的50年后。</p>
+<p>  John McCarthy已同意做一个关于Lisp早期历史的演讲，他曾在OOPSLA 2007上做了演讲此番再回到了OOPSLA。Guy Steele 和 Richard Gabriel 将展现一组不同寻常的幻灯片，重复他们关于1992年以来Lisp发展的HOPL-II演讲。Pascal Costanza 将谈论Lisp社区最近的发展，这个社区在经历了人工智能的冬天之后，迎来了令人惊讶的复苏。我们将邀请其他有影响力的Lisp，介绍过去50年里Lisp发展的重要方面。最后，我们将举行一个关于Lisp未来50年的公开小组讨论。</p>
+<p>  OOPSLA 2008将于10月19日至23日在美国田纳西州的纳什维尔举行。OOPSLA是全世界面向对象编程的主要年度会议，20余年来一直吸引着该领域数最优秀的人才。更多关于OOPSLA 2008的信息，请访问http://oopsla.org 。</p>
 ]]></content>
     </entry>
     <entry>
@@ -325,19 +293,51 @@ Dave Dyer (from USC ISI)<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[翻译] Lisp：50周年 （1958-2008）]]></title>
-        <id>https://alaskasquirrel.github.io/post/Lisp50/</id>
-        <link href="https://alaskasquirrel.github.io/post/Lisp50/">
+        <title type="html"><![CDATA[能源变革，悄无声息]]></title>
+        <id>https://alaskasquirrel.github.io/post/earth/</id>
+        <link href="https://alaskasquirrel.github.io/post/earth/">
         </link>
-        <updated>2020-05-23T08:07:38.000Z</updated>
-        <content type="html"><![CDATA[<p>原文：<a href="https://franz.com/services/conferences_seminars/lisp_50th-birthday.lhtml">Lisp's 50th Birthday Celebration</a> by <a href="https://www.dreamsongs.com/Bio.html">Richard P. Gabriel</a></p>
-<p>译文：<br>
-  事起1958 年 10 月，John McCarthy 发表了一系列关于自己正致力于设计一个适用于人工智能研究的新编程语言的报告中的一篇。该篇报告里首次将这一新编程语言命名为 LISP。此后50 年，Lisp 仍被广泛使用。在过往的 50 年中，伴随着许多变化和调整，并产生出一些在许多方面与其最初设计截然不同的方言，但是它的中心思想仍然不变，使其成为今天仍在使用的最古老的语言之一，仅次于 Fortran。</p>
-<p>  第一个 Lisp 的最终实现发表在 1960 年的 Communications of the ACM (CACM) 上。那一版本的 Lisp 首创了几个至今仍被采纳的语言特性：Lisp 引入了一个条件表达式，后来被其他语言拿去作一般性的 if 语句；它引入了递归和第一类 (first-class) 函数，函数式和其他编程语言的核心成分；它引入了变量的引用语义，若没它的话便不会有面向对象编程语言；它引入了符号表达式，通用和统一的数据和程序的表示形式 (被重新发明成 XML)，后者使得程序可以在应用里进行转换；它很早就在编程语言里引入了垃圾收集机制；并且它甚至已经有了一个元数据组合以及基于符号和属性列表的动态派发机制。</p>
-<p>  Lisp 无疑是计算机科学史上最具影响力的编程语言之一：Timothy Hart 在 1960 年代为 Lisp 增加了宏；Warren Teitelman 在 60 年代发明了一个 advice 机制，成为了面向对象 (aspect-oriented) 编程的最早先驱；Carl Hewitt 将 Lisp 作为一个开发回溯 (逻辑编程的本质) 和其他 actor 模型的平台；Alan Kay 也承认 Lisp 对于 SmallTalk 的重要影响，后者是第一个明确的面向对象编程语言；Brian Smith 开发了第一个基于续延 (continuation-based) 的 Web 应用；直到今天 Lisp 仍处在即将到来的 Web 3.0 的前沿。</p>
-<p>  我们想着庆祝Lisp的50岁生日。而OOPSLA 2008恰是举办这样一场庆祝活动的绝佳场所，因为面向对象编程从Lisp思想中受益匪浅，况且OOPSLA 2008是在10月份举行的，这正好是Lisp问世的50年后。</p>
-<p>  John McCarthy已同意做一个关于Lisp早期历史的演讲，他曾在OOPSLA 2007上做了演讲此番再回到了OOPSLA。Guy Steele 和 Richard Gabriel 将展现一组不同寻常的幻灯片，重复他们关于1992年以来Lisp发展的HOPL-II演讲。Pascal Costanza 将谈论Lisp社区最近的发展，这个社区在经历了人工智能的冬天之后，迎来了令人惊讶的复苏。我们将邀请其他有影响力的Lisp，介绍过去50年里Lisp发展的重要方面。最后，我们将举行一个关于Lisp未来50年的公开小组讨论。</p>
-<p>  OOPSLA 2008将于10月19日至23日在美国田纳西州的纳什维尔举行。OOPSLA是全世界面向对象编程的主要年度会议，20余年来一直吸引着该领域数最优秀的人才。更多关于OOPSLA 2008的信息，请访问http://oopsla.org 。</p>
+        <updated>2020-05-23T13:03:03.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>
+<p>(封面 https://pixabay.com/）</p>
+</li>
+<li>
+<p>据Fraunhofer 研究所的报告，2018年德国可更新能源的发电量首次超过了煤炭发电。德国作为欧洲最大的经济体，原定到 2030 年由可更新能源提供 65% 的电力，且预到 2022 年完全退出核能，并计划逐步淘汰煤炭。研究显示，去年德国太阳能、风能、生物质能和水电产生了 219 TWh 的电力，占到了总发电量 542 TWh 的四成以上，超过了煤炭的 38%。研究人员认为 2019 年可更新能源的发电量同样不会低于四成。</p>
+</li>
+<li>
+<p>2019年6月，英国国家电网表示，本年前五个月，来自清洁能源发电量占到了 48% ，超过了煤炭和天然气的 47%，其余是生物质燃烧。英国国家电网称，煤炭的发电量过去十年从 30% 降至了 3%，而风能从 1% 提高到 19%。同时英国还从欧洲大陆进口了一部分电，主要来自法国核电。英国估计到 2030 年清洁能源来源将占到九成。</p>
+</li>
+<li>
+<p>2020年6月10日，到周三的午夜，英国已经两个整月没有用燃煤发电。而在十年前，英国四成的电力来自煤炭，新冠是故事的一部分，但不是全部。为遏制疫情快速扩散，英国实施了封锁政策，电力需求大幅下跌，国家电网随后从电网中下线了部分发电厂，而英国最后的 4 座燃煤发电厂是首当其冲遭到关闭的。最后的燃煤发电站离线是在 4 月 9 日午夜，无火电的情况一直持续至今。十年前，英国 3% 的电力来自风力和太阳能，今天英国有着世界规模最大的离岸风电行业。十年前的英国最大燃煤发电厂如今已经转向了压缩木球。</p>
+</li>
+<li>
+<p>受新冠疫情的影响，美国可更新能源发电量今年有望首次超过燃煤火电。这一结果在十年前是无法想象的，当时美国的电力需求近半是由火电供应。随着风力电场和太阳能的建造成本降低，经济力量驱动了火电的减少，疫情更是将美国的煤电行业推入深渊。为遏制病毒的扩散，美国的经济活动大幅下降，工厂、零售商、办公楼纷纷关闭，电力需求相应的也大幅减少，由于煤电的运营成本比燃气和可更新能源更高，电力公司因此关闭了燃煤发电厂。今年已经有 90 天美国的风电、太阳能和水电发电量超过了煤电。在过去十年里，可再生能源的成本急剧下降，一直超过专家的预期。从2009年到2019年，风力发电的成本下降了70%，而大型太阳能的成本下降了近90，2010年到2019年，太阳能电池成本也下降了近90%。<br>
+<img src="https://alaskasquirrel.github.io/post-images/1594469598317.jpg" alt="" loading="lazy"><br>
+图为美国国家可再生能源实验室的年度技术基准(ATB)对未来风能和太阳能的成本预测。从图中可以看出，风能和太阳能发电的成本下降速度一直都过预期。(https://www.2035report.com/)<br>
+<img src="https://alaskasquirrel.github.io/post-images/1594470068960.jpg" alt="" loading="lazy"></p>
+</li>
+</ul>
+<p>消息来源：</p>
+<ul>
+<li>https://www.reuters.com/article/us-germany-power-renewables/renewables-overtake-coal-as-germanys-main-energy-source-idUSKCN1OX0U2</li>
+<li>https://www.bbc.com/news/science-environment-48711649</li>
+<li>https://www.bbc.com/news/science-environment-52973089</li>
+<li>https://www.nytimes.com/2020/05/13/climate/coronavirus-coal-electricity-renewables.html</li>
+</ul>
+<p>悄无声息：</p>
+<ul>
+<li><a href="https://spectrum.ieee.org/energy/nuclear/too-cheap-to-meter-nuclear-power-revisited">After 50 years of operation, nuclear electric generation is still having teething pains</a></li>
+<li><a href="https://spectrum.ieee.org/energywise/energy/nuclear/a-double-first-in-china-for-advanced-nuclear-reactors">Safer reactors designed in the U.S. and Europe make their power grid debuts in China</a></li>
+<li><a href="https://thebulletin.org/2019/12/good-news-for-climate-change-india-gets-out-of-coal-and-into-renewable-energy/">Good news for climate change: India gets out of coal and into renewable energy<br>
+</a></li>
+<li><a href="https://thebulletin.org/2013/06/nuclear-aging-not-so-graceful/">Nuclear aging: Not so graceful<br>
+</a></li>
+<li><a href="https://chinadialogue.net/en/energy/5808-chinese-nuclear-disaster-highly-probable-by-2-3/">Chinese nuclear disaster “highly probable” by 2030<br>
+</a></li>
+<li><a href="https://www.theguardian.com/world/2015/may/25/china-nuclear-power-plants-expansion-he-zuoxiu">China warned over 'insane' plans for new nuclear power plants<br>
+</a></li>
+</ul>
 ]]></content>
     </entry>
     <entry>
@@ -620,7 +620,9 @@ negative October 1860, print 1862.</p>
 <a href="http://www.goodmath.org/blog/">Good Math/Bad Math</a><br>
 《数学极客：探索数学、逻辑、计算之美》Mark C. Chu-Carroll 机械出版社2018年出版。<br>
 《哥德尔证明》欧内斯特·内格尔(Ernest Nagel),詹姆士 R. 纽曼(James R. Newman).<br>
-From Mathematics to Philosophy 王浩 1974.<br>
+《From Mathematics to Philosophy》 王浩 1974.<br>
+&lt; On the building blocks of mathematical logic&gt; Moses Schonfinkel 1924<br>
+《数理逻辑是什么》John N. Crossley 中国轻工业出版社。<br>
 《数理逻辑导引》冯琦 科学出版社2017年9月出版。<br>
 《数理逻辑   证明及其限度》杨跃、郝兆宽、杨睿之<br>
 《数理逻辑通俗讲话》王浩 著， 科学出版社1981年2月出版。<br>
@@ -647,7 +649,7 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <a href="https://steshaw.org/plt/">Programming Language Theory</a><br>
 <a href="https://www.cs.cmu.edu/~crary/819-f09/">Classic Papers in Programming Languages and Logic</a> by <a href="https://www.cs.cmu.edu/~crary/">Karl Crary</a><br>
 <a href="https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksinPL.shtml">Great Works in Programming Languages</a> Collected by Benjamin C. Pierce<br>
-<a href="https://softwarefoundations.cis.upenn.edu/index.html">The Software Foundations series is a broad introduction to the mathematical underpinnings of reliable software.</a><br>
+<a href="https://softwarefoundations.cis.upenn.edu/index.html">The Software Foundations series is a broad introduction to the mathematical underpinnings of reliable software.</a> &amp; <a href="https://coq-zh.github.io/SF-zh/">中译版《软件基础》</a><br>
 &lt; The Calculi of Lambda-Conversion &gt;  Alonzo Church<br>
 <a href="https://hbr.github.io/Lambda-Calculus/">Lambda Calculus</a><br>
 <a href="https://turing100.acm.org/lambda_calculus_timeline.pdf">λ-Calculus: Then &amp; Now</a>     Dana S. Scott<br>
@@ -664,15 +666,15 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <li>&lt; Scheme and the Art of Programing &gt;</li>
 <li>&lt; Essentials of Programming Languages &gt;</li>
 <li>&lt;<a href="https://www.scheme.com/tspl4">The Scheme Programming Language, 4th Edition</a>&gt;</li>
-<li>&lt;<a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/cltl2.html">Common Lisp the Language, 2nd Edition</a>&gt; by  Guy L. Steele Jr. 全面且详细</li>
+<li>&lt;<a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/cltl2.html">Common Lisp the Language, 2nd Edition</a>&gt; by  Guy L. Steele Jr. &amp;全面且详细</li>
 <li><a href="http://paulgraham.com/onlisptext.html">&lt; On Lisp: Advanced Techniques for Common Lisp&gt;</a>Paul Graham 高级编程 <a href="https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download">中文翻译</a></li>
 <li><a href="https://letoverlambda.com/textmode.cl"><Let Over Lambda></a>Doug Hoyte 《On《On Lisp》》</li>
 <li><a href="https://www.gigamonkeys.com/book/"><Practical Common Lisp></a>Peter Seibel 译《实用Common Lisp编程》田春</li>
 <li>&lt; Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS&gt;Sonja E. Keene</li>
-<li>&lt; ANSI Common Lisp &gt;Paul Graham <a href="https://acl.readthedocs.io/en/latest/zhCN/index.html">中文翻译</a> 基础教程</li>
+<li>&lt; ANSI Common Lisp &gt;Paul Graham <a href="https://acl.readthedocs.io/en/latest/zhCN/index.html">中文翻译</a> &amp;基础教程</li>
 <li>&lt;<a href="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html">Structure and Interpretation of Computer Programs</a>&gt; 译《计算机程序的构造与解释》</li>
 <li>&lt; Lisp in Small Pieces&gt; Christian Queinnec</li>
-<li>&lt;<a href="https://github.com/norvig/paip-lisp">Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp</a>&gt;经典AI算法，侧重逻辑和推理。study lisp.</li>
+<li>&lt;<a href="https://github.com/norvig/paip-lisp">Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp</a>&gt; &amp;经典AI算法，侧重逻辑和推理。study lisp.</li>
 <li><a href="https://legacy-cs.sice.indiana.edu/~dfried/">&lt;小人书&gt;</a>Daniel P. Friedman</li>
 <li>&lt; Clojure Programming &gt;</li>
 </ul>
@@ -699,6 +701,7 @@ From Mathematics to Philosophy 王浩 1974.<br>
 《人工智能》上下册 陆汝钤</p>
 <p>教師課程：☣️</p>
 <p><a href="https://www.cs.cornell.edu/courses/cs7194/2019sp/">cs7194(Spring 2019) Great Works in Programming Languages</a><br>
+<a href="https://www.cst.cam.ac.uk/teaching">Computer Science and Technology</a> University of Cambridge<br>
 <a href="http://ocw.aca.ntu.edu.tw/ntu-ocw/">臺大開放式課程(NTU OpenCourseWare)</a><br>
 <a href="http://www-scf.usc.edu/~csci564/">cs564-Fall2000      Brain Theory and Artificial Intelligence</a><br>
 <a href="https://www.cs.princeton.edu/courses/archive/fall19/cos326/">cos326: Functional Programming(fall2019)Princeton</a><br>
@@ -766,6 +769,11 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <td style="text-align:center">郝兆宽 、杨睿之 、杨跃</td>
 <td style="text-align:center"><a href="http://fdjpkc.fudan.edu.cn/d201409/main.htm">数理逻辑</a></td>
 <td style="text-align:center">复旦大学 哲学系</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://people.mpi-sws.org/~dreyer/">Derek Dreyer</a></td>
+<td style="text-align:center"><a href="https://ttic.uchicago.edu/~dreyer/course/">CMSC 32001-1: Advanced Type Systems</a> &amp; 详见 https://people.mpi-sws.org/~dreyer/teaching.html</td>
+<td style="text-align:center"></td>
 </tr>
 <tr>
 <td style="text-align:center">Courses in CSE</td>
@@ -861,6 +869,11 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <td style="text-align:center">Norbert Zeh</td>
 <td style="text-align:center">详见 https://web.cs.dal.ca/~nzeh/index.html</td>
 <td style="text-align:center">Dalhousie</td>
+</tr>
+<tr>
+<td style="text-align:center">Nelma Moreira</td>
+<td style="text-align:center">详见 https://www.dcc.fc.up.pt/~nam/web/Teaching/index.html</td>
+<td style="text-align:center"></td>
 </tr>
 </tbody>
 </table>
@@ -959,6 +972,8 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《经济改革与宪政转轨：回应》</a> 杨小凯 2003年。</li>
 <li>《百年中国经济史笔记-从晚清到2002》杨小凯(1948-2004)</li>
 <li><a href="http://www.rmlt.com.cn/2016/0620/429319.shtml">&lt;准确认识今天的世界&gt;</a> 吴建民(1939-2016) . 2016年3月30日, 外交学院。</li>
+<li><a href="http://davidharvey.org/">Reading Marx's Capital with David Harvey</a></li>
+<li>&lt; Main Currents of Marxism&gt; Leszek Kolakowski 译《马克思主义的主要流派》三卷，黑龙江大学出版社2015.</li>
 </ul>
 <p>科学：☢️</p>
 <p><a href="https://www.math.columbia.edu/~woit/wordpress">Not Even Wrong</a>  Peter Woit<br>
@@ -981,7 +996,7 @@ From Mathematics to Philosophy 王浩 1974.<br>
 <a href="http://nautil.us">Nautilus | Science Connected</a><br>
 <a href="https://www.worldwideneuro.com">World Wide Neuro</a><br>
 <a href="https://www.climatechangenews.com/">Climate Change News</a><br>
-<a href="https://www.ximalaya.com/keji/30980200/228347042">脑人言podcast：AI离大脑究竟有多远？脑模拟研究解密(专访孙哲)</a>  - <a href="https://zhuanlan.zhihu.com/p/94380103">文字稿</a></p>
+<a href="https://www.ximalaya.com/keji/30980200/228347042">脑人言podcast：AI离大脑究竟有多远？脑模拟研究解密(专访孙哲)</a>  &amp; <a href="https://zhuanlan.zhihu.com/p/94380103">文字稿</a></p>
 <p>探索：🔱</p>
 <p><a href="https://www.eso.org/public">European Southern Observatory</a><br>
 <a href="https://www.spacetelescope.org">HUBBLE Space Telescope</a><br>
