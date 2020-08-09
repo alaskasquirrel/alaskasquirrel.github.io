@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-08-07T17:57:06.975Z</updated>
+    <updated>2020-08-09T05:18:14.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -609,7 +609,7 @@ negative October 1860, print 1862.</p>
 <a href="https://www.cs.cmu.edu/~rwh/courses/ppl/phil.html">Why Study Programming Languages?</a> by Robert Harper<br>
 <a href="http://ed-thelen.org/comp-hist/EarlyBritish.html">Early British Computers</a><br>
 <a href="http://ed-thelen.org/comp-hist/CBC.html">Computing Before Computers</a><br>
-&lt; The Pattern on the Stone&gt; Danny Hillis       解释计算机如何运转<br>
+&lt; The Pattern on the Stone&gt; Danny Hillis &amp; 解释计算机如何运转<br>
 <a href="https://www.bbc.com/news/technology-18327261">Prof Simon Lavington (Computer historian) - &quot;Alan Turing: Is he really the father of computing?&quot;</a><br>
 <a href="https://people.cs.clemson.edu/~mark/uprog.html">A Brief History of Microprogramming</a><br>
 <a href="https://people.freebsd.org/~lstewart/articles/cpumemory.pdf">What every Programmer should know about Memory</a>    Ulrich Drepper 2007<br>
@@ -667,14 +667,14 @@ negative October 1860, print 1862.</p>
 <li>&lt; Essentials of Programming Languages &gt;</li>
 <li>&lt;<a href="https://www.scheme.com/tspl4">The Scheme Programming Language, 4th Edition</a>&gt;</li>
 <li>&lt;<a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/cltl2.html">Common Lisp the Language, 2nd Edition</a>&gt; by  Guy L. Steele Jr. &amp;全面且详细</li>
-<li><a href="http://paulgraham.com/onlisptext.html">&lt; On Lisp: Advanced Techniques for Common Lisp&gt;</a>Paul Graham 高级编程 <a href="https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download">中文翻译</a></li>
+<li><a href="http://paulgraham.com/onlisptext.html">&lt; On Lisp: Advanced Techniques for Common Lisp&gt;</a>Paul Graham 高级编程 &amp;  <a href="https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download">中文翻译</a></li>
 <li><a href="https://letoverlambda.com/textmode.cl"><Let Over Lambda></a>Doug Hoyte 《On《On Lisp》》</li>
 <li><a href="https://www.gigamonkeys.com/book/"><Practical Common Lisp></a>Peter Seibel 译《实用Common Lisp编程》田春</li>
 <li>&lt; Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS&gt;Sonja E. Keene</li>
-<li>&lt; ANSI Common Lisp &gt;Paul Graham <a href="https://acl.readthedocs.io/en/latest/zhCN/index.html">中文翻译</a> &amp;基础教程</li>
+<li>&lt; ANSI Common Lisp &gt;Paul Graham <a href="https://acl.readthedocs.io/en/latest/zhCN/index.html">中文翻译</a> &amp; 基础教程</li>
 <li>&lt;<a href="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html">Structure and Interpretation of Computer Programs</a>&gt; 译《计算机程序的构造与解释》</li>
 <li>&lt; Lisp in Small Pieces&gt; Christian Queinnec</li>
-<li>&lt;<a href="https://github.com/norvig/paip-lisp">Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp</a>&gt; &amp;经典AI算法，侧重逻辑和推理。study lisp.</li>
+<li>&lt;<a href="https://github.com/norvig/paip-lisp">Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp</a>&gt; &amp; 经典AI算法，侧重逻辑和推理。study lisp.</li>
 <li><a href="https://legacy-cs.sice.indiana.edu/~dfried/">&lt;小人书&gt;</a>Daniel P. Friedman</li>
 <li>&lt; Clojure Programming &gt;</li>
 </ul>
@@ -683,7 +683,7 @@ negative October 1860, print 1862.</p>
 &lt;<a href="https://norvig.com/design-patterns/design-patterns.pdf">Design Patterns in Dynamic Programming</a>&gt;  by <a href="http://norvig.com/">Peter Norvig</a><br>
 &lt; Inside The Python Virtual Machine&gt; Obi ike-Nwosu<br>
 <a href="https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice">10 Papers Every Developer Should Read</a><br>
-&lt; The Golden Ticket&gt; 2013 介绍NP完全问题和P=NP问题<br>
+&lt; The Golden Ticket&gt; 2013 &amp; 介绍NP完全问题和P=NP问题<br>
 &lt; From Frege to Godel A Source Book in Mathematical Logic, 1879-1931 &gt;<br>
 &lt; The Annotated Turing&gt; Charles Petzold 2008<br>
 《数学哲学：对数学的思考》Stewart Shapiro 郝兆宽(译) 杨睿之(译)<br>
@@ -897,7 +897,7 @@ negative October 1860, print 1862.</p>
 <li><a href="https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction">Anders Hejlsberg on Modern Compiler Construction</a> May 13, 2016.</li>
 </ul>
 <p>追踪学习：🈺</p>
-<p>&lt; The Quest for Artificial Intelligence&gt;Nils Nilsson 2010     介绍早期人工智能<br>
+<p>&lt; The Quest for Artificial Intelligence&gt;Nils Nilsson 2010 &amp; 介绍早期人工智能<br>
 <a href="https://www.zybuluo.com/hanbingtao/note/433855">韩炳涛: 零基础入门深度学习系列</a><br>
 <a href="https://lexfridman.com/">Lex Fridman</a><br>
 <a href="http://speech.ee.ntu.edu.tw/~tlkagk/">李宏毅 Hung-yi Lee</a><br>
@@ -911,8 +911,8 @@ negative October 1860, print 1862.</p>
 &lt; What is Artificial Interlligence?&gt;John McCarthy 2007<br>
 <a href="https://deepmind.com/blog/">DeepMind</a><br>
 <a href="https://openai.com">OpenAI</a><br>
-<a href="https://www.fast.ai/">Fast.AI</a><br>
-<a href="https://ethfans.org">EthFans | 以太坊爱好者</a><br>
+<a href="https://www.fast.ai/">Fast.AI</a></p>
+<p><a href="https://ethfans.org">EthFans|以太坊爱好者</a><br>
 <a href="https://eprint.iacr.org/">Cryptology ePrint Archive</a><br>
 <a href="https://nakamotoinstitute.org/">Satoshi Nakamoto Institute</a><br>
 <a href="https://doi.org/10.6082/NIST.IR.8202">Blockchain Technology Overview</a><br>
@@ -927,6 +927,9 @@ negative October 1860, print 1862.</p>
 <a href="https://www.schneier.com">️️Bruce Schneier on Security</a><br>
 <a href="http://wiki.ioin.in">Sec-News 安全文摘</a><br>
 <a href="https://citizenlab.ca">The Citizen Lab</a><br>
+<a href="https://gfw.report/">GFW Report</a><br>
+<a href="https://seclists.org">SecLists.Org Security Mailing List Archive</a><br>
+<a href="https://public-interest-tech.com">Public-Interest Technology Resources</a><br>
 <a href="https://www.cryptolux.org/index.php/Home">CryptoLUX</a><br>
 <a href="https://crypto.stanford.edu">Applied Cryptography Group</a><br>
 <a href="http://seclab.stanford.edu">Stanford Computer Security Laboratory</a></p>
@@ -974,6 +977,10 @@ negative October 1860, print 1862.</p>
 <li><a href="http://www.rmlt.com.cn/2016/0620/429319.shtml">&lt;准确认识今天的世界&gt;</a> 吴建民(1939-2016) . 2016年3月30日, 外交学院。</li>
 <li><a href="http://davidharvey.org/">Reading Marx's Capital with David Harvey</a></li>
 <li>&lt; Main Currents of Marxism&gt; Leszek Kolakowski 译《马克思主义的主要流派》三卷，黑龙江大学出版社2015.</li>
+<li>Michael Polanyi(1891-1976)</li>
+<li>SirKarl Raimund Popper(1902-1994)</li>
+<li>Benjamin I. Schwartz(1916-1999)</li>
+<li>Jr. Arthur M. schlesinger(1917-2007)</li>
 </ul>
 <p>科学：☢️</p>
 <p><a href="https://www.math.columbia.edu/~woit/wordpress">Not Even Wrong</a>  Peter Woit<br>
