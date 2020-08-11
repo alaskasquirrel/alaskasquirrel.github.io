@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-08-09T05:18:14.828Z</updated>
+    <updated>2020-08-11T07:01:04.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -341,18 +341,23 @@ Dave Dyer (from USC ISI)<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Godel on Minds and Machines]]></title>
-        <id>https://alaskasquirrel.github.io/post/哥德尔/</id>
-        <link href="https://alaskasquirrel.github.io/post/哥德尔/">
+        <title type="html"><![CDATA[Kurt Gödel ]]></title>
+        <id>https://alaskasquirrel.github.io/post/KurtGödel /</id>
+        <link href="https://alaskasquirrel.github.io/post/KurtGödel /">
         </link>
         <updated>2020-05-21T16:03:43.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>
-<p>逻辑之旅：从哥德尔到哲学 . 王浩. 第6章 - 心灵与机器：论可计算主义. P231.<br>
-  可以设想(虽然远远超过今日科学的界限)，脑生理学将发展到这样的高度，让人们能够在经验上肯定：(1) 人脑足以理解所有的心智现象，它在图灵的意义上就是一台机器; (2)人脑进行数学思维的部分，其物质构造何生理功能不外是如此一般。—— 哥德尔，吉布斯 演讲，1951年.</p>
-</li>
-<li>
-<p>'From Mathematics to Philosophy' 王浩, 1974，P324.<br>
+        <content type="html"><![CDATA[<p>  与大多数数学结果不同的是，哥德尔的不完备性定理并不是用符号或数学公式表述，虽然证明的细节艰深而富有技巧性，让人高兴地是证明的整体策略却不难。在所有让人眼花缭乱的公式结束后，两个结论可以用多少比较浅白的语言表述出来，《哲学百科全书》中“哥德尔定理”一文以对这两个定理清晰的阐释开始：(J. van Heijenoort, The Encyclopedia of Philosophy, Vol 3, 编辑, Paul Edwards ( New York: Macmillan Publishing Co. ,Inc. ,and the Free Press, 1967 ),pp. 348~349.)</p>
+<ul>
+<li>哥德尔定理通常意指以下陈述：</li>
+<li>任何足以包含初等数论的形式系统中都存在不可判定的命题——即，命题即不能被证实也不能被证伪。（这个陈述有时候也被称为哥德尔第一定理。）</li>
+<li>这个定理的一个推论是任何足以包含初等数论的形式系统的一致性不能在这个系统内部被证明。（这个推论就是哥德尔定理；有时候也被称为哥德尔第二定理。）</li>
+<li>这稍微有些含糊的陈述是哥德尔1931年在维也纳发表的结果的简要阐释。(Uber formal unentscheidbare Satze der Principia mathematica und verwandter Systeme I ,(1931). Kurt Godel Collected Works: Volume I Publications 1929-1936 . p144. )</li>
+</ul>
+<p>Minds and Machines</p>
+<ul>
+<li>逻辑之旅：从哥德尔到哲学 . 王浩. 第6章 - 心灵与机器：论可计算主义. p231.<br>
+  可以设想(虽然远远超过今日科学的界限)，脑生理学将发展到这样的高度，让人们能够在经验上肯定：(1) 人脑足以理解所有的心智现象，它在图灵的意义上就是一台机器; (2)人脑进行数学思维的部分，其物质构造何生理功能不外是如此一般。—— 哥德尔，吉布斯 演讲，1951年.</li>
+<li>'From Mathematics to Philosophy' 王浩, 1974，P324.<br>
   In Godel’s opinion (as set forth in the unpublished 25th Josiah<br>
 Willard Gibbs Lecture13 delivered by him at Providence on Decem­<br>
 ber 26, 1951) the two most interesting rigorously proved results<br>
@@ -370,16 +375,10 @@ number theory.<br>
   2 The second result is the following disjunction: Either the human<br>
 mind surpasses all machines (to be more precise: it can decide more<br>
 number theoretical questions than any machine) or else there exist<br>
-number theoretical questions undecidable for the human mind.</p>
-</li>
-<li>
-<p>Kurt Godel. Collected Works   Volume III , Unpublished essays and lectures .</p>
-</li>
-<li>
-<p>纪志刚  2003年1月 <a href="http://shc2000.sjtu.edu.cn/030104/ganwu.htm">感悟《哥德尔》</a></p>
-</li>
+number theoretical questions undecidable for the human mind.</li>
 </ul>
-<p>  有一个人曾在不到两年的时间内让数学界感受了大喜与大悲的经历，他就是哥德尔（Kurt Gödel,1906.4.28-1978.1.14）。<br>
+<p>纪志刚  2003年1月 <a href="http://shc2000.sjtu.edu.cn/030104/ganwu.htm">感悟《哥德尔》</a>：<br>
+  有一个人曾在不到两年的时间内让数学界感受了大喜与大悲的经历，他就是哥德尔（Kurt Gödel, 1906.4.28 - 1978.1.14）。<br>
 　　1929年秋，哥德尔在他的博士论文中证明了一阶逻辑的完全性，这对于当时试图以“公理化”方法构建数学基础的形式主义学派是一个莫大的鼓舞。希尔伯特，形式主义学派的领军人物，确信他的元数学和证明论将会成功地确立全部数学的相容性和完全性。哥德尔的逻辑完全性定理似乎表明曙光就在前头。1930年夏天，柯尼斯堡，康德的诞生地，也是希尔伯特的故乡，在接受“荣誉市民”受礼仪式的演说中，希尔伯特坚定地说出最后一句话：“我们必须知道，我们必将知道（Wir müssen wissen. Wir werden wissen）”。<br>
 　　但就在第二年，哥德尔发表的另一篇论文却打开了“潘多拉的盒子”。这篇题为《论〈数学原理〉及有关系统的形式不可判定命题》（1931年）的论文包含了两个惊世骇俗的结论，其中对数学界尤具毁灭性的断言是：任何数学系统，只要其能包含整数的算术，其相容性就不可能通过几个基础学派（逻辑主义学派、形式主义学派、集合论公理化学派）采用的逻辑原理建立。希尔伯特的幻想破灭了，数学的“灾难”降临了！有人悲叹地说：“上帝是存在的，因为数学无疑是相容的；魔鬼也是存在的，因为我们不能证明这种相容性。”（外尔）<br>
   哥德尔的影响是深远的，最新的一个例子足以说明。2002年夏天北京国际数学家大会，霍金的报告就是《哥德尔与Ｍ理论》。在当今国际物理研究领域，很多科学家提出有可能存在一个能描述一切物理现象的理论，并把这一理论称为超弦理论。霍金认为，建立一个单一的描述宇宙的大统一理论是不太可能的。霍金说他的这一推测正是基于数学领域的哥德尔不完全性定理。<br>
@@ -934,6 +933,7 @@ negative October 1860, print 1862.</p>
 <a href="https://crypto.stanford.edu">Applied Cryptography Group</a><br>
 <a href="http://seclab.stanford.edu">Stanford Computer Security Laboratory</a></p>
 <p>历史、文化与经济：☪️</p>
+<figure data-type="image" tabindex="1"><img src="https://alaskasquirrel.github.io/post-images/1596983180057.jpg" alt="" loading="lazy"></figure>
 <ul>
 <li>《中国摄影史》Terry Bennett 中国摄影出版社。</li>
 <li><a href="http://www.bjmem.com.cn">北京記憶</a></li>
@@ -982,6 +982,7 @@ negative October 1860, print 1862.</p>
 <li>Benjamin I. Schwartz(1916-1999)</li>
 <li>Jr. Arthur M. schlesinger(1917-2007)</li>
 </ul>
+<figure data-type="image" tabindex="2"><img src="https://alaskasquirrel.github.io/post-images/1596983214022.jpg" alt="" loading="lazy"></figure>
 <p>科学：☢️</p>
 <p><a href="https://www.math.columbia.edu/~woit/wordpress">Not Even Wrong</a>  Peter Woit<br>
 《从零学相对论》梁灿彬 曹周键<br>
@@ -1033,6 +1034,8 @@ negative October 1860, print 1862.</p>
 <li>&lt; English Through Pictures &gt;1、2、3册.</li>
 </ul>
 <p>&lt; Basic Korean : A Grammar and Workbook&gt; Andrew Byon</p>
+<p><img src="https://alaskasquirrel.github.io/post-images/1597128759022.jpg" alt="" loading="lazy"><br>
+(still-life-with-flowers-in-a-glass-vase-jan-davidsz-de-heem-1650)</p>
 ]]></content>
     </entry>
 </feed>
