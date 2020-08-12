@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-08-11T07:02:01.258Z</updated>
+    <updated>2020-08-12T16:09:21.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://alaskasquirrel.github.io/images/avatar.png</logo>
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, NewOld </rights>
+    <entry>
+        <title type="html"><![CDATA[数理逻辑（更新中）]]></title>
+        <id>https://alaskasquirrel.github.io/post/MathematicLogic/</id>
+        <link href="https://alaskasquirrel.github.io/post/MathematicLogic/">
+        </link>
+        <updated>2020-07-10T15:54:10.000Z</updated>
+        <content type="html"><![CDATA[<p>持续更新</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 10 配置]]></title>
         <id>https://alaskasquirrel.github.io/post/windows/</id>
@@ -60,7 +69,7 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[爱国守法]]></title>
+        <title type="html"><![CDATA[爱国守法（更新中）]]></title>
         <id>https://alaskasquirrel.github.io/post/law/</id>
         <link href="https://alaskasquirrel.github.io/post/law/">
         </link>
@@ -189,7 +198,7 @@ Permissioned 区块链网络允许等更为传统的角色 管理员、用户、
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Self-Driving Car]]></title>
+        <title type="html"><![CDATA[Self-Driving Car（更新中）]]></title>
         <id>https://alaskasquirrel.github.io/post/self-driving/</id>
         <link href="https://alaskasquirrel.github.io/post/self-driving/">
         </link>
@@ -490,7 +499,7 @@ http://www.cpu-world.com/CPUs/4004/index.html<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[旧记忆]]></title>
+        <title type="html"><![CDATA[旧记忆（更新中）]]></title>
         <id>https://alaskasquirrel.github.io/post/旧中国影像/</id>
         <link href="https://alaskasquirrel.github.io/post/旧中国影像/">
         </link>
@@ -785,6 +794,11 @@ negative October 1860, print 1862.</p>
 <td style="text-align:center">Stanford</td>
 </tr>
 <tr>
+<td style="text-align:center">CIS352-Spring 2019</td>
+<td style="text-align:center">详见http://www.cis.syr.edu/courses/cis352/</td>
+<td style="text-align:center">Syracuse</td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://legacy-cs.sice.indiana.edu/~dfried/">Daniel P. Friedman</a></td>
 <td style="text-align:center"><a href="https://cgi.soic.indiana.edu/~c311/doku.php">Programming Languages</a></td>
 <td style="text-align:center">Indiana</td>
@@ -887,6 +901,7 @@ negative October 1860, print 1862.</p>
 <li><a href="https://users.cs.duke.edu/~reif/">John H. Reif</a></li>
 <li><a href="https://www.cs.princeton.edu/~arora/">Sanjeev Arora</a></li>
 <li><a href="https://www.boazbarak.org/">Boaz Barak</a></li>
+<li><a href="http://people.cs.ksu.edu/~schmidt/">David Schmidt</a></li>
 </ul>
 <p>Channel 9:</p>
 <ul>
@@ -977,10 +992,12 @@ negative October 1860, print 1862.</p>
 <li><a href="http://www.rmlt.com.cn/2016/0620/429319.shtml">&lt;准确认识今天的世界&gt;</a> 吴建民(1939-2016) . 2016年3月30日, 外交学院。</li>
 <li><a href="http://davidharvey.org/">Reading Marx's Capital with David Harvey</a></li>
 <li>&lt; Main Currents of Marxism&gt; Leszek Kolakowski 译《马克思主义的主要流派》三卷，黑龙江大学出版社2015.</li>
-<li>Michael Polanyi(1891-1976)</li>
-<li>SirKarl Raimund Popper(1902-1994)</li>
-<li>Benjamin I. Schwartz(1916-1999)</li>
-<li>Jr. Arthur M. schlesinger(1917-2007)</li>
+<li>&lt; Personal Knowledge&gt; Michael Polanyi (1891-1976) 译《个人知识：迈向后批判哲学》</li>
+<li>&lt; The Poverty of Historicism&gt; SirKarl Raimund Popper (1902-1994) 译 《历史决定论的贫困》</li>
+<li>&lt; The Open Society and its Enemies&gt; SirKarl R Popper 译 《开放社会及其敌人》</li>
+<li>Edward Albert Shils (1910-1995)</li>
+<li>Benjamin I. Schwartz (1916-1999)</li>
+<li>Jr. Arthur M. Schlesinger (1917-2007)</li>
 </ul>
 <figure data-type="image" tabindex="2"><img src="https://alaskasquirrel.github.io/post-images/1596983214022.jpg" alt="" loading="lazy"></figure>
 <p>科学：☢️</p>
