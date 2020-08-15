@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-08-12T16:09:21.793Z</updated>
+    <updated>2020-08-15T05:14:21.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -11,12 +11,12 @@
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, NewOld </rights>
     <entry>
-        <title type="html"><![CDATA[数理逻辑（更新中）]]></title>
-        <id>https://alaskasquirrel.github.io/post/MathematicLogic/</id>
-        <link href="https://alaskasquirrel.github.io/post/MathematicLogic/">
+        <title type="html"><![CDATA[三个世界]]></title>
+        <id>https://alaskasquirrel.github.io/post/world/</id>
+        <link href="https://alaskasquirrel.github.io/post/world/">
         </link>
-        <updated>2020-07-10T15:54:10.000Z</updated>
-        <content type="html"><![CDATA[<p>持续更新</p>
+        <updated>2020-08-05T07:42:35.000Z</updated>
+        <content type="html"><![CDATA[<p>三个世界</p>
 ]]></content>
     </entry>
     <entry>
@@ -50,6 +50,66 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 <p>RIME 开源输入法 https://rime.im</p>
 <p>系统设置：🔒 <a href="https://fix10.isleaked.com">可选项一律 off 关闭</a><br>
 如若通过 Microsoft Store 安装应用，推荐 Grover Podcast 播客管理软件。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中國歷史文化（讀本）]]></title>
+        <id>https://alaskasquirrel.github.io/post/culture/</id>
+        <link href="https://alaskasquirrel.github.io/post/culture/">
+        </link>
+        <updated>2020-06-19T16:56:47.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://alaskasquirrel.github.io/post-images/1597254209579.jpg" alt="" loading="lazy"></figure>
+<ul>
+<li>《中国摄影史》Terry Bennett 中国摄影出版社。</li>
+<li><a href="http://www.bjmem.com.cn">北京記憶</a></li>
+<li><a href="https://new.shuge.org">书格</a></li>
+<li><a href="https://www.hpcbristol.net">Historical Photographs of China</a></li>
+<li><a href="https://chinafolio.com">Chinafolio</a></li>
+<li><a href="http://www.red-colornewssoldier.com">Red-Color News Soldier</a></li>
+<li><a href="http://www.ioc.u-tokyo.ac.jp/">日本東京大學 東洋文化研究所</a></li>
+<li>《辛亥革命的影像记忆》杨天石 中国人民大学出版社</li>
+<li>&lt;近代日本人中国游记总序&gt;张明杰 刊于《北中国纪行  清国漫游志》中华书局2007年1月出版。</li>
+<li>《叫魂：1768年中国妖术大恐慌》孔飞力(1933-2016) 著 上海三联书店2012年出版。</li>
+<li>《正倉院考古記》傅雲子(1902-1948) , 東京文求堂書店出版1941年。</li>
+<li>金毓黻(1887-1962)</li>
+<li>《國粹學報》(古學彙刊)</li>
+<li>《甲寅雜誌》章士钊(1881-1973)等</li>
+<li><a href="http://www.nssd.org/journal/cn/81391X/200701/">&lt;新文化是如何&quot;运动&quot;起来的——以《新青年》为视点&gt;王奇生</a><br>
+《五四新論：既非文藝復興，亦非啓蒙運動》（[五四]八十周年紀念論文集）余英時等著<br>
+&lt; Karl Marx: His Life and Environment&gt;Isaiah Berlin(1909-1997)译《卡尔·马克思：生平与环境》</li>
+<li>《敬告青年》陳獨秀(1879-1942), 《新青年》第一卷第一號，一九一五年九月十五日。</li>
+<li>《文學改良刍议》胡適(1891-1962), 《新青年》第二卷第五號，一九一七年一月一日。</li>
+<li>《文學革命論》陳獨秀(1879-1942), 《新青年》第二卷第六號，一九一七年二月一日。</li>
+<li>&lt;中国文化传统与现代化 - 兼论中国的专制主义&gt;李慎之(1923—2003),《战略与管理》2000年第4期。</li>
+<li>《國史大綱》上下冊 錢穆(1895-1990) 上海商務印書館1940年6月出版。</li>
+<li>《中國文化之精神價值》唐君毅(1909-1978) 1953年</li>
+<li>《歷史與思想》余英時 聯經出版社1976年出版。</li>
+<li>《飲冰室合集》梁啓超(1873-1929) 中華書局1936年1月出版。</li>
+<li>《鲁迅著译编年全集》王世家(编)止庵(编) 人民出版社</li>
+<li>《蔣介石日記》</li>
+<li>《宋子文日記》</li>
+<li>《中国农村经济：河北和山东的农民发展1890-1949》Ramon H. Myers(马若孟)</li>
+<li>《中國經濟史研究》上下冊 全漢昇</li>
+<li>《中国历代人口统计资料研究》杨子慧 主编<br>
+<a href="https://www.haijiaoshi.com">海交史|东亚文史研究动态网</a><br>
+<a href="http://www.lishiyushehui.cn">历史与社会高等研究所</a></li>
+<li>《中国向何处去》杨小凯 一九六八年元月六日。</li>
+<li><a href="http://study.huizhou.gov.cn/lessionnew/bdmpa/MPA-A17/contents/thesis/thes005_01.pdf">《后发劣势》</a>杨小凯 ，北京天则经济研究所 2002年4月。</li>
+<li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《经济改革和宪政转轨》</a>Jeffrey Sachs 胡永泰 杨小凯 2003年。</li>
+<li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《后发优势与后发劣势——与杨小凯教授商榷》</a> 林毅夫 2003年。</li>
+<li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《经济改革与宪政转轨：回应》</a> 杨小凯 2003年。</li>
+<li>《百年中国经济史笔记-从晚清到2002》杨小凯(1948-2004)</li>
+<li><a href="http://www.rmlt.com.cn/2016/0620/429319.shtml">&lt;准确认识今天的世界&gt;</a> 吴建民(1939-2016) . 2016年3月30日, 外交学院。</li>
+<li><a href="http://davidharvey.org/">Reading Marx's Capital with David Harvey</a></li>
+<li>&lt; Main Currents of Marxism&gt; Leszek Kolakowski 译《马克思主义的主要流派》三卷，黑龙江大学出版社2015.</li>
+<li>&lt; Personal Knowledge&gt; Michael Polanyi (1891-1976) 译《个人知识：迈向后批判哲学》</li>
+<li>&lt; The Poverty of Historicism&gt; SirKarl Raimund Popper (1902-1994) 译 《历史决定论的贫困》</li>
+<li>&lt; The Open Society and its Enemies&gt; SirKarl R Popper 译 《开放社会及其敌人》</li>
+<li>Edward Albert Shils (1910-1995)</li>
+<li>Benjamin I. Schwartz (1916-1999)</li>
+<li>Jr. Arthur M. Schlesinger (1917-2007)</li>
+</ul>
+<figure data-type="image" tabindex="2"><img src="https://alaskasquirrel.github.io/post-images/1597254230812.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -127,6 +187,15 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 <li>第七，所有的成功学、心灵学、鸡汤类书都不必读。骗人的，没用。</li>
 <li>第八，所有阴谋论的书不要读。骗人的，有害。</li>
 </ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[History of Programming Languages (更新中)]]></title>
+        <id>https://alaskasquirrel.github.io/post/history-of-programming-languages/</id>
+        <link href="https://alaskasquirrel.github.io/post/history-of-programming-languages/">
+        </link>
+        <updated>2020-05-31T16:41:28.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="reference">Reference:</h3>
 ]]></content>
     </entry>
     <entry>
@@ -947,59 +1016,6 @@ negative October 1860, print 1862.</p>
 <a href="https://www.cryptolux.org/index.php/Home">CryptoLUX</a><br>
 <a href="https://crypto.stanford.edu">Applied Cryptography Group</a><br>
 <a href="http://seclab.stanford.edu">Stanford Computer Security Laboratory</a></p>
-<p>历史、文化与经济：☪️</p>
-<figure data-type="image" tabindex="1"><img src="https://alaskasquirrel.github.io/post-images/1596983180057.jpg" alt="" loading="lazy"></figure>
-<ul>
-<li>《中国摄影史》Terry Bennett 中国摄影出版社。</li>
-<li><a href="http://www.bjmem.com.cn">北京記憶</a></li>
-<li><a href="https://new.shuge.org">书格</a></li>
-<li><a href="https://www.hpcbristol.net">Historical Photographs of China</a></li>
-<li><a href="https://chinafolio.com">Chinafolio</a></li>
-<li><a href="http://www.red-colornewssoldier.com">Red-Color News Soldier</a></li>
-<li><a href="http://www.ioc.u-tokyo.ac.jp/">日本東京大學 東洋文化研究所</a></li>
-<li>《辛亥革命的影像记忆》杨天石 中国人民大学出版社</li>
-<li>&lt;近代日本人中国游记总序&gt;张明杰 刊于《北中国纪行  清国漫游志》中华书局2007年1月出版。</li>
-<li>《叫魂：1768年中国妖术大恐慌》孔飞力(1933-2016) 著 上海三联书店2012年出版。</li>
-<li>《正倉院考古記》傅雲子(1902-1948) , 東京文求堂書店出版1941年。</li>
-<li>金毓黻(1887-1962)</li>
-<li>《國粹學報》(古學彙刊)</li>
-<li>《甲寅雜誌》章士钊(1881-1973)等</li>
-<li><a href="http://www.nssd.org/journal/cn/81391X/200701/">&lt;新文化是如何&quot;运动&quot;起来的——以《新青年》为视点&gt;王奇生</a><br>
-《五四新論：既非文藝復興，亦非啓蒙運動》（[五四]八十周年紀念論文集）余英時等著<br>
-&lt; Karl Marx: His Life and Environment&gt;Isaiah Berlin(1909-1997)译《卡尔·马克思：生平与环境》</li>
-<li>《敬告青年》陳獨秀(1879-1942), 《新青年》第一卷第一號，一九一五年九月十五日。</li>
-<li>《文學改良刍议》胡適(1891-1962), 《新青年》第二卷第五號，一九一七年一月一日。</li>
-<li>《文學革命論》陳獨秀(1879-1942), 《新青年》第二卷第六號，一九一七年二月一日。</li>
-<li>&lt;中国文化传统与现代化 - 兼论中国的专制主义&gt;李慎之(1923—2003),《战略与管理》2000年第4期。</li>
-<li>《國史大綱》上下冊 錢穆(1895-1990) 上海商務印書館1940年6月出版。</li>
-<li>《中國文化之精神價值》唐君毅(1909-1978) 1953年</li>
-<li>《歷史與思想》余英時 聯經出版社1976年出版。</li>
-<li>《飲冰室合集》梁啓超(1873-1929) 中華書局1936年1月出版。</li>
-<li>《鲁迅著译编年全集》王世家(编)止庵(编) 人民出版社</li>
-<li>《蔣介石日記》</li>
-<li>《宋子文日記》</li>
-<li>《中国农村经济：河北和山东的农民发展1890-1949》Ramon H. Myers(马若孟)</li>
-<li>《中國經濟史研究》上下冊 全漢昇</li>
-<li>《中国历代人口统计资料研究》杨子慧 主编<br>
-<a href="https://www.haijiaoshi.com">海交史|东亚文史研究动态网</a><br>
-<a href="http://www.lishiyushehui.cn">历史与社会高等研究所</a></li>
-<li>《中国向何处去》杨小凯 一九六八年元月六日。</li>
-<li><a href="http://study.huizhou.gov.cn/lessionnew/bdmpa/MPA-A17/contents/thesis/thes005_01.pdf">《后发劣势》</a>杨小凯 ，北京天则经济研究所 2002年4月。</li>
-<li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《经济改革和宪政转轨》</a>Jeffrey Sachs 胡永泰 杨小凯 2003年。</li>
-<li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《后发优势与后发劣势——与杨小凯教授商榷》</a> 林毅夫 2003年。</li>
-<li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《经济改革与宪政转轨：回应》</a> 杨小凯 2003年。</li>
-<li>《百年中国经济史笔记-从晚清到2002》杨小凯(1948-2004)</li>
-<li><a href="http://www.rmlt.com.cn/2016/0620/429319.shtml">&lt;准确认识今天的世界&gt;</a> 吴建民(1939-2016) . 2016年3月30日, 外交学院。</li>
-<li><a href="http://davidharvey.org/">Reading Marx's Capital with David Harvey</a></li>
-<li>&lt; Main Currents of Marxism&gt; Leszek Kolakowski 译《马克思主义的主要流派》三卷，黑龙江大学出版社2015.</li>
-<li>&lt; Personal Knowledge&gt; Michael Polanyi (1891-1976) 译《个人知识：迈向后批判哲学》</li>
-<li>&lt; The Poverty of Historicism&gt; SirKarl Raimund Popper (1902-1994) 译 《历史决定论的贫困》</li>
-<li>&lt; The Open Society and its Enemies&gt; SirKarl R Popper 译 《开放社会及其敌人》</li>
-<li>Edward Albert Shils (1910-1995)</li>
-<li>Benjamin I. Schwartz (1916-1999)</li>
-<li>Jr. Arthur M. Schlesinger (1917-2007)</li>
-</ul>
-<figure data-type="image" tabindex="2"><img src="https://alaskasquirrel.github.io/post-images/1596983214022.jpg" alt="" loading="lazy"></figure>
 <p>科学：☢️</p>
 <p><a href="https://www.math.columbia.edu/~woit/wordpress">Not Even Wrong</a>  Peter Woit<br>
 《从零学相对论》梁灿彬 曹周键<br>
