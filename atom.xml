@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-09-05T18:53:51.190Z</updated>
+    <updated>2020-09-14T10:24:53.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -11,13 +11,38 @@
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, NewOld </rights>
     <entry>
-        <title type="html"><![CDATA[杨小凯 — 生命是短暂的，唯理论之树长青]]></title>
+        <title type="html"><![CDATA[Internet🕶️Security]]></title>
+        <id>https://alaskasquirrel.github.io/post/internetsecurity/</id>
+        <link href="https://alaskasquirrel.github.io/post/internetsecurity/">
+        </link>
+        <updated>2020-09-12T09:45:29.000Z</updated>
+        <content type="html"><![CDATA[<p>👁<br>
+<a href="https://paper.seebug.org">SeeBug Paper 安全技术精粹</a><br>
+<a href="https:krebsonsecurity.com">KrebsOnSecurity</a><br>
+<a href="https://www.schneier.com">️️Bruce Schneier on Security</a><br>
+<a href="http://wiki.ioin.in">Sec-News 安全文摘</a><br>
+<a href="https://citizenlab.ca">The Citizen Lab</a><br>
+<a href="https://gfw.report/">GFW Report</a><br>
+<a href="https://seclists.org">SecLists.Org Security Mailing List Archive</a><br>
+<a href="https://public-interest-tech.com">Public-Interest Technology Resources</a><br>
+<a href="https://www.cryptolux.org/index.php/Home">CryptoLUX</a>盧森堡大學<br>
+<a href="https://crypto.stanford.edu">Applied Cryptography Group</a><br>
+<a href="http://seclab.stanford.edu">Stanford Computer Security Laboratory</a><br>
+🈲<br>
+<a href="https://privacytools.twngo.xyz/">網路隱私工具</a><br>
+<a href="https://github.com/Atarity/deploy-your-own-saas">Deploy your own SaaS</a><br>
+<a href="https://github.com/ffffffff0x/Digital-Privacy">Digital-Privacy</a><br>
+<a href="https://thatoneprivacysite.net">VPN comparison by That One Privacy Guy</a><br>
+<a href="https://degoogle.jmoore.dev">Cutting Google out of your life</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杨小凯 (1948-2004） 生命是短暂的，唯理论之树长青]]></title>
         <id>https://alaskasquirrel.github.io/post/杨小凯/</id>
         <link href="https://alaskasquirrel.github.io/post/杨小凯/">
         </link>
         <updated>2020-08-21T07:51:47.000Z</updated>
-        <content type="html"><![CDATA[<p>(1948-2004)<br>
-《中国向何处去》杨小凯 一九六八年元月六日。</p>
+        <content type="html"><![CDATA[<p>《中国向何处去》杨小凯 一九六八年元月六日。</p>
 <ul>
 <li><a href="http://study.huizhou.gov.cn/lessionnew/bdmpa/MPA-A17/contents/thesis/thes005_01.pdf">《后发劣势》</a>杨小凯 ，北京天则经济研究所 2002年4月。</li>
 <li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《经济改革和宪政转轨》</a>Jeffrey Sachs 胡永泰 杨小凯 2003年。</li>
@@ -52,7 +77,7 @@
 《神经科学——探索脑》<br>
 &lt; The Mind &amp; The Brain: Neuroplasticity and  the Power of Mental Force(2002)&gt;译《心智和大脑：神经可塑性和精神力量》<br>
 &lt; Is the Brain a Quantum Computer?&gt;<br>
-<a href="https://nancysbraintalks.mit.edu">MIT: The Human Brain</a><br>
+<a href="https://nancysbraintalks.mit.edu">MIT: The Human Brain</a> Nancy's Brain Talks<br>
 <a href="https://www.humanbrainproject.eu/en.">Human Brain Project</a><br>
 <a href="https://science.sciencemag.org">Science</a><br>
 <a href="https://www.quantamagazine.org">Quanta Magazine - Illuminating Science</a><br>
@@ -61,8 +86,11 @@
 <a href="https://www.worldwideneuro.com">World Wide Neuro</a><br>
 <a href="https://www.climatechangenews.com/">Climate Change News</a><br>
 <a href="https://www.ximalaya.com/keji/30980200/228347042">脑人言podcast：AI离大脑究竟有多远？脑模拟研究解密(专访孙哲)</a>  &amp; <a href="https://zhuanlan.zhihu.com/p/94380103">文字稿</a><br>
+<a href="https://neu-reality.com">神经现实</a><br>
 <a href="https://braininspired.co/podcast/">Brain Inspired</a> A podcast where neuroscience and AI converge.<br>
-<a href="https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/christof-koch/consciousness-redux/">Consciousness Redux</a> - Christof Koch - <a href="https://www.scientificamerican.com/sciammind/">Scientific American MIND</a></p>
+<a href="https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/christof-koch/consciousness-redux/">Consciousness Redux</a> - Christof Koch - <a href="https://www.scientificamerican.com/sciammind/">Scientific American MIND</a><br>
+<a href="https://github.com/MaiYunfei2000/IA003CoCoSci">Computational Cognitive Science 计算认知科学</a><br>
+<a href="http://www.lateralmag.com/">Lateral Magazine</a></p>
 <p>太空探索：🔱</p>
 <p><a href="https://www.eso.org/public">European Southern Observatory</a><br>
 <a href="https://www.spacetelescope.org">HUBBLE Space Telescope</a><br>
@@ -81,7 +109,10 @@
 <a href="https://www.astrobetter.com/">AstroBetter</a> tips and tricks for professional astronomers<br>
 <a href="http://bzhang.lamost.org">张博</a><br>
 <a href="https://caseyhandmer.wordpress.com">Casey Handmer</a><br>
-<a href="https://jatan.space">Jatan's Space</a></p>
+<a href="https://jatan.space">Jatan's Space</a><br>
+<a href="https://www.centauri-dreams.org/">Centauri Dreams - Imagining and Planning Interstellar Exploration</a><br>
+<a href="https://sattrackcam.blogspot.com/">SatTrackCam Leiden (b)log</a><br>
+<a href="https://sen.com/">Sen-space TV</a></p>
 <p>人类语言：🈳</p>
 <p>&lt; 中国人学英语&gt;吕淑湘  收录于《吕淑湘全集(第十四卷)》辽宁教育出版社。<br>
 《英语发展史》张勇先 外语教育与研究出版社 2014年出版。<br>
@@ -187,14 +218,14 @@ Prentice-Hall 1988<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 10 配置]]></title>
+        <title type="html"><![CDATA[Windows 10 ⚙️配置]]></title>
         <id>https://alaskasquirrel.github.io/post/windows/</id>
         <link href="https://alaskasquirrel.github.io/post/windows/">
         </link>
         <updated>2020-06-26T12:15:51.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://support.microsoft.com/zh-cn/help/3159635/windows-10-update-assistant">Windows 10 更新助手</a><br>
 <a href="https://www.w10privacy.de/english-home/">W10Privacy</a> 禁用追踪监控功能</p>
-<p><a href="https://github.com/lukesampson/scoop">Scoop</a> 软件包搜索安装管理，开源软件替代商业应用：⚙️</p>
+<p><a href="https://github.com/lukesampson/scoop">Scoop</a> 软件包搜索安装管理，开源软件替代商业应用：</p>
 <ul>
 <li>PotPlayer 影音视频播放器</li>
 <li>7zip 解压软件</li>
@@ -285,11 +316,11 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
         <link href="https://alaskasquirrel.github.io/post/economic/">
         </link>
         <updated>2020-06-12T10:16:42.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://www.youtube.com/watch?v=Mh0vEaac78U">Bridgewater’s Ray Dalio Discusses the Impact of China’s Growth on the World Economy</a>  (Aug 6, 2019) &amp; <a href="https://www.bridgewater.com/china/">Our Views on China</a></p>
+        <content type="html"><![CDATA[<p>👹<a href="https://www.youtube.com/watch?v=Mh0vEaac78U">Bridgewater’s Ray Dalio Discusses the Impact of China’s Growth on the World Economy</a>  (Aug 6, 2019) &amp; <a href="https://www.bridgewater.com/china/">Our Views on China</a></p>
 <ul>
 <li>Ray Dalio 预测，中国经济未来必将超越美国，领导全球经济。倘若有所变数，主要因素是：中美冲突、气候问题、流行疾病、政治问题。</li>
 </ul>
-<p>AEI(The American Enterprise Institute, 美国企业研究所) <a href="https://www.aei.org/profile/derek-m-scissors">Derek Scissors</a> :  <a href="https://www.aei.org/research-products/report/chinas-economic-miracle-in-context/">China's economic 'miracle' in context</a> Aug 26, 2019.</p>
+<p>👺AEI(The American Enterprise Institute, 美国企业研究所) <a href="https://www.aei.org/profile/derek-m-scissors">Derek Scissors</a> :  <a href="https://www.aei.org/research-products/report/chinas-economic-miracle-in-context/">China's economic 'miracle' in context</a> Aug 26, 2019.</p>
 <ul>
 <li>Derek Scissors 尝试将中日韩三国的经济腾飞阶段建立起比较，呈现三国在经济改革相似历史时间节点上的表现，描述出多维度的差异。结论：多指标上来看，中国的发展水平不如同期的韩国，接近日本。中国的“经济奇迹”并未超越一般性的战后重建。现阶段，日韩都已进入相对停滞时期，而中国似乎难逃经济诅咒。</li>
 </ul>
@@ -303,7 +334,7 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 <li><a href="https://codechina.org/2019/08/shanghai-beijing-hongkong-taiwan-taipei/">北京、上海，大陆发达城市和香港、台湾省城市的经济数据对比</a></li>
 <li><a href="https://codechina.org/2019/08/hongkong-taiwan-mainland-cpi-coi-gdp/">香港、台湾、大陆贫富差距和消费数据对比</a></li>
 </ul>
-<p><a href="https://www.acton.org/publications/transatlantic/2019/08/27/americas-poorest-are-richer-most-average-europeans-study/">America's poorest are richer than most average Europeans: Study</a></p>
+<p>🎩<a href="https://www.acton.org/publications/transatlantic/2019/08/27/americas-poorest-are-richer-most-average-europeans-study/">America's poorest are richer than most average Europeans: Study</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -382,7 +413,12 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 <a href="https://breakermag.com/">BREAKERMAG</a><br>
 <a href="https://unchainedpodcast.com/">Laura Shin - Unchained Podcast</a><br>
 <a href="https://www.lopp.net/">Jameson Lopp</a><br>
-<a href="https://adamcaudill.com/2018/06/21/bitcoin-is-a-cult/">Adam Caudill- Bitcoin is a Cult</a></p>
+<a href="https://adamcaudill.com/2018/06/21/bitcoin-is-a-cult/">Adam Caudill- Bitcoin is a Cult</a><br>
+<a href="https://blog.yuccn.net/archives/category/bitcoin_knowledge">云域-逻辑客栈——比特币知识</a><br>
+<a href="https://orange.xyz">橙皮书</a><br>
+<a href="https://blog.codingnow.com/2011/05/bitcoin.html">云风的BLOG：Bitcoin的基本原理</a>  May 18, 2011<br>
+<a href="http://blog.devep.net/virushuo/2011/05/23/bitcoin.html">霍炬：关于bitcoin若干问题我的看法</a> May 23，2011<br>
+<a href="https://jhuo.ca/post/bitcoin_2018/">霍炬：中文分析比特币最早的文章之一是我写的，七年后的今天我写了第二篇</a> 2018-03-02</p>
 <p>原文：<a href="https://doi.org/10.6082/NIST.IR.8202">Blockchain Technology Overview</a> National Institute of Standards and Technology</p>
 <p>  由于区块链技术仍然是新技术，许多组织正在寻找兼容的方法运用在自身的商业中。人们非常担心错过这项技术。组织机构将这个问题视为“我们想在某个地方使用区块链，我们可以在哪里使用? 这导致了人们对这项技术的失望，因为它不能得到普遍应用。最好的方法是首先了解区块链技术，了解其适用范围，然后再进行分析。确定可能适合区块链范式的系统。<br>
   如果活动或系统需要以下特性，则区块链技术解决方案可能适用：</p>
@@ -611,7 +647,8 @@ Dave Dyer (from USC ISI)<br>
         <link href="https://alaskasquirrel.github.io/post/KurtGödel /">
         </link>
         <updated>2020-05-21T16:03:43.000Z</updated>
-        <content type="html"><![CDATA[<p>  与大多数数学结果不同的是，哥德尔的不完备性定理并不是用符号或数学公式表述，虽然证明的细节艰深而富有技巧性，让人高兴地是证明的整体策略却不难。在所有让人眼花缭乱的公式结束后，两个结论可以用多少比较浅白的语言表述出来，《哲学百科全书》中“哥德尔定理”一文以对这两个定理清晰的阐释开始：(J. van Heijenoort, The Encyclopedia of Philosophy, Vol 3, 编辑, Paul Edwards ( New York: Macmillan Publishing Co. ,Inc. ,and the Free Press, 1967 ),pp. 348~349.)</p>
+        <content type="html"><![CDATA[<p><a href="https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714">How Gödel's Proof Works</a></p>
+<p>  与大多数数学结果不同的是，哥德尔的不完备性定理并不是用符号或数学公式表述，虽然证明的细节艰深而富有技巧性，让人高兴地是证明的整体策略却不难。在所有让人眼花缭乱的公式结束后，两个结论可以用多少比较浅白的语言表述出来，《哲学百科全书》中“哥德尔定理”一文以对这两个定理清晰的阐释开始：(J. van Heijenoort, The Encyclopedia of Philosophy, Vol 3, 编辑, Paul Edwards ( New York: Macmillan Publishing Co. ,Inc. ,and the Free Press, 1967 ),pp. 348~349.)</p>
 <ul>
 <li>哥德尔定理通常意指以下陈述：</li>
 <li>任何足以包含初等数论的形式系统中都存在不可判定的命题——即，命题即不能被证实也不能被证伪。（这个陈述有时候也被称为哥德尔第一定理。）</li>
@@ -981,7 +1018,7 @@ negative October 1860, print 1862.</p>
 &lt; Type and Programming Languages &gt; 译《类型和程序设计语言》<br>
 <a href="http://lambda-the-ultimate.org">Lambda the Ultimate</a><br>
 <a href="https://theory.cs.princeton.edu/complexity/book.pdf">&lt; Computational Complexity: A Modern Approach &gt;</a></p>
-<p>Lisp：<a href="https://github.com/alaskasquirrel/Lisp-China">本人github项目Lisp-China</a></p>
+<p><a href="https://github.com/alaskasquirrel/Lisp-China">Lisp-China</a> ：</p>
 <ul>
 <li><a href="https://www.whoishostingthis.com/resources/lisp/">Learn Lisp Programming:Intro,Versions,and More</a></li>
 <li><a href="https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/">A Road to Common Lisp</a></li>
@@ -1125,9 +1162,19 @@ negative October 1860, print 1862.</p>
 <td style="text-align:center"></td>
 </tr>
 <tr>
+<td style="text-align:center">Essentials of Programming Languages</td>
+<td style="text-align:center"><a href="http://eopl3.com/courses.html">Courses</a></td>
+<td style="text-align:center"></td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://www.cs.utah.edu/~mflatt/">Matthew Flatt</a> 马晓</td>
 <td style="text-align:center">详见 https://www.cs.utah.edu/~mflatt/courses.html</td>
 <td style="text-align:center">Utah</td>
+</tr>
+<tr>
+<td style="text-align:center">John France</td>
+<td style="text-align:center"><a href="http://gauss.ececs.uc.edu/Courses/c3003/">CS-3003: Programming Languages</a></td>
+<td style="text-align:center">University of Cincinnati</td>
 </tr>
 <tr>
 <td style="text-align:center">Robert Harper</td>
@@ -1204,6 +1251,11 @@ negative October 1860, print 1862.</p>
 <td style="text-align:center">详见 https://www.dcc.fc.up.pt/~nam/web/Teaching/index.html</td>
 <td style="text-align:center"></td>
 </tr>
+<tr>
+<td style="text-align:center">Computational Discrete Math</td>
+<td style="text-align:center">详见 https://www.cs.cmu.edu/~cdm/index.html</td>
+<td style="text-align:center">CMU</td>
+</tr>
 </tbody>
 </table>
 <ul>
@@ -1226,18 +1278,6 @@ negative October 1860, print 1862.</p>
 <li><a href="https://channel9.msdn.com/Blog/mtthijs/Anders-Hejlsberg-Trends-and-Future-Directions-in-Programming-Languages-DevDays-2010-Keynote">Anders Hejlsberg Trends and Future Directions in Programming Languages</a> April 20, 2010.</li>
 <li><a href="https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction">Anders Hejlsberg on Modern Compiler Construction</a> May 13, 2016.</li>
 </ul>
-<p>Security：⌚️</p>
-<p><a href="https://paper.seebug.org">SeeBug Paper 安全技术精粹</a><br>
-<a href="https:krebsonsecurity.com">KrebsOnSecurity</a><br>
-<a href="https://www.schneier.com">️️Bruce Schneier on Security</a><br>
-<a href="http://wiki.ioin.in">Sec-News 安全文摘</a><br>
-<a href="https://citizenlab.ca">The Citizen Lab</a><br>
-<a href="https://gfw.report/">GFW Report</a><br>
-<a href="https://seclists.org">SecLists.Org Security Mailing List Archive</a><br>
-<a href="https://public-interest-tech.com">Public-Interest Technology Resources</a><br>
-<a href="https://www.cryptolux.org/index.php/Home">CryptoLUX</a><br>
-<a href="https://crypto.stanford.edu">Applied Cryptography Group</a><br>
-<a href="http://seclab.stanford.edu">Stanford Computer Security Laboratory</a></p>
 <p><img src="https://alaskasquirrel.github.io/post-images/1597128759022.jpg" alt="" loading="lazy"><br>
 (still-life-with-flowers-in-a-glass-vase-jan-davidsz-de-heem-1650)</p>
 ]]></content>
