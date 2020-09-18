@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-09-14T12:08:36.073Z</updated>
+    <updated>2020-09-18T16:11:12.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -37,20 +37,18 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[杨小凯 (1948-2004） 生命是短暂的，唯理论之树长青]]></title>
+        <title type="html"><![CDATA[杨小凯(1948-2004)生命是短暂的，唯理论之树长青]]></title>
         <id>https://alaskasquirrel.github.io/post/杨小凯/</id>
         <link href="https://alaskasquirrel.github.io/post/杨小凯/">
         </link>
         <updated>2020-08-21T07:51:47.000Z</updated>
-        <content type="html"><![CDATA[<p>《中国向何处去》杨小凯 一九六八年元月六日。</p>
-<ul>
+        <content type="html"><![CDATA[<ul>
 <li><a href="http://study.huizhou.gov.cn/lessionnew/bdmpa/MPA-A17/contents/thesis/thes005_01.pdf">《后发劣势》</a>杨小凯 ，北京天则经济研究所 2002年4月。</li>
 <li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《经济改革和宪政转轨》</a>Jeffrey Sachs 胡永泰 杨小凯 2003年。</li>
 <li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《后发优势与后发劣势——与杨小凯教授商榷》</a> 林毅夫 2003年。</li>
 <li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《经济改革与宪政转轨：回应》</a> 杨小凯 2003年。</li>
 <li>《百年中国经济史笔记-从晚清到2002》杨小凯</li>
 </ul>
-<p>個人之見，後發劣勢VS後發優勢，是中國經濟發展最佳論題。</p>
 ]]></content>
     </entry>
     <entry>
@@ -311,7 +309,7 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国经济  — 两个美国人的分析视角2019]]></title>
+        <title type="html"><![CDATA[中国经济🚩两个美国人的分析视角👀2019]]></title>
         <id>https://alaskasquirrel.github.io/post/economic/</id>
         <link href="https://alaskasquirrel.github.io/post/economic/">
         </link>
@@ -482,7 +480,7 @@ Permissioned 区块链网络允许等更为传统的角色 管理员、用户、
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Self-Driving Car. 漫談人工智能（更新中）]]></title>
+        <title type="html"><![CDATA[Self-Driving Car🚗漫談人工智能（更新中）]]></title>
         <id>https://alaskasquirrel.github.io/post/self-driving/</id>
         <link href="https://alaskasquirrel.github.io/post/self-driving/">
         </link>
@@ -603,7 +601,7 @@ Dave Dyer (from USC ISI)<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[能源变革，悄无声息]]></title>
+        <title type="html"><![CDATA[能源变革♻️悄无声息]]></title>
         <id>https://alaskasquirrel.github.io/post/earth/</id>
         <link href="https://alaskasquirrel.github.io/post/earth/">
         </link>
