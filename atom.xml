@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-09-18T16:11:12.042Z</updated>
+    <updated>2020-09-23T18:49:11.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -11,11 +11,24 @@
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, NewOld </rights>
     <entry>
+        <title type="html"><![CDATA[War💣]]></title>
+        <id>https://alaskasquirrel.github.io/post/wars/</id>
+        <link href="https://alaskasquirrel.github.io/post/wars/">
+        </link>
+        <updated>2020-09-03T11:13:52.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.popularmechanics.com">Popular Mechanics - Product Reviews, How-To, Space, Military, Math, Science, and New Technology</a><br>
+<a href="https://nationalinterest.org/">The National Interest</a><br>
+<a href="https://www.thedrive.com/">The Drive</a><br>
+<a href="https://www.armscontrolwonk.com/">Arms Control Wonk</a><br>
+<a href="http://alert5.com/">Alert5 - Military Aviation News</a></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Internet🕶️Security]]></title>
         <id>https://alaskasquirrel.github.io/post/internetsecurity/</id>
         <link href="https://alaskasquirrel.github.io/post/internetsecurity/">
         </link>
-        <updated>2020-09-12T09:45:29.000Z</updated>
+        <updated>2020-09-01T09:45:29.000Z</updated>
         <content type="html"><![CDATA[<p>👁<br>
 <a href="https://paper.seebug.org">SeeBug Paper 安全技术精粹</a><br>
 <a href="https:krebsonsecurity.com">KrebsOnSecurity</a><br>
@@ -33,11 +46,14 @@
 <a href="https://github.com/Atarity/deploy-your-own-saas">Deploy your own SaaS</a><br>
 <a href="https://github.com/ffffffff0x/Digital-Privacy">Digital-Privacy</a><br>
 <a href="https://thatoneprivacysite.net">VPN comparison by That One Privacy Guy</a><br>
-<a href="https://degoogle.jmoore.dev">Cutting Google out of your life</a></p>
+<a href="https://degoogle.jmoore.dev">Cutting Google out of your life</a><br>
+<a href="https://github.com/StreisandEffect/streisand">Streisand</a><br>
+<a href="https://github.com/WireGuard">WireGuard</a><br>
+<a href="https://trailofbits.github.io/algo">Algo</a></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[杨小凯(1948-2004)生命是短暂的，唯理论之树长青]]></title>
+        <title type="html"><![CDATA[杨小凯(1948-2004) 生命是短暂的，唯理论之树长青]]></title>
         <id>https://alaskasquirrel.github.io/post/杨小凯/</id>
         <link href="https://alaskasquirrel.github.io/post/杨小凯/">
         </link>
@@ -48,6 +64,16 @@
 <li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《后发优势与后发劣势——与杨小凯教授商榷》</a> 林毅夫 2003年。</li>
 <li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《经济改革与宪政转轨：回应》</a> 杨小凯 2003年。</li>
 <li>《百年中国经济史笔记-从晚清到2002》杨小凯</li>
+</ul>
+<p>附：近代留学生与中国经济学-几份推荐资料</p>
+<ul>
+<li>《留美生与中国经济学》，李翠莲，南开出版社，2009年.</li>
+<li>《中国经济学的成长——中国经济学社研究（1923-1953）》，上海三联书店，2006年。</li>
+<li>“近代中国经济学的发展——来自留学生博士论文的考察”，邹进文，中国社会科学，2010年第5期.</li>
+<li>&quot;How Keynesian Economics Came to China”,PB Trescott.<History of Political Economy>,1996,44(2):341-364.</li>
+<li>《试论西方经济学在中国的早期传播》.</li>
+<li>《回溯历史——马克思主义经济学说在中国的传播前史》，上海财经大学出版社，2008年.</li>
+<li>《中国留美学生史》，三联书店，2010年。</li>
 </ul>
 ]]></content>
     </entry>
@@ -127,7 +153,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[近代日本人 · 中国游记（更新中）]]></title>
+        <title type="html"><![CDATA[近代日本人⛴中国游记（更新中）]]></title>
         <id>https://alaskasquirrel.github.io/post/中国游记/</id>
         <link href="https://alaskasquirrel.github.io/post/中国游记/">
         </link>
@@ -150,7 +176,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[转载] 形式语义学]]></title>
+        <title type="html"><![CDATA[转♋️形式语义学]]></title>
         <id>https://alaskasquirrel.github.io/post/formalsemantics/</id>
         <link href="https://alaskasquirrel.github.io/post/formalsemantics/">
         </link>
@@ -333,6 +359,8 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 <li><a href="https://codechina.org/2019/08/hongkong-taiwan-mainland-cpi-coi-gdp/">香港、台湾、大陆贫富差距和消费数据对比</a></li>
 </ul>
 <p>🎩<a href="https://www.acton.org/publications/transatlantic/2019/08/27/americas-poorest-are-richer-most-average-europeans-study/">America's poorest are richer than most average Europeans: Study</a></p>
+<p>🎃<a href="https://cafehayek.com">Cafe Hayek——where orders emerge</a></p>
+<p>🗣<a href="https://www.huxiu.com/article/233358.html">中国互联网产业的空心化之忧</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -370,7 +398,7 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[转载] 严锋——不必读的书的清单]]></title>
+        <title type="html"><![CDATA[转♋️严锋——不必读的书的清单]]></title>
         <id>https://alaskasquirrel.github.io/post/books/</id>
         <link href="https://alaskasquirrel.github.io/post/books/">
         </link>
@@ -397,7 +425,7 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[翻译] Blockchain: Application Considerations]]></title>
+        <title type="html"><![CDATA[译📖Blockchain: Application Considerations]]></title>
         <id>https://alaskasquirrel.github.io/post/blockchain-application-considerations/</id>
         <link href="https://alaskasquirrel.github.io/post/blockchain-application-considerations/">
         </link>
@@ -464,7 +492,7 @@ Permissioned 区块链网络允许等更为传统的角色 管理员、用户、
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[翻译] Lisp：50周年 （1958-2008）]]></title>
+        <title type="html"><![CDATA[译📖Lisp：50周年 （1958-2008）]]></title>
         <id>https://alaskasquirrel.github.io/post/Lisp50/</id>
         <link href="https://alaskasquirrel.github.io/post/Lisp50/">
         </link>
@@ -486,7 +514,8 @@ Permissioned 区块链网络允许等更为传统的角色 管理员、用户、
         </link>
         <updated>2020-05-24T19:14:54.000Z</updated>
         <content type="html"><![CDATA[<ul>
-<li>（封面 https://www.landmarkdividend.com/self-driving-car/）</li>
+<li>（封面 https://www.landmarkdividend.com/self-driving-car/）<br>
+机器一样的人，机器一样的心。</li>
 </ul>
 <p>學習：👹<br>
 &lt; The Quest for Artificial Intelligence&gt;Nils Nilsson 2010 &amp; 介绍早期人工智能<br>
@@ -527,7 +556,7 @@ Solid State LiDAR: (https://www.sony.net/SonyInfo/vision-s/safety.html)<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[翻译] History of Symbolics lisp machines]]></title>
+        <title type="html"><![CDATA[译📖History of Symbolics lisp machines]]></title>
         <id>https://alaskasquirrel.github.io/post/history-of-symbolics-lisp-machines/</id>
         <link href="https://alaskasquirrel.github.io/post/history-of-symbolics-lisp-machines/">
         </link>
@@ -766,7 +795,7 @@ number theoretical questions undecidable for the human mind.</li>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CPU]]></title>
+        <title type="html"><![CDATA[CPU💻]]></title>
         <id>https://alaskasquirrel.github.io/post/amd-intel/</id>
         <link href="https://alaskasquirrel.github.io/post/amd-intel/">
         </link>
@@ -809,7 +838,7 @@ http://www.cpu-world.com/CPUs/4004/index.html<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[转载] 霍金：哥德尔和物理学的终结]]></title>
+        <title type="html"><![CDATA[转♋️霍金：哥德尔和物理学的终结]]></title>
         <id>https://alaskasquirrel.github.io/post/霍金-哥德尔-物理学/</id>
         <link href="https://alaskasquirrel.github.io/post/霍金-哥德尔-物理学/">
         </link>
@@ -856,15 +885,86 @@ http://www.cpu-world.com/CPUs/4004/index.html<br>
         <content type="html"><![CDATA[<ul>
 <li>（封面 Felice Beato, North and East Corner of the Wall of Pekin, 1860）</li>
 </ul>
-<p>【一席】王溪：把100多年前国外所有关于中国的影像集合在一起，第一名的关键词大伙猜是什么？</p>
-<ul>
-<li>https://www.bilibili.com/video/av15920063</li>
-</ul>
-<p><img src="https://alaskasquirrel.github.io/post-images/1591199092647.jpg" alt="" loading="lazy"><br>
-Panorama of Peking, Taken from the South Gate, Leading into the Chinese City<br>
-Felice Beato (English.born Italy, 1832-1909)<br>
-Henry Hering (British 1814-1893)<br>
-negative October 1860, print 1862.</p>
+<p>影像：<br>
+1793 马噶尔尼<br>
+阿美士德 使团<br>
+《中国摄影史 1842-1860》泰瑞 贝内特 Terry Bennett<br>
+《我在北京的四年 1880-1884》  菲利斯 比托 （Felice Beato 1832-1909）<br>
+《西德尼 D 甘博 的中国影像 1917-1932》<br>
+《中国与中国人影像》illustrations of china and its people  约翰逊 汤姆逊 （1837-1921）<br>
+《中国沙漠中的遗址》Ruins of Desert Cathay     Sir Aurel Stein 斯坦因 1912<br>
+《西域考古图记》  Serindia    Aurel Stein 1921<br>
+《中国陶瓷图录》A Catalogue of Chinese Pottery and Porcelain in the Collection of Sir Percival David   1934<br>
+《云冈石窟》水野清一 田中重雄<br>
+勒柯克中亚地区探险系列 Albert von Le Coq<br>
+《古代和田》Ancient Khotan       Marc Aurel Stein  1907<br>
+《支那文化史迹》常盘大定 关野贞 1941<br>
+《支那佛教史迹踏查记》常盘大定 1942<br>
+《斯坦因在中亚古寺遗址发现的壁画》Wall Paintings from Ancient Shrines in Central Asia         Fred H. Andrews 1948<br>
+《玉石调查与研究》The Bishop Collection.investigations and studies in jade 1906<br>
+《北京 历史和记述》Peking.historie et description     Alphonse Favier 1897<br>
+《简明中国移民史》，葛剑雄、曹树基、吴松弟著.福建人民出版社，1993年.<br>
+《遗失 1920-1941的中国》<br>
+寻找遗失在西方的中国史 西洋镜<br>
+《大英图书馆特藏中国清代外销画精萃》<br>
+《中国人口发展史》，葛剑雄<br>
+《中国建筑史》梁思成<br>
+《中国城墙史》<br>
+陈梦家《美帝国主义劫掠的我国殷周铜器集录》，科学出版社，1962.<br>
+《美国所藏中国铜器集录》，金城出版社，2016.<br>
+近代中国 http://modernchina.org<br>
+http://www.bristol.ac.uk/history/customs/<br>
+https://enacademic.com/dic.nsf/enwiki/165340<br>
+日本国立国会图书馆电子库 dl.ndl.go.jp<br>
+美国克利夫兰艺术博物馆<br>
+日本国立历史民俗博物馆<br>
+哥伦比亚大学图书馆<br>
+哥伦比亚大学东亚图书馆https://library.columbia.edu/locations/eastasian.html<br>
+哈佛大学燕京图书馆<br>
+美国国会图书馆<br>
+加州大学伯克利东亚图书馆<br>
+法兰西学院<br>
+美国大都会艺术博物馆<br>
+大英图书馆<br>
+苏格兰国家博物馆<br>
+台北国立故宫博物馆<br>
+日本关西大学图书馆<br>
+京都大学人文科学研究所<br>
+《南京人力车夫生活的分析》李景汉(1895-1986)也曾调查过北京的洋车夫行业和生活状况。<br>
+申报 大公报 益世报 民国日报<br>
+《中国知识分子与西方 1872-1949》</p>
+<p>古物：<br>
+莫士撝（Hugh Moss），英国著名古董商<br>
+戴润斋（戴褔保  J. T. Tai)   1910-1992<br>
+仇焱之 1910-1980<br>
+卢芹斋(C. T. Loo) 1880-1957<br>
+怀履光（William Charles White，1873年8月22日－1960年1月24日）<br>
+約翰·艾略特(John B. Elliott）1928 - July 25,1997<br>
+爱丽丝·庞耐（Alice Boney1901-1988）<br>
+Earl Morse<br>
+高居翰   August 13, 1926 - February 14, 2014<br>
+安思远 Robert H.Ellsworth   July 13, 1929 - August 3, 2015<br>
+尤伦斯夫妇<br>
+王方宇（1913-1997）<br>
+玛丽·泰瑞莎·L·维勒泰<br>
+柯惕思（Curtis Evarts），原美国加州明式家具博物馆馆长<br>
+曹兴诚  台湾 Fubruary 24, 1947 -<br>
+英国著名古董商埃斯卡纳齐（Eskanazi）July 8, 1939 -<br>
+文少励<br>
+吴尔鹿<br>
+1927年，日本外交官须磨弥吉郎(1892-1970) 被派驻中国后，系统地收藏了中国画，其中齐白石画作就有70多幅。<br>
+1927年，捷克画家沃伊捷赫·齐蒂尔在北京以向各国外交官卖画为生，由此知道了齐白石。他先后收藏上百幅齐白石作品。1933年和1934年，沃伊捷赫·齐蒂尔在伦敦先后组织了英国白教堂画廊“中国近代艺术展”和“齐蒂尔教授的中国现代艺术收藏展”，展出齐白石作品。这两次展览是英国最早的中国近现代艺术展，受到当时英国学界的关注。除此之外，齐蒂尔还在柏林、布达佩斯、维也纳等欧洲各地举行巡展。他在展览画册前言上介绍了3位主要画家，其中就有齐白石。<br>
+齐蒂尔收藏的齐白石作品后来全部捐赠给了捷克国家美术馆，有力地促进了捷克对齐白石的研究。2018年，捷克美术史学家、汉学家约瑟夫·海兹拉尔的专著《齐白石》中译本出版。海兹拉尔曾在1951—1956年留学北京大学和中央美术学院(微博)，并与齐白石结成忘年交。<br>
+20世纪50年代，齐白石的国际声誉和他的艺术一样达到了新高度。他被国家授予“人民艺术家”称号。1955年，时任德国总理的格罗提渥代表德国艺术科学院，授予他通讯院士荣誉状。1956年，世界和平理事大会授予齐白石1955年度国际和平奖。1963年，他被列为世界文化名人。<br>
+纳尔逊艺术博物馆（Nelson－Atkins Museum of Art）  Laurence Sickman<br>
+波士顿美术博物馆<br>
+大都会艺术博物馆<br>
+布鲁克林艺术博物馆<br>
+克里夫兰艺术博物馆<br>
+捷克国家艺术博物馆<br>
+大英博物馆：中国文物的来龙去脉 http://www.ftchinese.com/story/001077796?archive<br>
+京都艺术博物馆<br>
+《中国藏家：美国追寻亚洲艺术珍宝的百年》The China Collectors: America’s Century-Long Hunt for Asian Art Treasures</p>
 ]]></content>
     </entry>
     <entry>
