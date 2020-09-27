@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-09-23T18:49:11.916Z</updated>
+    <updated>2020-09-27T13:48:27.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -65,12 +65,13 @@
 <li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《经济改革与宪政转轨：回应》</a> 杨小凯 2003年。</li>
 <li>《百年中国经济史笔记-从晚清到2002》杨小凯</li>
 </ul>
+<hr>
 <p>附：近代留学生与中国经济学-几份推荐资料</p>
 <ul>
 <li>《留美生与中国经济学》，李翠莲，南开出版社，2009年.</li>
 <li>《中国经济学的成长——中国经济学社研究（1923-1953）》，上海三联书店，2006年。</li>
 <li>“近代中国经济学的发展——来自留学生博士论文的考察”，邹进文，中国社会科学，2010年第5期.</li>
-<li>&quot;How Keynesian Economics Came to China”,PB Trescott.<History of Political Economy>,1996,44(2):341-364.</li>
+<li>&quot;<em>How Keynesian Economics Came to China</em>&quot;, PB Trescott.&lt; <em>History of Political Economy</em>&gt;,1996,44(2):341-364.</li>
 <li>《试论西方经济学在中国的早期传播》.</li>
 <li>《回溯历史——马克思主义经济学说在中国的传播前史》，上海财经大学出版社，2008年.</li>
 <li>《中国留美学生史》，三联书店，2010年。</li>
@@ -99,8 +100,8 @@
 <a href="https://plus.maths.org/content">Plus Maths Magazine</a><br>
 <a href="https://faculty.washington.edu/chudler/hist.html">History of Neuroscience</a><br>
 《神经科学——探索脑》<br>
-&lt; The Mind &amp; The Brain: Neuroplasticity and  the Power of Mental Force(2002)&gt;译《心智和大脑：神经可塑性和精神力量》<br>
-&lt; Is the Brain a Quantum Computer?&gt;<br>
+&lt; <em>The Mind &amp; The Brain: Neuroplasticity and  the Power of Mental Force(2002)</em>&gt;译《心智和大脑：神经可塑性和精神力量》<br>
+&lt; <em>Is the Brain a Quantum Computer?</em>&gt;<br>
 <a href="https://nancysbraintalks.mit.edu">MIT: The Human Brain</a> Nancy's Brain Talks<br>
 <a href="https://www.humanbrainproject.eu/en.">Human Brain Project</a><br>
 <a href="https://science.sciencemag.org">Science</a><br>
@@ -114,17 +115,21 @@
 <a href="https://braininspired.co/podcast/">Brain Inspired</a> A podcast where neuroscience and AI converge.<br>
 <a href="https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/christof-koch/consciousness-redux/">Consciousness Redux</a> - Christof Koch - <a href="https://www.scientificamerican.com/sciammind/">Scientific American MIND</a><br>
 <a href="https://github.com/MaiYunfei2000/IA003CoCoSci">Computational Cognitive Science 计算认知科学</a><br>
-<a href="http://www.lateralmag.com/">Lateral Magazine</a></p>
+<a href="http://www.lateralmag.com/">Lateral Magazine</a><br>
+<a href="http://mathcubic.org/">数立方</a></p>
 <p>太空探索：🔱</p>
 <p><a href="https://www.eso.org/public">European Southern Observatory</a><br>
 <a href="https://www.spacetelescope.org">HUBBLE Space Telescope</a><br>
 <a href="https://www.iau.org">International Astronomical Union</a><br>
 <a href="https://www.darksky.org">International Dark-Sky Association</a><br>
 <a href="https://www.space.com">Space.com</a><br>
+<a href="https://spacenews.com/">SpaceNews</a><br>
 <a href="https://www.universetoday.com/">Universe Today</a><br>
 <a href="https://everydayastronaut.com/">Everyday Astronaut</a><br>
 <a href="https://www.spacetechasia.com">SpaceTechAsia</a><br>
 <a href="https://spaceflightnow.com">Spaceflight Now</a><br>
+<a href="https://www.bis-space.com/">The British Interplanetary Society</a><br>
+<a href="https://space-facts.com/">Space Facts - Interesting Facts about Space</a><br>
 <a href="https://www.museumofflight.org">The Museum of Flight</a><br>
 <a href="https://historicspacecraft.com">Historic Spacecraft</a><br>
 <a href="https://apolloinrealtime.org">Apollo in Real Time</a><br>
@@ -133,23 +138,25 @@
 <a href="https://www.astrobetter.com/">AstroBetter</a> tips and tricks for professional astronomers<br>
 <a href="http://bzhang.lamost.org">张博</a><br>
 <a href="https://caseyhandmer.wordpress.com">Casey Handmer</a><br>
+<a href="http://www.astronomerstelegram.org/">The Astronomer's Telegram</a><br>
 <a href="https://jatan.space">Jatan's Space</a><br>
 <a href="https://www.centauri-dreams.org/">Centauri Dreams - Imagining and Planning Interstellar Exploration</a><br>
 <a href="https://sattrackcam.blogspot.com/">SatTrackCam Leiden (b)log</a><br>
-<a href="https://sen.com/">Sen-space TV</a></p>
+<a href="https://sen.com/">Sen-space TV</a><br>
+<a href="http://www.rrs.org/">reaction research society</a></p>
 <p>人类语言：🈳</p>
 <p>&lt; 中国人学英语&gt;吕淑湘  收录于《吕淑湘全集(第十四卷)》辽宁教育出版社。<br>
 《英语发展史》张勇先 外语教育与研究出版社 2014年出版。<br>
 《英語讀音規則与拼法》商务印書館1960年<br>
 图文并茂：</p>
 <ul>
-<li>&lt; English Grammar Illustrated &gt;Gabriele Stobbe</li>
-<li>&lt; Chinese-English Bilingual Visual Dictionary&gt;</li>
-<li>&lt; English For Everyone: English Grammar Guide&gt;</li>
-<li>&lt; English For Everyone: English Vocabulary Builder&gt;</li>
-<li>&lt; English Through Pictures &gt;1、2、3册.</li>
+<li>&lt; <em>English Grammar Illustrated</em> &gt;Gabriele Stobbe</li>
+<li>&lt; <em>Chinese-English Bilingual Visual Dictionary</em>&gt;</li>
+<li>&lt; <em>English For Everyone: English Grammar Guide</em>&gt;</li>
+<li>&lt; <em>English For Everyone: English Vocabulary Builder</em>&gt;</li>
+<li>&lt; <em>English Through Pictures</em> &gt;1、2、3册.</li>
 </ul>
-<p>&lt; Basic Korean : A Grammar and Workbook&gt; Andrew Byon</p>
+<p>&lt; <em>Basic Korean : A Grammar and Workbook</em>&gt; Andrew Byon</p>
 ]]></content>
     </entry>
     <entry>
@@ -182,7 +189,7 @@
         </link>
         <updated>2020-07-23T12:20:58.000Z</updated>
         <content type="html"><![CDATA[<h3 id="陈涛形式语义学基础"><a href="http://blog.sciencenet.cn/blog-209720-265972.html">陈涛：形式语义学基础</a> 2009-10-29</h3>
-<p>  陈意蕴的 《形式语义学基础》，还有另外两本中文教材：《程序设计语言的形式语义》，外文的好像有《程序设计语言的形式语法及语义》（翻译过来的，英文好象是Formal syntactic and semantic of programming language），还有《指称语义 denotational semantic》。</p>
+<p>  陈意蕴的 《形式语义学基础》，还有另外两本中文教材：《程序设计语言的形式语义》，外文的好像有《程序设计语言的形式语法及语义》（翻译过来的，英文好象是<em>Formal syntactic and semantic of programming language</em>），还有《指称语义 denotational semantic》。</p>
 <p>网上有几本免费的形式语义学电子版教材，国内正式出版的：<br>
 1、周巢尘，《形式语义学引论》，湖南科技出版社（绝版）<br>
 2、周之英，翻译，《计算机形式规范概论》，清华大学出版社（绝版）<br>
@@ -192,19 +199,19 @@
 6、陈意云，（实际是编译的），《程序设计语言理论》，中国科技大学出版社<br>
 7、宋国新，翻译，《程序设计语言的形式语法及语义》，机工版</p>
 <p>从发展来说，国内的形式语义学或程序理论的教材，落后国外十年以上。国外现在最流行的几本教材是：<br>
-1、《Semantics of Programming Languages》<a href="https://cgunter.cs.illinois.edu">Carl A.Gunter</a> MIT Press 1992<br>
+1、《<em>Semantics of Programming Languages</em>》<a href="https://cgunter.cs.illinois.edu">Carl A.Gunter</a> MIT Press 1992<br>
 这是目前也许是最流行的一本教材，主要采用了简单类型的Lambda Calculus和范畴学来表达语义学，内容取舍比较合理，章节安排也不错，属于高级教程，评价也很高，很多大学都推荐使用。<br>
-2、《The Formal Semantics of Programming Languages》<a href="https://www.cl.cam.uk/~gw104/">Glynn Winskel</a> MIT Press 1993<br>
+2、《<em>The Formal Semantics of Programming Languages</em>》<a href="https://www.cl.cam.uk/~gw104/">Glynn Winskel</a> MIT Press 1993<br>
 另一本流行的一本教材，作者Winskel是剑桥大学的教授，该书在欧洲几乎成为标准教材了，评价也很高，中高级教程，很多大学都推荐使用，已经出了中文版，大家可以到书店买到。<br>
-3、《Foundations for Programming Languages 》<a href="https://theory.stanford.edu/~jcm/">John C. Mitchell</a> MIT Press 1996<br>
+3、《<em>Foundations for Programming Languages</em> 》<a href="https://theory.stanford.edu/~jcm/">John C. Mitchell</a> MIT Press 1996<br>
 作为桌案上的参考书就最好了，作者是斯坦福教授。这本书是一本巨作，内容齐全，大量泛代数内容，绝对是超高级教程，但作为教材的话内容太多了，850页，真的是本大部头，复印这本书，足足花了我两个小时和20刀！<br>
-4、《Theories of Progamming Languages》<a href="https://www.cs.cmu.edu/~jcr/">John C. Reynolds</a> Cambridge Press 1998<br>
+4、《<em>Theories of Progamming Languages</em>》<a href="https://www.cs.cmu.edu/~jcr/">John C. Reynolds</a> Cambridge Press 1998<br>
 Reynolds是CMU教授，他的这本教材出发角度和上面的几本有所不同，按作者的话来说，就是尽量避免使用高深的数学理论，诸如范畴学之类的东西，同时这本书内容涉及也比较广，甚至有并发理论和CSP。该书在评价非常高，推荐大家看。<br>
-5、《Semantics of Programming Languages》（R.D. Tennent）Prentice-Hall 1990<br>
-这本书的最大特点就是采用imperative language作为研究对象，和国内的教学最符合了，国外很多大学，特别是欧洲的大学，普遍采用函数式汝ML语言作为研究和教学语言。作者R.D. Tennent在八十年代初，曾经出版过一本《Principles of Programming Languages》，国际国内都很多人参考过这本书。<br>
-6、《Introduction to the Theory of Programming Languages》<a href="https://bertrandmeyer.com">Bertrand Meyer</a><br>
+5、《<em>Semantics of Programming Languages</em>》（R.D. Tennent）Prentice-Hall 1990<br>
+这本书的最大特点就是采用imperative language作为研究对象，和国内的教学最符合了，国外很多大学，特别是欧洲的大学，普遍采用函数式汝ML语言作为研究和教学语言。作者R.D. Tennent在八十年代初，曾经出版过一本《<em>Principles of Programming Languages</em>》，国际国内都很多人参考过这本书。<br>
+6、《<em>Introduction to the Theory of Programming Languages</em>》<a href="https://bertrandmeyer.com">Bertrand Meyer</a><br>
 Prentice-Hall 1988<br>
-作者大家都很熟悉了，他的另一本书《Object-Oriented Software Construction》前几年就已经引进中国了。这本书几乎没有高深的数学内容，可能这本书出的比较早些，书的内容要比前面的几本书都要容易浅些，但作为入门的书，我推荐这本。</p>
+作者大家都很熟悉了，他的另一本书《<em>Object-Oriented Software Construction</em>》前几年就已经引进中国了。这本书几乎没有高深的数学内容，可能这本书出的比较早些，书的内容要比前面的几本书都要容易浅些，但作为入门的书，我推荐这本。</p>
 <p>陆汝钤院士的《形式语言与语义》非常好，对于多个不同语义体系介绍的比较透彻，汝指称语义，操作语义，等等。</p>
 <h3 id="汪东明计算机语言的形式语义研究"><a href="http://blog.sciencenet.cn/blog-468147-352412.html">汪东明：计算机语言的形式语义研究</a> 2010-8-12</h3>
 <p>计算机科学对语言研究（包括对自然语言和对人工语言）大致三个向：语法syntax、语义semantics、语用pragmatics<br>
@@ -221,23 +228,23 @@ Prentice-Hall 1988<br>
 6、陈意云，（实际是编译的），《程序设计语言理论》，中国科技大学出版社<br>
 7、宋国新，翻译，《程序设计语言的形式语法及语义》，机工版</p>
 <p>从发展来说，国内形式语义学或程序理论的教材，落后国外十年以上，国外现在最流行的几本教材是：<br>
-1、《Semantics of Programming Languages》（Carl A.Gunter）MIT Press 1992  这是目前最流行的一本高级教程，主要采用简单类型Lambda Calculus和范畴学来表达语义学，章节安排、内容取舍比较合理，评价也很高，很多大学都推荐使用。<br>
-2、《The Formal Semantics of Programming Languages》（Glynn Winskel）MIT Press 1993  另一本流行的一本中高级教程，作者Winskel是剑桥大学的教授，该书在欧洲几乎成为标准教材了，评价也很高，很多大学都推荐使用，已有中文版。<br>
-3、《Foundations for Programming Languages 》（John C. Mitchell ）MIT Press 1996  作者是斯坦福教授。该书内容齐全，850页，大部头，绝对是超高级教程，适于作为参考书。<br>
-4、《Theories of Progamming Languages》（John C. Reynolds）Cambridge Press 1998  Reynolds是CMU教授，该书出发角度和上面的几本有所不同，按作者的话来说，就是尽量避免使用高深的数学理论，诸如范畴学之类的东西，同时这本书内容涉及也比较广，甚至有并发理论和CSP。该书评价非常高，推荐大家看。<br>
-5、《Semantics of Programming Languages》（R.D. Tennent）Prentice-Hall 1990  这本书的最大特点就是采用imperative language作为研究对象，和国内的教学最符合了，国外很多大学，特别是欧洲的大学，普遍采用函数式汝ML语言作为研究和教学语言。作者R.D. Tennent在八十年代初，曾经出版过一本《Principles of Programming Languages。<br>
-6、《Introduction to the Theory of Programming Languages》（Bertrand Meyer）Prentice-Hall 1988 作者另一本书《Object-Oriented Software Construction》前几年就已经引进中国了。这本书几乎没有高深的数学内容，可能这本书出的比较早些，书的内容要比前面的几本书都要容易浅些，可作为入门的书。</p>
+1、《<em>Semantics of Programming Languages</em>》（Carl A.Gunter）MIT Press 1992  这是目前最流行的一本高级教程，主要采用简单类型Lambda Calculus和范畴学来表达语义学，章节安排、内容取舍比较合理，评价也很高，很多大学都推荐使用。<br>
+2、《<em>The Formal Semantics of Programming Languages</em>》（Glynn Winskel）MIT Press 1993  另一本流行的一本中高级教程，作者Winskel是剑桥大学的教授，该书在欧洲几乎成为标准教材了，评价也很高，很多大学都推荐使用，已有中文版。<br>
+3、《<em>Foundations for Programming Languages</em> 》（John C. Mitchell ）MIT Press 1996  作者是斯坦福教授。该书内容齐全，850页，大部头，绝对是超高级教程，适于作为参考书。<br>
+4、《<em>Theories of Progamming Languages</em>》（John C. Reynolds）Cambridge Press 1998  Reynolds是CMU教授，该书出发角度和上面的几本有所不同，按作者的话来说，就是尽量避免使用高深的数学理论，诸如范畴学之类的东西，同时这本书内容涉及也比较广，甚至有并发理论和CSP。该书评价非常高，推荐大家看。<br>
+5、《<em>Semantics of Programming Languages</em>》（R.D. Tennent）Prentice-Hall 1990  这本书的最大特点就是采用imperative language作为研究对象，和国内的教学最符合了，国外很多大学，特别是欧洲的大学，普遍采用函数式汝ML语言作为研究和教学语言。作者R.D. Tennent在八十年代初，曾经出版过一本《<em>Principles of Programming Languages</em>》。<br>
+6、《<em>Introduction to the Theory of Programming Languages</em>》（Bertrand Meyer）Prentice-Hall 1988 作者另一本书《<em>Object-Oriented Software Construction</em>》前几年就已经引进中国了。这本书几乎没有高深的数学内容，可能这本书出的比较早些，书的内容要比前面的几本书都要容易浅些，可作为入门的书。</p>
 <p>Game Semantics 博弈语义</p>
 <p>Book:  A Comprehensive Book List for Advanced Study in the Logical Foundations, Semantics and Type Theories of Modern Programming Languages</p>
 <p>清单分类如下</p>
 <ol>
-<li>Semantic Theory of Programming Languages</li>
-<li>Set Theory, Category Theory &amp; Universal Algebra</li>
-<li>Lambda Calculus, Combinatory Logic &amp; Related Calculi</li>
-<li>Logics, Proof Theory &amp; Type Theory</li>
-<li>Foundations and Philosophy of Mathematics</li>
-<li>Handbooks &amp; Source Books</li>
-<li>Historical &amp; Biographical</li>
+<li><em>Semantic Theory of Programming Languages</em></li>
+<li><em>Set Theory, Category Theory &amp; Universal Algebra</em></li>
+<li><em>Lambda Calculus, Combinatory Logic &amp; Related Calculi</em></li>
+<li><em>Logics, Proof Theory &amp; Type Theory</em></li>
+<li><em>Foundations and Philosophy of Mathematics</em></li>
+<li><em>Handbooks &amp; Source Books</em></li>
+<li><em>Historical &amp; Biographical</em></li>
 </ol>
 ]]></content>
     </entry>
@@ -297,7 +304,7 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 <li>《甲寅雜誌》章士钊(1881-1973)等</li>
 <li><a href="http://www.nssd.org/journal/cn/81391X/200701/">&lt;新文化是如何&quot;运动&quot;起来的——以《新青年》为视点&gt;王奇生</a><br>
 《五四新論：既非文藝復興，亦非啓蒙運動》（[五四]八十周年紀念論文集）余英時等著<br>
-&lt; Karl Marx: His Life and Environment&gt;Isaiah Berlin(1909-1997)译《卡尔·马克思：生平与环境》</li>
+&lt; <em>Karl Marx: His Life and Environment</em>&gt;Isaiah Berlin(1909-1997)译《卡尔·马克思：生平与环境》</li>
 <li>《敬告青年》陳獨秀(1879-1942), 《新青年》第一卷第一號，一九一五年九月十五日。</li>
 <li>《文學改良刍议》胡適(1891-1962), 《新青年》第二卷第五號，一九一七年一月一日。</li>
 <li>《文學革命論》陳獨秀(1879-1942), 《新青年》第二卷第六號，一九一七年二月一日。</li>
@@ -322,11 +329,11 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 <li><a href="https://www.marxists.org">Marxists Internet Archive</a></li>
 <li><a href="http://davidharvey.org/">Reading Marx's Capital with David Harvey</a></li>
 <li><a href="https://sites.uw.edu/uwpoliticaleconomy/">Political Economy Forum at the University of Washington</a></li>
-<li>&lt; Main Currents of Marxism&gt; Leszek Kolakowski 译《马克思主义的主要流派》三卷，黑龙江大学出版社2015.</li>
+<li>&lt; <em>Main Currents of Marxism</em>&gt; Leszek Kolakowski 译《马克思主义的主要流派》三卷，黑龙江大学出版社2015.</li>
 <li>John Locke (1632－1704)</li>
-<li>&lt; Personal Knowledge&gt; Michael Polanyi (1891-1976) 译《个人知识：迈向后批判哲学》</li>
-<li>&lt; The Poverty of Historicism&gt; SirKarl Raimund Popper (1902-1994) 译 《历史决定论的贫困》</li>
-<li>&lt; The Open Society and its Enemies&gt; SirKarl R Popper 译 《开放社会及其敌人》</li>
+<li>&lt; <em>Personal Knowledge</em>&gt; Michael Polanyi (1891-1976) 译《个人知识：迈向后批判哲学》</li>
+<li>&lt; <em>The Poverty of Historicism</em>&gt; SirKarl Raimund Popper (1902-1994) 译 《历史决定论的贫困》</li>
+<li>&lt; <em>The Open Society and its Enemies</em>&gt; SirKarl R Popper 译 《开放社会及其敌人》</li>
 <li>Edward Albert Shils (1910-1995)</li>
 <li>Benjamin I. Schwartz (1916-1999)</li>
 <li>Jr. Arthur M. Schlesinger (1917-2007)</li>
@@ -335,32 +342,53 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国经济🚩两个美国人的分析视角👀2019]]></title>
+        <title type="html"><![CDATA[中美经济🚩多元视角👀2019]]></title>
         <id>https://alaskasquirrel.github.io/post/economic/</id>
         <link href="https://alaskasquirrel.github.io/post/economic/">
         </link>
         <updated>2020-06-12T10:16:42.000Z</updated>
-        <content type="html"><![CDATA[<p>👹<a href="https://www.youtube.com/watch?v=Mh0vEaac78U">Bridgewater’s Ray Dalio Discusses the Impact of China’s Growth on the World Economy</a>  (Aug 6, 2019) &amp; <a href="https://www.bridgewater.com/china/">Our Views on China</a></p>
+        <content type="html"><![CDATA[<ol>
+<li><a href="https://www.youtube.com/watch?v=Mh0vEaac78U">Bridgewater’s Ray Dalio Discusses the Impact of China’s Growth on the World Economy</a>  <strong>Aug 6, 2019</strong> &amp; <a href="https://www.bridgewater.com/china/">Our Views on China</a></li>
+</ol>
 <ul>
-<li>Ray Dalio 预测，中国经济未来必将超越美国，领导全球经济。倘若有所变数，主要因素是：中美冲突、气候问题、流行疾病、政治问题。</li>
+<li>Ray Dalio 预测，中国经济未来必将超越美国，领导全球经济。其考量领域(近五百年全球储备货币变迁；前沿科技风险投资对比；全球独角兽企业占比；中国资本市场发展；中美GDP购买力平价对比）</li>
+<li>倘若有所变数，主要因素是：<strong>中美冲突、气候问题、流行疾病、政治问题</strong>。</li>
 </ul>
-<p>👺AEI(The American Enterprise Institute, 美国企业研究所) <a href="https://www.aei.org/profile/derek-m-scissors">Derek Scissors</a> :  <a href="https://www.aei.org/research-products/report/chinas-economic-miracle-in-context/">China's economic 'miracle' in context</a> Aug 26, 2019.</p>
+<ol start="2">
+<li>AEI(The American Enterprise Institute, 美国企业研究所) Derek Scissors :  <a href="https://www.aei.org/research-products/report/chinas-economic-miracle-in-context/">China's economic 'miracle' in context</a> <strong>Aug 26, 2019</strong>.</li>
+</ol>
 <ul>
-<li>Derek Scissors 尝试将中日韩三国的经济腾飞阶段建立起比较，呈现三国在经济改革相似历史时间节点上的表现，描述出多维度的差异。结论：多指标上来看，中国的发展水平不如同期的韩国，接近日本。中国的“经济奇迹”并未超越一般性的战后重建。现阶段，日韩都已进入相对停滞时期，而中国似乎难逃经济诅咒。</li>
+<li><u><a href="https://www.aei.org/profile/derek-m-scissors">Derek Scissors</a></u> 尝试将中日韩三国的经济腾飞阶段建立起比较，呈现三国在经济改革相似历史时间节点上的表现，描述出多维度的差异。结论：<u><strong>多指标上来看，中国的发展水平不如同期的韩国，接近日本</strong></u>。中国的“经济奇迹”并未超越一般性的战后重建。现阶段，日韩都已进入相对停滞时期，而中国似乎难逃经济诅咒。对比(个人收入增长、劳动力生产率增速、社会受教育年限、债务/GDP比率、M2/GDP比率、研发支出/GDP...)</li>
+<li>Scissors早先的一篇报告  <a href="https://www.aei.org/research-products/report/us-china-who-is-bigger-and-when/">US-China: Who is bigger and when</a> March 26, 2019. 中国经济体量想要在2030年超越美国，似乎不可能。参考(债务增长、老龄化加剧、统计数据真实度...)</li>
 </ul>
-<p>👿Tinyfool (郝培强) 曾通过视频及文字简述过这两种经济分析:</p>
-<ul>
-<li><a href="https://codechina.org/2019/08/ray-dalio-china-usa/">桥水基金Ray Dalio谈中美贸易冲突和中国崛起对世界的影响</a></li>
-<li><a href="https://codechina.org/2019/09/aei-derek-scissors-china/">美国智库AEI最新报告：中国经济&quot;奇迹&quot;的来龙去脉</a></li>
-</ul>
-<p>😈Tinyfool (郝培强) 另有两篇博文值得玩味：</p>
-<ul>
-<li><a href="https://codechina.org/2019/08/shanghai-beijing-hongkong-taiwan-taipei/">北京、上海，大陆发达城市和香港、台湾省城市的经济数据对比</a></li>
-<li><a href="https://codechina.org/2019/08/hongkong-taiwan-mainland-cpi-coi-gdp/">香港、台湾、大陆贫富差距和消费数据对比</a></li>
-</ul>
-<p>🎩<a href="https://www.acton.org/publications/transatlantic/2019/08/27/americas-poorest-are-richer-most-average-europeans-study/">America's poorest are richer than most average Europeans: Study</a></p>
-<p>🎃<a href="https://cafehayek.com">Cafe Hayek——where orders emerge</a></p>
-<p>🗣<a href="https://www.huxiu.com/article/233358.html">中国互联网产业的空心化之忧</a></p>
+<ol start="3">
+<li>
+<p>Tinyfool (郝培强) 曾通过文字及视频简述过以上两种经济分析:<br>
+3.1. <a href="https://codechina.org/2019/08/ray-dalio-china-usa/">桥水基金Ray Dalio谈中美贸易冲突和中国崛起对世界的影响</a> &amp; <u><a href="https://www.youtube.com/watch?v=xr77JK1jvTs">视频</a></u><br>
+3.2. <a href="https://codechina.org/2019/09/aei-derek-scissors-china/">美国智库AEI最新报告：中国经济&quot;奇迹&quot;的来龙去脉</a> &amp; <u><a href="https://www.youtube.com/watch?v=Kyh-RnwxHHA">视频</a></u><br>
+3.3. Tinyfool (郝培强) 另有两篇博文值得玩味：<br>
+3.3.1 <a href="https://codechina.org/2019/08/shanghai-beijing-hongkong-taiwan-taipei/">北京、上海，大陆发达城市和香港、台湾省城市的经济数据对比</a><br>
+3.3.2 <a href="https://codechina.org/2019/08/hongkong-taiwan-mainland-cpi-coi-gdp/">香港、台湾、大陆贫富差距和消费数据对比</a></p>
+</li>
+<li>
+<p><a href="https://www.acton.org/publications/transatlantic/2019/08/27/americas-poorest-are-richer-most-average-europeans-study/">America's poorest are richer than most average Europeans: Study</a>  August 27, 2019. 美国'穷人'具有惊人的消费购买力，超过一般意义上的发达国家。<br>
+<img src="https://alaskasquirrel.github.io/post-images/1601041234157.jpg" alt="" loading="lazy"><br>
+the U.S. Bureau of Economic Analysis基于2010年的研究报告，比较世界银行同年的数据，美国最贫穷的20%家庭的人均消费高于大多数经合组织(OECD)和欧洲部分国家的平均水平。<br>
+<img src="https://alaskasquirrel.github.io/post-images/1601041250825.jpg" alt="" loading="lazy"><br>
+2010年，即使是最贫穷的20%的美国人，消费的商品和服务也比世界上许多发展中国家的平均水平高出3到30倍。</p>
+</li>
+<li>
+<p><a href="https://cafehayek.com">Cafe Hayek——where orders emerge</a><br>
+《<strong>The American Dream Is Not Dead: (But Populism Could Kill It)</strong>》 <a href="https://www.michaelrstrain.com/">Michael R. Strain</a>，February 2020. <a href="https://www.youtube.com/watch?v=QtG53mAdFzE">视频</a><br>
+<strong><a href="https://eig.org/dcieop">Is the American Dream Alive or Dead? It Depends on Where You Look</a></strong></p>
+</li>
+<li>
+<p>旧文：<a href="http://magazine.caijing.com.cn/20180218/4407907.shtml">中国互联网产业的空心化之忧</a>《<em>财经</em>》译，2018.</p>
+</li>
+<li>
+<p>影视：<a href="https://v.qq.com/x/cover/i7sc2ih3x6qhzra/f0019al8ax5.html">《乡村里的中国》</a>2013</p>
+</li>
+</ol>
 ]]></content>
     </entry>
     <entry>
@@ -513,10 +541,8 @@ Permissioned 区块链网络允许等更为传统的角色 管理员、用户、
         <link href="https://alaskasquirrel.github.io/post/self-driving/">
         </link>
         <updated>2020-05-24T19:14:54.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>（封面 https://www.landmarkdividend.com/self-driving-car/）<br>
-机器一样的人，机器一样的心。</li>
-</ul>
+        <content type="html"><![CDATA[<p>（<em>封面 https://www.landmarkdividend.com/self-driving-car/</em>）<br>
+机器一样的人，机器一样的心。</p>
 <p>學習：👹<br>
 &lt; The Quest for Artificial Intelligence&gt;Nils Nilsson 2010 &amp; 介绍早期人工智能<br>
 <a href="https://www.zybuluo.com/hanbingtao/note/433855">韩炳涛: 零基础入门深度学习系列</a><br>
@@ -630,13 +656,14 @@ Dave Dyer (from USC ISI)<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[能源变革♻️悄无声息]]></title>
+        <title type="html"><![CDATA[能源♻️悄无声息]]></title>
         <id>https://alaskasquirrel.github.io/post/earth/</id>
         <link href="https://alaskasquirrel.github.io/post/earth/">
         </link>
         <updated>2020-05-23T13:03:03.000Z</updated>
-        <content type="html"><![CDATA[<p>(封面 https://pixabay.com/）<br>
-<a href="https://worldpopulationreview.com">World Population Review</a></p>
+        <content type="html"><![CDATA[<p>(<em>封面 https://pixabay.com/</em>）<br>
+<a href="https://worldpopulationreview.com">World Population Review</a><br>
+<em>美国民主党激进的绿色新政还需平缓落实</em>。</p>
 <ul>
 <li>据Fraunhofer 研究所的报告，2018年德国可更新能源的发电量首次超过了煤炭发电。德国作为欧洲最大的经济体，原定到 2030 年由可更新能源提供 65% 的电力，且预到 2022 年完全退出核能，并计划逐步淘汰煤炭。研究显示，去年德国太阳能、风能、生物质能和水电产生了 219 TWh 的电力，占到了总发电量 542 TWh 的四成以上，超过了煤炭的 38%。研究人员认为 2019 年可更新能源的发电量同样不会低于四成。</li>
 <li>2019年6月，英国国家电网表示，本年前五个月，来自清洁能源发电量占到了 48% ，超过了煤炭和天然气的 47%，其余是生物质燃烧。英国国家电网称，煤炭的发电量过去十年从 30% 降至了 3%，而风能从 1% 提高到 19%。同时英国还从欧洲大陆进口了一部分电，主要来自法国核电。英国估计到 2030 年清洁能源来源将占到九成。</li>
@@ -666,6 +693,7 @@ Dave Dyer (from USC ISI)<br>
 <li><a href="https://www.theguardian.com/world/2015/may/25/china-nuclear-power-plants-expansion-he-zuoxiu">China warned over 'insane' plans for new nuclear power plants<br>
 </a></li>
 </ul>
+<p><a href="https://www.generationatomic.org/blog">Generation Atomic Blog</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -882,27 +910,25 @@ http://www.cpu-world.com/CPUs/4004/index.html<br>
         <link href="https://alaskasquirrel.github.io/post/旧中国影像/">
         </link>
         <updated>2020-05-18T15:24:49.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>（封面 Felice Beato, North and East Corner of the Wall of Pekin, 1860）</li>
-</ul>
+        <content type="html"><![CDATA[<p>（<em>封面 Felice Beato, North and East Corner of the Wall of Pekin, 1860</em>）</p>
 <p>影像：<br>
 1793 马噶尔尼<br>
 阿美士德 使团<br>
 《中国摄影史 1842-1860》泰瑞 贝内特 Terry Bennett<br>
 《我在北京的四年 1880-1884》  菲利斯 比托 （Felice Beato 1832-1909）<br>
 《西德尼 D 甘博 的中国影像 1917-1932》<br>
-《中国与中国人影像》illustrations of china and its people  约翰逊 汤姆逊 （1837-1921）<br>
-《中国沙漠中的遗址》Ruins of Desert Cathay     Sir Aurel Stein 斯坦因 1912<br>
+《中国与中国人影像》<em>illustrations of china and its people</em>  约翰逊 汤姆逊 （1837-1921）<br>
+《中国沙漠中的遗址》*Ruins of Desert Cathay *    Sir Aurel Stein 斯坦因 1912<br>
 《西域考古图记》  Serindia    Aurel Stein 1921<br>
-《中国陶瓷图录》A Catalogue of Chinese Pottery and Porcelain in the Collection of Sir Percival David   1934<br>
+《中国陶瓷图录》<em>A Catalogue of Chinese Pottery and Porcelain in the Collection of Sir Percival David</em>  1934<br>
 《云冈石窟》水野清一 田中重雄<br>
 勒柯克中亚地区探险系列 Albert von Le Coq<br>
-《古代和田》Ancient Khotan       Marc Aurel Stein  1907<br>
+《古代和田》<em>Ancient Khotan</em>       Marc Aurel Stein  1907<br>
 《支那文化史迹》常盘大定 关野贞 1941<br>
 《支那佛教史迹踏查记》常盘大定 1942<br>
-《斯坦因在中亚古寺遗址发现的壁画》Wall Paintings from Ancient Shrines in Central Asia         Fred H. Andrews 1948<br>
-《玉石调查与研究》The Bishop Collection.investigations and studies in jade 1906<br>
-《北京 历史和记述》Peking.historie et description     Alphonse Favier 1897<br>
+《斯坦因在中亚古寺遗址发现的壁画》<em>Wall Paintings from Ancient Shrines in Central Asia</em>         Fred H. Andrews 1948<br>
+《玉石调查与研究》<em>The Bishop Collection.investigations and studies in jade</em> 1906<br>
+《北京 历史和记述》<em>Peking.historie et description</em>     Alphonse Favier 1897<br>
 《简明中国移民史》，葛剑雄、曹树基、吴松弟著.福建人民出版社，1993年.<br>
 《遗失 1920-1941的中国》<br>
 寻找遗失在西方的中国史 西洋镜<br>
@@ -964,7 +990,7 @@ Earl Morse<br>
 捷克国家艺术博物馆<br>
 大英博物馆：中国文物的来龙去脉 http://www.ftchinese.com/story/001077796?archive<br>
 京都艺术博物馆<br>
-《中国藏家：美国追寻亚洲艺术珍宝的百年》The China Collectors: America’s Century-Long Hunt for Asian Art Treasures</p>
+《中国藏家：美国追寻亚洲艺术珍宝的百年》<em>The China Collectors: America’s Century-Long Hunt for Asian Art Treasures</em></p>
 ]]></content>
     </entry>
     <entry>
@@ -1067,11 +1093,11 @@ Earl Morse<br>
 <a href="https://www.cs.cmu.edu/~rwh/courses/ppl/phil.html">Why Study Programming Languages?</a> by Robert Harper<br>
 <a href="http://ed-thelen.org/comp-hist/EarlyBritish.html">Early British Computers</a><br>
 <a href="http://ed-thelen.org/comp-hist/CBC.html">Computing Before Computers</a><br>
-&lt; The Pattern on the Stone&gt; Danny Hillis &amp; 解释计算机如何运转<br>
+&lt; <em>The Pattern on the Stone</em>&gt; Danny Hillis &amp; 解释计算机如何运转<br>
 <a href="https://www.bbc.com/news/technology-18327261">Prof Simon Lavington (Computer historian) - &quot;Alan Turing: Is he really the father of computing?&quot;</a><br>
 <a href="https://people.cs.clemson.edu/~mark/uprog.html">A Brief History of Microprogramming</a><br>
 <a href="https://people.freebsd.org/~lstewart/articles/cpumemory.pdf">What every Programmer should know about Memory</a>    Ulrich Drepper 2007<br>
-&lt; Memory Systems: Cache、DRAM、Disk&gt;Bruce Jacob, Spencer W.Ng, David T.Wang<br>
+&lt; <em>Memory Systems: Cache、DRAM、Disk</em> &gt;Bruce Jacob, Spencer W.Ng, David T.Wang<br>
 <a href="https://www.cs.uoregon.edu/research/summerschool/archives.html">Oregon Programming Languages Summer School</a><br>
 <a href="http://okmij.org/ftp/">FTP Index</a><br>
 <a href="http://settheory.net">Set Theory and Foundations of Mathematics</a><br>
@@ -1079,8 +1105,8 @@ Earl Morse<br>
 <a href="https://sbseminar.wordpress.com">Secret Blogging Seminar</a><br>
 《数学极客：探索数学、逻辑、计算之美》Mark C. Chu-Carroll 机械出版社2018年出版。<br>
 《哥德尔证明》欧内斯特·内格尔(Ernest Nagel),詹姆士 R. 纽曼(James R. Newman).<br>
-《From Mathematics to Philosophy》 王浩 1974.<br>
-&lt; On the building blocks of mathematical logic&gt; Moses Schonfinkel 1924<br>
+《<em>From Mathematics to Philosophy</em>》 王浩 1974.<br>
+&lt; <em>On the building blocks of mathematical logic</em>&gt; Moses Schonfinkel 1924<br>
 《数理逻辑是什么》John N. Crossley 中国轻工业出版社。<br>
 《数理逻辑导引》冯琦 科学出版社2017年9月出版。<br>
 《数理逻辑   证明及其限度》杨跃、郝兆宽、杨睿之<br>
@@ -1088,7 +1114,7 @@ Earl Morse<br>
 《数理逻辑发展史：从莱布尼茨到哥德尔》张家龙 社会科学文献出版社1993年8月出版。<br>
 《数学·计算·逻辑》陆汝铃 湖南教育出版社1993年4月出版。<br>
 《哥德尔》王浩 著，康宏逵 译， 上海译文出版社2002年9月出版。<br>
-&lt; Collected Works: Kurt Godel &gt;哥德尔文集<br>
+&lt; <em>Collected Works: Kurt Godel</em> &gt;哥德尔文集<br>
 <a href="https://www.britishwittgensteinsociety.org">British Wittgenstein Society</a><br>
 《逻辑之旅——从哥德尔到哲学》王浩 著，邢滔滔 郝兆宽 汪蔚 译，浙江大学出版社2009年2月出版。<br>
 《计算机科学中的离散结构》王元元 张桂荟 编著 机械工业出版社<br>
@@ -1109,11 +1135,11 @@ Earl Morse<br>
 <a href="https://www.cs.cmu.edu/~crary/819-f09/">Classic Papers in Programming Languages and Logic</a> by <a href="https://www.cs.cmu.edu/~crary/">Karl Crary</a><br>
 <a href="https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksinPL.shtml">Great Works in Programming Languages</a> Collected by Benjamin C. Pierce<br>
 <a href="https://softwarefoundations.cis.upenn.edu/index.html">The Software Foundations series is a broad introduction to the mathematical underpinnings of reliable software.</a> &amp; <a href="https://coq-zh.github.io/SF-zh/">中译版《软件基础》</a><br>
-&lt; The Calculi of Lambda-Conversion &gt;  Alonzo Church<br>
+&lt; <em>The Calculi of Lambda-Conversion</em> &gt;  Alonzo Church<br>
 <a href="https://hbr.github.io/Lambda-Calculus/">Lambda Calculus</a><br>
 <a href="https://turing100.acm.org/lambda_calculus_timeline.pdf">λ-Calculus: Then &amp; Now</a>     Dana S. Scott<br>
 <a href="https://www.cs.utah.edu/~mflatt/past-courses/cs7520/public_html/s06/notes.pdf">Programming Languages and Lambda Calculi</a><br>
-&lt; Type and Programming Languages &gt; 译《类型和程序设计语言》<br>
+&lt; <em>Type and Programming Languages</em> &gt; 译《类型和程序设计语言》<br>
 <a href="http://lambda-the-ultimate.org">Lambda the Ultimate</a><br>
 <a href="https://theory.cs.princeton.edu/complexity/book.pdf">&lt; Computational Complexity: A Modern Approach &gt;</a></p>
 <p><a href="https://github.com/alaskasquirrel/Lisp-China">Lisp-China</a> ：</p>
@@ -1122,29 +1148,29 @@ Earl Morse<br>
 <li><a href="https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/">A Road to Common Lisp</a></li>
 <li><a href="http://www.softwarepreservation.org/projects/LISP">History of Lisp</a> - <a href="https://mcjones.org/">Paul Mcjones</a></li>
 <li><a href="https://european-lisp-symposium.org">European Lisp Symposium</a></li>
-<li>&lt; Scheme and the Art of Programing &gt;</li>
-<li>&lt; Essentials of Programming Languages &gt;</li>
+<li>&lt; <em>Scheme and the Art of Programing</em> &gt;</li>
+<li>&lt; <em>Essentials of Programming Languages</em> &gt;</li>
 <li>&lt;<a href="https://www.scheme.com/tspl4">The Scheme Programming Language, 4th Edition</a>&gt;</li>
 <li>&lt;<a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/cltl2.html">Common Lisp the Language, 2nd Edition</a>&gt; by  Guy L. Steele Jr. &amp;全面且详细</li>
 <li><a href="http://paulgraham.com/onlisptext.html">&lt; On Lisp: Advanced Techniques for Common Lisp&gt;</a>Paul Graham 高级编程 &amp;  <a href="https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download">中文翻译</a></li>
 <li><a href="https://letoverlambda.com/textmode.cl"><Let Over Lambda></a>Doug Hoyte 《On《On Lisp》》</li>
 <li><a href="https://www.gigamonkeys.com/book/"><Practical Common Lisp></a>Peter Seibel 译《实用Common Lisp编程》田春</li>
-<li>&lt; Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS&gt;Sonja E. Keene</li>
-<li>&lt; ANSI Common Lisp &gt;Paul Graham <a href="https://acl.readthedocs.io/en/latest/zhCN/index.html">中文翻译</a> &amp; 基础教程</li>
+<li>&lt; <em>Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS</em> &gt;Sonja E. Keene</li>
+<li>&lt; <em>ANSI Common Lisp</em> &gt;Paul Graham <a href="https://acl.readthedocs.io/en/latest/zhCN/index.html">中文翻译</a> &amp; 基础教程</li>
 <li>&lt;<a href="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html">Structure and Interpretation of Computer Programs</a>&gt; 译《计算机程序的构造与解释》</li>
-<li>&lt; Lisp in Small Pieces&gt; Christian Queinnec</li>
+<li>&lt; <em>Lisp in Small Pieces</em>&gt; Christian Queinnec</li>
 <li>&lt;<a href="https://github.com/norvig/paip-lisp">Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp</a>&gt; &amp; 经典AI算法，侧重逻辑和推理。study lisp.</li>
 <li><a href="https://legacy-cs.sice.indiana.edu/~dfried/">&lt;小人书&gt;</a>Daniel P. Friedman</li>
-<li>&lt; Clojure Programming &gt;</li>
+<li>&lt; <em>Clojure Programming</em> &gt;</li>
 </ul>
 <p>&lt;<a href="https://www.cs.cmu.edu/~rwh/pfpl/">Practical Foundations for Programming Languages</a>&gt;  Second Editon by Robert Harper<br>
-&lt; Programming Language Pragmatics&gt; 译《程序设计语言——实践之路》Michael L. Scott<br>
+&lt; <em>Programming Language Pragmatics</em>&gt; 译《程序设计语言——实践之路》Michael L. Scott<br>
 &lt;<a href="https://norvig.com/design-patterns/design-patterns.pdf">Design Patterns in Dynamic Programming</a>&gt;  by <a href="http://norvig.com/">Peter Norvig</a><br>
-&lt; Inside The Python Virtual Machine&gt; Obi ike-Nwosu<br>
+&lt; <em>Inside The Python Virtual Machine</em>&gt; Obi ike-Nwosu<br>
 <a href="https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice">10 Papers Every Developer Should Read</a><br>
-&lt; The Golden Ticket&gt; 2013 &amp; 介绍NP完全问题和P=NP问题<br>
-&lt; From Frege to Godel A Source Book in Mathematical Logic, 1879-1931 &gt;<br>
-&lt; The Annotated Turing&gt; Charles Petzold 2008<br>
+&lt; <em>The Golden Ticket</em>&gt; 2013 &amp; 介绍NP完全问题和P=NP问题<br>
+&lt; <em>From Frege to Godel A Source Book in Mathematical Logic, 1879-1931</em> &gt;<br>
+&lt; <em>The Annotated Turing</em>&gt; Charles Petzold 2008<br>
 《数学哲学：对数学的思考》Stewart Shapiro 郝兆宽(译) 杨睿之(译)<br>
 《图灵的秘密：他的生平、思想及论文解读》Charles Petzold<br>
 《逻辑的引擎》Martin Davis<br>
@@ -1155,7 +1181,7 @@ Earl Morse<br>
 《编程之魂-与27位编程语言创始人对话》Federico Biancuzzi /Shane Wardern<br>
 《七周七语言：理解多种编程范型》Bruce A. Tate 2010<br>
 《没有时间的世界：爱因斯坦与哥德尔被遗忘的财富》Palle Yourgrau 2009<br>
-&lt; Godel Meets Einstein: Time Travel in the Godel Universe&gt; Palle Yourgrau 1999<br>
+&lt; <em>Godel Meets Einstein: Time Travel in the Godel Universe</em>&gt; Palle Yourgrau 1999<br>
 《数学之美》吴军<br>
 《人工智能》上下册 陆汝钤</p>
 <p>教師課程：☣️</p>
