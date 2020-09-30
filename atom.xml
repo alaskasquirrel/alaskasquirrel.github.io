@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-09-27T13:48:27.402Z</updated>
+    <updated>2020-09-30T17:15:34.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -279,7 +279,7 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 </ul>
 <p>RIME 开源输入法 https://rime.im</p>
 <p>系统设置：🔒 <a href="https://fix10.isleaked.com">可选项一律 off 关闭</a><br>
-如若通过 Microsoft Store 安装应用，推荐 Grover Podcast 播客管理软件。</p>
+如若通过 Microsoft Store 安装应用，推荐 Grover Podcast 、Newsflow。</p>
 ]]></content>
     </entry>
     <entry>
@@ -379,8 +379,12 @@ the U.S. Bureau of Economic Analysis基于2010年的研究报告，比较世界�
 </li>
 <li>
 <p><a href="https://cafehayek.com">Cafe Hayek——where orders emerge</a><br>
-《<strong>The American Dream Is Not Dead: (But Populism Could Kill It)</strong>》 <a href="https://www.michaelrstrain.com/">Michael R. Strain</a>，February 2020. <a href="https://www.youtube.com/watch?v=QtG53mAdFzE">视频</a><br>
-<strong><a href="https://eig.org/dcieop">Is the American Dream Alive or Dead? It Depends on Where You Look</a></strong></p>
+5.1 《<strong>The American Dream Is Not Dead: (But Populism Could Kill It)</strong>》 <a href="https://www.michaelrstrain.com/">Michael R. Strain</a>，February 2020. <a href="https://www.youtube.com/watch?v=QtG53mAdFzE">视频</a><br>
+ 从经济机会和生活质量的角度衡量，在美国活着没有比现在更好的时刻啦。长期以来的政府福利政策并未降低贫困率，而贫富悬殊或许是贫困群体&quot;享受人生&quot;的后果。<br>
+5.2 <strong><a href="https://eig.org/dcieop">Is the American Dream Alive or Dead? It Depends on Where You Look</a></strong><br>
+（下图: Raj Chetty and Nathaniel Hendren, “The Effects of Neighborhood on Intergenerational Mobility,” 2015. Obtained from the Equality of Opportunity Project website, “Online Data Table 4 County Causal Effects,” in Summer 2016）<br>
+<img src="https://alaskasquirrel.github.io/post-images/1601362701742.png" alt="" loading="lazy"><br>
+ 依据报告，美国51%郡县对低收入儿童的经济流动产生了负面影响，而1,660个县中有60％的18岁以下美国人居住于此。</p>
 </li>
 <li>
 <p>旧文：<a href="http://magazine.caijing.com.cn/20180218/4407907.shtml">中国互联网产业的空心化之忧</a>《<em>财经</em>》译，2018.</p>
