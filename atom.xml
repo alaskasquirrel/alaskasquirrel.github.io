@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-10-08T19:25:37.729Z</updated>
+    <updated>2020-10-11T08:28:17.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -17,10 +17,12 @@
         </link>
         <updated>2020-10-01T07:07:57.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://spectrum.ieee.org/telecom/wireless/5gs-waveform-is-a-battery-vampire">5G's Waveform Is a Battery Vampire</a> 24 Jul 2019.<br>
+<a href="http://www.telirati.com/2019/08/5g-hype-vs-reality.html">5G: Hype vs Reality</a> August 5, 2019.<br>
 <a href="https://spectrum.ieee.org/tech-talk/telecom/standards/5g-release-16">5G Just Got Weird</a> 07 Aug 2020.<br>
-<a href="https://blog.acolyer.org/2020/10/05/understangding-operational-5g/">Understanding operational 5G: a first measurement study on its coverage, performance and energy consumption</a> October 5, 2020.<br>
+<a href="https://blog.acolyer.org/2020/10/05/understanding-operational-5g/">Understanding operational 5G: a first measurement study on its coverage, performance and energy consumption</a> October 5, 2020.<br>
 <a href="https://spectrum.ieee.org/telecom/wireless/3gpp-release-15-overview">3GPP Release 15 Overview</a><br>
-<a href="https://www.3gpp.org/release-6">3GPP: Release 16</a></p>
+<a href="https://www.3gpp.org/release-6">3GPP: Release 16</a><br>
+<a href="https://www.huxiu.com/article/295373.html">虎嗅：5G网速那么快，基站辐射会很大吗？</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -788,8 +790,9 @@ Dave Dyer (from USC ISI)<br>
         </link>
         <updated>2020-05-23T13:03:03.000Z</updated>
         <content type="html"><![CDATA[<p>(<em>封面 https://pixabay.com/</em>）<br>
-<a href="https://worldpopulationreview.com">World Population Review</a><br>
-<em>美国民主党激进的绿色新政还需平缓落实</em>。</p>
+<a href="https://reason.com/2019/10/09/the-economy-keeps-growing-but-americans-are-using-less-steel-paper-fertilizer-and-energy/">The Economy Keeps Growing but Americans are Using Less Steel, Paper, Fertilizer, and Energy</a> 10.09.2019.<br>
+<a href="https://worldpopulationreview.com">World Population Review</a></p>
+<p><em>美国民主党激进的绿色新政还需平缓落实</em>。</p>
 <ul>
 <li>据Fraunhofer 研究所的报告，2018年德国可更新能源的发电量首次超过了煤炭发电。德国作为欧洲最大的经济体，原定到 2030 年由可更新能源提供 65% 的电力，且预到 2022 年完全退出核能，并计划逐步淘汰煤炭。研究显示，去年德国太阳能、风能、生物质能和水电产生了 219 TWh 的电力，占到了总发电量 542 TWh 的四成以上，超过了煤炭的 38%。研究人员认为 2019 年可更新能源的发电量同样不会低于四成。</li>
 <li>2019年6月，英国国家电网表示，本年前五个月，来自清洁能源发电量占到了 48% ，超过了煤炭和天然气的 47%，其余是生物质燃烧。英国国家电网称，煤炭的发电量过去十年从 30% 降至了 3%，而风能从 1% 提高到 19%。同时英国还从欧洲大陆进口了一部分电，主要来自法国核电。英国估计到 2030 年清洁能源来源将占到九成。</li>
@@ -1528,8 +1531,6 @@ Earl Morse<br>
 <li><a href="https://channel9.msdn.com/Blog/mtthijs/Anders-Hejlsberg-Trends-and-Future-Directions-in-Programming-Languages-DevDays-2010-Keynote">Anders Hejlsberg Trends and Future Directions in Programming Languages</a> April 20, 2010.</li>
 <li><a href="https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction">Anders Hejlsberg on Modern Compiler Construction</a> May 13, 2016.</li>
 </ul>
-<p><img src="https://alaskasquirrel.github.io/post-images/1597128759022.jpg" alt="" loading="lazy"><br>
-(still-life-with-flowers-in-a-glass-vase-jan-davidsz-de-heem-1650)</p>
 ]]></content>
     </entry>
 </feed>
