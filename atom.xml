@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-10-11T09:23:35.673Z</updated>
+    <updated>2020-10-27T12:27:52.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -10,6 +10,77 @@
     <logo>https://alaskasquirrel.github.io/images/avatar.png</logo>
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, NewOld </rights>
+    <entry>
+        <title type="html"><![CDATA[研读📚Tony Hoare]]></title>
+        <id>https://alaskasquirrel.github.io/post/TonyHoare/</id>
+        <link href="https://alaskasquirrel.github.io/post/TonyHoare/">
+        </link>
+        <updated>2020-10-17T21:46:52.000Z</updated>
+        <content type="html"><![CDATA[<p>Tony Hoare</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研读📚Leslie Lamport]]></title>
+        <id>https://alaskasquirrel.github.io/post/LeslieLamport/</id>
+        <link href="https://alaskasquirrel.github.io/post/LeslieLamport/">
+        </link>
+        <updated>2020-10-15T19:54:43.000Z</updated>
+        <content type="html"><![CDATA[<p>Leslie Lamport</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研读📚Philip Wadler]]></title>
+        <id>https://alaskasquirrel.github.io/post/PhilipWadler/</id>
+        <link href="https://alaskasquirrel.github.io/post/PhilipWadler/">
+        </link>
+        <updated>2020-10-15T19:53:17.000Z</updated>
+        <content type="html"><![CDATA[<p>Philip Wadler</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研读📚Guy Steele]]></title>
+        <id>https://alaskasquirrel.github.io/post/GuySteele/</id>
+        <link href="https://alaskasquirrel.github.io/post/GuySteele/">
+        </link>
+        <updated>2020-10-15T19:45:07.000Z</updated>
+        <content type="html"><![CDATA[<p>Guy Steele</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研读📚Moses Schönfinkel（1889-1942）]]></title>
+        <id>https://alaskasquirrel.github.io/post/MosesSchonfinkel/</id>
+        <link href="https://alaskasquirrel.github.io/post/MosesSchonfinkel/">
+        </link>
+        <updated>2020-10-13T15:09:43.000Z</updated>
+        <content type="html"><![CDATA[<p>Moses Schönfinkel</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研读📚John McCarthy（1927-2011）]]></title>
+        <id>https://alaskasquirrel.github.io/post/johnmccarthy/</id>
+        <link href="https://alaskasquirrel.github.io/post/johnmccarthy/">
+        </link>
+        <updated>2020-10-13T10:15:27.000Z</updated>
+        <content type="html"><![CDATA[<p>John Mccarthy</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你在哪里, 上海, 纽约, 巴黎, 东京？]]></title>
+        <id>https://alaskasquirrel.github.io/post/whereyouare/</id>
+        <link href="https://alaskasquirrel.github.io/post/whereyouare/">
+        </link>
+        <updated>2020-10-05T14:49:32.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li><a href="https://theshanghairen.com/">《The Shanghairen》</a>沪誌<br>
+The Shanghairen 是一个由来自上海和世界各地的百位插画艺术家共同创作的创意项目。是向&quot;The New Yorker&quot;(纽约客)杂志标志性的插画封面致敬，亦是&quot;Parisianer巴黎人&quot;和&quot;Tokyoiter东京人&quot;的灵感延续。插画师以个人视角和风格，完全自由地创作自己心目中的上海。</li>
+<li><a href="https://www.thenowyorker.com/">《The Now Yorker》</a>纽约客</li>
+<li><a href="http://www.theparisianer.eu/">《The Parisianer》</a>巴黎人</li>
+<li><a href="http://www.thetokyoiter.com/">《The Tokyoiter》</a>东京人<br>
+The Tokyoiterは、だいすきなアーティストたちの作品をもっと多くの人たちにみてもらいたいというおも いをこめて、つくられています。イラストレーターも含むわたしたち企画チームは、ストーリーとインス ピレーションにあふれた東京というまちに住み、そのまちへの情熱とそこに住む人たちのストーリーを 伝えたいとおもっています。<br>
+東京は、住む場所としても、いろいろな経験をたのしむ場所としてもすばらしいところです。それぞれの カバーがそれを物語るものになることを期待しています。The ParisianerとThe New Yorkerの伝統的なカバーアートへのトリビュートであるこのプロジェクトによって、東京のまちはもちろん、イラストレーションやアニメー ション、ドローイングやデザインといった全てのアートにも人々の目を向けることができると確信してい ます。</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5G🌐（更新中）]]></title>
         <id>https://alaskasquirrel.github.io/post/5G/</id>
@@ -26,9 +97,9 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[转🌀逻辑与人生：一颗数学巨星的陨落]]></title>
-        <id>https://alaskasquirrel.github.io/post/AI/</id>
-        <link href="https://alaskasquirrel.github.io/post/AI/">
+        <title type="html"><![CDATA[转♋️逻辑与人生：一颗数学巨星的陨落]]></title>
+        <id>https://alaskasquirrel.github.io/post/WalterPitts/</id>
+        <link href="https://alaskasquirrel.github.io/post/WalterPitts/">
         </link>
         <updated>2020-09-16T17:58:18.000Z</updated>
         <content type="html"><![CDATA[<p>原文：<u><a href="http://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic">The Man Who Tried to Redeem the World with Logic: Walter Pitts rose from the streets to MIT, but couldn’t escape himself</a></u> BY AMANDA GEFTER , ILLUSTRATION BY JULIA BRECKENREID , FEBRUARY 5, 2015.<br>
@@ -90,7 +161,8 @@
 <a href="https://nationalinterest.org/">The National Interest</a><br>
 <a href="https://www.thedrive.com/">The Drive</a><br>
 <a href="https://www.armscontrolwonk.com/">Arms Control Wonk</a><br>
-<a href="http://alert5.com/">Alert5 - Military Aviation News</a></p>
+<a href="http://alert5.com/">Alert5 - Military Aviation News</a><br>
+<a href="https://usnc.com/ultra-safe-nuclear-technologies-delivers-advanced-nuclear-thermal-propulsion-design-to-nasa/">Ultra Safe Nuclear Technologies Delivers Advanced Nuclear Thermal Propulsion Design To NASA</a> New Propulsion Concept To Facilitate Rapid Transportation To The Moon And Mars</p>
 ]]></content>
     </entry>
     <entry>
@@ -123,29 +195,69 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[杨小凯(1948-2004) 生命是短暂的，唯理论之树长青]]></title>
-        <id>https://alaskasquirrel.github.io/post/杨小凯/</id>
-        <link href="https://alaskasquirrel.github.io/post/杨小凯/">
+        <title type="html"><![CDATA[转♋️形式语义学]]></title>
+        <id>https://alaskasquirrel.github.io/post/formalsemantics/</id>
+        <link href="https://alaskasquirrel.github.io/post/formalsemantics/">
         </link>
-        <updated>2020-08-21T07:51:47.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li><a href="http://study.huizhou.gov.cn/lessionnew/bdmpa/MPA-A17/contents/thesis/thes005_01.pdf">《后发劣势》</a>杨小凯 ，北京天则经济研究所 2002年4月。</li>
-<li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《经济改革和宪政转轨》</a>Jeffrey Sachs 胡永泰 杨小凯 2003年。</li>
-<li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《后发优势与后发劣势——与杨小凯教授商榷》</a> 林毅夫 2003年。</li>
-<li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《经济改革与宪政转轨：回应》</a> 杨小凯 2003年。</li>
-<li>《百年中国经济史笔记-从晚清到2002》杨小凯</li>
-</ul>
-<hr>
-<p>附：近代留学生与中国经济学-几份推荐资料</p>
-<ul>
-<li>《留美生与中国经济学》，李翠莲，南开出版社，2009年.</li>
-<li>《中国经济学的成长——中国经济学社研究（1923-1953）》，上海三联书店，2006年。</li>
-<li>“近代中国经济学的发展——来自留学生博士论文的考察”，邹进文，中国社会科学，2010年第5期.</li>
-<li>&quot;<em>How Keynesian Economics Came to China</em>&quot;, PB Trescott.&lt; <em>History of Political Economy</em>&gt;,1996,44(2):341-364.</li>
-<li>《试论西方经济学在中国的早期传播》.</li>
-<li>《回溯历史——马克思主义经济学说在中国的传播前史》，上海财经大学出版社，2008年.</li>
-<li>《中国留美学生史》，三联书店，2010年。</li>
-</ul>
+        <updated>2020-08-21T12:20:58.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="陈涛形式语义学基础"><a href="http://blog.sciencenet.cn/blog-209720-265972.html">陈涛：形式语义学基础</a> 2009-10-29</h3>
+<p>  陈意蕴的 《形式语义学基础》，还有另外两本中文教材：《程序设计语言的形式语义》，外文的好像有《程序设计语言的形式语法及语义》（翻译过来的，英文好象是<em>Formal syntactic and semantic of programming language</em>），还有《指称语义 denotational semantic》。</p>
+<p>网上有几本免费的形式语义学电子版教材，国内正式出版的：<br>
+1、周巢尘，《形式语义学引论》，湖南科技出版社（绝版）<br>
+2、周之英，翻译，《计算机形式规范概论》，清华大学出版社（绝版）<br>
+3、屈延文，《形式语义学基础与形式说明》，科学版（绝版）<br>
+4、陆汝钤，《计算机语言的形式语义》，科学版<br>
+5、陈意云，（实际是编译的），《形式语义学基础》，中国科技大学出版社<br>
+6、陈意云，（实际是编译的），《程序设计语言理论》，中国科技大学出版社<br>
+7、宋国新，翻译，《程序设计语言的形式语法及语义》，机工版</p>
+<p>从发展来说，国内的形式语义学或程序理论的教材，落后国外十年以上。国外现在最流行的几本教材是：<br>
+1、《<em>Semantics of Programming Languages</em>》<a href="https://cgunter.cs.illinois.edu">Carl A.Gunter</a> MIT Press 1992<br>
+这是目前也许是最流行的一本教材，主要采用了简单类型的Lambda Calculus和范畴学来表达语义学，内容取舍比较合理，章节安排也不错，属于高级教程，评价也很高，很多大学都推荐使用。<br>
+2、《<em>The Formal Semantics of Programming Languages</em>》<a href="https://www.cl.cam.uk/~gw104/">Glynn Winskel</a> MIT Press 1993<br>
+另一本流行的一本教材，作者Winskel是剑桥大学的教授，该书在欧洲几乎成为标准教材了，评价也很高，中高级教程，很多大学都推荐使用，已经出了中文版，大家可以到书店买到。<br>
+3、《<em>Foundations for Programming Languages</em> 》<a href="https://theory.stanford.edu/~jcm/">John C. Mitchell</a> MIT Press 1996<br>
+作为桌案上的参考书就最好了，作者是斯坦福教授。这本书是一本巨作，内容齐全，大量泛代数内容，绝对是超高级教程，但作为教材的话内容太多了，850页，真的是本大部头，复印这本书，足足花了我两个小时和20刀！<br>
+4、《<em>Theories of Progamming Languages</em>》<a href="https://www.cs.cmu.edu/~jcr/">John C. Reynolds</a> Cambridge Press 1998<br>
+Reynolds是CMU教授，他的这本教材出发角度和上面的几本有所不同，按作者的话来说，就是尽量避免使用高深的数学理论，诸如范畴学之类的东西，同时这本书内容涉及也比较广，甚至有并发理论和CSP。该书在评价非常高，推荐大家看。<br>
+5、《<em>Semantics of Programming Languages</em>》（R.D. Tennent）Prentice-Hall 1990<br>
+这本书的最大特点就是采用imperative language作为研究对象，和国内的教学最符合了，国外很多大学，特别是欧洲的大学，普遍采用函数式汝ML语言作为研究和教学语言。作者R.D. Tennent在八十年代初，曾经出版过一本《<em>Principles of Programming Languages</em>》，国际国内都很多人参考过这本书。<br>
+6、《<em>Introduction to the Theory of Programming Languages</em>》<a href="https://bertrandmeyer.com">Bertrand Meyer</a><br>
+Prentice-Hall 1988<br>
+作者大家都很熟悉了，他的另一本书《<em>Object-Oriented Software Construction</em>》前几年就已经引进中国了。这本书几乎没有高深的数学内容，可能这本书出的比较早些，书的内容要比前面的几本书都要容易浅些，但作为入门的书，我推荐这本。</p>
+<p>陆汝钤院士的《形式语言与语义》非常好，对于多个不同语义体系介绍的比较透彻，汝指称语义，操作语义，等等。</p>
+<h3 id="汪东明计算机语言的形式语义研究"><a href="http://blog.sciencenet.cn/blog-468147-352412.html">汪东明：计算机语言的形式语义研究</a> 2010-8-12</h3>
+<p>计算机科学对语言研究（包括对自然语言和对人工语言）大致三个向：语法syntax、语义semantics、语用pragmatics<br>
+-- 语法研究语言的形态结构<br>
+-- 语义研究语言与其所指代对象的联系<br>
+-- 语用研究语言和其使用者之间的联系（从使用者角度、按使用者的需求对语料进行差异化）</p>
+<p>  计算机没有智能，计算机智能都是假的，是人给它安装上去的，所以计算机语言最大的特点是形式化（Formalization，包含规范化Normalization的意思），计算机语言的形式化分为语法形式化和语义形式化两个方面，形式语义学研究语义形式化，包括操作语义学、指称语义学、公理语义学和代数语义学四种。具体可参考：  操作语义的基本思想是建立一个抽象机器以模拟程序在执行过程中如何进行数据处理。  指称语义的思想是使语言的每一成分对应于一个数学对象，该对象称为该语言成分的指称，程序看作输入域到输出域的映射，输入域和输出域统称为论域。因此论域与映射是指称语义的基本研究对象。  公理语义实在程序正确性验证的基础上发展起来的，它给出一种方法，使人们在给定的前提下，验证某种特性是否成立。  代数语义的基本思想是把描述语义的逻辑体系和满足这个逻辑系统的各种模型统一在一起，同时把模型的集合看成是以代数机构，研究这些模型之间的关系。</p>
+<p>国内计算机形式语义学参考书：<br>
+1、周巢尘，《形式语义学引论》，湖南科技出版社（绝版）<br>
+2、周之英，翻译，《计算机形式规范概论》，清华大学出版社（绝版）<br>
+3、屈延文，《形式语义学基础与形式说明》，科学版（绝版）<br>
+4、陆汝钤，《计算机语言的形式语义》，科学版<br>
+5、陈意云，（实际是编译的），《形式语义学基础》，中国科技大学出版社<br>
+6、陈意云，（实际是编译的），《程序设计语言理论》，中国科技大学出版社<br>
+7、宋国新，翻译，《程序设计语言的形式语法及语义》，机工版</p>
+<p>从发展来说，国内形式语义学或程序理论的教材，落后国外十年以上，国外现在最流行的几本教材是：<br>
+1、《<em>Semantics of Programming Languages</em>》（Carl A.Gunter）MIT Press 1992  这是目前最流行的一本高级教程，主要采用简单类型Lambda Calculus和范畴学来表达语义学，章节安排、内容取舍比较合理，评价也很高，很多大学都推荐使用。<br>
+2、《<em>The Formal Semantics of Programming Languages</em>》（Glynn Winskel）MIT Press 1993  另一本流行的一本中高级教程，作者Winskel是剑桥大学的教授，该书在欧洲几乎成为标准教材了，评价也很高，很多大学都推荐使用，已有中文版。<br>
+3、《<em>Foundations for Programming Languages</em> 》（John C. Mitchell ）MIT Press 1996  作者是斯坦福教授。该书内容齐全，850页，大部头，绝对是超高级教程，适于作为参考书。<br>
+4、《<em>Theories of Progamming Languages</em>》（John C. Reynolds）Cambridge Press 1998  Reynolds是CMU教授，该书出发角度和上面的几本有所不同，按作者的话来说，就是尽量避免使用高深的数学理论，诸如范畴学之类的东西，同时这本书内容涉及也比较广，甚至有并发理论和CSP。该书评价非常高，推荐大家看。<br>
+5、《<em>Semantics of Programming Languages</em>》（R.D. Tennent）Prentice-Hall 1990  这本书的最大特点就是采用imperative language作为研究对象，和国内的教学最符合了，国外很多大学，特别是欧洲的大学，普遍采用函数式汝ML语言作为研究和教学语言。作者R.D. Tennent在八十年代初，曾经出版过一本《<em>Principles of Programming Languages</em>》。<br>
+6、《<em>Introduction to the Theory of Programming Languages</em>》（Bertrand Meyer）Prentice-Hall 1988 作者另一本书《<em>Object-Oriented Software Construction</em>》前几年就已经引进中国了。这本书几乎没有高深的数学内容，可能这本书出的比较早些，书的内容要比前面的几本书都要容易浅些，可作为入门的书。</p>
+<p>Game Semantics 博弈语义</p>
+<p>Book:  A Comprehensive Book List for Advanced Study in the Logical Foundations, Semantics and Type Theories of Modern Programming Languages</p>
+<p>清单分类如下</p>
+<ol>
+<li><em>Semantic Theory of Programming Languages</em></li>
+<li><em>Set Theory, Category Theory &amp; Universal Algebra</em></li>
+<li><em>Lambda Calculus, Combinatory Logic &amp; Related Calculi</em></li>
+<li><em>Logics, Proof Theory &amp; Type Theory</em></li>
+<li><em>Foundations and Philosophy of Mathematics</em></li>
+<li><em>Handbooks &amp; Source Books</em></li>
+<li><em>Historical &amp; Biographical</em></li>
+</ol>
 ]]></content>
     </entry>
     <entry>
@@ -226,7 +338,8 @@
 <li>&lt; <em>English For Everyone: English Vocabulary Builder</em>&gt;</li>
 <li>&lt; <em>English Through Pictures</em> &gt;1、2、3册.</li>
 </ul>
-<p>&lt; <em>Basic Korean : A Grammar and Workbook</em>&gt; Andrew Byon</p>
+<p>&lt; <em>Basic Korean : A Grammar and Workbook</em>&gt; Andrew Byon<br>
+<a href="http://ogden.basic-english.org/">Ogden's Basic English</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -293,7 +406,7 @@
 <p><a href="https://www.kosho.or.jp">日本の古本屋</a>(日本旧书网)<br>
 <a href="https://ja.ukiyo-e.org/">日本浮世繪檢索</a></p>
 <hr>
-<p>附：近代中国人旅日游记<br>
+<p>附1：近代中国人旅日游记<br>
 何如璋《使东述略》<br>
 黄遵宪《日本杂事诗》<br>
 王韬《扶桑游记》<br>
@@ -304,72 +417,182 @@
 王景禧《日游笔记》<br>
 钟叔河主编《走向世界》丛书收录《早期日本游记五种》<br>
 王宝平主编《晚清中国人日本考察记集成》(后改题为《晚清东游日记汇编》)</p>
+<hr>
+<p>附2：日本語 にほんご Nihongo<br>
+<a href="https://xenojoshua.com/2020/03/japanese/">日语自学笔记</a><br>
+<a href="https://nihongokyoshi-net.com/">日本語NET</a></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[转♋️形式语义学]]></title>
-        <id>https://alaskasquirrel.github.io/post/formalsemantics/</id>
-        <link href="https://alaskasquirrel.github.io/post/formalsemantics/">
+        <title type="html"><![CDATA[Thomas Sowell]]></title>
+        <id>https://alaskasquirrel.github.io/post/ThomasSowell/</id>
+        <link href="https://alaskasquirrel.github.io/post/ThomasSowell/">
         </link>
-        <updated>2020-07-23T12:20:58.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="陈涛形式语义学基础"><a href="http://blog.sciencenet.cn/blog-209720-265972.html">陈涛：形式语义学基础</a> 2009-10-29</h3>
-<p>  陈意蕴的 《形式语义学基础》，还有另外两本中文教材：《程序设计语言的形式语义》，外文的好像有《程序设计语言的形式语法及语义》（翻译过来的，英文好象是<em>Formal syntactic and semantic of programming language</em>），还有《指称语义 denotational semantic》。</p>
-<p>网上有几本免费的形式语义学电子版教材，国内正式出版的：<br>
-1、周巢尘，《形式语义学引论》，湖南科技出版社（绝版）<br>
-2、周之英，翻译，《计算机形式规范概论》，清华大学出版社（绝版）<br>
-3、屈延文，《形式语义学基础与形式说明》，科学版（绝版）<br>
-4、陆汝钤，《计算机语言的形式语义》，科学版<br>
-5、陈意云，（实际是编译的），《形式语义学基础》，中国科技大学出版社<br>
-6、陈意云，（实际是编译的），《程序设计语言理论》，中国科技大学出版社<br>
-7、宋国新，翻译，《程序设计语言的形式语法及语义》，机工版</p>
-<p>从发展来说，国内的形式语义学或程序理论的教材，落后国外十年以上。国外现在最流行的几本教材是：<br>
-1、《<em>Semantics of Programming Languages</em>》<a href="https://cgunter.cs.illinois.edu">Carl A.Gunter</a> MIT Press 1992<br>
-这是目前也许是最流行的一本教材，主要采用了简单类型的Lambda Calculus和范畴学来表达语义学，内容取舍比较合理，章节安排也不错，属于高级教程，评价也很高，很多大学都推荐使用。<br>
-2、《<em>The Formal Semantics of Programming Languages</em>》<a href="https://www.cl.cam.uk/~gw104/">Glynn Winskel</a> MIT Press 1993<br>
-另一本流行的一本教材，作者Winskel是剑桥大学的教授，该书在欧洲几乎成为标准教材了，评价也很高，中高级教程，很多大学都推荐使用，已经出了中文版，大家可以到书店买到。<br>
-3、《<em>Foundations for Programming Languages</em> 》<a href="https://theory.stanford.edu/~jcm/">John C. Mitchell</a> MIT Press 1996<br>
-作为桌案上的参考书就最好了，作者是斯坦福教授。这本书是一本巨作，内容齐全，大量泛代数内容，绝对是超高级教程，但作为教材的话内容太多了，850页，真的是本大部头，复印这本书，足足花了我两个小时和20刀！<br>
-4、《<em>Theories of Progamming Languages</em>》<a href="https://www.cs.cmu.edu/~jcr/">John C. Reynolds</a> Cambridge Press 1998<br>
-Reynolds是CMU教授，他的这本教材出发角度和上面的几本有所不同，按作者的话来说，就是尽量避免使用高深的数学理论，诸如范畴学之类的东西，同时这本书内容涉及也比较广，甚至有并发理论和CSP。该书在评价非常高，推荐大家看。<br>
-5、《<em>Semantics of Programming Languages</em>》（R.D. Tennent）Prentice-Hall 1990<br>
-这本书的最大特点就是采用imperative language作为研究对象，和国内的教学最符合了，国外很多大学，特别是欧洲的大学，普遍采用函数式汝ML语言作为研究和教学语言。作者R.D. Tennent在八十年代初，曾经出版过一本《<em>Principles of Programming Languages</em>》，国际国内都很多人参考过这本书。<br>
-6、《<em>Introduction to the Theory of Programming Languages</em>》<a href="https://bertrandmeyer.com">Bertrand Meyer</a><br>
-Prentice-Hall 1988<br>
-作者大家都很熟悉了，他的另一本书《<em>Object-Oriented Software Construction</em>》前几年就已经引进中国了。这本书几乎没有高深的数学内容，可能这本书出的比较早些，书的内容要比前面的几本书都要容易浅些，但作为入门的书，我推荐这本。</p>
-<p>陆汝钤院士的《形式语言与语义》非常好，对于多个不同语义体系介绍的比较透彻，汝指称语义，操作语义，等等。</p>
-<h3 id="汪东明计算机语言的形式语义研究"><a href="http://blog.sciencenet.cn/blog-468147-352412.html">汪东明：计算机语言的形式语义研究</a> 2010-8-12</h3>
-<p>计算机科学对语言研究（包括对自然语言和对人工语言）大致三个向：语法syntax、语义semantics、语用pragmatics<br>
--- 语法研究语言的形态结构<br>
--- 语义研究语言与其所指代对象的联系<br>
--- 语用研究语言和其使用者之间的联系（从使用者角度、按使用者的需求对语料进行差异化）</p>
-<p>  计算机没有智能，计算机智能都是假的，是人给它安装上去的，所以计算机语言最大的特点是形式化（Formalization，包含规范化Normalization的意思），计算机语言的形式化分为语法形式化和语义形式化两个方面，形式语义学研究语义形式化，包括操作语义学、指称语义学、公理语义学和代数语义学四种。具体可参考：  操作语义的基本思想是建立一个抽象机器以模拟程序在执行过程中如何进行数据处理。  指称语义的思想是使语言的每一成分对应于一个数学对象，该对象称为该语言成分的指称，程序看作输入域到输出域的映射，输入域和输出域统称为论域。因此论域与映射是指称语义的基本研究对象。  公理语义实在程序正确性验证的基础上发展起来的，它给出一种方法，使人们在给定的前提下，验证某种特性是否成立。  代数语义的基本思想是把描述语义的逻辑体系和满足这个逻辑系统的各种模型统一在一起，同时把模型的集合看成是以代数机构，研究这些模型之间的关系。</p>
-<p>国内计算机形式语义学参考书：<br>
-1、周巢尘，《形式语义学引论》，湖南科技出版社（绝版）<br>
-2、周之英，翻译，《计算机形式规范概论》，清华大学出版社（绝版）<br>
-3、屈延文，《形式语义学基础与形式说明》，科学版（绝版）<br>
-4、陆汝钤，《计算机语言的形式语义》，科学版<br>
-5、陈意云，（实际是编译的），《形式语义学基础》，中国科技大学出版社<br>
-6、陈意云，（实际是编译的），《程序设计语言理论》，中国科技大学出版社<br>
-7、宋国新，翻译，《程序设计语言的形式语法及语义》，机工版</p>
-<p>从发展来说，国内形式语义学或程序理论的教材，落后国外十年以上，国外现在最流行的几本教材是：<br>
-1、《<em>Semantics of Programming Languages</em>》（Carl A.Gunter）MIT Press 1992  这是目前最流行的一本高级教程，主要采用简单类型Lambda Calculus和范畴学来表达语义学，章节安排、内容取舍比较合理，评价也很高，很多大学都推荐使用。<br>
-2、《<em>The Formal Semantics of Programming Languages</em>》（Glynn Winskel）MIT Press 1993  另一本流行的一本中高级教程，作者Winskel是剑桥大学的教授，该书在欧洲几乎成为标准教材了，评价也很高，很多大学都推荐使用，已有中文版。<br>
-3、《<em>Foundations for Programming Languages</em> 》（John C. Mitchell ）MIT Press 1996  作者是斯坦福教授。该书内容齐全，850页，大部头，绝对是超高级教程，适于作为参考书。<br>
-4、《<em>Theories of Progamming Languages</em>》（John C. Reynolds）Cambridge Press 1998  Reynolds是CMU教授，该书出发角度和上面的几本有所不同，按作者的话来说，就是尽量避免使用高深的数学理论，诸如范畴学之类的东西，同时这本书内容涉及也比较广，甚至有并发理论和CSP。该书评价非常高，推荐大家看。<br>
-5、《<em>Semantics of Programming Languages</em>》（R.D. Tennent）Prentice-Hall 1990  这本书的最大特点就是采用imperative language作为研究对象，和国内的教学最符合了，国外很多大学，特别是欧洲的大学，普遍采用函数式汝ML语言作为研究和教学语言。作者R.D. Tennent在八十年代初，曾经出版过一本《<em>Principles of Programming Languages</em>》。<br>
-6、《<em>Introduction to the Theory of Programming Languages</em>》（Bertrand Meyer）Prentice-Hall 1988 作者另一本书《<em>Object-Oriented Software Construction</em>》前几年就已经引进中国了。这本书几乎没有高深的数学内容，可能这本书出的比较早些，书的内容要比前面的几本书都要容易浅些，可作为入门的书。</p>
-<p>Game Semantics 博弈语义</p>
-<p>Book:  A Comprehensive Book List for Advanced Study in the Logical Foundations, Semantics and Type Theories of Modern Programming Languages</p>
-<p>清单分类如下</p>
-<ol>
-<li><em>Semantic Theory of Programming Languages</em></li>
-<li><em>Set Theory, Category Theory &amp; Universal Algebra</em></li>
-<li><em>Lambda Calculus, Combinatory Logic &amp; Related Calculi</em></li>
-<li><em>Logics, Proof Theory &amp; Type Theory</em></li>
-<li><em>Foundations and Philosophy of Mathematics</em></li>
-<li><em>Handbooks &amp; Source Books</em></li>
-<li><em>Historical &amp; Biographical</em></li>
-</ol>
+        <updated>2020-08-01T08:44:00.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.tsowell.com/">Thomas Sowell</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杨小凯(1948-2004) 生命是短暂的，唯理论之树长青]]></title>
+        <id>https://alaskasquirrel.github.io/post/杨小凯/</id>
+        <link href="https://alaskasquirrel.github.io/post/杨小凯/">
+        </link>
+        <updated>2020-07-23T07:51:47.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li><a href="http://study.huizhou.gov.cn/lessionnew/bdmpa/MPA-A17/contents/thesis/thes005_01.pdf">《后发劣势》</a>杨小凯 ，北京天则经济研究所 2002年4月。</li>
+<li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《经济改革和宪政转轨》</a>Jeffrey Sachs 胡永泰 杨小凯 2003年。</li>
+<li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《后发优势与后发劣势——与杨小凯教授商榷》</a> 林毅夫 2003年。</li>
+<li><a href="https://www.nsd.pku.edu.cn/cbw/jjxjk/qwxz/250711.htm">《经济改革与宪政转轨：回应》</a> 杨小凯 2003年。</li>
+<li>《百年中国经济史笔记-从晚清到2002》杨小凯</li>
+</ul>
+<hr>
+<p>附：近代留学生与中国经济学-几份推荐资料</p>
+<ul>
+<li>《留美生与中国经济学》，李翠莲，南开出版社，2009年.</li>
+<li>《中国经济学的成长——中国经济学社研究（1923-1953）》，上海三联书店，2006年。</li>
+<li>“近代中国经济学的发展——来自留学生博士论文的考察”，邹进文，中国社会科学，2010年第5期.</li>
+<li>&quot;<em>How Keynesian Economics Came to China</em>&quot;, PB Trescott.&lt; <em>History of Political Economy</em>&gt;,1996,44(2):341-364.</li>
+<li>《试论西方经济学在中国的早期传播》.</li>
+<li>《回溯历史——马克思主义经济学说在中国的传播前史》，上海财经大学出版社，2008年.</li>
+<li>《中国留美学生史》，三联书店，2010年。</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Max Weber ( 1864 - 1920 )]]></title>
+        <id>https://alaskasquirrel.github.io/post/weber/</id>
+        <link href="https://alaskasquirrel.github.io/post/weber/">
+        </link>
+        <updated>2020-07-18T15:17:34.000Z</updated>
+        <content type="html"><![CDATA[<p>韦伯</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friedrich August von Hayek ( 1899 - 1992 )]]></title>
+        <id>https://alaskasquirrel.github.io/post/hayek/</id>
+        <link href="https://alaskasquirrel.github.io/post/hayek/">
+        </link>
+        <updated>2020-07-11T15:13:44.000Z</updated>
+        <content type="html"><![CDATA[<p>哈耶克</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Michael Polanyi ( 1891 - 1976 )]]></title>
+        <id>https://alaskasquirrel.github.io/post/MichaelPolanyi/</id>
+        <link href="https://alaskasquirrel.github.io/post/MichaelPolanyi/">
+        </link>
+        <updated>2020-07-05T15:12:55.000Z</updated>
+        <content type="html"><![CDATA[<p>迈克尔·波兰尼</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kurt Gödel ( 1906 - 1978 )]]></title>
+        <id>https://alaskasquirrel.github.io/post/KurtGödel /</id>
+        <link href="https://alaskasquirrel.github.io/post/KurtGödel /">
+        </link>
+        <updated>2020-06-30T16:03:43.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714">How Gödel's Proof Works</a></p>
+<p>  与大多数数学结果不同的是，哥德尔的不完备性定理并不是用符号或数学公式表述，虽然证明的细节艰深而富有技巧性，让人高兴地是证明的整体策略却不难。在所有让人眼花缭乱的公式结束后，两个结论可以用多少比较浅白的语言表述出来，《哲学百科全书》中“哥德尔定理”一文以对这两个定理清晰的阐释开始：(J. van Heijenoort, The Encyclopedia of Philosophy, Vol 3, 编辑, Paul Edwards ( New York: Macmillan Publishing Co. ,Inc. ,and the Free Press, 1967 ),pp. 348~349.)</p>
+<ul>
+<li>哥德尔定理通常意指以下陈述：</li>
+<li>任何足以包含初等数论的形式系统中都存在不可判定的命题——即，命题即不能被证实也不能被证伪。（这个陈述有时候也被称为哥德尔第一定理。）</li>
+<li>这个定理的一个推论是任何足以包含初等数论的形式系统的一致性不能在这个系统内部被证明。（这个推论就是哥德尔定理；有时候也被称为哥德尔第二定理。）</li>
+<li>这稍微有些含糊的陈述是哥德尔1931年在维也纳发表的结果的简要阐释。(Uber formal unentscheidbare Satze der Principia mathematica und verwandter Systeme I ,(1931). Kurt Godel Collected Works: Volume I Publications 1929-1936 . p144. )</li>
+</ul>
+<h3 id="minds-and-machines">Minds and Machines</h3>
+<ul>
+<li>逻辑之旅：从哥德尔到哲学 . 王浩. 第6章 - 心灵与机器：论可计算主义. p231.<br>
+  可以设想(虽然远远超过今日科学的界限)，脑生理学将发展到这样的高度，让人们能够在经验上肯定：(1) 人脑足以理解所有的心智现象，它在图灵的意义上就是一台机器; (2)人脑进行数学思维的部分，其物质构造何生理功能不外是如此一般。—— 哥德尔，吉布斯 演讲，1951年.</li>
+<li>'From Mathematics to Philosophy' 王浩, 1974，P324.<br>
+  In Godel’s opinion (as set forth in the unpublished 25th Josiah<br>
+Willard Gibbs Lecture13 delivered by him at Providence on Decem­<br>
+ber 26, 1951) the two most interesting rigorously proved results<br>
+about minds and machines are these:<br>
+  1 The human mind is incapable of formulating (or mechanizing)<br>
+all its mathematical intuitions. I.e.: If it has succeeded in formulating<br>
+some of them, this very fact yields new intuitive knowledge, e.g. the<br>
+consistency of this formalism. This fact may be called the‘incom-<br>
+pletability’ of mathematics. On the other hand, on the basis of what<br>
+has been proved so far, it remains possible that there may exist (and<br>
+even be empirically discoverable) a theorem-proving machine which<br>
+in fact is equivalent to mathematical intuition, but cannot be proved<br>
+to be so, nor even be proved to yield only correct theorems of finitary<br>
+number theory.<br>
+  2 The second result is the following disjunction: Either the human<br>
+mind surpasses all machines (to be more precise: it can decide more<br>
+number theoretical questions than any machine) or else there exist<br>
+number theoretical questions undecidable for the human mind.</li>
+</ul>
+<h3 id="纪志刚-2003年1月-感悟哥德尔">纪志刚  2003年1月 <a href="http://shc2000.sjtu.edu.cn/030104/ganwu.htm">感悟《哥德尔》</a>：</h3>
+<p>  有一个人曾在不到两年的时间内让数学界感受了大喜与大悲的经历，他就是哥德尔（Kurt Gödel, 1906.4.28 - 1978.1.14）。<br>
+　　1929年秋，哥德尔在他的博士论文中证明了一阶逻辑的完全性，这对于当时试图以“公理化”方法构建数学基础的形式主义学派是一个莫大的鼓舞。希尔伯特，形式主义学派的领军人物，确信他的元数学和证明论将会成功地确立全部数学的相容性和完全性。哥德尔的逻辑完全性定理似乎表明曙光就在前头。1930年夏天，柯尼斯堡，康德的诞生地，也是希尔伯特的故乡，在接受“荣誉市民”受礼仪式的演说中，希尔伯特坚定地说出最后一句话：“我们必须知道，我们必将知道（Wir müssen wissen. Wir werden wissen）”。<br>
+　　但就在第二年，哥德尔发表的另一篇论文却打开了“潘多拉的盒子”。这篇题为《论〈数学原理〉及有关系统的形式不可判定命题》（1931年）的论文包含了两个惊世骇俗的结论，其中对数学界尤具毁灭性的断言是：任何数学系统，只要其能包含整数的算术，其相容性就不可能通过几个基础学派（逻辑主义学派、形式主义学派、集合论公理化学派）采用的逻辑原理建立。希尔伯特的幻想破灭了，数学的“灾难”降临了！有人悲叹地说：“上帝是存在的，因为数学无疑是相容的；魔鬼也是存在的，因为我们不能证明这种相容性。”（外尔）<br>
+  哥德尔的影响是深远的，最新的一个例子足以说明。2002年夏天北京国际数学家大会，霍金的报告就是《哥德尔与Ｍ理论》。在当今国际物理研究领域，很多科学家提出有可能存在一个能描述一切物理现象的理论，并把这一理论称为超弦理论。霍金认为，建立一个单一的描述宇宙的大统一理论是不太可能的。霍金说他的这一推测正是基于数学领域的哥德尔不完全性定理。<br>
+　　可是，哥德尔却一直是一位被神秘所笼罩的传奇人物。他的生活特异独行，超然遁世，他的思想沉奥深邃，意蕴广远。我们中的很多人也许是读了侯世达（Hofstadter,D.R.）的《哥德尔、艾舍尔、巴赫—集异璧之大成》（《GEB—一条永恒的金带》是该书节译本）了解哥德尔的。其实，这部奇书在哥德尔的头上增添了更神秘的光环。感谢王浩先生，他的《哥德尔》（Reflections on Kurt Gödel ,1987，1991，康宏魁译，上海世纪集团出版社，上海译文出版社，2002年9月第1版）一书使我们终于可以走近哥德尔，去感受那平凡躯体下伟大而真诚的心灵。<br>
+　　哥德尔的与众不同表现在他的思想、他的关注、他的生活格调、他内心深处的精神世界。王浩先生正是从献身基本理论的角度展开哥德尔的生平的。值得注意的是王浩先生首先将焦点聚集在与哥德尔生平和事业密切相关的三样重要的史料（哥德尔哥哥答复王浩的回信、格兰琼专为哥德尔设计的生平调查表、哥德尔获得洛克菲勒大学荣誉学位时王浩的引荐辞）。正是在许多珍贵史料基础上，王浩为我们仔细勾画了哥德尔毕生事业的全貌。似乎是历史的巧合，当哥德尔几经周折从维也纳抵达普林斯顿后，与爱因斯坦成了结交10年以上的好友。王浩先生巧妙地“假道爱因斯坦”，以对比的手法，描述了两位智者的友谊以及他们在物理、逻辑、哲学、政治、艺术甚至宗教上思想与见解。这样就为读者通达哥德尔的精神思想打开了一条便道。<br>
+　　哥德尔的科学工作令人赞叹，这也是王浩先生着力描写的重点。可是，照哥德尔自己说，他一生用于哲学的时间和精力比用于科学的还要多。在哲学中，哥德尔所推崇的5种好品格“善取舍、求准确、弃偏见、慎试验、有胆魄” 确实令人动心。哥德尔的博大视野与敏锐眼光还在他对科学、技术与社会的评述中显示出来。书中披露哥德尔在1962年就指出“人类并不会因为登上月球就有所改进。这必定跟‘自然’科学与‘精神’科学之间的老冲突有关。……如果史学、法权与国家学说、哲学、心理学、文学、艺术等等的进展像物理学那么大，原子战争的危险就不会有了。”读书至此怎能不掩卷感慨！诚可谓“哥德尔的事迹发人深省，其意境超乎学院天地，实在得有一种能顾盼几个世纪的历史眼光才行。”<br>
+　　作者王浩先生是著名的数理逻辑学家，早年在西南联大时就自学过哥德尔的初等逻辑完全性证明。后来与晚年的哥德尔频繁往来，广泛交谈，亲笔录下为数可观的口头资料。在他的笔下一个栩栩欲活、个性丰满的哥德尔跃然于纸上。在书中我们看到哥德尔生活的简朴、对荣华富贵的淡漠、做学问的坚韧刻苦、寻求根本原理的矢志不移和锲而不舍。<br>
+　　哥德尔处在另一时代，另一环境，他的专深研究也难免让常人觉得高不可攀。那么《哥德尔》对当代青年的意义何在呢？王浩先生“中译本序”的一段话是很有意义的：<br>
+　　我想，译者的苦心是盼望一些有识有志的青年人拿他当一面镜子，学会净化自我，学会在荆棘丛中踏出自己该走的路，不论其所爱好的是艺术还是科学、是文科还是理科。哥德尔成功的事实还提醒我们，一个人天赋再高，想获得一点真重要真耐久的成绩，必须对外界诱惑保持清醒的头脑，永不懈怠地埋头苦干，靠众人的喝彩、神秘的灵感或不诚实的手段根本做不到。<br>
+　　王浩先生1995年5月病逝于纽约。当我们阅读《哥德尔》的事迹，回味王浩先生的忠告，必然会有一种超然的感悟。</p>
+<h3 id="数学是不可完全的哥德尔的哲学手稿-by-刘晓力">数学是不可完全的——哥德尔的哲学手稿             by 刘晓力</h3>
+<p>  在20世纪逻辑学家和数学家行列中哥德尔是一位具有传奇色彩的人物。他所作的三大数学贡献的每一项结果对数理逻辑各分支的发展都是决定性的。自1931年哥德尔不完全性定理之后，数学基础逐渐演变为数理逻辑各分支的精细研究，同30年代前人们都关心基础研究的状况形成对照，数理逻辑愈益成为少数数学家的专门技术领域。可以不夸张地讲，哥德尔使数理逻辑发生了革命，哥德尔规定了我们这个时代数学基础研究的思维内涵。然而，长期以来鲜为人知的事实是，哥德尔不仅是一位伟大的逻辑学家、数学家，还是一位深刻的哲学家。在整个学术生涯中，他只有1929—1942年主要从事数学和数理逻辑的研究，从1942年直到1978年逝世，除了继续集合论问题思考并倾注5年时间热衷于相对论外，几乎大部分时间致力于哲学研究。<br>
+  哥德尔生前只发表过5篇哲学论文：《罗素的数理逻辑》（1944）、《纪念普林斯顿200周年数学问题会议评论》（1946）、《什么是康托的连续统问题？》（1947）（1964年修订）、《关于相对论与唯心主义哲学之间关系的一点评论》（1949）、《论有穷主义观点迄今未予应用的一种扩充》（1958）（1972年修订），他的大部分思想表达在手稿、通信和私人谈话记录中。1981年哥德尔去世3年后，他的妻子将其遗稿全部捐赠美国普林斯顿研究院。其中包括哥德尔未发表的论文手稿、演讲稿、授课讲义、各类札记和哥德尔自己编号的100多本笔记（注：哥德尔遗稿已由约翰·道森1984年完成编目，分为12类：①私人信件和科学通信；②商业信函和其他信件；③分专题记录的笔记本；④演讲稿和论文手稿；⑤札记和便笺；⑥其他书写模糊的草稿；⑦从小学到大学的学历材料；⑧法律和政治文件；⑨1930—1939年间的财务文件；⑩就医记录；①①照片；①②其他。）。当代最有影响的美国哲学家蒯因说：哥德尔手稿的发现堪称“哲学界一大新闻”，（注：奎因为Kurt G＠①del,Unpublished Philosophical  Essays所写的序言，1995，p.7.）它使世人得以更深刻地了解哥德尔在哲学领域的所思、所想、所为。目前《哥德尔全集》已出版1～3卷，其中1995年的第3卷中收录了他的几篇重要哲学手稿：《数学基础研究现状》（1933）、《关于数学基础的几个基本定理及其哲学推论》（1951）、《数学是语言的句法吗？》（19539）、《从哲学的观点看数学基础的现代发展》（1961）。这几篇手稿无疑提供了哥德尔思想研究珍贵的原始资料。</p>
+<ul>
+<li>1《数学基础研究的现状》</li>
+</ul>
+<p>  在应邀为美国数学会1933年年会准备的报告稿《数学基础研究的现状》中，哥德尔首先指出，为数学建构基础的问题由两个不同的方面构成，其一是使数学家一直使用的证明方法归约为最小数目的公理和推理规则；其二是探求这些公理的某种合法性问题，例如，它们是否彼此一致、是否与经验事实一致。依哥德尔之见，第一方面的问题通过数学的“形式化”已经令人满意地部分获解，但第二方面问题的解决其“形势极端不能令人满意”。原因在于，如果像形式主义者那样，以纯形式的观点把数学仅仅看作符号游戏，当然不会产生问题，一旦问到符号的意义时就会面临一系列困难。它们大致归为三类：（1）对非构造性存在的看法；（2）对（任意类型的）类的一般看法；（3）选择公理问题。Kurt G＠①del，Collected Works（简记CW）Ⅲ,p.48.对此三个问题的考察哥德尔引出了他的柏拉图主义数学哲学立场。这种立场显然建立在对形式主义、直觉主义以及罗素无类论的批判基础之上。<br>
+  直觉主义者认为，在无穷域中使用排中律导致非构造性存在证明，因此大可质疑。为了消除所有集合论悖论和语义悖论，1905年罗素通过摹状词理论，建立了无类论或分支类型论，并于1910年在与怀特海合著的《数学原理》中作了系统阐述。哥德尔认为“按照这一理论，类永远不能作为真实的对象存在，而且包含这个词项的命题只有被解释成一种形式语句、一种谈论其他事物的方式时才有意义”。因为罗素坚持“禁止恶性循环原则”：“总体不能包含只有通过这个总体，或者涉及，或者预设这个总体才能定义的成员”。数学中符合这一原则的定义称为直谓定义，违反这一原则的称为非直谓定义。<br>
+  哥德尔指出，使用无穷域中的排中律不仅产生非构造性存在证明而且导致非直谓定义。这种定义预设了独立于我们的知识和定义而存在的所有性质的总体。如果承认这种预设，非直谓定义方法无可质疑，“刻画一个无穷总体中的特殊元素就像谈论一个城市中的最高建筑物一样无可非议”。（注：Godel,CWⅢ,p.49～50、50.308～309、308～312、322～323、376～379、305.）并且哥德尔断言，“如果把我们的公理解释成有意义的命题，必然预设一种类型的柏拉图主义，它不可能令任何批判的头脑感到满意”。（注：Godel,CWⅢ,p.49～50、50.308～309、308～312、322～323、376～379、305.）况且非直谓定义已经扩大到实数理论中“从未导致任何矛盾”。当然，“如果把性质和总体仅仅看成由定义生成的肯定包含恶性循环”。这里，哥德尔表达的数学柏拉图主义立场是鲜明的，如果把我们的公理解释成有意义的命题，承认非直谓定义，必定预设独立于我们而存在某个总体，就必然要不以人的意志为转移接受一种柏拉图主义。这里所谓“批判的头脑”显然是指布劳威尔和海丁等直觉主义者。仔细阅读1933年报告手稿，通篇都能感受到哥德尔以讥讽的口吻表达他对形式主义和直觉主义的批判。<br>
+  哥德尔向来以数学中的柏拉图主义者著称。晚年曾声称从1925年起就是一个数学实在论者。但1933年以前的文献表明他的这种立场并未得以公开的系统阐发。克勒在《哥德尔与维也纳学派：柏拉图主义反对形式主义》中认为，哥德尔从30年代早期就持有坚定的柏拉图主义立场这一结论“没有证据支持”。马丁·戴维斯、菲弗曼、帕森斯都曾提出疑问，认为哥德尔30年代与他中晚年时期所表达的数学哲学立场不一致。（注：C.Parsons,1995,pp.49～50.S.Feferman,1986,见G＠①del,CWI,P.31,CWⅢ,P.40.）然而，就我们的考察表明，哥德尔在1933 年报告中首次给出“柏拉图主义”一词。如果将他30年代早期在某些特殊场合所表达的思想与40年代后公开阐明的观点和手稿中的立场联系起来看，这些怀疑是没有根据的。1933年报告可以看作他在30年代早期就已经采取坚定的数学柏拉图主义立场的明证。同时可以得出结论，从那时起到70年代，哥德尔的思想从未发生重大转折，其强硬的柏拉图主义立场可以说是一以贯之的。</p>
+<ul>
+<li>2  《关于数学基础的几个基本定理及其哲学推论》</li>
+</ul>
+<p>  1951年12月6日在布朗大学召开的第25 届吉布斯纪念讲座上哥德尔作了《关于数学基础的几个基本定理及其哲学推论》的报告，着重阐明他的不完全性定理的哲学意蕴。依哥德尔之见，虽然20年过去了，不完全性定理的哲学意义并未获得充分讨论。<br>
+  哥德尔首先表述了由定理揭示的他称之为“数学的不可完全性”（incompletability）或“不可穷尽性”（inexhaustability）的深刻本质：第一不完全性定理表明，无论选择什么样的良定义的公理和推理规则的系统，总存在该系统能够表达但由系统的公理和推理规则不能判定的丢番图问题。第二定理表明，对任何良定义的公理和推理规则的系统，如果假定这些公理和推理规则对于导出关于整数的有穷算术是充分的，那么断言该系统一致性的命题是不可证的。哥德尔的论证是，人们不可能建立一个一致的包括初等数论的形式系统并一致地声称，他认识到这个系统的公理和推理规则是正确的而且相信它囊括了全部数学。因为任何一个认为把握了公理和推理规则正确性的人必定承认也把握了它们的一致性，但由不完全性定理，这些公理的一致性在该系统中不可证。因此这个人就在承认他把握了在这个系统中不可证的某些东西的真理性，也就必然得出这个系统没有包括全部数学，即数学是不可完全的。（注：Godel,CWⅢ,p.49～50、50.308～309、308～312、322～323、376～379、305.）<br>
+  哥德尔还考虑了某些人由不完全性定理可能得出如下错误推论：人类心智等价于一台有穷机器，而且还是一台不能完全理解它自身功能的机器。而他认为由不完全性定理，如下数学上的选言命题才是必然推论：或者在下述意义上数学是不可完全的：它的自明的公理不可能包含在有穷规则中，即人类心智无限超越任何机器；或者存在绝对不可判定的数论命题。（注：按照王浩的说法，哥德尔认为，希尔伯特反对第二选言支，声称“数学中没有不可知”是正确的，否则就意味着人的理性全然无理性，一方面提出理性不能解答的问题，一方面又断言只有理性才能解答这些问题。同时，晚年的哥德尔至少认为有理由接受第一选言支：人类心智胜过机器。对此可参见王浩，1974，pp，324～326和G＠①del，CWⅡ1972a.）与此相应的哲学推论是：或者人类心智的活动不可能归于大脑的活动，因为大脑的所有行为不过像一台由有穷多部件（即神经元和它们的连接）组成的有穷机器；或者数学不仅仅是我们的创造，数学对象和数学事实是独立于我们的精神活动和意愿而客观存在的。在哥德尔看来，承认第一点就将否定将人心等同于机器的生物机械主义；承认第二点我们“就必须接受由数学基础的现代发展获得支持的某种形式的柏拉图主义或数学实在论立场”。（注：Godel,CWⅢ,p.49～50、50.308～309、308～312、322～323、376～379、305.）当然，不排除两个选言支都真的情形。<br>
+  随后哥德尔以数学的不可完全性为论据对数学中的唯名论，特别是“数学仅仅是我们的自由创造”和“数学是语法的约定”这两种观点进行批驳并且声称，如果对这里所讨论的概念进一步严格化之后，我们的结论应当是“柏拉图主义是唯一站得住脚的立场。”即“数学描述了一种非感性的实在，它的存在不依赖于人类心智的活动和意愿，它只能被人类心智所感知，而且这种感知恐怕还是不完全的”。Godel,CWⅢ,p.49～50、50.308～309、308～312、322～323、376～379、305.）<br>
+  哥德尔的吉布斯演讲对长期困扰人们的不完全性定理给出了他自己的哲学解释，指出了准确而深刻地理解定理哲学义蕴的本质之点，同时还借助数学的不可完全性这一全新的证据，通过对唯名论的批判提供了对于数学柏拉图主义立场的一种辩护，尽管他的结论表面看来是一种推论式的。</p>
+<ul>
+<li>3  《数学是语言的句法吗？》</li>
+</ul>
+<p>  吉布斯演讲之后，哥德尔用了两年时间修改演讲稿，准备在《美国数学会通报》上发表，但修改的工作量很大，而且哥德尔发现很难清晰而确切地表达演讲中的断言，特别感到棘手的是对于数学中的语言约定论的批判。因此这一问题当时成了他最为关注的焦点，以至他终于放弃改写演讲稿，转而去写《数学是语言的句法吗？》一文。（注：Dawson，JW,Jr.1995,p.200.）<br>
+  1953年，哥德尔再次应谢尔普之邀为《在世哲学家文库》中的《卡尔纳普哲学》卷撰稿。（注：哥德尔曾三次受谢尔普邀请为此文库中的《罗素》卷、《爱因斯坦》卷和《卡尔那普》卷撰稿。）谢尔普建议他以“卡尔纳普与数学本体论”为题写一篇25—40页的文章，但哥德尔表示只想写一篇“对数学本质的唯名论观点的评论”短文。1953—1959年他花费六年时间完成了“数学是语言的句法吗？”这一题目的六个版本。六篇誊写清晰的文章完整地保存在他的遗稿中。1995年《哥德尔全集》第三卷收录了其中的第三稿和第五稿，同年罗德里奇·孔塞格拉编辑的《哥德尔哲学手稿》收录了第四稿和第六稿。通读这几篇手稿可以看出，哥德尔的立场没有任何实质性变化，目的都是对于逻辑实证主义者，特别是汉斯·哈恩和卡尔纳普等人主张的数学的语言约定论给予深刻而严厉的批判。<br>
+  “数学是语言的句法”是卡尔纳普以及维也纳学派对数学本质的一种概括。1930年前后，石里克、汉斯·哈恩和卡尔纳普极大地受到维特根斯坦的影响，形成了关于数学本体论中被哥德尔视为“唯名论和约定论相融合”的语言约定论观点。按照这种观点，如卡尔纳普所说，“数学是不含内容、不含对象的辅助语句系统”，数学命题不是对事件域中事件状态的描述，而完全可以归约为语言的句法，即数学定理的有效性仅由某些使用符号的语法约定的推论确定。事实上，卡尔纳普在1937年的《语言的逻辑句法》一书中就是试图实施把数学归约为语言句法的语法方案。<br>
+  在第五版中，哥德尔把语言约定论归纳为如下三个基本论题：（1）逻辑和数学命题仅仅是支配符号规则的产物，数学直觉可由约定代替；（2）数学是不含内容的，不存在数学对象也不存在数学事实；（3）由于数学命题不含内容，关于他们的语言约定不可能被任何可能的经验证伪，因此数学的语言约定论与严格经验论一致。哥德尔以他强有力的三个论据：数学的不可完全性、数学内容和数学直觉的不可消除性以及数学与自然科学的可类比性（注：参见刘晓力的《哥德尔对逻辑实证主义的批判》，载于《自然辩证法研究》，1997－（1）。），对这些论题一一给以严厉的批驳，并且在第六版中宣称，“语言约定论立场的任何哲学断言都是站不住脚的”。<br>
+  《数学是语言的句法吗？》历经六年数易其稿于1959年完成。2 月份哥德尔却突然致信谢尔普宣布不想发表他的文章了。信中陈述的理由是，第一，完稿之时已经过了卡尔纳普向作者作答的时间，如果没有卡尔纳普答复发表文章对大家都不公平，也难以向世人交代。第二，哥德尔指出，“我完成了这一题目的几个版本，但对哪一个都不满意。按照我自己的意愿作出严厉断言或强硬论证是不难的，但我发现这一题目与哲学的基本问题之一，概念及其关系的客观实在性问题密切相关，要想彻底阐明它比我料想的要困难，而且以普遍持有的偏见，发表目前只完成了一半的工作将弊大于利。”（注：Warren Goldfarb,Introductory note to  19539, G＠①del,CWⅢ,p.324.）<br>
+  哥德尔1924年入维也纳大学学习，1926年起参加维也纳小组活动，并且与小组领导人私人关系密切，因此长期以来哥德尔一直被看作维也纳学派成员，然而他从一开始就不赞成逻辑实证主义的观点也从未在公开场合表达过相反的见解，对当时的这一官方立场一直保持缄默。《数学是语言的句法吗？》这篇手稿无疑第一次提供了系统批判逻辑实证主义的有力论证，哥德尔自然预料到来自反对势力的压力，依其个性他并不想在生前引起大的争论，同时按照王浩的解释，他大概发现卡尔纳普的著作中有某种跟他本人层次不同、类型不同的准确性，难以设计一种令双方都满意的共同语言，使他自己的论证令对方心悦诚服，因此这篇论战性极强的文章直到1995年才与世人见面。</p>
+<ul>
+<li>4  《从哲学的观点看现代数学的发展》</li>
+</ul>
+<p>  1961年4月哥德尔成为美国哲学会会员。 有理由断定《从哲学的观点看现代数学的发展》是为1963年会员大会准备的一篇（未作演讲的）演讲稿（注：Dagfinn fΦllesdal,Introductory note to  1961, G＠①del,CWⅢ,p.364.）。演讲稿的目的是以哲学的观点评述20世纪数学基础研究的状况，并试图将其纳入一般哲学框架。<br>
+  哥德尔首先把各种哲学流派依据它们与形而上学（或神学）的亲疏划分为左右两方，左方是怀疑论、唯物主义、经验主义、实证主义和悲观主义；右方是唯灵论、唯心主义、先验主义、神学和乐观主义。哥德尔显然赞同右倾立场。依他之见，自文艺复兴以来，哲学的发展不是从某一单线上而是整体上从右倾立场转向了左倾立场。“如果这种偏执的转向还没有使人感受到已经侵入数学观中真是一个奇迹。”哥德尔所指的这种偏执的转向无疑是指经验主义和实证主义倾向。在哥德尔看来，数学是一门先验科学，因此它总有与文艺复兴以来的时代精神，即数学中的经验主义、实证主义相背离的倾向；同时它虽然“深陷高度抽象之中”，但就目前而言其基础却具有从未有过的确定性，因此也远离怀疑论。哥德尔认为，20世纪初由集合论悖论引起的所谓“数学危机”显然被经验论者和怀疑论者夸大了，并且“拿来作为左倾膨胀的借口”，认为悖论的出现表明数学内部出现了矛盾。依哥德尔之见，“这些矛盾远离数学而更具哲学意义，同时任何一个了解数学的人都清楚地知道，我们已经以完全令人满意的方式解决了它们。（注：Godel,CWⅢ,p.49～50、50.308～309、308～312、322～323、376～379、305.）”<br>
+  在演讲稿中，哥德尔更多的是指明，真理应当介乎左右倾之间或二者的有机结合。因为依老式的右倾哲学观，数学代表一种完全的真理体系，“它的每一个精确表述的是或否的问题必定有一个确切答案”。然而由不完全性定理，这一真理体系不可能诉诸公理集和形式推理规则获得其完全性。同时，按照流行的左倾哲学观，作为出发点的数学公理的真理性不可能由经验证实，因而由它们所得出的结论只具有假说的意义，这种推理只能看成是按照某种规则所作的一种符号游戏。但是由不完全性定理，不借助抽象概念仅仅使用处理符号组合的工具不可能实施数学系统一致性的证明。因此哥德尔主张，不能无视现代数学的新进展盲目背弃信仰去迎合时代潮流，而应当一方面坚持数学知识的确定性，一方面坚信理性提出的问题理性自身能够清晰地予以解答。因此“正确的观点对我来讲似乎应当是，真理位于左右倾哲学观之间或者是二者的结合。”这种结合意味着数学的确定性不能仅仅借助经验证实或演绎证明获得，而要通过加深理解抽象概念，通过清晰阐释抽象概念的意义实现。出乎意料的是，哥德尔认为，“目前有一种科学的清晰阐释这种意义的系统方法，这就是胡塞尔的现象学方法，”G＠①del，CWⅢ，p.383.据王浩和Dagfinn FΦllesdal，哥德尔自1959年开始研究胡塞尔达10年之久，并拥有胡塞尔所有的重要著作。在1961年这篇演讲稿中哥德尔花费大量笔墨对胡塞尔的工作给以高度评价，主张借助现象学方法对我们所需要的抽象数学概念进行分析并发展我们的数学直觉，超越数学形式系统的局限去发现越来越多自明的新公理，以解决数学中每一个清晰提出的问题。</p>
+<ul>
+<li>5  数学是不可完全的</li>
+</ul>
+<p>  哥德尔的几篇哲学手稿中明显贯穿着一条主线，借助由不完全性定理揭示的数学不可完全性的深刻本质，通过对当时占统治地位的几大数学观：逻辑主义、形式主义、直觉主义和逻辑实证主义的批判性反思进一步阐述自己的数学哲学立场，并以全新的证据为柏拉图主义数学观提供系统辩护。在这一过程中也表达了他的理性主义和客观唯心主义的一般哲学观。（注：晚年哥德尔在与王浩的谈话中，将自己的哲学观概括为“理性主义的、唯心主义的、乐观主义的和神学的”。Wang Hao，1995.）<br>
+  哥德尔一生最为关注的三大数学问题是，数学的不可完全性；数学形式系统的一致性和一致性证明；寻求解决数学基础核心问题的集合论公理。后两个问题事实上与第一个问题密切相关。正如他自己所言：“我的所有元数学结果都是围绕数学的不可完全性或称数学的不可穷尽性问题展开的，”（注：Godel,CWⅢ,p.49～50、50.308～309、308～312、322～323、376～379、305.）而且每一项结果之后都伴有长时间深刻的哲学反思。一方面，正如我们在手稿中所见，柏拉图主义数学观被他视作这些数学结果的哲学推论；另一方面在致王浩的信以及同王浩晚年的谈话中又指出，这种数学观是他建立一系列数学结果的决定性助探原则；同时在多种场合他还强调，柏拉图主义数学观可以从以上两点获得证据支持。（注：对此可参见 Wang Hao，A Logical JourneyFrom G＠①del To Philosophy，The MIT Press即将出版.）因此，哥德尔对数学的不可完全性本质所作的深刻而独立的反思是我们理解哥德尔数学哲学思想的一条基本线索。<br>
+  结合生前发表的哲学论文中的思想可以看出，20年代后期哥德尔就已经持有数学实在论立场，1933年首次表示赞成柏拉图主义数学观，1944年和1947年借评价罗素数理逻辑的机会并通过连续统假设这一具体问题以数学实在论的术语系统阐述这种数学观，声明不仅在数和集合的基本层次上承认数学实在论，而且将这种实在论拓展到类和概念上，坚信存在一个客观的与物理世界相分离的抽象概念的世界，主张对这些概念的理解应更多的诉诸直觉。早在1929年哥德尔就已经意识到，由于数学的不可穷尽性，为了克服数学形式系统在表达力和判定力两方面的局限“必须不断从直觉之泉汲取养分”。（注：哥德尔与卡尔纳普1929年的谈话，见Wang Hao 1987，p.51.）在1944、1958和1964年的几篇文章中他对数学直觉问题作了深入分析，同时指出，为了把握高度超穷的客观数学真理和抽象数学概念，必须摈弃康德的先天直觉和布劳维尔的构造性直觉而接受等级越来越高的抽象数学直觉，这种直觉在数学中有着不可替代的认识论作用。<br>
+  哥德尔的数学哲学在他的整个哲学中占据核心位置，也是其中阐述最为系统且内涵丰富的部分。如果说哥德尔公开发表的论文主要集中于阐述自己的数学哲学立场，手稿则更侧重在哲学争论中从一个全新的视角，特别是从数学的不可完全性的本质出发对这种立场提供强有力的辩护，虽然这种辩护并未达到令他自己满意的程度。这恐怕也是他生前未发表这些手稿的真正原因。以上几篇哲学手稿无疑提供了理解他的整个哲学思想全新的视界和更为广阔的理论背景，也使我们通过了解哥德尔在哲学争论中所持仗的理论依据进入其思想的更深层次。近年来，哥德尔研究日益受到西方学界的关注，随着各类手稿的陆续公布我们相信哥德尔思想潜在的哲学价值和科学价值将获得更深入的研究。</p>
+<ul>
+<li>【参考文献】</li>
+</ul>
+<p>〔1〕哥德尔遗稿已由约翰·道森1984年完成编目，分为12类：①私人信件和科学通信；②商业信函和其他信件；③分专题记录的笔记本；④演讲稿和论文手稿；⑤札记和便笺；⑥其他书写模糊的草稿；⑦从小学到大学的学历材料；⑧法律和政治文件；⑨1930—1939年间的财务文件；⑩就医记录；①①照片；①②其他。<br>
+〔2〕奎因为Kurt G＠①del,Unpublished Philosophical  Essays所写的序言，1995，p.7.<br>
+〔3〕Kurt G＠①del，Collected Works（简记CW）Ⅲ,p.48.<br>
+〔4〕〔5〕〔7〕〔9〕〔10〕〔16〕〔19〕Godel,CWⅢ,p.49～50、50.308～309、308～312、322～323、376～379、305.<br>
+〔6〕C.Parsons,1995,pp.49～50.S.Feferman,1986,见G＠①del,CWI,P.31,CWⅢ,P.40.<br>
+〔8〕按照王浩的说法，哥德尔认为，希尔伯特反对第二选言支，声称“数学中没有不可知”是正确的，否则就意味着人的理性全然无理性，一方面提出理性不能解答的问题，一方面又断言只有理性才能解答这些问题。同时，晚年的哥德尔至少认为有理由接受第一选言支：人类心智胜过机器。对此可参见王浩，1974，pp，324～326和G＠①del，CWⅡ1972a.<br>
+〔11〕Dawson，JW,Jr.1995,p.200.<br>
+〔12〕哥德尔曾三次受谢尔普邀请为此文库中的《罗素》卷、《爱因斯坦》卷和《卡尔那普》卷撰稿。<br>
+〔13〕参见刘晓力的《哥德尔对逻辑实证主义的批判》，载于《自然辩证法研究》，1997－（1）。<br>
+〔14〕Warren Goldfarb,Introductory note to  19539, G＠①del,CWⅢ,p.324.<br>
+〔15〕Dagfinn fΦllesdal,Introductory note to  1961, G＠①del,CWⅢ,p.364.<br>
+〔17〕G＠①del，CWⅢ，p.383.据王浩和Dagfinn FΦllesdal，哥德尔自1959年开始研究胡塞尔达10年之久，并拥有胡塞尔所有的重要著作。<br>
+〔18〕晚年哥德尔在与王浩的谈话中，将自己的哲学观概括为“理性主义的、唯心主义的、乐观主义的和神学的”。Wang Hao，1995.<br>
+〔20〕对此可参见 Wang Hao，A Logical JourneyFrom G＠①del To Philosophy，The MIT Press即将出版.<br>
+〔21〕哥德尔与卡尔纳普1929年的谈话，见Wang Hao 1987，p.51.</p>
 ]]></content>
     </entry>
     <entry>
@@ -404,6 +627,9 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 <p>RIME 开源输入法 https://rime.im</p>
 <p>系统设置：🔒 <a href="https://fix10.isleaked.com">可选项一律 off 关闭</a><br>
 如若通过 Microsoft Store 安装应用，推荐 Grover Podcast 、Newsflow。</p>
+<p>VirtualBox 虚拟机安装<br>
+Qubes 开源操作系统<br>
+AlgoVPN</p>
 ]]></content>
     </entry>
     <entry>
@@ -515,6 +741,9 @@ the U.S. Bureau of Economic Analysis基于2010年的研究报告，比较世界�
 </li>
 <li>
 <p>影视：<a href="https://v.qq.com/x/cover/i7sc2ih3x6qhzra/f0019al8ax5.html">《乡村里的中国》</a>2013</p>
+</li>
+<li>
+<p>&lt; <a href="http://yourehiredtrump.com/">You're Hired!</a>  Untold Successes and Failures of a Populist President &gt; September 3, 2020. <a href="https://twitter.com/caseybmulligan">Casey B. Mulligan</a> is an American economist and author. He is a Professor in Economics at the University of Chicago. He served as chief economist for <a href="https://www.whitehouse.gov/cea/">the Council of Economic Advisers</a> in the Trump Administration from September 6, 2018 to August 2019. His blog &quot;<a href="https://caseymulligan.blogspot.com/">Supply and Demand</a>&quot;.</p>
 </li>
 </ol>
 ]]></content>
@@ -791,8 +1020,10 @@ Dave Dyer (from USC ISI)<br>
         <updated>2020-05-23T13:03:03.000Z</updated>
         <content type="html"><![CDATA[<p>(<em>封面 https://pixabay.com/</em>）<br>
 <a href="https://reason.com/2019/10/09/the-economy-keeps-growing-but-americans-are-using-less-steel-paper-fertilizer-and-energy/">The Economy Keeps Growing but Americans are Using Less Steel, Paper, Fertilizer, and Energy</a> 10.09.2019.<br>
-<a href="https://worldpopulationreview.com">World Population Review</a></p>
-<p><em>美国民主党激进的绿色新政还需平缓落实</em>。</p>
+<a href="https://worldpopulationreview.com">World Population Review</a><br>
+<a href="https://electrek.co/">Electrek - EV and Tesla News, Green Energym Ebikes, and more</a><br>
+<a href="https://www.motherjones.com/environment/2020/08/solar-panels-are-starting-to-die-what-will-we-do-with-the-megatons-of-toxic-trash/">Solar Panels Are Starting to Die. What Will We Do With the Megatons of Toxic Trash?</a> The solar e-waste glut is coming.<br>
+<em>美国民主党激进的绿色新政还需平缓落实</em>。</p>
 <ul>
 <li>据Fraunhofer 研究所的报告，2018年德国可更新能源的发电量首次超过了煤炭发电。德国作为欧洲最大的经济体，原定到 2030 年由可更新能源提供 65% 的电力，且预到 2022 年完全退出核能，并计划逐步淘汰煤炭。研究显示，去年德国太阳能、风能、生物质能和水电产生了 219 TWh 的电力，占到了总发电量 542 TWh 的四成以上，超过了煤炭的 38%。研究人员认为 2019 年可更新能源的发电量同样不会低于四成。</li>
 <li>2019年6月，英国国家电网表示，本年前五个月，来自清洁能源发电量占到了 48% ，超过了煤炭和天然气的 47%，其余是生物质燃烧。英国国家电网称，煤炭的发电量过去十年从 30% 降至了 3%，而风能从 1% 提高到 19%。同时英国还从欧洲大陆进口了一部分电，主要来自法国核电。英国估计到 2030 年清洁能源来源将占到九成。</li>
@@ -826,119 +1057,9 @@ Dave Dyer (from USC ISI)<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kurt Gödel ( 1906 - 1978 )]]></title>
-        <id>https://alaskasquirrel.github.io/post/KurtGödel /</id>
-        <link href="https://alaskasquirrel.github.io/post/KurtGödel /">
-        </link>
-        <updated>2020-05-21T16:03:43.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714">How Gödel's Proof Works</a></p>
-<p>  与大多数数学结果不同的是，哥德尔的不完备性定理并不是用符号或数学公式表述，虽然证明的细节艰深而富有技巧性，让人高兴地是证明的整体策略却不难。在所有让人眼花缭乱的公式结束后，两个结论可以用多少比较浅白的语言表述出来，《哲学百科全书》中“哥德尔定理”一文以对这两个定理清晰的阐释开始：(J. van Heijenoort, The Encyclopedia of Philosophy, Vol 3, 编辑, Paul Edwards ( New York: Macmillan Publishing Co. ,Inc. ,and the Free Press, 1967 ),pp. 348~349.)</p>
-<ul>
-<li>哥德尔定理通常意指以下陈述：</li>
-<li>任何足以包含初等数论的形式系统中都存在不可判定的命题——即，命题即不能被证实也不能被证伪。（这个陈述有时候也被称为哥德尔第一定理。）</li>
-<li>这个定理的一个推论是任何足以包含初等数论的形式系统的一致性不能在这个系统内部被证明。（这个推论就是哥德尔定理；有时候也被称为哥德尔第二定理。）</li>
-<li>这稍微有些含糊的陈述是哥德尔1931年在维也纳发表的结果的简要阐释。(Uber formal unentscheidbare Satze der Principia mathematica und verwandter Systeme I ,(1931). Kurt Godel Collected Works: Volume I Publications 1929-1936 . p144. )</li>
-</ul>
-<h3 id="minds-and-machines">Minds and Machines</h3>
-<ul>
-<li>逻辑之旅：从哥德尔到哲学 . 王浩. 第6章 - 心灵与机器：论可计算主义. p231.<br>
-  可以设想(虽然远远超过今日科学的界限)，脑生理学将发展到这样的高度，让人们能够在经验上肯定：(1) 人脑足以理解所有的心智现象，它在图灵的意义上就是一台机器; (2)人脑进行数学思维的部分，其物质构造何生理功能不外是如此一般。—— 哥德尔，吉布斯 演讲，1951年.</li>
-<li>'From Mathematics to Philosophy' 王浩, 1974，P324.<br>
-  In Godel’s opinion (as set forth in the unpublished 25th Josiah<br>
-Willard Gibbs Lecture13 delivered by him at Providence on Decem­<br>
-ber 26, 1951) the two most interesting rigorously proved results<br>
-about minds and machines are these:<br>
-  1 The human mind is incapable of formulating (or mechanizing)<br>
-all its mathematical intuitions. I.e.: If it has succeeded in formulating<br>
-some of them, this very fact yields new intuitive knowledge, e.g. the<br>
-consistency of this formalism. This fact may be called the‘incom-<br>
-pletability’ of mathematics. On the other hand, on the basis of what<br>
-has been proved so far, it remains possible that there may exist (and<br>
-even be empirically discoverable) a theorem-proving machine which<br>
-in fact is equivalent to mathematical intuition, but cannot be proved<br>
-to be so, nor even be proved to yield only correct theorems of finitary<br>
-number theory.<br>
-  2 The second result is the following disjunction: Either the human<br>
-mind surpasses all machines (to be more precise: it can decide more<br>
-number theoretical questions than any machine) or else there exist<br>
-number theoretical questions undecidable for the human mind.</li>
-</ul>
-<h3 id="纪志刚-2003年1月-感悟哥德尔">纪志刚  2003年1月 <a href="http://shc2000.sjtu.edu.cn/030104/ganwu.htm">感悟《哥德尔》</a>：</h3>
-<p>  有一个人曾在不到两年的时间内让数学界感受了大喜与大悲的经历，他就是哥德尔（Kurt Gödel, 1906.4.28 - 1978.1.14）。<br>
-　　1929年秋，哥德尔在他的博士论文中证明了一阶逻辑的完全性，这对于当时试图以“公理化”方法构建数学基础的形式主义学派是一个莫大的鼓舞。希尔伯特，形式主义学派的领军人物，确信他的元数学和证明论将会成功地确立全部数学的相容性和完全性。哥德尔的逻辑完全性定理似乎表明曙光就在前头。1930年夏天，柯尼斯堡，康德的诞生地，也是希尔伯特的故乡，在接受“荣誉市民”受礼仪式的演说中，希尔伯特坚定地说出最后一句话：“我们必须知道，我们必将知道（Wir müssen wissen. Wir werden wissen）”。<br>
-　　但就在第二年，哥德尔发表的另一篇论文却打开了“潘多拉的盒子”。这篇题为《论〈数学原理〉及有关系统的形式不可判定命题》（1931年）的论文包含了两个惊世骇俗的结论，其中对数学界尤具毁灭性的断言是：任何数学系统，只要其能包含整数的算术，其相容性就不可能通过几个基础学派（逻辑主义学派、形式主义学派、集合论公理化学派）采用的逻辑原理建立。希尔伯特的幻想破灭了，数学的“灾难”降临了！有人悲叹地说：“上帝是存在的，因为数学无疑是相容的；魔鬼也是存在的，因为我们不能证明这种相容性。”（外尔）<br>
-  哥德尔的影响是深远的，最新的一个例子足以说明。2002年夏天北京国际数学家大会，霍金的报告就是《哥德尔与Ｍ理论》。在当今国际物理研究领域，很多科学家提出有可能存在一个能描述一切物理现象的理论，并把这一理论称为超弦理论。霍金认为，建立一个单一的描述宇宙的大统一理论是不太可能的。霍金说他的这一推测正是基于数学领域的哥德尔不完全性定理。<br>
-　　可是，哥德尔却一直是一位被神秘所笼罩的传奇人物。他的生活特异独行，超然遁世，他的思想沉奥深邃，意蕴广远。我们中的很多人也许是读了侯世达（Hofstadter,D.R.）的《哥德尔、艾舍尔、巴赫—集异璧之大成》（《GEB—一条永恒的金带》是该书节译本）了解哥德尔的。其实，这部奇书在哥德尔的头上增添了更神秘的光环。感谢王浩先生，他的《哥德尔》（Reflections on Kurt Gödel ,1987，1991，康宏魁译，上海世纪集团出版社，上海译文出版社，2002年9月第1版）一书使我们终于可以走近哥德尔，去感受那平凡躯体下伟大而真诚的心灵。<br>
-　　哥德尔的与众不同表现在他的思想、他的关注、他的生活格调、他内心深处的精神世界。王浩先生正是从献身基本理论的角度展开哥德尔的生平的。值得注意的是王浩先生首先将焦点聚集在与哥德尔生平和事业密切相关的三样重要的史料（哥德尔哥哥答复王浩的回信、格兰琼专为哥德尔设计的生平调查表、哥德尔获得洛克菲勒大学荣誉学位时王浩的引荐辞）。正是在许多珍贵史料基础上，王浩为我们仔细勾画了哥德尔毕生事业的全貌。似乎是历史的巧合，当哥德尔几经周折从维也纳抵达普林斯顿后，与爱因斯坦成了结交10年以上的好友。王浩先生巧妙地“假道爱因斯坦”，以对比的手法，描述了两位智者的友谊以及他们在物理、逻辑、哲学、政治、艺术甚至宗教上思想与见解。这样就为读者通达哥德尔的精神思想打开了一条便道。<br>
-　　哥德尔的科学工作令人赞叹，这也是王浩先生着力描写的重点。可是，照哥德尔自己说，他一生用于哲学的时间和精力比用于科学的还要多。在哲学中，哥德尔所推崇的5种好品格“善取舍、求准确、弃偏见、慎试验、有胆魄” 确实令人动心。哥德尔的博大视野与敏锐眼光还在他对科学、技术与社会的评述中显示出来。书中披露哥德尔在1962年就指出“人类并不会因为登上月球就有所改进。这必定跟‘自然’科学与‘精神’科学之间的老冲突有关。……如果史学、法权与国家学说、哲学、心理学、文学、艺术等等的进展像物理学那么大，原子战争的危险就不会有了。”读书至此怎能不掩卷感慨！诚可谓“哥德尔的事迹发人深省，其意境超乎学院天地，实在得有一种能顾盼几个世纪的历史眼光才行。”<br>
-　　作者王浩先生是著名的数理逻辑学家，早年在西南联大时就自学过哥德尔的初等逻辑完全性证明。后来与晚年的哥德尔频繁往来，广泛交谈，亲笔录下为数可观的口头资料。在他的笔下一个栩栩欲活、个性丰满的哥德尔跃然于纸上。在书中我们看到哥德尔生活的简朴、对荣华富贵的淡漠、做学问的坚韧刻苦、寻求根本原理的矢志不移和锲而不舍。<br>
-　　哥德尔处在另一时代，另一环境，他的专深研究也难免让常人觉得高不可攀。那么《哥德尔》对当代青年的意义何在呢？王浩先生“中译本序”的一段话是很有意义的：<br>
-　　我想，译者的苦心是盼望一些有识有志的青年人拿他当一面镜子，学会净化自我，学会在荆棘丛中踏出自己该走的路，不论其所爱好的是艺术还是科学、是文科还是理科。哥德尔成功的事实还提醒我们，一个人天赋再高，想获得一点真重要真耐久的成绩，必须对外界诱惑保持清醒的头脑，永不懈怠地埋头苦干，靠众人的喝彩、神秘的灵感或不诚实的手段根本做不到。<br>
-　　王浩先生1995年5月病逝于纽约。当我们阅读《哥德尔》的事迹，回味王浩先生的忠告，必然会有一种超然的感悟。</p>
-<h3 id="数学是不可完全的哥德尔的哲学手稿-by-刘晓力">数学是不可完全的——哥德尔的哲学手稿             by 刘晓力</h3>
-<p>  在20世纪逻辑学家和数学家行列中哥德尔是一位具有传奇色彩的人物。他所作的三大数学贡献的每一项结果对数理逻辑各分支的发展都是决定性的。自1931年哥德尔不完全性定理之后，数学基础逐渐演变为数理逻辑各分支的精细研究，同30年代前人们都关心基础研究的状况形成对照，数理逻辑愈益成为少数数学家的专门技术领域。可以不夸张地讲，哥德尔使数理逻辑发生了革命，哥德尔规定了我们这个时代数学基础研究的思维内涵。然而，长期以来鲜为人知的事实是，哥德尔不仅是一位伟大的逻辑学家、数学家，还是一位深刻的哲学家。在整个学术生涯中，他只有1929—1942年主要从事数学和数理逻辑的研究，从1942年直到1978年逝世，除了继续集合论问题思考并倾注5年时间热衷于相对论外，几乎大部分时间致力于哲学研究。<br>
-  哥德尔生前只发表过5篇哲学论文：《罗素的数理逻辑》（1944）、《纪念普林斯顿200周年数学问题会议评论》（1946）、《什么是康托的连续统问题？》（1947）（1964年修订）、《关于相对论与唯心主义哲学之间关系的一点评论》（1949）、《论有穷主义观点迄今未予应用的一种扩充》（1958）（1972年修订），他的大部分思想表达在手稿、通信和私人谈话记录中。1981年哥德尔去世3年后，他的妻子将其遗稿全部捐赠美国普林斯顿研究院。其中包括哥德尔未发表的论文手稿、演讲稿、授课讲义、各类札记和哥德尔自己编号的100多本笔记（注：哥德尔遗稿已由约翰·道森1984年完成编目，分为12类：①私人信件和科学通信；②商业信函和其他信件；③分专题记录的笔记本；④演讲稿和论文手稿；⑤札记和便笺；⑥其他书写模糊的草稿；⑦从小学到大学的学历材料；⑧法律和政治文件；⑨1930—1939年间的财务文件；⑩就医记录；①①照片；①②其他。）。当代最有影响的美国哲学家蒯因说：哥德尔手稿的发现堪称“哲学界一大新闻”，（注：奎因为Kurt G＠①del,Unpublished Philosophical  Essays所写的序言，1995，p.7.）它使世人得以更深刻地了解哥德尔在哲学领域的所思、所想、所为。目前《哥德尔全集》已出版1～3卷，其中1995年的第3卷中收录了他的几篇重要哲学手稿：《数学基础研究现状》（1933）、《关于数学基础的几个基本定理及其哲学推论》（1951）、《数学是语言的句法吗？》（19539）、《从哲学的观点看数学基础的现代发展》（1961）。这几篇手稿无疑提供了哥德尔思想研究珍贵的原始资料。</p>
-<ul>
-<li>1《数学基础研究的现状》</li>
-</ul>
-<p>  在应邀为美国数学会1933年年会准备的报告稿《数学基础研究的现状》中，哥德尔首先指出，为数学建构基础的问题由两个不同的方面构成，其一是使数学家一直使用的证明方法归约为最小数目的公理和推理规则；其二是探求这些公理的某种合法性问题，例如，它们是否彼此一致、是否与经验事实一致。依哥德尔之见，第一方面的问题通过数学的“形式化”已经令人满意地部分获解，但第二方面问题的解决其“形势极端不能令人满意”。原因在于，如果像形式主义者那样，以纯形式的观点把数学仅仅看作符号游戏，当然不会产生问题，一旦问到符号的意义时就会面临一系列困难。它们大致归为三类：（1）对非构造性存在的看法；（2）对（任意类型的）类的一般看法；（3）选择公理问题。Kurt G＠①del，Collected Works（简记CW）Ⅲ,p.48.对此三个问题的考察哥德尔引出了他的柏拉图主义数学哲学立场。这种立场显然建立在对形式主义、直觉主义以及罗素无类论的批判基础之上。<br>
-  直觉主义者认为，在无穷域中使用排中律导致非构造性存在证明，因此大可质疑。为了消除所有集合论悖论和语义悖论，1905年罗素通过摹状词理论，建立了无类论或分支类型论，并于1910年在与怀特海合著的《数学原理》中作了系统阐述。哥德尔认为“按照这一理论，类永远不能作为真实的对象存在，而且包含这个词项的命题只有被解释成一种形式语句、一种谈论其他事物的方式时才有意义”。因为罗素坚持“禁止恶性循环原则”：“总体不能包含只有通过这个总体，或者涉及，或者预设这个总体才能定义的成员”。数学中符合这一原则的定义称为直谓定义，违反这一原则的称为非直谓定义。<br>
-  哥德尔指出，使用无穷域中的排中律不仅产生非构造性存在证明而且导致非直谓定义。这种定义预设了独立于我们的知识和定义而存在的所有性质的总体。如果承认这种预设，非直谓定义方法无可质疑，“刻画一个无穷总体中的特殊元素就像谈论一个城市中的最高建筑物一样无可非议”。（注：Godel,CWⅢ,p.49～50、50.308～309、308～312、322～323、376～379、305.）并且哥德尔断言，“如果把我们的公理解释成有意义的命题，必然预设一种类型的柏拉图主义，它不可能令任何批判的头脑感到满意”。（注：Godel,CWⅢ,p.49～50、50.308～309、308～312、322～323、376～379、305.）况且非直谓定义已经扩大到实数理论中“从未导致任何矛盾”。当然，“如果把性质和总体仅仅看成由定义生成的肯定包含恶性循环”。这里，哥德尔表达的数学柏拉图主义立场是鲜明的，如果把我们的公理解释成有意义的命题，承认非直谓定义，必定预设独立于我们而存在某个总体，就必然要不以人的意志为转移接受一种柏拉图主义。这里所谓“批判的头脑”显然是指布劳威尔和海丁等直觉主义者。仔细阅读1933年报告手稿，通篇都能感受到哥德尔以讥讽的口吻表达他对形式主义和直觉主义的批判。<br>
-  哥德尔向来以数学中的柏拉图主义者著称。晚年曾声称从1925年起就是一个数学实在论者。但1933年以前的文献表明他的这种立场并未得以公开的系统阐发。克勒在《哥德尔与维也纳学派：柏拉图主义反对形式主义》中认为，哥德尔从30年代早期就持有坚定的柏拉图主义立场这一结论“没有证据支持”。马丁·戴维斯、菲弗曼、帕森斯都曾提出疑问，认为哥德尔30年代与他中晚年时期所表达的数学哲学立场不一致。（注：C.Parsons,1995,pp.49～50.S.Feferman,1986,见G＠①del,CWI,P.31,CWⅢ,P.40.）然而，就我们的考察表明，哥德尔在1933 年报告中首次给出“柏拉图主义”一词。如果将他30年代早期在某些特殊场合所表达的思想与40年代后公开阐明的观点和手稿中的立场联系起来看，这些怀疑是没有根据的。1933年报告可以看作他在30年代早期就已经采取坚定的数学柏拉图主义立场的明证。同时可以得出结论，从那时起到70年代，哥德尔的思想从未发生重大转折，其强硬的柏拉图主义立场可以说是一以贯之的。</p>
-<ul>
-<li>2  《关于数学基础的几个基本定理及其哲学推论》</li>
-</ul>
-<p>  1951年12月6日在布朗大学召开的第25 届吉布斯纪念讲座上哥德尔作了《关于数学基础的几个基本定理及其哲学推论》的报告，着重阐明他的不完全性定理的哲学意蕴。依哥德尔之见，虽然20年过去了，不完全性定理的哲学意义并未获得充分讨论。<br>
-  哥德尔首先表述了由定理揭示的他称之为“数学的不可完全性”（incompletability）或“不可穷尽性”（inexhaustability）的深刻本质：第一不完全性定理表明，无论选择什么样的良定义的公理和推理规则的系统，总存在该系统能够表达但由系统的公理和推理规则不能判定的丢番图问题。第二定理表明，对任何良定义的公理和推理规则的系统，如果假定这些公理和推理规则对于导出关于整数的有穷算术是充分的，那么断言该系统一致性的命题是不可证的。哥德尔的论证是，人们不可能建立一个一致的包括初等数论的形式系统并一致地声称，他认识到这个系统的公理和推理规则是正确的而且相信它囊括了全部数学。因为任何一个认为把握了公理和推理规则正确性的人必定承认也把握了它们的一致性，但由不完全性定理，这些公理的一致性在该系统中不可证。因此这个人就在承认他把握了在这个系统中不可证的某些东西的真理性，也就必然得出这个系统没有包括全部数学，即数学是不可完全的。（注：Godel,CWⅢ,p.49～50、50.308～309、308～312、322～323、376～379、305.）<br>
-  哥德尔还考虑了某些人由不完全性定理可能得出如下错误推论：人类心智等价于一台有穷机器，而且还是一台不能完全理解它自身功能的机器。而他认为由不完全性定理，如下数学上的选言命题才是必然推论：或者在下述意义上数学是不可完全的：它的自明的公理不可能包含在有穷规则中，即人类心智无限超越任何机器；或者存在绝对不可判定的数论命题。（注：按照王浩的说法，哥德尔认为，希尔伯特反对第二选言支，声称“数学中没有不可知”是正确的，否则就意味着人的理性全然无理性，一方面提出理性不能解答的问题，一方面又断言只有理性才能解答这些问题。同时，晚年的哥德尔至少认为有理由接受第一选言支：人类心智胜过机器。对此可参见王浩，1974，pp，324～326和G＠①del，CWⅡ1972a.）与此相应的哲学推论是：或者人类心智的活动不可能归于大脑的活动，因为大脑的所有行为不过像一台由有穷多部件（即神经元和它们的连接）组成的有穷机器；或者数学不仅仅是我们的创造，数学对象和数学事实是独立于我们的精神活动和意愿而客观存在的。在哥德尔看来，承认第一点就将否定将人心等同于机器的生物机械主义；承认第二点我们“就必须接受由数学基础的现代发展获得支持的某种形式的柏拉图主义或数学实在论立场”。（注：Godel,CWⅢ,p.49～50、50.308～309、308～312、322～323、376～379、305.）当然，不排除两个选言支都真的情形。<br>
-  随后哥德尔以数学的不可完全性为论据对数学中的唯名论，特别是“数学仅仅是我们的自由创造”和“数学是语法的约定”这两种观点进行批驳并且声称，如果对这里所讨论的概念进一步严格化之后，我们的结论应当是“柏拉图主义是唯一站得住脚的立场。”即“数学描述了一种非感性的实在，它的存在不依赖于人类心智的活动和意愿，它只能被人类心智所感知，而且这种感知恐怕还是不完全的”。Godel,CWⅢ,p.49～50、50.308～309、308～312、322～323、376～379、305.）<br>
-  哥德尔的吉布斯演讲对长期困扰人们的不完全性定理给出了他自己的哲学解释，指出了准确而深刻地理解定理哲学义蕴的本质之点，同时还借助数学的不可完全性这一全新的证据，通过对唯名论的批判提供了对于数学柏拉图主义立场的一种辩护，尽管他的结论表面看来是一种推论式的。</p>
-<ul>
-<li>3  《数学是语言的句法吗？》</li>
-</ul>
-<p>  吉布斯演讲之后，哥德尔用了两年时间修改演讲稿，准备在《美国数学会通报》上发表，但修改的工作量很大，而且哥德尔发现很难清晰而确切地表达演讲中的断言，特别感到棘手的是对于数学中的语言约定论的批判。因此这一问题当时成了他最为关注的焦点，以至他终于放弃改写演讲稿，转而去写《数学是语言的句法吗？》一文。（注：Dawson，JW,Jr.1995,p.200.）<br>
-  1953年，哥德尔再次应谢尔普之邀为《在世哲学家文库》中的《卡尔纳普哲学》卷撰稿。（注：哥德尔曾三次受谢尔普邀请为此文库中的《罗素》卷、《爱因斯坦》卷和《卡尔那普》卷撰稿。）谢尔普建议他以“卡尔纳普与数学本体论”为题写一篇25—40页的文章，但哥德尔表示只想写一篇“对数学本质的唯名论观点的评论”短文。1953—1959年他花费六年时间完成了“数学是语言的句法吗？”这一题目的六个版本。六篇誊写清晰的文章完整地保存在他的遗稿中。1995年《哥德尔全集》第三卷收录了其中的第三稿和第五稿，同年罗德里奇·孔塞格拉编辑的《哥德尔哲学手稿》收录了第四稿和第六稿。通读这几篇手稿可以看出，哥德尔的立场没有任何实质性变化，目的都是对于逻辑实证主义者，特别是汉斯·哈恩和卡尔纳普等人主张的数学的语言约定论给予深刻而严厉的批判。<br>
-  “数学是语言的句法”是卡尔纳普以及维也纳学派对数学本质的一种概括。1930年前后，石里克、汉斯·哈恩和卡尔纳普极大地受到维特根斯坦的影响，形成了关于数学本体论中被哥德尔视为“唯名论和约定论相融合”的语言约定论观点。按照这种观点，如卡尔纳普所说，“数学是不含内容、不含对象的辅助语句系统”，数学命题不是对事件域中事件状态的描述，而完全可以归约为语言的句法，即数学定理的有效性仅由某些使用符号的语法约定的推论确定。事实上，卡尔纳普在1937年的《语言的逻辑句法》一书中就是试图实施把数学归约为语言句法的语法方案。<br>
-  在第五版中，哥德尔把语言约定论归纳为如下三个基本论题：（1）逻辑和数学命题仅仅是支配符号规则的产物，数学直觉可由约定代替；（2）数学是不含内容的，不存在数学对象也不存在数学事实；（3）由于数学命题不含内容，关于他们的语言约定不可能被任何可能的经验证伪，因此数学的语言约定论与严格经验论一致。哥德尔以他强有力的三个论据：数学的不可完全性、数学内容和数学直觉的不可消除性以及数学与自然科学的可类比性（注：参见刘晓力的《哥德尔对逻辑实证主义的批判》，载于《自然辩证法研究》，1997－（1）。），对这些论题一一给以严厉的批驳，并且在第六版中宣称，“语言约定论立场的任何哲学断言都是站不住脚的”。<br>
-  《数学是语言的句法吗？》历经六年数易其稿于1959年完成。2 月份哥德尔却突然致信谢尔普宣布不想发表他的文章了。信中陈述的理由是，第一，完稿之时已经过了卡尔纳普向作者作答的时间，如果没有卡尔纳普答复发表文章对大家都不公平，也难以向世人交代。第二，哥德尔指出，“我完成了这一题目的几个版本，但对哪一个都不满意。按照我自己的意愿作出严厉断言或强硬论证是不难的，但我发现这一题目与哲学的基本问题之一，概念及其关系的客观实在性问题密切相关，要想彻底阐明它比我料想的要困难，而且以普遍持有的偏见，发表目前只完成了一半的工作将弊大于利。”（注：Warren Goldfarb,Introductory note to  19539, G＠①del,CWⅢ,p.324.）<br>
-  哥德尔1924年入维也纳大学学习，1926年起参加维也纳小组活动，并且与小组领导人私人关系密切，因此长期以来哥德尔一直被看作维也纳学派成员，然而他从一开始就不赞成逻辑实证主义的观点也从未在公开场合表达过相反的见解，对当时的这一官方立场一直保持缄默。《数学是语言的句法吗？》这篇手稿无疑第一次提供了系统批判逻辑实证主义的有力论证，哥德尔自然预料到来自反对势力的压力，依其个性他并不想在生前引起大的争论，同时按照王浩的解释，他大概发现卡尔纳普的著作中有某种跟他本人层次不同、类型不同的准确性，难以设计一种令双方都满意的共同语言，使他自己的论证令对方心悦诚服，因此这篇论战性极强的文章直到1995年才与世人见面。</p>
-<ul>
-<li>4  《从哲学的观点看现代数学的发展》</li>
-</ul>
-<p>  1961年4月哥德尔成为美国哲学会会员。 有理由断定《从哲学的观点看现代数学的发展》是为1963年会员大会准备的一篇（未作演讲的）演讲稿（注：Dagfinn fΦllesdal,Introductory note to  1961, G＠①del,CWⅢ,p.364.）。演讲稿的目的是以哲学的观点评述20世纪数学基础研究的状况，并试图将其纳入一般哲学框架。<br>
-  哥德尔首先把各种哲学流派依据它们与形而上学（或神学）的亲疏划分为左右两方，左方是怀疑论、唯物主义、经验主义、实证主义和悲观主义；右方是唯灵论、唯心主义、先验主义、神学和乐观主义。哥德尔显然赞同右倾立场。依他之见，自文艺复兴以来，哲学的发展不是从某一单线上而是整体上从右倾立场转向了左倾立场。“如果这种偏执的转向还没有使人感受到已经侵入数学观中真是一个奇迹。”哥德尔所指的这种偏执的转向无疑是指经验主义和实证主义倾向。在哥德尔看来，数学是一门先验科学，因此它总有与文艺复兴以来的时代精神，即数学中的经验主义、实证主义相背离的倾向；同时它虽然“深陷高度抽象之中”，但就目前而言其基础却具有从未有过的确定性，因此也远离怀疑论。哥德尔认为，20世纪初由集合论悖论引起的所谓“数学危机”显然被经验论者和怀疑论者夸大了，并且“拿来作为左倾膨胀的借口”，认为悖论的出现表明数学内部出现了矛盾。依哥德尔之见，“这些矛盾远离数学而更具哲学意义，同时任何一个了解数学的人都清楚地知道，我们已经以完全令人满意的方式解决了它们。（注：Godel,CWⅢ,p.49～50、50.308～309、308～312、322～323、376～379、305.）”<br>
-  在演讲稿中，哥德尔更多的是指明，真理应当介乎左右倾之间或二者的有机结合。因为依老式的右倾哲学观，数学代表一种完全的真理体系，“它的每一个精确表述的是或否的问题必定有一个确切答案”。然而由不完全性定理，这一真理体系不可能诉诸公理集和形式推理规则获得其完全性。同时，按照流行的左倾哲学观，作为出发点的数学公理的真理性不可能由经验证实，因而由它们所得出的结论只具有假说的意义，这种推理只能看成是按照某种规则所作的一种符号游戏。但是由不完全性定理，不借助抽象概念仅仅使用处理符号组合的工具不可能实施数学系统一致性的证明。因此哥德尔主张，不能无视现代数学的新进展盲目背弃信仰去迎合时代潮流，而应当一方面坚持数学知识的确定性，一方面坚信理性提出的问题理性自身能够清晰地予以解答。因此“正确的观点对我来讲似乎应当是，真理位于左右倾哲学观之间或者是二者的结合。”这种结合意味着数学的确定性不能仅仅借助经验证实或演绎证明获得，而要通过加深理解抽象概念，通过清晰阐释抽象概念的意义实现。出乎意料的是，哥德尔认为，“目前有一种科学的清晰阐释这种意义的系统方法，这就是胡塞尔的现象学方法，”G＠①del，CWⅢ，p.383.据王浩和Dagfinn FΦllesdal，哥德尔自1959年开始研究胡塞尔达10年之久，并拥有胡塞尔所有的重要著作。在1961年这篇演讲稿中哥德尔花费大量笔墨对胡塞尔的工作给以高度评价，主张借助现象学方法对我们所需要的抽象数学概念进行分析并发展我们的数学直觉，超越数学形式系统的局限去发现越来越多自明的新公理，以解决数学中每一个清晰提出的问题。</p>
-<ul>
-<li>5  数学是不可完全的</li>
-</ul>
-<p>  哥德尔的几篇哲学手稿中明显贯穿着一条主线，借助由不完全性定理揭示的数学不可完全性的深刻本质，通过对当时占统治地位的几大数学观：逻辑主义、形式主义、直觉主义和逻辑实证主义的批判性反思进一步阐述自己的数学哲学立场，并以全新的证据为柏拉图主义数学观提供系统辩护。在这一过程中也表达了他的理性主义和客观唯心主义的一般哲学观。（注：晚年哥德尔在与王浩的谈话中，将自己的哲学观概括为“理性主义的、唯心主义的、乐观主义的和神学的”。Wang Hao，1995.）<br>
-  哥德尔一生最为关注的三大数学问题是，数学的不可完全性；数学形式系统的一致性和一致性证明；寻求解决数学基础核心问题的集合论公理。后两个问题事实上与第一个问题密切相关。正如他自己所言：“我的所有元数学结果都是围绕数学的不可完全性或称数学的不可穷尽性问题展开的，”（注：Godel,CWⅢ,p.49～50、50.308～309、308～312、322～323、376～379、305.）而且每一项结果之后都伴有长时间深刻的哲学反思。一方面，正如我们在手稿中所见，柏拉图主义数学观被他视作这些数学结果的哲学推论；另一方面在致王浩的信以及同王浩晚年的谈话中又指出，这种数学观是他建立一系列数学结果的决定性助探原则；同时在多种场合他还强调，柏拉图主义数学观可以从以上两点获得证据支持。（注：对此可参见 Wang Hao，A Logical JourneyFrom G＠①del To Philosophy，The MIT Press即将出版.）因此，哥德尔对数学的不可完全性本质所作的深刻而独立的反思是我们理解哥德尔数学哲学思想的一条基本线索。<br>
-  结合生前发表的哲学论文中的思想可以看出，20年代后期哥德尔就已经持有数学实在论立场，1933年首次表示赞成柏拉图主义数学观，1944年和1947年借评价罗素数理逻辑的机会并通过连续统假设这一具体问题以数学实在论的术语系统阐述这种数学观，声明不仅在数和集合的基本层次上承认数学实在论，而且将这种实在论拓展到类和概念上，坚信存在一个客观的与物理世界相分离的抽象概念的世界，主张对这些概念的理解应更多的诉诸直觉。早在1929年哥德尔就已经意识到，由于数学的不可穷尽性，为了克服数学形式系统在表达力和判定力两方面的局限“必须不断从直觉之泉汲取养分”。（注：哥德尔与卡尔纳普1929年的谈话，见Wang Hao 1987，p.51.）在1944、1958和1964年的几篇文章中他对数学直觉问题作了深入分析，同时指出，为了把握高度超穷的客观数学真理和抽象数学概念，必须摈弃康德的先天直觉和布劳维尔的构造性直觉而接受等级越来越高的抽象数学直觉，这种直觉在数学中有着不可替代的认识论作用。<br>
-  哥德尔的数学哲学在他的整个哲学中占据核心位置，也是其中阐述最为系统且内涵丰富的部分。如果说哥德尔公开发表的论文主要集中于阐述自己的数学哲学立场，手稿则更侧重在哲学争论中从一个全新的视角，特别是从数学的不可完全性的本质出发对这种立场提供强有力的辩护，虽然这种辩护并未达到令他自己满意的程度。这恐怕也是他生前未发表这些手稿的真正原因。以上几篇哲学手稿无疑提供了理解他的整个哲学思想全新的视界和更为广阔的理论背景，也使我们通过了解哥德尔在哲学争论中所持仗的理论依据进入其思想的更深层次。近年来，哥德尔研究日益受到西方学界的关注，随着各类手稿的陆续公布我们相信哥德尔思想潜在的哲学价值和科学价值将获得更深入的研究。</p>
-<ul>
-<li>【参考文献】</li>
-</ul>
-<p>〔1〕哥德尔遗稿已由约翰·道森1984年完成编目，分为12类：①私人信件和科学通信；②商业信函和其他信件；③分专题记录的笔记本；④演讲稿和论文手稿；⑤札记和便笺；⑥其他书写模糊的草稿；⑦从小学到大学的学历材料；⑧法律和政治文件；⑨1930—1939年间的财务文件；⑩就医记录；①①照片；①②其他。<br>
-〔2〕奎因为Kurt G＠①del,Unpublished Philosophical  Essays所写的序言，1995，p.7.<br>
-〔3〕Kurt G＠①del，Collected Works（简记CW）Ⅲ,p.48.<br>
-〔4〕〔5〕〔7〕〔9〕〔10〕〔16〕〔19〕Godel,CWⅢ,p.49～50、50.308～309、308～312、322～323、376～379、305.<br>
-〔6〕C.Parsons,1995,pp.49～50.S.Feferman,1986,见G＠①del,CWI,P.31,CWⅢ,P.40.<br>
-〔8〕按照王浩的说法，哥德尔认为，希尔伯特反对第二选言支，声称“数学中没有不可知”是正确的，否则就意味着人的理性全然无理性，一方面提出理性不能解答的问题，一方面又断言只有理性才能解答这些问题。同时，晚年的哥德尔至少认为有理由接受第一选言支：人类心智胜过机器。对此可参见王浩，1974，pp，324～326和G＠①del，CWⅡ1972a.<br>
-〔11〕Dawson，JW,Jr.1995,p.200.<br>
-〔12〕哥德尔曾三次受谢尔普邀请为此文库中的《罗素》卷、《爱因斯坦》卷和《卡尔那普》卷撰稿。<br>
-〔13〕参见刘晓力的《哥德尔对逻辑实证主义的批判》，载于《自然辩证法研究》，1997－（1）。<br>
-〔14〕Warren Goldfarb,Introductory note to  19539, G＠①del,CWⅢ,p.324.<br>
-〔15〕Dagfinn fΦllesdal,Introductory note to  1961, G＠①del,CWⅢ,p.364.<br>
-〔17〕G＠①del，CWⅢ，p.383.据王浩和Dagfinn FΦllesdal，哥德尔自1959年开始研究胡塞尔达10年之久，并拥有胡塞尔所有的重要著作。<br>
-〔18〕晚年哥德尔在与王浩的谈话中，将自己的哲学观概括为“理性主义的、唯心主义的、乐观主义的和神学的”。Wang Hao，1995.<br>
-〔20〕对此可参见 Wang Hao，A Logical JourneyFrom G＠①del To Philosophy，The MIT Press即将出版.<br>
-〔21〕哥德尔与卡尔纳普1929年的谈话，见Wang Hao 1987，p.51.</p>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[《乡村里的中国》(冷暖人生)]]></title>
-        <id>https://alaskasquirrel.github.io/post/农村-农民/</id>
-        <link href="https://alaskasquirrel.github.io/post/农村-农民/">
+        <id>https://alaskasquirrel.github.io/post/乡土中国/</id>
+        <link href="https://alaskasquirrel.github.io/post/乡土中国/">
         </link>
         <updated>2020-05-21T14:38:07.000Z</updated>
         <content type="html"><![CDATA[<p>  “我从来就不热爱土地”</p>
