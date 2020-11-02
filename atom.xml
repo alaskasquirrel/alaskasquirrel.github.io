@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-10-27T12:27:52.762Z</updated>
+    <updated>2020-11-02T09:05:55.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -602,7 +602,9 @@ number theoretical questions undecidable for the human mind.</li>
         </link>
         <updated>2020-06-26T12:15:51.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://support.microsoft.com/zh-cn/help/3159635/windows-10-update-assistant">Windows 10 更新助手</a><br>
-<a href="https://www.w10privacy.de/english-home/">W10Privacy</a> 禁用追踪监控功能</p>
+<a href="https://www.w10privacy.de/english-home/">W10Privacy</a> 禁用追踪监控功能<br>
+<a href="https://greatis.com/stopupdates10/">StopUpdates10</a><br>
+DWS Lite</p>
 <p><a href="https://github.com/lukesampson/scoop">Scoop</a> 软件包搜索安装管理，开源软件替代商业应用：</p>
 <ul>
 <li>PotPlayer 影音视频播放器</li>
@@ -629,7 +631,9 @@ TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 如若通过 Microsoft Store 安装应用，推荐 Grover Podcast 、Newsflow。</p>
 <p>VirtualBox 虚拟机安装<br>
 Qubes 开源操作系统<br>
-AlgoVPN</p>
+AlgoVPN<br>
+Wireguard<br>
+Outline</p>
 ]]></content>
     </entry>
     <entry>
@@ -744,6 +748,9 @@ the U.S. Bureau of Economic Analysis基于2010年的研究报告，比较世界�
 </li>
 <li>
 <p>&lt; <a href="http://yourehiredtrump.com/">You're Hired!</a>  Untold Successes and Failures of a Populist President &gt; September 3, 2020. <a href="https://twitter.com/caseybmulligan">Casey B. Mulligan</a> is an American economist and author. He is a Professor in Economics at the University of Chicago. He served as chief economist for <a href="https://www.whitehouse.gov/cea/">the Council of Economic Advisers</a> in the Trump Administration from September 6, 2018 to August 2019. His blog &quot;<a href="https://caseymulligan.blogspot.com/">Supply and Demand</a>&quot;.</p>
+</li>
+<li>
+<p><a href="https://americalostfilm.com/">America Lost</a></p>
 </li>
 </ol>
 ]]></content>
