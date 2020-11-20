@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-11-02T09:12:05.833Z</updated>
+    <updated>2020-11-20T16:49:27.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -10,6 +10,195 @@
     <logo>https://alaskasquirrel.github.io/images/avatar.png</logo>
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, NewOld </rights>
+    <entry>
+        <title type="html"><![CDATA[译📖Learn Lisp Programming: Intro, Versions, and More]]></title>
+        <id>https://alaskasquirrel.github.io/post/LearnLispProgramming/</id>
+        <link href="https://alaskasquirrel.github.io/post/LearnLispProgramming/">
+        </link>
+        <updated>2020-11-18T12:52:11.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>原文：<u>https://www.whoishostingthis.com/resources/lisp/</u> July 2019. Copyright©Adam Michael Wood.</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[译📖A Road to Common Lisp]]></title>
+        <id>https://alaskasquirrel.github.io/post/a-road-to-common-lisp/</id>
+        <link href="https://alaskasquirrel.github.io/post/a-road-to-common-lisp/">
+        </link>
+        <updated>2020-11-06T12:05:48.000Z</updated>
+        <content type="html"><![CDATA[<p>» <a href="http://xahlee.info/comp/Common_Lisp_quotations.html">Famous Programers on How Common Lisp Sucks</a> 😈</p>
+<p>经验分享：<a href="https://irreal.org/blog/?p=7557">A Road to Common Lisp</a></p>
+<p>免责声明：此文绝非学习Common Lisp的唯一路径，包含作者个人观点，期待你的新尝试。</p>
+<blockquote>
+<p>原文: <u>https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/</u>  August 2018. Copyright©Steve Losh.</p>
+</blockquote>
+<p>简译如下：</p>
+<h2 id="context">Context</h2>
+<p>  我认为，在学习Common Lisp之前，了解它的起源和发展很重要的。如果你已学习了现代的编程语言，古老的编程语言会看起来很奇怪，但如若你具有一些背景知识就会发现它的意义。</p>
+<h3 id="history">History</h3>
+<p>  Common Lisp有着悠久历史。我不打算在这里全部赘述 —— 如有兴趣，你可以参考如下资料:</p>
+<ul>
+<li>Wikipedia's <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)#History">History of Lisp</a> and <a href="https://en.wikipedia.org/wiki/Common_Lisp#History">History of Common Lisp</a>.</li>
+<li>The <a href="http://www.gigamonkeys.com/book/introduction-why-lisp.html#where-it-began">Where it Began section in Practical Common Lisp</a>.</li>
+<li>The <a href="https://www.cs.cmu.edu/Groups//AI/lang/lisp/faq/lisp_2.faq">History: Where did Lisp come from?</a> section of the comp.lang.lisp FAQ.</li>
+<li><a href="http://www.nhplace.com/kent/Papers/cl-untold-story.html">Common Lisp: the Untold Story</a> by Kent Pitman.</li>
+<li><a href="https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf">The Evolution of Lisp</a> by Guy Steele and Richard Gabriel.</li>
+</ul>
+<p>  我猜想你大概不会阅读上述链接内容，那就在这里快速回顾一下Lisp六十载的风光吧。</p>
+<p>  Lisp 起始于上个世纪 50 年代，创始人是麻省理工大学（MIT）的 John McCarthy。此后的二十余年，多版本的 Lisp 方言涌现发展，其中知名的有 Maclisp, BBN Lisp/Interlisp, Franz Lisp, Spice Lisp, 以及Lisp Machine Lisp。它们有各自的实现方式，且在不同的领域枝繁叶茂。(Scheme也是在这个时间框架中诞生的，但采取了非常不同的路线，偏离了我们现在看到的路线。在这篇文章中，我不会涉及计划)</p>
+<p>  80年代初期，人们意识到一堆互不兼容的Lisp方言并非理想的状态，从而致力于将这些方言统一为一种通用语言，以满足每个人的需求。1984年，Guy Steele参与的&lt;<a href="https://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html"><em>Common Lisp: the Language</em></a>&gt;首版发行。即便全书围绕着Lisp过往25年的实际应用、实验、经验和历史借鉴展开记述，而它并不能让每个人都满意。到了1986年，国际信息技术标准委员会为 Common Lisp 指定了 ANSI 规范。</p>
+<p>  正当委员会致力于标准化工作之时，&lt; <em>Common Lisp: the Language</em>&gt;第二版发行。这个版本更加全面，囊括了委员会正在做的一些事情。此时，Lisp语言家族已有超过30年的经验和历史可以借鉴。同期比较: Python第一次释出还要再等一年。</p>
+<p>  1992年，委员会发布了Common Lisp ANSI standard 的初稿以供开放审查。该草案在1994年得到批准，最终在1995年发布。此时Lisp已经超过35岁了。该版本至今仍在使用。</p>
+<h3 id="consequences">Consequences</h3>
+<p>  我希望你能够了解，Common Lisp是一种稳定、强大、实用、可扩展、而又奇怪的语言，理解这些特征会让你的学习过程更有意义。</p>
+<ul>
+<li><strong>Escaping the Hamster Wheel of Backwards Incompatibility</strong></li>
+</ul>
+<p>  兼容性是现代语言不得不面对的事情，但对于 Common Lisp 而言这都不是事，后面我会推荐一本 1990 年代写的书，我们可以不做修改的用最新版本的 Common Lisp 运行这本书里的代码。总的来说，Common Lisp社区在维护向后兼容性方面做得很好。</p>
+<ul>
+<li><strong>Practicality Begets Purity</strong></li>
+</ul>
+<p>  Common Lisp 是一种大型语言，&lt; <em>Common Lisp: the Language</em>&gt;第二版篇幅过千页。在没有太多额外支持的情况下，编写Pure Common Lisp 即可完成繁琐工作。在使用 Common Lisp 编程应用程序时，通常会依赖少量的稳定库，而库维护者通常会尽可能多地利用核心语言来最小化依赖关系。我的应用程序的依赖项不超过10个，库的依赖项不超过2个或3个，我可能比大多数人更保守一些。Common Lisp 的稳定性告诉我们这些库会一直持续，可不要小看了它们。</p>
+<ul>
+<li><strong>Extensibility</strong></li>
+</ul>
+<p>  Common Lisp 之所以如此实用得益于它的可扩展性。它有着强大的宏（Macros），宏允许我们编写库来实现在其他语言中的核心特性：</p>
+<ul>
+<li>Common Lisp 并没包含字符串插入，想要实现这个功能？只需要一个<a href="https://edicl.github.io/cl-interpol/">库</a>。</li>
+<li>想要尝试一些没有引用的不确定的编程吗？<a href="https://nikodemus.github.io/screamer/">看这里</a>。</li>
+<li>语法匹配可以使代码变漂亮，提高可读性。而 Common Lisp 自身并没有这个功能，我们可以看<a href="https://github.com/guicho271828/trivia/wiki/What-is-pattern-matching%3F-Benefits%3F">这里</a>。</li>
+<li>享受 Haskell 或 Scala 里的代数数据类型？<a href="https://github.com/tarballs-are-good/cl-algebraic-data-type">看这里</a>。</li>
+</ul>
+<p>  所有这些库都依赖于宏来让使用它们感觉无缝。当然，您可以在没有宏的情况下完成所有这些工作，但是您必须添加一层来管理计算。如下:</p>
+<pre><code>(match foo
+   '(list x y z) (lambda (x y z) (+ x y z))
+   '(vector x y) (lambda (x y) (- x y)))
+</code></pre>
+<p>  只是不会像这样：</p>
+<pre><code>(match foo
+   ((list x y z) (+ x y z))
+   ((vector x y) (- x y)))
+</code></pre>
+<p>  没有人在 Common Lisp 标准版添加模式匹配，因为你可以将其写成库来获取 90% 以上的内容，语言本身给予您足够的自由来扩展。</p>
+<ul>
+<li><strong>Power</strong></li>
+</ul>
+<p>  宏绝对是Lisp具有高可扩展性的重要构成，因为它允许将源码转换为其他任意代码。对于C等语言中的宏也是如此，但是CommonLisp的宏不同，因为它们是语言的一部分。在C语言中，在顶层有一层宏，是用预处理器宏语言编写的。宏和语言层是相互独立的，宏提供了一个额外的抽象能力(请不要误解我的意思，这当然是有用的)。</p>
+<p>  在Common Lisp中，你在语言本身中编写宏。然后可以使用这些宏来编写函数，并使用这些函数来编写更多的宏。它不是两个分层的层，而是一个抽象力量的反馈循环。</p>
+<p>  但是宏并不是Common Lisp如此实用和可扩展的唯一因素。人们常常没有意识到的是，虽然由于宏的存在，Common Lisp是一种非常高级的语言，但它也有许多低级的工具作为语言的一部分。它永远不会像C、Rust或Forth那样低级，但是您可能会对ANSI规范包含的一些内容感到惊讶。并不是所有的Common Lisp实现都可执行这些优化，但是Common Lisp的设计者很有远见，包括了支持这些优化所需的语言特性。您可以编写标准定义的Common Lisp，并相信它将在任何地方运行，而支持这类事情的实现将利用优化机会。</p>
+<p>  这种使用宏支持非常高级的编程和合理数量的低级优化的组合意味着，尽管该规范已经有20多年的历史，但它仍然是今天构建的一个良好的坚实基础。三十年的经验和历史让设计师们得以创造出一种非常实用的语言，而它在未来依旧闪耀 。</p>
+<ul>
+<li><strong>Ugliness</strong></li>
+</ul>
+<p>  同等重要的是，即使Common Lisp已非常实用，但要适应现有用户和方言，这意味着有很多丑陋的地方。如果你买了&lt; <em>Common Lisp:the Language</em> &gt;第二版的纸质书，在索引中查找“kludges”，你会发现:</p>
+<figure data-type="image" tabindex="1"><img src="https://alaskasquirrel.github.io/post-images/1605720133113.jpeg" alt="" loading="lazy"></figure>
+<p>  Common Lisp并非完美的编程语言。‘匪夷所思’的历史包袱是当初为确保Common Lisp发展而付出的代价————旧方言的使用者通过合理的努力就可以采用Common Lisp。如果设计者‘一意孤行’使得它变得完美和漂亮，这可能招致他人的弃用。</p>
+<h2 id="a-road-to-learning-common-lisp">A Road to Learning Common Lisp</h2>
+<h3 id="get-a-lisp">Get a Lisp</h3>
+<p>  第一步便需要安装一个Common Lisp实现。符合ANSI规范的实现有多种，您可以选择:</p>
+<ul>
+<li>如果使用的是 MacOS，可以下载 GUI 界面的应用，在 App Store 找到 <a href="https://ccl.clozure.com/">ClozureCL</a>.(Clozure和Clojure迥然不同，切勿混淆)</li>
+<li>其他系统请选择 <a href="http://www.sbcl.org/">SBCL</a>. (CLISP，并非你所需要的。CLISP 虽然是另一种 Lisp 实现，但它出现的时间并不长，没有 CCL 或 SBCL 普及，如果我们遇到问题的时候可能很难找到解决方案。)</li>
+<li>不要使用Roswell，你现在(或者根本)不需要它。</li>
+</ul>
+<h3 id="pick-an-editor">Pick an Editor</h3>
+<p>  Emacs并非不可缺少，你可以在任何喜欢的文本编辑器中开始学习这门语言。如果你没有偏好，那么CCL本身与MacOS上的文本编辑器捆绑在一起。这个方法便是很好地开始。Emacs, Vim, Sublime Text, Atom, 它们都可以支持括号匹配、高亮代码注释以及自动缩排代码。</p>
+<h3 id="hello-lisp">Hello, Lisp</h3>
+<p>  我们来创建文件 hello.lisp :</p>
+<pre><code>(defun hello ()
+  (write-line &quot;What is your name?&quot;)
+  (let ((name (read-line)))
+    (format t &quot;Hello, ~A.~%&quot; name)))
+</code></pre>
+<p>  现在看不懂代码无妨，这里只是确认编程环境是否正常运行。</p>
+<p>  打开一个SBCL或CCL REPL(<a href="https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop">Read/Eval/Print Loop</a>)并通过输入(load &quot;hello.lisp&quot;)加载文件，然后调用函数并确保它能工作。如果你选择SBCL，它应该是这样的:</p>
+<pre><code>$ sbcl
+* (load &quot;hello.lisp&quot;)
+
+T
+* (hello)
+What is your name?
+Steve
+Hello, Steve.
+NIL
+*
+</code></pre>
+<p>  如果你选择了CCL，但仍然想使用命令行，而不是MacOS应用程序(命令行程序可能被恼人的命名为ccl64，如果你在64位系统):</p>
+<pre><code>$ ccl64
+Clozure Common Lisp Version ...
+
+? (load &quot;hello.lisp&quot;)
+#P&quot;/home/sjl/Desktop/hello.lisp&quot;
+? (hello)
+What is your name?
+Steve
+Hello, Steve.
+NIL
+?
+</code></pre>
+<p>  如果你的箭头键和退格键在REPL中不起作用，使用rlwrap来修复。sbcl会给你一个不错的反馈。无论如何，rlwrap都是您工具箱中一个方便的工具。</p>
+<h3 id="a-gentle-introduction">A Gentle Introduction</h3>
+<p>  我找到的最适合开始学习普通Lisp的书是&lt; <em><a href="https://www.cs.cmu.edu/~dst/LispBook/">Common Lisp: A Gentle Introduction to Symbolic Computation</a></em>&gt;。即使您之前编写过程序，我仍然建议您从这里开始，因为它可以使您轻松地进入语言。(1990年版可以在网站上免费下载，2013年的重印修正了1990年版的一些小错误。如果你买得起，我建议你买2013年版，但1990年版也不错。)</p>
+<p>  通读全书，做完所有的练习。花费的时间，主要是为了让你开始克服一些主要的障碍，以适应Common Lisp，如:</p>
+<ul>
+<li>我怎么才能记住所有这些奇怪的函数名呢?</li>
+<li>为什么人们很少使用字符串?</li>
+<li>我什么时候使用这个该死的引号?</li>
+</ul>
+<p>  there's also a <a href="https://discord.gg/tffeu2x">Discord server</a> that some of us hang out in. Join the #common-lisp channel there and we'll be happy to help you.</p>
+<h3 id="getting-practical">Getting Practical</h3>
+<p>  接下来你可以阅读&lt; <em><a href="http://www.gigamonkeys.com/book/">Practical Common Lisp</a></em>&gt;。</p>
+<h3 id="make-something">Make Something</h3>
+<h3 id="lisp-as-a-system">Lisp as a System</h3>
+<h3 id="learning-paradigms">Learning Paradigms</h3>
+<h3 id="switch-things-up">Switch Things Up</h3>
+<h3 id="recipes-for-success">Recipes for Success</h3>
+<h3 id="final-patterns">Final Patterns</h3>
+<h2 id="where-to-go-from-here">Where to Go From Here</h2>
+<h3 id="macros">Macros</h3>
+<h3 id="object-oriented-programming-with-clos">Object-Oriented Programming with CLOS</h3>
+<h3 id="low-level-programming">Low-Level Programming</h3>
+<h3 id="web-development">Web Development</h3>
+<h3 id="game-development">Game Development</h3>
+<h3 id="window-management">Window Management</h3>
+<h3 id="unit-testing">Unit Testing</h3>
+<h3 id="more-implementations">More Implementations</h3>
+<h2 id="modern-common-lisp">Modern Common Lisp</h2>
+<h3 id="structure">Structure</h3>
+<h4 id="packages">Packages</h4>
+<h4 id="systems">Systems</h4>
+<h4 id="projects">Projects</h4>
+<h4 id="recap">Recap</h4>
+<h3 id="common-libraries">Common Libraries</h3>
+<h4 id="alexandria">Alexandria</h4>
+<h4 id="bordeaux-threads">Bordeaux Threads</h4>
+<h4 id="cffi">CFFI</h4>
+<h4 id="cl-ppcre">CL-PPCRE</h4>
+<h4 id="drakma">Drakma</h4>
+<h4 id="iterate">Iterate</h4>
+<h4 id="local-time">local-time</h4>
+<h4 id="lparallel">lparallel</h4>
+<h4 id="named-readtables">Named Readtables</h4>
+<h4 id="roswell">Roswell</h4>
+<h4 id="series">SERIES</h4>
+<h4 id="st-json">st-json</h4>
+<h4 id="usocket">usocket</h4>
+<h2 id="good-luck">Good Luck</h2>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内存分页]]></title>
+        <id>https://alaskasquirrel.github.io/post/memorymanagement/</id>
+        <link href="https://alaskasquirrel.github.io/post/memorymanagement/">
+        </link>
+        <updated>2020-11-05T19:27:46.000Z</updated>
+        <content type="html"><![CDATA[<p>(封面https://blog.burhanuday.tech/paging-the-secret-behind-the-modern-computers-efficient-memory-management)<br>
+内存分页</p>
+<p>参考资料：<br>
+<a href="https://blog.burhanuday.tech/paging-the-secret-behind-the-modern-computers-efficient-memory-management">The secret behind the modern computer's efficient memory management</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研读📚Tony Hoare]]></title>
         <id>https://alaskasquirrel.github.io/post/TonyHoare/</id>
@@ -62,6 +251,35 @@
         </link>
         <updated>2020-10-13T10:15:27.000Z</updated>
         <content type="html"><![CDATA[<p>John Mccarthy</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[林毓生2014香港城市大學中國文化中心學術專題講座]]></title>
+        <id>https://alaskasquirrel.github.io/post/林毓生/</id>
+        <link href="https://alaskasquirrel.github.io/post/林毓生/">
+        </link>
+        <updated>2020-10-10T14:36:08.000Z</updated>
+        <content type="html"><![CDATA[<p>林毓生(封面拍摄于2008年) [臺灣中央研究院院士、美國威斯康星大學麥迪遜校區歷史學系榮譽教授]</p>
+<p>『反思現代性與中國革命經驗』<br>
+1、導論：現代性的定義，中西現代史的共同現象與不同特徵<br>
+2、西方現代性的主要論述(I)：韋伯(Max Weber)<br>
+3、西方現代性的主要論述(II)：科拉考斯基(Leszek Kolakowski)、泰勒(Charles Taylor)<br>
+4、西方現代性的主要論述(III)：馬克思、列寧<br>
+5、自由主義的精髓：消極自由(negative freedom)與積極自由(positive freedom)的歷史淵源及其問題(伯林與哈耶克)<br>
+6、中國現代性興起的特徵及其歷史背景：西方文明入侵的雙面性(帝國主義與&quot;普世價值&quot;)、中國秩序的三重(政治、社會、思想·文化)危機、中國民族主義的勃興<br>
+7、歷史的吝嗇：現代中國知識分子的興起及其限制<br>
+8、五四新文化運動、極端反傳統主義的興起、中國共產主義運動的特色(道德想像與工具性)<br>
+9、『毛澤東思想』的政治宗教性與烏托邦極權主義<br>
+10、反思與展望</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[余英時: 中國史研究的自我反思 (2014年首屆唐獎漢學獎獲獎演講)]]></title>
+        <id>https://alaskasquirrel.github.io/post/余英時/</id>
+        <link href="https://alaskasquirrel.github.io/post/余英時/">
+        </link>
+        <updated>2020-10-08T12:28:13.000Z</updated>
+        <content type="html"><![CDATA[<p>20140919 演講實況 諸多視頻平臺可見。<a href="http://ccsdb.ncl.edu.tw/ccs/image/02_034_001_01_01.pdf">《漢學研究通訊》34卷1期</a>特載</p>
 ]]></content>
     </entry>
     <entry>
@@ -158,6 +376,7 @@ The Tokyoiterは、だいすきなアーティストたちの作品をもっと�
         </link>
         <updated>2020-09-03T11:13:52.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://www.popularmechanics.com">Popular Mechanics - Product Reviews, How-To, Space, Military, Math, Science, and New Technology</a><br>
+<a href="https://www.defensenews.com">Defense News</a><br>
 <a href="https://nationalinterest.org/">The National Interest</a><br>
 <a href="https://www.thedrive.com/">The Drive</a><br>
 <a href="https://www.armscontrolwonk.com/">Arms Control Wonk</a><br>
@@ -200,7 +419,9 @@ The Tokyoiterは、だいすきなアーティストたちの作品をもっと�
         <link href="https://alaskasquirrel.github.io/post/formalsemantics/">
         </link>
         <updated>2020-08-21T12:20:58.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="陈涛形式语义学基础"><a href="http://blog.sciencenet.cn/blog-209720-265972.html">陈涛：形式语义学基础</a> 2009-10-29</h3>
+        <content type="html"><![CDATA[<blockquote>
+<p><a href="http://blog.sciencenet.cn/blog-209720-265972.html">陈涛：形式语义学基础</a> 2009-10-29</p>
+</blockquote>
 <p>  陈意蕴的 《形式语义学基础》，还有另外两本中文教材：《程序设计语言的形式语义》，外文的好像有《程序设计语言的形式语法及语义》（翻译过来的，英文好象是<em>Formal syntactic and semantic of programming language</em>），还有《指称语义 denotational semantic》。</p>
 <p>网上有几本免费的形式语义学电子版教材，国内正式出版的：<br>
 1、周巢尘，《形式语义学引论》，湖南科技出版社（绝版）<br>
@@ -225,7 +446,9 @@ Reynolds是CMU教授，他的这本教材出发角度和上面的几本有所不
 Prentice-Hall 1988<br>
 作者大家都很熟悉了，他的另一本书《<em>Object-Oriented Software Construction</em>》前几年就已经引进中国了。这本书几乎没有高深的数学内容，可能这本书出的比较早些，书的内容要比前面的几本书都要容易浅些，但作为入门的书，我推荐这本。</p>
 <p>陆汝钤院士的《形式语言与语义》非常好，对于多个不同语义体系介绍的比较透彻，汝指称语义，操作语义，等等。</p>
-<h3 id="汪东明计算机语言的形式语义研究"><a href="http://blog.sciencenet.cn/blog-468147-352412.html">汪东明：计算机语言的形式语义研究</a> 2010-8-12</h3>
+<blockquote>
+<p><a href="http://blog.sciencenet.cn/blog-468147-352412.html">汪东明：计算机语言的形式语义研究</a> 2010-8-12</p>
+</blockquote>
 <p>计算机科学对语言研究（包括对自然语言和对人工语言）大致三个向：语法syntax、语义semantics、语用pragmatics<br>
 -- 语法研究语言的形态结构<br>
 -- 语义研究语言与其所指代对象的联系<br>
@@ -258,6 +481,14 @@ Prentice-Hall 1988<br>
 <li><em>Handbooks &amp; Source Books</em></li>
 <li><em>Historical &amp; Biographical</em></li>
 </ol>
+<p>形式语义学</p>
+<ul>
+<li>对语义学的意义(科学)：进一步对人类大脑的语言理解机制建模；提出更好的句法-语义接口(syntax-semantics interface)；为Chomsky的普遍文法理论提供支持。</li>
+<li>对计算机科学的意义(形式科学)：作为Lambda演算、带类型的Lambda演算等形式系统的实例，为形式逻辑、类型论、程序语言理论等领域提供思路。其中的思想在编译器的设计中可以借鉴(句法/语义/上下文 等)</li>
+<li>对自然语言处理的意义(工程)：作为自然语言语义分析模型的基础。可以在形式语义学的基础上设计各种语义分析器(semantic parser)，进而支持一系列较深层的自然语言理解任务，如问答系统(question answering)、知识库积累(knowledge base population)等，提高计算机理解人类语言的能力。</li>
+</ul>
+<p>编程语言的类型系统可以带来诸如减少错误、文档化、利于编译器优化等好处。<br>
+每个编程语言都有自己的语法和语义约束，语法定义决定了程序应该写成什么样，语义定义决定了程序的含义和行为。</p>
 ]]></content>
     </entry>
     <entry>
@@ -417,14 +648,10 @@ Prentice-Hall 1988<br>
 王景禧《日游笔记》<br>
 钟叔河主编《走向世界》丛书收录《早期日本游记五种》<br>
 王宝平主编《晚清中国人日本考察记集成》(后改题为《晚清东游日记汇编》)</p>
-<hr>
-<p>附2：日本語 にほんご Nihongo<br>
-<a href="https://xenojoshua.com/2020/03/japanese/">日语自学笔记</a><br>
-<a href="https://nihongokyoshi-net.com/">日本語NET</a></p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thomas Sowell]]></title>
+        <title type="html"><![CDATA[📓Thomas Sowell]]></title>
         <id>https://alaskasquirrel.github.io/post/ThomasSowell/</id>
         <link href="https://alaskasquirrel.github.io/post/ThomasSowell/">
         </link>
@@ -433,7 +660,7 @@ Prentice-Hall 1988<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[杨小凯(1948-2004) 生命是短暂的，唯理论之树长青]]></title>
+        <title type="html"><![CDATA[📓杨小凯(1948-2004) 生命是短暂的，唯理论之树长青]]></title>
         <id>https://alaskasquirrel.github.io/post/杨小凯/</id>
         <link href="https://alaskasquirrel.github.io/post/杨小凯/">
         </link>
@@ -459,16 +686,16 @@ Prentice-Hall 1988<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Max Weber ( 1864 - 1920 )]]></title>
-        <id>https://alaskasquirrel.github.io/post/weber/</id>
-        <link href="https://alaskasquirrel.github.io/post/weber/">
+        <title type="html"><![CDATA[📓Max Weber ( 1864 - 1920 )]]></title>
+        <id>https://alaskasquirrel.github.io/post/maxweber/</id>
+        <link href="https://alaskasquirrel.github.io/post/maxweber/">
         </link>
         <updated>2020-07-18T15:17:34.000Z</updated>
         <content type="html"><![CDATA[<p>韦伯</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Friedrich August von Hayek ( 1899 - 1992 )]]></title>
+        <title type="html"><![CDATA[📓Friedrich August von Hayek ( 1899 - 1992 )]]></title>
         <id>https://alaskasquirrel.github.io/post/hayek/</id>
         <link href="https://alaskasquirrel.github.io/post/hayek/">
         </link>
@@ -477,7 +704,7 @@ Prentice-Hall 1988<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Michael Polanyi ( 1891 - 1976 )]]></title>
+        <title type="html"><![CDATA[📓Michael Polanyi ( 1891 - 1976 )]]></title>
         <id>https://alaskasquirrel.github.io/post/MichaelPolanyi/</id>
         <link href="https://alaskasquirrel.github.io/post/MichaelPolanyi/">
         </link>
@@ -486,7 +713,7 @@ Prentice-Hall 1988<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kurt Gödel ( 1906 - 1978 )]]></title>
+        <title type="html"><![CDATA[📓Kurt Gödel ( 1906 - 1978 )]]></title>
         <id>https://alaskasquirrel.github.io/post/KurtGödel /</id>
         <link href="https://alaskasquirrel.github.io/post/KurtGödel /">
         </link>
@@ -601,10 +828,9 @@ number theoretical questions undecidable for the human mind.</li>
         <link href="https://alaskasquirrel.github.io/post/windows/">
         </link>
         <updated>2020-06-26T12:15:51.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://support.microsoft.com/zh-cn/help/3159635/windows-10-update-assistant">Windows 10 更新助手</a><br>
-<a href="https://www.w10privacy.de/english-home/">W10Privacy</a> 禁用追踪监控功能<br>
-<a href="https://greatis.com/stopupdates10/">StopUpdates10</a><br>
-DWS Lite</p>
+        <content type="html"><![CDATA[<p><a href="https://support.microsoft.com/zh-cn/help/3159635/windows-10-update-assistant">Windows 10 更新助手</a></p>
+<p><a href="https://www.w10privacy.de/english-home/">W10Privacy</a> 禁用追踪监控功能</p>
+<p><a href="https://greatis.com/stopupdates10/">StopUpdates10</a> DWS Lite</p>
 <p><a href="https://github.com/lukesampson/scoop">Scoop</a> 软件包搜索安装管理，开源软件替代商业应用：</p>
 <ul>
 <li>PotPlayer 影音视频播放器</li>
@@ -615,29 +841,29 @@ DWS Lite</p>
 <li>GoldenDict 词典</li>
 <li>SumatraPDF 阅读器</li>
 </ul>
-<p>O&amp;O ShutUp10 隐私保护和设置优化工具 https://www.oo-software.com/en/shutup10<br>
-网络DNS ：<a href="https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1">1.1.1.1</a><br>
-Malwarebytes 安全防护 https://www.malwarebytes.com/premium/<br>
-ClamWin Free Antivirus<br>
-GlassWire 网络防火墙 https://www.glasswire.com<br>
-TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
+<p>O&amp;O ShutUp10 隐私保护和设置优化工具 https://www.oo-software.com/en/shutup10</p>
+<p>网络DNS ：<a href="https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1">1.1.1.1</a></p>
+<p>Malwarebytes 安全防护 https://www.malwarebytes.com/premium/</p>
+<p>ClamWin Free Antivirus</p>
+<p>GlassWire 网络防火墙 https://www.glasswire.com</p>
+<p>TMAC 修改网卡mac地址工具 https://technitium.com/tmac</p>
 <p>国内搜索引擎：👁‍🗨</p>
 <ul>
 <li>DogeDoge https://www.dogedoge.com</li>
 <li>秘迹搜索 https://mijisou.com</li>
 </ul>
 <p>RIME 开源输入法 https://rime.im</p>
-<p>系统设置：🔒 <a href="https://fix10.isleaked.com">可选项一律 off 关闭</a><br>
-如若通过 Microsoft Store 安装应用，推荐 Grover Podcast 、Newsflow。</p>
-<p>VirtualBox 虚拟机安装<br>
-Qubes 开源操作系统<br>
-AlgoVPN<br>
-Wireguard<br>
-Outline</p>
+<p>系统设置：🔒 <a href="https://fix10.isleaked.com">可选项一律 off 关闭</a></p>
+<p>如若通过 Microsoft Store 安装应用，推荐 Grover Podcast 、Newsflow。</p>
+<p>VirtualBox 虚拟机安装</p>
+<p>Qubes 开源操作系统</p>
+<p>AlgoVPN</p>
+<p>Wireguard</p>
+<p>Outline</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中國（讀本）]]></title>
+        <title type="html"><![CDATA[歷史讀本]]></title>
         <id>https://alaskasquirrel.github.io/post/culture/</id>
         <link href="https://alaskasquirrel.github.io/post/culture/">
         </link>
@@ -650,6 +876,7 @@ Outline</p>
 <li><a href="https://chinafolio.com">Chinafolio</a></li>
 <li><a href="http://www.red-colornewssoldier.com">Red-Color News Soldier</a></li>
 <li><a href="http://www.ioc.u-tokyo.ac.jp/">日本東京大學 東洋文化研究所</a></li>
+<li>《潛書》唐甄(1630-1704)</li>
 <li>《辛亥革命的影像记忆》杨天石 中国人民大学出版社</li>
 <li>《叫魂：1768年中国妖术大恐慌》孔飞力(1933-2016) 著 上海三联书店2012年出版。</li>
 <li>《正倉院考古記》傅雲子(1902-1948) , 東京文求堂書店出版1941年。</li>
@@ -662,6 +889,7 @@ Outline</p>
 <li>《敬告青年》陳獨秀(1879-1942), 《新青年》第一卷第一號，一九一五年九月十五日。</li>
 <li>《文學改良刍议》胡適(1891-1962), 《新青年》第二卷第五號，一九一七年一月一日。</li>
 <li>《文學革命論》陳獨秀(1879-1942), 《新青年》第二卷第六號，一九一七年二月一日。</li>
+<li>&lt; The Problem of China &gt; Bertrand Russell</li>
 <li>&lt;中国文化传统与现代化 - 兼论中国的专制主义&gt;李慎之(1923—2003),《战略与管理》2000年第4期。</li>
 <li>《國史大綱》上下冊 錢穆(1895-1990) 上海商務印書館1940年6月出版。</li>
 <li>《中國文化之精神價值》唐君毅(1909-1978) 1953年</li>
@@ -677,6 +905,7 @@ Outline</p>
 亨利 • 考狄（Henri Cordier, 1849—1925）编《西人论中国书目》（Bibliotheca Sinica）<br>
 《近代来华外国人名辞典》中国社会科学院近代史所翻译室编，1980年。<br>
 《中西交通史料汇编》张星烺 (1881～1951)编注，原出版于1930年。1977年7月，中华书局出版了朱杰勤整理的校订本。<br>
+《臺灣華文電子書庫》(https://taiwanebook.ncl.edu.tw/zh-tw)<br>
 <a href="http://www.lishiyushehui.cn">历史与社会高等研究所</a><br>
 冯学荣</li>
 <li><a href="http://www.rmlt.com.cn/2016/0620/429319.shtml">&lt;准确认识今天的世界&gt;</a> 吴建民(1939-2016) . 2016年3月30日, 外交学院。</li>
@@ -742,6 +971,9 @@ the U.S. Bureau of Economic Analysis基于2010年的研究报告，比较世界�
 </li>
 <li>
 <p>旧文：<a href="http://magazine.caijing.com.cn/20180218/4407907.shtml">中国互联网产业的空心化之忧</a>《<em>财经</em>》译，2018.</p>
+</li>
+<li>
+<p><a href="https://finance.sina.com.cn/china/2020-09-18/doc-iivhuipp5079056.shtml">发改委原司长年勇：别被忽悠 美国从来没有放弃制造业</a> 2020年9月.</p>
 </li>
 <li>
 <p>影视：<a href="https://v.qq.com/x/cover/i7sc2ih3x6qhzra/f0019al8ax5.html">《乡村里的中国》</a>2013</p>
@@ -837,7 +1069,9 @@ the U.S. Bureau of Economic Analysis基于2010年的研究报告，比较世界�
 <a href="https://blog.codingnow.com/2011/05/bitcoin.html">云风的BLOG：Bitcoin的基本原理</a>  May 18, 2011<br>
 <a href="http://blog.devep.net/virushuo/2011/05/23/bitcoin.html">霍炬：关于bitcoin若干问题我的看法</a> May 23，2011<br>
 <a href="https://jhuo.ca/post/bitcoin_2018/">霍炬：中文分析比特币最早的文章之一是我写的，七年后的今天我写了第二篇</a> 2018-03-02</p>
-<p>原文：<a href="https://doi.org/10.6082/NIST.IR.8202">Blockchain Technology Overview</a> National Institute of Standards and Technology</p>
+<blockquote>
+<p>原文：<a href="https://doi.org/10.6082/NIST.IR.8202">Blockchain Technology Overview</a> Copyright©National Institute of Standards and Technology</p>
+</blockquote>
 <p>  由于区块链技术仍然是新技术，许多组织正在寻找兼容的方法运用在自身的商业中。人们非常担心错过这项技术。组织机构将这个问题视为“我们想在某个地方使用区块链，我们可以在哪里使用? 这导致了人们对这项技术的失望，因为它不能得到普遍应用。最好的方法是首先了解区块链技术，了解其适用范围，然后再进行分析。确定可能适合区块链范式的系统。<br>
   如果活动或系统需要以下特性，则区块链技术解决方案可能适用：</p>
 <ul>
@@ -889,7 +1123,9 @@ Permissioned 区块链网络允许等更为传统的角色 管理员、用户、
         <link href="https://alaskasquirrel.github.io/post/Lisp50/">
         </link>
         <updated>2020-05-28T08:07:38.000Z</updated>
-        <content type="html"><![CDATA[<p>原文：<a href="https://franz.com/services/conferences_seminars/lisp_50th-birthday.lhtml">Lisp's 50th Birthday Celebration</a> by <a href="https://www.dreamsongs.com/Bio.html">Richard P. Gabriel</a></p>
+        <content type="html"><![CDATA[<blockquote>
+<p>原文：<a href="https://franz.com/services/conferences_seminars/lisp_50th-birthday.lhtml">Lisp's 50th Birthday Celebration</a> Copyright© <a href="https://www.dreamsongs.com/Bio.html">Richard P. Gabriel</a></p>
+</blockquote>
 <p>译文：<br>
   事起1958 年 10 月，John McCarthy 发表了一系列关于自己正致力于设计一个适用于人工智能研究的新编程语言的报告中的一篇。该篇报告里首次将这一新编程语言命名为 LISP。此后50 年，Lisp 仍被广泛使用。在过往的 50 年中，伴随着许多变化和调整，并产生出一些在许多方面与其最初设计截然不同的方言，但是它的中心思想仍然不变，使其成为今天仍在使用的最古老的语言之一，仅次于 Fortran。</p>
 <p>  第一个 Lisp 的最终实现发表在 1960 年的 Communications of the ACM (CACM) 上。那一版本的 Lisp 首创了几个至今仍被采纳的语言特性：Lisp 引入了一个条件表达式，后来被其他语言拿去作一般性的 if 语句；它引入了递归和第一类 (first-class) 函数，函数式和其他编程语言的核心成分；它引入了变量的引用语义，若没它的话便不会有面向对象编程语言；它引入了符号表达式，通用和统一的数据和程序的表示形式 (被重新发明成 XML)，后者使得程序可以在应用里进行转换；它很早就在编程语言里引入了垃圾收集机制；并且它甚至已经有了一个元数据组合以及基于符号和属性列表的动态派发机制。</p>
@@ -906,7 +1142,8 @@ Permissioned 区块链网络允许等更为传统的角色 管理员、用户、
         </link>
         <updated>2020-05-24T19:14:54.000Z</updated>
         <content type="html"><![CDATA[<p>（<em>封面 https://www.landmarkdividend.com/self-driving-car/</em>）<br>
-机器一样的人，机器一样的心。</p>
+机器一样的人，机器一样的心。<br>
+'However ,as John McCarthy pointed out, the philosophy of AI is ' unlikely to have any more effect on the practice of AI research than philosophy of science generally has on the practice of science.' Thus, we'll continue investigating systems that are helpful in solving practice problems without asking too much whether they are intelligent or just behave as if they were.'</p>
 <p>學習：👹<br>
 &lt; The Quest for Artificial Intelligence&gt;Nils Nilsson 2010 &amp; 介绍早期人工智能<br>
 <a href="https://www.zybuluo.com/hanbingtao/note/433855">韩炳涛: 零基础入门深度学习系列</a><br>
@@ -951,8 +1188,10 @@ Solid State LiDAR: (https://www.sony.net/SonyInfo/vision-s/safety.html)<br>
         <link href="https://alaskasquirrel.github.io/post/history-of-symbolics-lisp-machines/">
         </link>
         <updated>2020-05-23T16:39:55.000Z</updated>
-        <content type="html"><![CDATA[<p>原文：<a href="https://danluu.com/symbolics-lisp-machines/">History of Symbolics lisp machines</a>. This is an archive of Dan Weinreb's comments on Symbolics and Lisp machines.<br>
+        <content type="html"><![CDATA[<blockquote>
+<p>原文：<a href="https://danluu.com/symbolics-lisp-machines/">History of Symbolics lisp machines</a>. This is an archive of Dan Weinreb's comments on Symbolics and Lisp machines.<br>
 译文：</p>
+</blockquote>
 <h3 id="rebuttal-to-stallmans-story-about-the-formation-of-symbolics-and-lmi">Rebuttal to Stallman’s Story About The Formation of Symbolics and LMI</h3>
 <p>  多年来，Richard Stallman 一直在讲述一个关于Lisp Machine 公司的起源，以及它对 M.I.T Artificial Intelligence Lab 影响力的故事。他将其发表在一本书和一篇被广泛引用的论文中，您可以在 https://www.gnu.org/gnu/rms-lisp.html 上找到这篇论文。<br>
   Richard Stallman 的叙述有很大的偏见，在很多地方完全错误。以下是我对实际发生的事情的看法。<br>
@@ -1128,9 +1367,11 @@ http://www.cpu-world.com/CPUs/4004/index.html<br>
         <link href="https://alaskasquirrel.github.io/post/霍金-哥德尔-物理学/">
         </link>
         <updated>2020-05-19T04:38:26.000Z</updated>
-        <content type="html"><![CDATA[<p>原文 http://www.hawking.org.uk/godel-and-the-end-of-physics.html<br>
+        <content type="html"><![CDATA[<blockquote>
+<p>原文 http://www.hawking.org.uk/godel-and-the-end-of-physics.html<br>
 音频 http://www.damtp.cam.ac.uk/events/strings02/dirac/hawking/<br>
 中文 http://cssm.org.cn/view.php?id=3985 中国战略与管理研究会</p>
+</blockquote>
 <p>  本次演讲中，我想问的是，我们在追求理解和知识方面能走多远：我们是否能最终发现一套完备形式的自然规律？我所说的完备形式是指一套规则，这些规则至少原则上可使我们任意精确地预测未来，了解任一时刻宇宙的状态。</p>
 <ul>
 <li>决定论流传久远</li>
@@ -1170,31 +1411,111 @@ http://www.cpu-world.com/CPUs/4004/index.html<br>
         <content type="html"><![CDATA[<p>（<em>封面 Felice Beato, North and East Corner of the Wall of Pekin, 1860</em>）</p>
 <p>影像：<br>
 1793 马噶尔尼<br>
-阿美士德 使团<br>
-《中国摄影史 1842-1860》泰瑞 贝内特 Terry Bennett<br>
-《我在北京的四年 1880-1884》  菲利斯 比托 （Felice Beato 1832-1909）<br>
-《西德尼 D 甘博 的中国影像 1917-1932》<br>
-《中国与中国人影像》<em>illustrations of china and its people</em>  约翰逊 汤姆逊 （1837-1921）<br>
-《中国沙漠中的遗址》*Ruins of Desert Cathay *    Sir Aurel Stein 斯坦因 1912<br>
-《西域考古图记》  Serindia    Aurel Stein 1921<br>
-《中国陶瓷图录》<em>A Catalogue of Chinese Pottery and Porcelain in the Collection of Sir Percival David</em>  1934<br>
-《云冈石窟》水野清一 田中重雄<br>
-勒柯克中亚地区探险系列 Albert von Le Coq<br>
-《古代和田》<em>Ancient Khotan</em>       Marc Aurel Stein  1907<br>
-《支那文化史迹》常盘大定 关野贞 1941<br>
-《支那佛教史迹踏查记》常盘大定 1942<br>
-《斯坦因在中亚古寺遗址发现的壁画》<em>Wall Paintings from Ancient Shrines in Central Asia</em>         Fred H. Andrews 1948<br>
-《玉石调查与研究》<em>The Bishop Collection.investigations and studies in jade</em> 1906<br>
-《北京 历史和记述》<em>Peking.historie et description</em>     Alphonse Favier 1897<br>
-《简明中国移民史》，葛剑雄、曹树基、吴松弟著.福建人民出版社，1993年.<br>
-《遗失 1920-1941的中国》<br>
-寻找遗失在西方的中国史 西洋镜<br>
+阿美士德 使团</p>
+<p>《中国摄影史》泰瑞·贝内特(Terry·Bennett)</p>
+<table>
+<tr>
+<td><img src="https://pic.xitek.com/article/2011/11/30/5679235163931079509/5678971043478371228.jpg" width="200px"></td> 
+<td><img src="https://img2.doubanio.com/view/subject/s/public/s26744002.jpg" width="200px"></td>
+<td><img src="https://img9.doubanio.com/view/subject/s/public/s27273905.jpg" width="200px"></td>
+<td><img src="https://pic.xitek.com/article/2011/11/30/5679235163931079509/5678971478569530420.jpg" width="175px"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th><a>《我在北京的四年 1880-1884》</a></th> 
+<th><a>  菲利斯 比托 （Felice Beato 1832-1909）</a></th>
+</tr>
+<tr>
+<td><img src="https://mmbiz.qpic.cn/mmbiz_png/DDSSkL2T0uMmAGwNeArq20WgAI20ZCYXIXBB7bBxKZESDG0iaFeNkbxNFHkLfhUrZP86WouNKQtqXZJuIgBvVgg/640?wx_fmt=png" width="325px"></td>
+<td><img src="http://n.sinaimg.cn/translate/20171101/JTUn-fynfvar5661823.jpg" width="300px"></td>
+</tr>
+</table>
+<table>
+<tr>
+<th><a>《西德尼 D 甘博 的中国影像 1917-1932》</a></th>
+</tr>
+<tr>
+<td><img src="http://image.thepaper.cn/www/image/4/612/581.jpg" width="200px"></td>
+</tr>
+</table>
+<table>
+<tr><th><a>《中国与中国人影像》*illustrations of china and its people*  约翰逊 汤姆逊 （1837-1921）</a></th></tr>
+<tr>
+<td><img src="https://img1.doubanio.com/view/subject/s/public/s24227607.jpg" width="200px"></td>
+</tr>
+</table>
+<table>
+<tr><th><a>
+《中国沙漠中的遗址》*Ruins of Desert Cathay *    Sir Aurel Stein 斯坦因 1912</a></th></tr>
+<tr><td><img src="https://img1.doubanio.com/view/subject/s/public/s27102059.jpg" width="250px"></td></tr>
+</table>
+<table>
+<tr><th><a>
+《西域考古图记》  Serindia    Aurel Stein 1921</a></th></tr>
+<tr><td><img src="https://img1.doubanio.com/view/subject/s/public/s24231577.jpg" width="200px"></td></tr>
+</table>
+<table>
+<tr><th><a>
+《中国陶瓷图录》*A Catalogue of Chinese Pottery and Porcelain in the Collection of Sir Percival David*  1934</a></th></tr>
+<tr><td><img src="http://img.hongyeshan.com/wp-content/uploads/i2.kiimg.com/511436/5e5a329b736dbeff.jpg" width="150px"></td></tr>
+</table>
+<table>
+<tr><th><a>
+《云冈石窟》水野清一 田中重雄</a></th></tr>
+<tr><td><img src="https://repository.kulib.kyoto-u.ac.jp/dspace/retrieve/204203" width="px150"></td></tr>
+</table>
+<p>勒柯克中亚地区探险系列 Albert von Le Coq</p>
+<table>
+<tr>
+<td><img src="https://cdn.shuge.org/uploads/2017/08/by-albert-von-le-coq11.jpg" width="100px"></td>
+<td><img src="https://cdn.shuge.org/uploads/2017/08/by-albert-von-le-coq12.jpg" width="100px"></td>
+<td><img src="https://cdn.shuge.org/uploads/2017/08/by-albert-von-le-coq13.jpg" width="100px"></td>
+<td><img src="https://cdn.shuge.org/uploads/2017/08/by-albert-von-le-coq14.jpg" width="100px"></td>
+<td><img src="https://cdn.shuge.org/uploads/2017/08/by-albert-von-le-coq15.jpg" width="100px"></td>
+<td><img src="https://cdn.shuge.org/uploads/2017/08/by-albert-von-le-coq16.jpg" width="100px"></td>
+</tr>
+</table>
+<table>
+<tr><th><a>《古代和田》*Ancient Khotan*       Marc Aurel Stein  1907</a></th></tr>
+<tr><td><img src="https://img9.doubanio.com/view/subject/s/public/s3704194.jpg" width="200px"></td>
+</table>
+<table>
+<tr><th><a>《支那文化史迹》常盘大定 关野贞 1941</a></th></tr>
+<tr><td><img src="https://cdn.shuge.org/uploads/2013/05/znwhsj10.jpg" width="150px"></td></tr>
+</table>
+<table>
+<tr><th><a>
+《支那佛教史迹踏查记》常盘大定 1942</a></th></tr>
+<tr><td><img src="https://img1.doubanio.com/view/photo/l/public/p417148919.webp" width="250px"></td></tr>
+</table>
+<table><tr><th><a>
+《斯坦因在中亚古寺遗址发现的壁画》*Wall Paintings from Ancient Shrines in Central Asia*         Fred H. Andrews 1948</a></th></tr>
+<tr><td><img src="https://cdn.shuge.org/uploads/2015/04/wpasca.jpg" width="225px"></td></tr>
+</table>
+<table><tr><th><a>
+《玉石调查与研究》*The Bishop Collection.investigations and studies in jade* 1906</a></th></tr>
+<tr><td><img src="https://new.shuge.org/wp-content/uploads/hm_bbpui/7091/9r9dkgx36709p28ev08ed61ne1hofb3d.jpg" width="150px"></td></tr>
+</table>
+<table><tr><th><a>
+《北京 历史和记述》*Peking.historie et description*     Alphonse Favier 1897</a></th></th>
+<tr><td><img src="https://img1.doubanio.com/view/subject/s/public/s4342789.jpg" width="150px"></td></tr>
+</table>
+<p>《简明中国移民史》，葛剑雄、曹树基、吴松弟著.福建人民出版社，1993年.</p>
+<table>
+<tr><th><a>《遗失 1920-1941的中国》</a></th></tr>
+<tr><td><img src="https://img1.doubanio.com/view/subject/s/public/s29905078.jpg" width="150px"></td></tr>
+</table>
+<p>寻找遗失在西方的中国史 西洋镜<br>
 《大英图书馆特藏中国清代外销画精萃》<br>
 《中国人口发展史》，葛剑雄<br>
 《中国建筑史》梁思成<br>
-《中国城墙史》<br>
-陈梦家《美帝国主义劫掠的我国殷周铜器集录》，科学出版社，1962.<br>
-《美国所藏中国铜器集录》，金城出版社，2016.<br>
+《中国城墙史》</p>
+<table><tr><th><a>
+陈梦家《美帝国主义劫掠的我国殷周铜器集录》，科学出版社，1962.</a></th></tr>
+<tr><td><img src="https://img9.doubanio.com/view/subject/s/public/s28319814.jpg" width="150px"></td></tr>
+</table>
+<p>《美国所藏中国铜器集录》，金城出版社，2016.<br>
 近代中国 http://modernchina.org<br>
 http://www.bristol.ac.uk/history/customs/<br>
 https://enacademic.com/dic.nsf/enwiki/165340<br>
