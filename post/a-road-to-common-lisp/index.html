@@ -140,8 +140,8 @@
             <h2 class="fh5co-article-title animate-box">译📖A Road to Common Lisp</h2>
             <ol class="breadcrumb fh5co-meta fh5co-date animate-box" style="margin-bottom:0; background-color:#f8f9fa">
                 <li>2020-11-06</li>
-                <li>2735字</li>
-                <li>11 min read</li>
+                <li>4280字</li>
+                <li>20 min read</li>
             </ol>
 
             <div class="col-lg-12 col-lg-offset-0 col-md-12 col-md-offset-0 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-left content-article">
@@ -270,7 +270,24 @@ NIL
 <h3 id="getting-practical">Getting Practical</h3>
 <p>  接下来你可以阅读&lt; <em><a href="http://www.gigamonkeys.com/book/">Practical Common Lisp</a></em>&gt;。</p>
 <h3 id="make-something">Make Something</h3>
+<p>  如若你有看过以上的书籍，现在可以自主尝试点东西啦：</p>
+<ul>
+<li>Do some Project Euler problems.</li>
+<li>Do some Advent of Code exercises.</li>
+<li>Make a stupid Twitter bot.</li>
+<li>Make a personal calendar program that records your appointments, checks the weather forecast the day of, etc.</li>
+<li>Use Sketch to implement the stuff in some Coding Math videos.</li>
+</ul>
 <h3 id="lisp-as-a-system">Lisp as a System</h3>
+<p>渐入佳境，深入研究</p>
+<p>在大多数语言中，开发过程看起来是这样的:</p>
+<ol>
+<li>Edit some code in the project with an editor.</li>
+<li>Compile the project (some languages skip this step).</li>
+<li>Run the project (or the tests).</li>
+<li>Observe the output (in the console, a browser, etc).</li>
+<li>Go to 1.</li>
+</ol>
 <h3 id="learning-paradigms">Learning Paradigms</h3>
 <h3 id="switch-things-up">Switch Things Up</h3>
 <h3 id="recipes-for-success">Recipes for Success</h3>
@@ -284,27 +301,67 @@ NIL
 <h3 id="window-management">Window Management</h3>
 <h3 id="unit-testing">Unit Testing</h3>
 <h3 id="more-implementations">More Implementations</h3>
+<p>  之所以强调使用SBCL和CCL，是因为它们是目前最流行的免费Common Lisp实现，但绝非唯一。还有很多值得你探索的:</p>
+<ul>
+<li><a href="https://common-lisp.net/project/armedbear/">ABCL</a> runs on the JVM.</li>
+<li><a href="https://common-lisp.net/project/ecl/main.html">ECL</a> can be embedded in a C program, and can translate Common Lisp code to C code.</li>
+<li><a href="https://github.com/clasp-developers/clasp">CLASP</a> is still under development, but is an implementation designed to be easy to interoperate with C++.</li>
+<li><a href="http://www.lispworks.com/">Lispworks</a> and <a href="https://franz.com/products/allegro-common-lisp/">Allegro CL</a> are commercial implementations with a lot of extra features and support, but are not free.</li>
+</ul>
+<p>  我自己的项目中倾向于使用SBCL，并确保单元测试我所有的库在SBCL、CCL、ABCL和ECL中运行。这使我产生信心，自己正是在编写可移植的代码。</p>
 <h2 id="modern-common-lisp">Modern Common Lisp</h2>
+<p>  Common Lisp一如稳健，但绝非停滞不前，它为你提供了足够的能力来进行程序构建。</p>
 <h3 id="structure">Structure</h3>
+<p>  <a href="https://lobste.rs/s/fwhuz5/my_lisp_journey_1_getting_started_with#c_ebhvzq">简述文章</a></p>
 <h4 id="packages">Packages</h4>
 <h4 id="systems">Systems</h4>
 <h4 id="projects">Projects</h4>
 <h4 id="recap">Recap</h4>
 <h3 id="common-libraries">Common Libraries</h3>
+<p>  Common Lisp doesn't have as <em>large</em> of a community as some newer languages, but it still has a lot of libraries because it's had a community for a longer time. The stability of the core language means that many libraries written in portable Common Lisp ten or fifteen years ago can still run just fine today.</p>
+<p>  In this final section I'll give you a quick overview of some of the more popular libraries you might run into as you learn the language. You don't have to use all of them, but it's helpful to have some idea of what's available.</p>
 <h4 id="alexandria">Alexandria</h4>
+<p>  <a href="https://common-lisp.net/project/alexandria/">Alexandria</a> is one of the most popular Common Lisp libraries (the name is a pun on the <a href="https://en.wikipedia.org/wiki/Library_of_Alexandria">Library of Alexandria</a>), and it's a collection of all kinds of useful little utility functions like <code>read-file-into-byte-vector</code> and <code>map-permutations</code>.</p>
+<p>  There are a <em>lot</em> of utility libraries for Common Lisp around — one rite of passage is building up your own personal utility library over time — but Alexandria is the most popular one. Most projects with any dependencies at all will eventually end up with Alexandria in the dependency graph somewhere.</p>
 <h4 id="bordeaux-threads">Bordeaux Threads</h4>
+<p>  <a href="https://common-lisp.net/project/bordeaux-threads/">Bordeaux Threads</a> was mentioned earlier. Threads aren't part of the Common Lisp standard, but most implementations provide their own custom interface for working with them. Bordeaux Threads wraps all these implementation-specific interfaces and provides an API so you can write threaded code that will work portably.</p>
+<p>  If you're looking for something like Java's <code>new Thread(() -&gt; foo()).start()</code>, this is what you want.</p>
 <h4 id="cffi">CFFI</h4>
+<p>  <a href="https://common-lisp.net/project/cffi/">CFFI</a> is a foreign-function interface library that lets you load C libraries (e.g. <code>foo.dylib</code> or <code>foo.so</code>) and call the functions in them. It works by wrapping implementation-specific interfaces, because this isn't part of the Common Lisp standard.</p>
+<p>  Unfortunately it has the same name as Python's FFI library, so if you're searching for documentation make sure you're looking at the right version.</p>
 <h4 id="cl-ppcre">CL-PPCRE</h4>
+<p>  <a href="https://edicl.github.io/cl-ppcre/">CL-PPCRE</a> is an implementation of Perl-compatible regular expressions. If you're looking to use regular expressions in Common Lisp, this is what you want.</p>
 <h4 id="drakma">Drakma</h4>
+<p>  <a href="https://edicl.github.io/drakma/">Drakma</a> is an HTTP client. If you need to make an HTTP request, this is what you want. There are other HTTP clients around, but Drakma is commonly used and is fine for almost anything you might need.</p>
 <h4 id="iterate">Iterate</h4>
+<p>  <a href="https://common-lisp.net/project/iterate/">Iterate</a> is a replacement for the <code>loop</code> macro. It works similarly, but has a more Lispy syntax and a well-defined API for extending it with new iteration constructs. I really like it myself, but beware: if you get used to <code>iterate</code> going back to vanilla <code>loop</code> will feel painful.</p>
 <h4 id="local-time">local-time</h4>
+<p>  <a href="https://common-lisp.net/project/local-time/">local-time</a> is a library for working with time and dates in Common Lisp. The standard has some basic support for times built in, but if you want to do much calculation with times (including timezones) this is probably what you want. If you're looking for something like Joda Time in Common Lisp, this is as close as you're going to get.</p>
 <h4 id="lparallel">lparallel</h4>
+<p>  <a href="https://lparallel.org/">lparallel</a> is a library that builds on top of Bordeaux Threads to make common parallel processing operations much easier. Think of it as <a href="https://www.gnu.org/software/parallel/">GNU Parallel</a> for Lisp, with a few extra features (e.g. channels and tasks).</p>
+<p>  For example: if you've got a big vector you're mapping over with <code>(map 'vector #'work some-vector)</code> you can split it into chunks and run in multiple threads by changing it to <code>(lparallel:pmap 'vector #'work some-vector)</code>.</p>
 <h4 id="named-readtables">Named Readtables</h4>
+<p>  <a href="https://github.com/melisgl/named-readtables">Named readtables</a> is a library that adds namespaces for readtables.</p>
+<p>  One painful part of the standard is that reader macros are added and removed to the global readtable on the fly, so if you load multiple systems that define the same reader macros things can get messy. Named readtables adds some much-needed hygiene to that process. If you're working with reader macros at all you absolutely want to use this.</p>
 <h4 id="roswell">Roswell</h4>
+<p>  <a href="https://github.com/roswell/roswell">Roswell</a> is a couple of things rolled into one. It's a C program that handles installing and running multiple different Common Lisp implementations (kind of like NVM or rvm), and it also provides a unified way to write small shell scripts in Common Lisp and compile them into binaries.</p>
+<p>  I used Roswell for a little over a year, but I eventually stopped and now I don't think it's worth the trouble, for a couple of reasons.</p>
+<p>  First: if you write portable code you generally don't need to worry running a particular version of an implementation, because Common Lisp is so stable. I usually just install the latest version of each implementation I use with a package manager or by building from source.</p>
+<p>  Second: after using it for a while I found that Roswell was always very brittle to upgrade, and whenever things broke it would spew an almost JVM-sized stack trace without a decent error message.</p>
+<p>  For me, the negatives outweighed the positives. I'd recommend simply using the latest version of the implementations you care about and writing portable code. For the compiling-into-binaries functionality I'd recommend using your implementation's built-in support for this, or using UIOP's wrapper around that, or using a separate library like Deploy.</p>
+<p>  Of course your mileage might vary. If you find yourself really needing to run specific versions of specific Common Lisp implementations in rapid succession, you should look into Roswell.</p>
 <h4 id="series">SERIES</h4>
+<p>  <a href="https://www.cliki.net/Series">SERIES</a> was almost included in Common Lisp (it's in <a href="https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node347.html">Appendix A of CLtL2</a>), but didn't quite make it. It's a library for writing functional code that looks like the traditional <code>map</code> and <code>filter</code> and <code>reduce</code> operations but which compiles down to efficient loops.</p>
+<p>  If you're looking for Clojure's transducers in Common Lisp, this is what you want.</p>
 <h4 id="st-json">st-json</h4>
+<p>  JSON support in Common Lisp is a god damn mess. There are <a href="https://sites.google.com/site/sabraonthehill/home/json-libraries">an absurd number of JSON libraries</a> and I don't really <em>like</em> any of them.</p>
+<p>  For me, the most important quality I need in a JSON library is an unambiguous, one-to-one mapping of types. For example: some libraries will deserialize JSON arrays as Lisp lists, and JSON <code>true</code>/<code>false</code> as <code>t</code>/<code>nil</code>. But this means <code>[]</code> and <code>false</code> both deserialize to <code>nil</code>, so you can't reliably round trip anything!</p>
+<p>  I've settled on using <a href="https://marijnhaverbeke.nl/st-json/">st-json</a> and wrapping it up to be a little more ergonomic with some glue code. It's not the fastest solution out there, but it works for my needs. There are plenty of other options out there, so if you have different needs than me you should look into them.</p>
 <h4 id="usocket">usocket</h4>
+<p>  <a href="https://common-lisp.net/project/usocket/">usocket</a>is a library for networking sockets. Sockets and networking aren't part of the Common Lisp standard, but most implementations provide a custom interface for working with them. usocket wraps the implementation-specific interfaces and provides an API so you can write networking code portably.</p>
+<p>  If you want to make Lisp listen on a port and read streams of bytes from clients, or want to connect to a port and send raw bytes to it, this is what you want.</p>
 <h2 id="good-luck">Good Luck</h2>
+<p>  Common Lisp是一门古老的编程语言，绝非轻而易举能够学会的，你为此花费的时间精力，必将获得回报。</p>
  </p>
                     </div>
                 </div>
