@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2020-12-04T17:35:09.110Z</updated>
+    <updated>2020-12-28T23:15:40.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -10,404 +10,6 @@
     <logo>https://alaskasquirrel.github.io/images/avatar.png</logo>
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, NewOld </rights>
-    <entry>
-        <title type="html"><![CDATA[译📖Learn Lisp Programming: Intro, Versions, and More]]></title>
-        <id>https://alaskasquirrel.github.io/post/LearnLispProgramming/</id>
-        <link href="https://alaskasquirrel.github.io/post/LearnLispProgramming/">
-        </link>
-        <updated>2020-11-18T12:52:11.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>原文：<u>https://www.whoishostingthis.com/resources/lisp/</u> July 2019. Copyright©Adam Michael Wood.</p>
-</blockquote>
-<p>简译如下：</p>
-<p>  Lisp是一个编程语言家族，最初构思于1958年，最终在1961年实现。这使得它成为仍在普遍使用的第二古老的语言，仅次于Fortran。但是，当Fortran继续慢慢淡出人们的视野时，Lisp仍然是计算机科学领域非常重要的一部分。</p>
-<p>  Lisp在几个方面是唯一的。首先，Lisp中的每个表达式都是一个列表，是该语言中两种主要数据类型之一。(这就是为什么它被称为“Lisp”。)</p>
-<p>  由于可以将代码本身计算为语言中的数据类型，因此Lisp可以进行递归和内省。</p>
-<p>  此外，与大多数其他语言不同，Lisp代码是由底层Lisp系统处理的实际数据结构的人类可读版本。这意味着在程序员思考程序的方式和程序“幕后”实际在做什么之间存在高度的相似性。</p>
-<p>  Lisp可以用于任何数量的应用程序和问题领域，但它对人工智能和机器学习特别有用。</p>
-<h3 id="lisp-standalone-implementations">Lisp Standalone Implementations</h3>
-<p>Lisp有如此多的不同版本，这是它有用性的一个标志。这些包括独立语言和应用程序内部构建的语言。我们将在下面讨论:</p>
-<h4 id="common-lisp">Common Lisp</h4>
-<p>  Common Lisp是Lisp最流行的方言之一。它于1984年首次发布，十年后成为ANSI标准。<br>
-  这是对Maclisp的改进。但这并不是唯一一个与Maclisp兼容的Lisp版本;还有其他几个。但是Common Lisp对标准化的承诺使它最终成为最成功的。</p>
-<ul>
-<li><strong>Common Lisp Resources</strong></li>
-</ul>
-<p>  如果您对普通Lisp感兴趣，有许多方法可以学习它。</p>
-<ul>
-<li><strong>Books</strong></li>
-</ul>
-<p>  关于普通Lisp的在线教程很少，所以如果您真的想学习这门语言，您需要查阅一本或多本书籍。幸运的是，这些书都有网络版:</p>
-<ul>
-<li><a href="https://www.amazon.com/Common-Lisp-Introduction-Computation-Engineering/dp/0486498204">Common Lisp: A Gentle Introduction to Symbolic Computation</a></li>
-<li><a href="https://www.amazon.com/ANSI-Common-Lisp-Paul-Graham/dp/0133708756">ANSI Common Lisp</a></li>
-<li><a href="https://www.amazon.com/Practical-Common-Lisp-Peter-Seibel/dp/1590592395">Practical Common Lisp</a></li>
-<li><a href="https://www.amazon.com/Lisp-Advanced-Techniques-Common/dp/0130305529">On Lisp: Advanced Techniques for Common Lisp</a></li>
-<li><a href="https://www.amazon.com/Successful-Lisp-How-Understand-Common/dp/3937526005">Successful Lisp: How to Understand and Use Common Lisp</a></li>
-<li><a href="https://www.amazon.com/Object-Oriented-Programming-COMMON-Lisp-Programmers/dp/0201175894/">Object-Oriented Programming in COMMON Lisp: A Programmer's Guide to CLOS</a></li>
-<li><a href="https://www.amazon.com/The-Metaobject-Protocol-Gregor-Kiczales/dp/0262610744">The Art of the Metaobject Protocol</a></li>
-<li><a href="https://www.amazon.com/Lisp-Small-Pieces-Christian-Queinnec/dp/0521545668">Lisp in Small Pieces</a></li>
-<li><a href="https://www.amazon.com/Elements-Artificial-Intelligence-Using-Common/dp/0716782693">The Elements of Artificial Intelligence Using Common Lisp</a></li>
-<li><a href="https://www.amazon.com/Let-Over-Lambda-Doug-Hoyte/dp/1435712757">Let Over Lambda</a></li>
-</ul>
-<p>  <em>关于Lisp的许多最重要和最有影响力的书籍都写于20世纪70年代和80年代，现在已经绝版，很难找到。这些书中的几本已经可以在网上找到，你可以在下面找到它们的链接</em>。</p>
-<ul>
-<li><strong>Online Resources</strong></li>
-</ul>
-<h5 id="of-historic-interest"><strong>Of Historic Interest</strong></h5>
-<p>  Lisp在历史上是一种有趣的语言。它的发展与人工智能和机器学习的发展密切相关。它也是最独特的常用语言之一，其语法和内部逻辑与大多数其他语言大相径庭。这些差异是计算机科学社区中正在进行的关于计算的本质和适当的编程语法的争论的一部分。<br>
-  现在，任何花时间学习Common Lisp的人都应该了解一下这种语言的历史。</p>
-<ul>
-<li><a href="http://www-formal.stanford.edu/jmc/recursive/recursive.html">Recursive Functions of Symbolic Expressions and Their Computation by Machine</a> — Written in 1960, by John McCarthy. This is the original paper describing what would become Lisp.</li>
-<li><a href="http://www-formal.stanford.edu/jmc/basis.html">A Basis for a Mathematical Theory of Computation</a> — A paper written by McCarthy in 1961, exploring many of the ideas from the &quot;Recursive Functions&quot; paper. Also see the companion paper, <a href="http://www-formal.stanford.edu/jmc/towards/towards.html">Towards a Mathematical Science of Computation</a>.</li>
-<li><a href="http://www-formal.stanford.edu/jmc/lisp20th.html">Lisp — Notes on its Past and Future</a> — McCarthy wrote this article in 1980, 20 years after Lisp was released.</li>
-<li><a href="https://youtu.be/Ozipf13jRr4">VIDEO: Artificial Intelligence</a></li>
-</ul>
-<p>  <em>John McCarthy (1927-2011) was a long-time Professor of Computer Science at Stanford University. His <a href="http://www-formal.stanford.edu/jmc/">home page</a> is a treasure-trove of interesting articles on AI, Lisp, theoretical computer science, and related topics</em>.</p>
-<ul>
-<li><strong>Learn Lisp</strong></li>
-</ul>
-<p>  没有很多关于普通Lisp的在线教程，而像PHP或Ruby这样更流行的语言则有。然而，有很多关于Lisp的书已经发布了在线版本。其中许多是在20世纪70年代和80年代写的，当然也有一些当代的资源:</p>
-<ul>
-<li><a href="http://www.paulgraham.com/onlisptext.html">On Lisp</a> — Online edition of the excellent <a href="https://www.amazon.com/Lisp-Advanced-Techniques-Common/dp/0130305529">book by Paul Graham</a>.</li>
-<li>[Common Lisp: A Gentle Introduction to Symbolic Computation]*(http://www-cgi.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html)</li>
-<li><a href="http://lisp.plasticki.com/">Lisp in Small Parts</a> — A series of short tutorials</li>
-<li><a href="http://www.gigamonkeys.com/book/">Practical Common Lisp</a> — A complete online edition of the classic introductory <a href="https://www.amazon.com/gp/product/1590592395">book of the same name</a>.</li>
-<li><a href="http://landoflisp.com/">Land of Lisp</a> — A funny, idiosyncratic website and book, teaching people how to use Lisp.</li>
-<li><a href="http://learnxinyminutes.com/docs/common-lisp/">Learn Common Lisp</a> — Learn X in Y minutes, where X = Common Lisp.</li>
-<li><a href="http://art2.ph-freiburg.de/Lisp-Course">ELM-ART Lisp Course</a> — Learn to use Lisp with the Episodic Learner Model at the Adaptive Remote Tutor</li>
-<li><a href="http://cs.gmu.edu/~sean/lisp/LispTutorial.html">Lisp Quickstart</a></li>
-<li><a href="http://alarm.cti.depaul.edu/lisptutor/login">LispTutor Jr</a></li>
-<li><a href="http://www.lisperati.com/casting.html">Casting Spels in Lisp</a></li>
-<li><a href="http://www.cse.buffalo.edu/~shapiro/Commonlisp/">Common Lisp: An Interactive Approach</a></li>
-<li>Lisp Style Tips for the Beginner</li>
-<li><a href="http://www.p-cos.net/lisp/guide.html">Pascal Costanza's Highly Opinionated Guide to Lisp</a></li>
-</ul>
-<p>  Required reading:</p>
-<ul>
-<li>
-<p><a href="http://eudoxia.me/article/common-lisp-sotu-2015">State of the Common Lisp Ecosystem</a>.</p>
-</li>
-<li>
-<p><strong>Lisp Reference and Documentation</strong></p>
-</li>
-</ul>
-<p>  与大多数其他语言相比，如果您开始使用Lisp，您会发现自己需要经常查阅参考资料。下面是一些更常用的常用Lisp参考作品，可以在网上找到:</p>
-<ul>
-<li>
-<p><a href="https://en.wikibooks.org/wiki/Common_Lisp_">Common Lisp Wikibook</a></p>
-</li>
-<li>
-<p><a href="http://www.lispworks.com/documentation/HyperSpec/Front/">Common Lisp HyperSpec</a></p>
-</li>
-<li>
-<p><a href="http://www.cliki.net/">Cliki: The Common Lisp Wiki</a></p>
-</li>
-<li>
-<p><a href="http://www.lispworks.com/documentation/common-lisp.html">LispWorks Common Lisp Documentation</a></p>
-</li>
-<li>
-<p><a href="http://cl-cookbook.sourceforge.net/">Common Lisp Cookbook</a></p>
-</li>
-<li>
-<p><a href="https://google.github.io/styleguide/lispguide.xml">Google Common Lisp Style Guide</a> — How to write Common Lisp the way Google writes Common Lisp. (Did you even know that Google was writing Common Lisp?)</p>
-</li>
-<li>
-<p><a href="https://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html">Common Lisp the Language</a></p>
-</li>
-<li>
-<p><strong>Special Topics in Lisp Programming</strong></p>
-</li>
-</ul>
-<p>  就其本身的优点而言，Lisp是一种相当专门的语言。这里有一些关于普通Lisp中特殊问题的参考资料:</p>
-<ul>
-<li>
-<p><a href="http://www.norvig.com/paip.html">Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp</a> — Also check out <a href="https://www.amazon.com/Paradigms-Artificial-Intelligence-Programming-Studies/dp/1558601910">the book</a>.</p>
-</li>
-<li>
-<p><a href="https://en.wikipedia.org/wiki/Common_Lisp_Object_System">Common Lisp Object System</a></p>
-</li>
-<li>
-<p><strong>Lisp Tools</strong></p>
-</li>
-</ul>
-<h4 id="clojure">Clojure</h4>
-<h4 id="scheme">Scheme</h4>
-<h3 id="lisp-application-implementations">Lisp Application Implementations</h3>
-<h4 id="autolisp略">AutoLISP(略)</h4>
-<h4 id="emacs-lisp">Emacs Lisp</h4>
-<ul>
-<li><strong>Your Development Environment</strong></li>
-</ul>
-<p>要开始使用Emacs Lisp，您需要安装GNU Emacs文本编辑器。这是一个非常简单的过程。只要转到<a href="https://www.gnu.org/software/emacs/">Gnu.org Emacs下载页面</a>，并按照在您的系统上下载和安装GNU Emacs的说明进行操作。GNU Emacs支持以下平台:GNU、GNU/Linux、FreeBSD、NetBSD、OpenBSD、Mac OS X、Microsoft Windows和Solaris。</p>
-<ul>
-<li><strong>Learning Emacs Lisp</strong></li>
-</ul>
-<p>  当然，如果您以前有过编程经验，特别是在一些从Lisp派生的函数式编程语言方面，学习Emacs Lisp会更容易。一般编程经验也受欢迎，因为经验丰富的程序员往往对他们的文本/代码编辑器了如指掌。</p>
-<ul>
-<li><strong>Emacs Lisp Tutorials and Resources</strong></li>
-</ul>
-<p>  Emacs Lisp是一种极简且易于学习的编程语言，但是由于其相对有限的、小众的吸引力，所以没有太多的在线资源。我们选择了一些教程和学习资源，应该是有用的，如果你刚刚开始与Emacs Lisp:</p>
-<ul>
-<li>
-<p><a href="https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html">An Introduction to Programming in Emacs Lisp</a> from Gnu.org is aimed at new users with no previous programming experience.</p>
-</li>
-<li>
-<p><a href="https://www.gnu.org/software/emacs/manual/html_node/elisp/index.html">GNU Emacs Lisp Reference Manual</a> is a full description and reference of Emacs Lisp. This manual presumes that you are comfortable using Emacs for editing.</p>
-</li>
-<li>
-<p><a href="https://www.emacswiki.org/emacs/ElispCookbook">Elisp Cookbook</a> contains lots of code examples demonstrating basic Emacs Lisp programming operations.</p>
-</li>
-<li>
-<p><a href="https://www.emacswiki.org/emacs/EmacsLisp">Emacs Lisp Wiki</a> has links to good resources to get you started with Emacs Lisp programming.</p>
-</li>
-<li>
-<p><strong>Emacs Lisp Books</strong></p>
-</li>
-</ul>
-<p>  还有一些Emacs Lisp的书籍。其中一些可能非常有用，但我们仍然建议您尝试免费的在线教程和资源。如果你需要更多的资源，你可以买一两本书:</p>
-<ul>
-<li>
-<p><a href="https://www.amazon.com/An-Introduction-Programming-Emacs-Lisp/dp/1882114566">An Introduction to Programming in Emacs Lisp</a> by Robert J Chassell is an elementary tutorial for non-programmers to show them how to customize GNU Emacs using the Emacs Lisp programming language.</p>
-</li>
-<li>
-<p><a href="https://www.amazon.com/Emacs-Lisp-Introduction-Robert-Chassell/dp/9888381490/ref=sr_1_1">Emacs Lisp — An Introduction</a> by Robert J Chassell is designed to get you started with Emacs Lisp and to guide you in learning the basic principles of programming.</p>
-</li>
-<li>
-<p><a href="https://www.amazon.com/Writing-GNU-Emacs-Extensions-Customizations-ebook/dp/B0043M56SW/ref=sr_1_5">Writing GNU Emacs Extensions: Editor Customizations and Creations with Lisp</a> by Bob Glickstein will show you everything from simple customizations to extensive mods in Emacs Lisp with realistic examples.</p>
-</li>
-<li>
-<p><strong>If You Use Emacs, You Need Emacs Lisp</strong></p>
-</li>
-</ul>
-<p>  GNU Emacs被设计为一个文本编辑器，支持使用Emacs Lisp进行定制。然而，由于Emacs Lisp编程语言提供的强大功能和可扩展性，GNU Emacs几乎成为了一种成熟的IDE。它是一种功能强大但高度专业化的编程语言。这不是一般开发人员需要掌握的东西，但在一些小众应用程序中，Emacs Lisp仍然被广泛使用，而且这种情况短期内不太可能改变。</p>
-<h3 id="conclusion">Conclusion</h3>
-<p>  我们仅仅触及了Lisp世界的表面。但正如您所看到的，它是一种非常有用的语言，无论您是在构建应用程序，还是只是试图简化文本编辑。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[译📖A Road to Common Lisp]]></title>
-        <id>https://alaskasquirrel.github.io/post/a-road-to-common-lisp/</id>
-        <link href="https://alaskasquirrel.github.io/post/a-road-to-common-lisp/">
-        </link>
-        <updated>2020-11-06T12:05:48.000Z</updated>
-        <content type="html"><![CDATA[<p>» <a href="http://xahlee.info/comp/Common_Lisp_quotations.html">Famous Programers on How Common Lisp Sucks</a> 😈</p>
-<p>经验分享：<a href="https://irreal.org/blog/?p=7557">A Road to Common Lisp</a></p>
-<p>免责声明：此文绝非学习Common Lisp的唯一路径，包含作者个人观点，期待你的新尝试。</p>
-<blockquote>
-<p>原文: <u>https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/</u>  August 2018. Copyright©Steve Losh.</p>
-</blockquote>
-<p>简译如下：</p>
-<h2 id="context">Context</h2>
-<p>  我认为，在学习Common Lisp之前，了解它的起源和发展很重要的。如果你已学习了现代的编程语言，古老的编程语言会看起来很奇怪，但如若你具有一些背景知识就会发现它的意义。</p>
-<h3 id="history">History</h3>
-<p>  Common Lisp有着悠久历史。我不打算在这里全部赘述 —— 如有兴趣，你可以参考如下资料:</p>
-<ul>
-<li>Wikipedia's <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)#History">History of Lisp</a> and <a href="https://en.wikipedia.org/wiki/Common_Lisp#History">History of Common Lisp</a>.</li>
-<li>The <a href="http://www.gigamonkeys.com/book/introduction-why-lisp.html#where-it-began">Where it Began section in Practical Common Lisp</a>.</li>
-<li>The <a href="https://www.cs.cmu.edu/Groups//AI/lang/lisp/faq/lisp_2.faq">History: Where did Lisp come from?</a> section of the comp.lang.lisp FAQ.</li>
-<li><a href="http://www.nhplace.com/kent/Papers/cl-untold-story.html">Common Lisp: the Untold Story</a> by Kent Pitman.</li>
-<li><a href="https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf">The Evolution of Lisp</a> by Guy Steele and Richard Gabriel.</li>
-</ul>
-<p>  我猜想你大概不会阅读上述链接内容，那就在这里快速回顾一下Lisp六十载的风光吧。</p>
-<p>  Lisp 起始于上个世纪 50 年代，创始人是麻省理工大学（MIT）的 John McCarthy。此后的二十余年，多版本的 Lisp 方言涌现发展，其中知名的有 Maclisp, BBN Lisp/Interlisp, Franz Lisp, Spice Lisp, 以及Lisp Machine Lisp。它们有各自的实现方式，且在不同的领域枝繁叶茂。(Scheme也是在这个时间框架中诞生的，但采取了非常不同的路线，偏离了我们现在看到的路线。在这篇文章中，我不会涉及计划)</p>
-<p>  80年代初期，人们意识到一堆互不兼容的Lisp方言并非理想的状态，从而致力于将这些方言统一为一种通用语言，以满足每个人的需求。1984年，Guy Steele参与的&lt;<a href="https://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html"><em>Common Lisp: the Language</em></a>&gt;首版发行。即便全书围绕着Lisp过往25年的实际应用、实验、经验和历史借鉴展开记述，而它并不能让每个人都满意。到了1986年，国际信息技术标准委员会为 Common Lisp 指定了 ANSI 规范。</p>
-<p>  正当委员会致力于标准化工作之时，&lt; <em>Common Lisp: the Language</em>&gt;第二版发行。这个版本更加全面，囊括了委员会正在做的一些事情。此时，Lisp语言家族已有超过30年的经验和历史可以借鉴。同期比较: Python第一次释出还要再等一年。</p>
-<p>  1992年，委员会发布了Common Lisp ANSI standard 的初稿以供开放审查。该草案在1994年得到批准，最终在1995年发布。此时Lisp已经超过35岁了。该版本至今仍在使用。</p>
-<h3 id="consequences">Consequences</h3>
-<p>  我希望你能够了解，Common Lisp是一种稳定、强大、实用、可扩展、而又奇怪的语言，理解这些特征会让你的学习过程更有意义。</p>
-<ul>
-<li><strong>Escaping the Hamster Wheel of Backwards Incompatibility</strong></li>
-</ul>
-<p>  兼容性是现代语言不得不面对的事情，但对于 Common Lisp 而言这都不是事，后面我会推荐一本 1990 年代写的书，我们可以不做修改的用最新版本的 Common Lisp 运行这本书里的代码。总的来说，Common Lisp社区在维护向后兼容性方面做得很好。</p>
-<ul>
-<li><strong>Practicality Begets Purity</strong></li>
-</ul>
-<p>  Common Lisp 是一种大型语言，&lt; <em>Common Lisp: the Language</em>&gt;第二版篇幅过千页。在没有太多额外支持的情况下，编写Pure Common Lisp 即可完成繁琐工作。在使用 Common Lisp 编程应用程序时，通常会依赖少量的稳定库，而库维护者通常会尽可能多地利用核心语言来最小化依赖关系。我的应用程序的依赖项不超过10个，库的依赖项不超过2个或3个，我可能比大多数人更保守一些。Common Lisp 的稳定性告诉我们这些库会一直持续，可不要小看了它们。</p>
-<ul>
-<li><strong>Extensibility</strong></li>
-</ul>
-<p>  Common Lisp 之所以如此实用得益于它的可扩展性。它有着强大的宏（Macros），宏允许我们编写库来实现在其他语言中的核心特性：</p>
-<ul>
-<li>Common Lisp 并没包含字符串插入，想要实现这个功能？只需要一个<a href="https://edicl.github.io/cl-interpol/">库</a>。</li>
-<li>想要尝试一些没有引用的不确定的编程吗？<a href="https://nikodemus.github.io/screamer/">看这里</a>。</li>
-<li>语法匹配可以使代码变漂亮，提高可读性。而 Common Lisp 自身并没有这个功能，我们可以看<a href="https://github.com/guicho271828/trivia/wiki/What-is-pattern-matching%3F-Benefits%3F">这里</a>。</li>
-<li>享受 Haskell 或 Scala 里的代数数据类型？<a href="https://github.com/tarballs-are-good/cl-algebraic-data-type">看这里</a>。</li>
-</ul>
-<p>  所有这些库都依赖于宏来让使用它们感觉无缝。当然，您可以在没有宏的情况下完成所有这些工作，但是您必须添加一层来管理计算。如下:</p>
-<pre><code>(match foo
-   '(list x y z) (lambda (x y z) (+ x y z))
-   '(vector x y) (lambda (x y) (- x y)))
-</code></pre>
-<p>  只是不会像这样：</p>
-<pre><code>(match foo
-   ((list x y z) (+ x y z))
-   ((vector x y) (- x y)))
-</code></pre>
-<p>  没有人在 Common Lisp 标准版添加模式匹配，因为你可以将其写成库来获取 90% 以上的内容，语言本身给予您足够的自由来扩展。</p>
-<ul>
-<li><strong>Power</strong></li>
-</ul>
-<p>  宏绝对是Lisp具有高可扩展性的重要构成，因为它允许将源码转换为其他任意代码。对于C等语言中的宏也是如此，但是CommonLisp的宏不同，因为它们是语言的一部分。在C语言中，在顶层有一层宏，是用预处理器宏语言编写的。宏和语言层是相互独立的，宏提供了一个额外的抽象能力(请不要误解我的意思，这当然是有用的)。</p>
-<p>  在Common Lisp中，你在语言本身中编写宏。然后可以使用这些宏来编写函数，并使用这些函数来编写更多的宏。它不是两个分层的层，而是一个抽象力量的反馈循环。</p>
-<p>  但是宏并不是Common Lisp如此实用和可扩展的唯一因素。人们常常没有意识到的是，虽然由于宏的存在，Common Lisp是一种非常高级的语言，但它也有许多低级的工具作为语言的一部分。它永远不会像C、Rust或Forth那样低级，但是您可能会对ANSI规范包含的一些内容感到惊讶。并不是所有的Common Lisp实现都可执行这些优化，但是Common Lisp的设计者很有远见，包括了支持这些优化所需的语言特性。您可以编写标准定义的Common Lisp，并相信它将在任何地方运行，而支持这类事情的实现将利用优化机会。</p>
-<p>  这种使用宏支持非常高级的编程和合理数量的低级优化的组合意味着，尽管该规范已经有20多年的历史，但它仍然是今天构建的一个良好的坚实基础。三十年的经验和历史让设计师们得以创造出一种非常实用的语言，而它在未来依旧闪耀 。</p>
-<ul>
-<li><strong>Ugliness</strong></li>
-</ul>
-<p>  同等重要的是，即使Common Lisp已非常实用，但要适应现有用户和方言，这意味着有很多丑陋的地方。如果你买了&lt; <em>Common Lisp:the Language</em> &gt;第二版的纸质书，在索引中查找“kludges”，你会发现:</p>
-<figure data-type="image" tabindex="1"><img src="https://alaskasquirrel.github.io/post-images/1605720133113.jpeg" alt="" loading="lazy"></figure>
-<p>  Common Lisp并非完美的编程语言。‘匪夷所思’的历史包袱是当初为确保Common Lisp发展而付出的代价————旧方言的使用者通过合理的努力就可以采用Common Lisp。如果设计者‘一意孤行’使得它变得完美和漂亮，这可能招致他人的弃用。</p>
-<h2 id="a-road-to-learning-common-lisp">A Road to Learning Common Lisp</h2>
-<h3 id="get-a-lisp">Get a Lisp</h3>
-<p>  第一步便需要安装一个Common Lisp实现。符合ANSI规范的实现有多种，您可以选择:</p>
-<ul>
-<li>如果使用的是 MacOS，可以下载 GUI 界面的应用，在 App Store 找到 <a href="https://ccl.clozure.com/">ClozureCL</a>.(Clozure和Clojure迥然不同，切勿混淆)</li>
-<li>其他系统请选择 <a href="http://www.sbcl.org/">SBCL</a>. (CLISP，并非你所需要的。CLISP 虽然是另一种 Lisp 实现，但它出现的时间并不长，没有 CCL 或 SBCL 普及，如果我们遇到问题的时候可能很难找到解决方案。)</li>
-<li>不要使用Roswell，你现在(或者根本)不需要它。</li>
-</ul>
-<h3 id="pick-an-editor">Pick an Editor</h3>
-<p>  Emacs并非不可缺少，你可以在任何喜欢的文本编辑器中开始学习这门语言。如果你没有偏好，那么CCL本身与MacOS上的文本编辑器捆绑在一起。这个方法便是很好地开始。Emacs, Vim, Sublime Text, Atom, 它们都可以支持括号匹配、高亮代码注释以及自动缩排代码。</p>
-<h3 id="hello-lisp">Hello, Lisp</h3>
-<p>  我们来创建文件 hello.lisp :</p>
-<pre><code>(defun hello ()
-  (write-line &quot;What is your name?&quot;)
-  (let ((name (read-line)))
-    (format t &quot;Hello, ~A.~%&quot; name)))
-</code></pre>
-<p>  现在看不懂代码无妨，这里只是确认编程环境是否正常运行。</p>
-<p>  打开一个SBCL或CCL REPL(<a href="https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop">Read/Eval/Print Loop</a>)并通过输入(load &quot;hello.lisp&quot;)加载文件，然后调用函数并确保它能工作。如果你选择SBCL，它应该是这样的:</p>
-<pre><code>$ sbcl
-* (load &quot;hello.lisp&quot;)
-
-T
-* (hello)
-What is your name?
-Steve
-Hello, Steve.
-NIL
-*
-</code></pre>
-<p>  如果你选择了CCL，但仍然想使用命令行，而不是MacOS应用程序(命令行程序可能被恼人的命名为ccl64，如果你在64位系统):</p>
-<pre><code>$ ccl64
-Clozure Common Lisp Version ...
-
-? (load &quot;hello.lisp&quot;)
-#P&quot;/home/sjl/Desktop/hello.lisp&quot;
-? (hello)
-What is your name?
-Steve
-Hello, Steve.
-NIL
-?
-</code></pre>
-<p>  如果你的箭头键和退格键在REPL中不起作用，使用rlwrap来修复。sbcl会给你一个不错的反馈。无论如何，rlwrap都是您工具箱中一个方便的工具。</p>
-<h3 id="a-gentle-introduction">A Gentle Introduction</h3>
-<p>  我找到的最适合开始学习普通Lisp的书是&lt; <em><a href="https://www.cs.cmu.edu/~dst/LispBook/">Common Lisp: A Gentle Introduction to Symbolic Computation</a></em>&gt;。即使您之前编写过程序，我仍然建议您从这里开始，因为它可以使您轻松地进入语言。(1990年版可以在网站上免费下载，2013年的重印修正了1990年版的一些小错误。如果你买得起，我建议你买2013年版，但1990年版也不错。)</p>
-<p>  通读全书，做完所有的练习。花费的时间，主要是为了让你开始克服一些主要的障碍，以适应Common Lisp，如:</p>
-<ul>
-<li>我怎么才能记住所有这些奇怪的函数名呢?</li>
-<li>为什么人们很少使用字符串?</li>
-<li>我什么时候使用这个该死的引号?</li>
-</ul>
-<p>  there's also a <a href="https://discord.gg/tffeu2x">Discord server</a> that some of us hang out in. Join the #common-lisp channel there and we'll be happy to help you.</p>
-<h3 id="getting-practical">Getting Practical</h3>
-<p>  接下来你可以阅读&lt; <em><a href="http://www.gigamonkeys.com/book/">Practical Common Lisp</a></em>&gt;。</p>
-<h3 id="make-something">Make Something</h3>
-<p>  如若你有看过以上的书籍，现在可以自主尝试点东西啦：</p>
-<ul>
-<li>Do some Project Euler problems.</li>
-<li>Do some Advent of Code exercises.</li>
-<li>Make a stupid Twitter bot.</li>
-<li>Make a personal calendar program that records your appointments, checks the weather forecast the day of, etc.</li>
-<li>Use Sketch to implement the stuff in some Coding Math videos.</li>
-</ul>
-<h3 id="lisp-as-a-system">Lisp as a System</h3>
-<p>渐入佳境，深入研究</p>
-<p>在大多数语言中，开发过程看起来是这样的:</p>
-<ol>
-<li>Edit some code in the project with an editor.</li>
-<li>Compile the project (some languages skip this step).</li>
-<li>Run the project (or the tests).</li>
-<li>Observe the output (in the console, a browser, etc).</li>
-<li>Go to 1.</li>
-</ol>
-<h3 id="learning-paradigms">Learning Paradigms</h3>
-<h3 id="switch-things-up">Switch Things Up</h3>
-<h3 id="recipes-for-success">Recipes for Success</h3>
-<h3 id="final-patterns">Final Patterns</h3>
-<h2 id="where-to-go-from-here">Where to Go From Here</h2>
-<h3 id="macros">Macros</h3>
-<h3 id="object-oriented-programming-with-clos">Object-Oriented Programming with CLOS</h3>
-<h3 id="low-level-programming">Low-Level Programming</h3>
-<h3 id="web-development">Web Development</h3>
-<h3 id="game-development">Game Development</h3>
-<h3 id="window-management">Window Management</h3>
-<h3 id="unit-testing">Unit Testing</h3>
-<h3 id="more-implementations">More Implementations</h3>
-<p>  之所以强调使用SBCL和CCL，是因为它们是目前最流行的免费Common Lisp实现，但绝非唯一。还有很多值得你探索的:</p>
-<ul>
-<li><a href="https://common-lisp.net/project/armedbear/">ABCL</a> runs on the JVM.</li>
-<li><a href="https://common-lisp.net/project/ecl/main.html">ECL</a> can be embedded in a C program, and can translate Common Lisp code to C code.</li>
-<li><a href="https://github.com/clasp-developers/clasp">CLASP</a> is still under development, but is an implementation designed to be easy to interoperate with C++.</li>
-<li><a href="http://www.lispworks.com/">Lispworks</a> and <a href="https://franz.com/products/allegro-common-lisp/">Allegro CL</a> are commercial implementations with a lot of extra features and support, but are not free.</li>
-</ul>
-<p>  我自己的项目中倾向于使用SBCL，并确保单元测试我所有的库在SBCL、CCL、ABCL和ECL中运行。这使我产生信心，自己正是在编写可移植的代码。</p>
-<h2 id="modern-common-lisp">Modern Common Lisp</h2>
-<p>  Common Lisp一如稳健，但绝非停滞不前，它为你提供了足够的能力来进行程序构建。</p>
-<h3 id="structure">Structure</h3>
-<p>  <a href="https://lobste.rs/s/fwhuz5/my_lisp_journey_1_getting_started_with#c_ebhvzq">简述文章</a></p>
-<h4 id="packages">Packages</h4>
-<h4 id="systems">Systems</h4>
-<h4 id="projects">Projects</h4>
-<h4 id="recap">Recap</h4>
-<h3 id="common-libraries">Common Libraries</h3>
-<p>  Common Lisp doesn't have as <em>large</em> of a community as some newer languages, but it still has a lot of libraries because it's had a community for a longer time. The stability of the core language means that many libraries written in portable Common Lisp ten or fifteen years ago can still run just fine today.</p>
-<p>  In this final section I'll give you a quick overview of some of the more popular libraries you might run into as you learn the language. You don't have to use all of them, but it's helpful to have some idea of what's available.</p>
-<h4 id="alexandria">Alexandria</h4>
-<p>  <a href="https://common-lisp.net/project/alexandria/">Alexandria</a> is one of the most popular Common Lisp libraries (the name is a pun on the <a href="https://en.wikipedia.org/wiki/Library_of_Alexandria">Library of Alexandria</a>), and it's a collection of all kinds of useful little utility functions like <code>read-file-into-byte-vector</code> and <code>map-permutations</code>.</p>
-<p>  There are a <em>lot</em> of utility libraries for Common Lisp around — one rite of passage is building up your own personal utility library over time — but Alexandria is the most popular one. Most projects with any dependencies at all will eventually end up with Alexandria in the dependency graph somewhere.</p>
-<h4 id="bordeaux-threads">Bordeaux Threads</h4>
-<p>  <a href="https://common-lisp.net/project/bordeaux-threads/">Bordeaux Threads</a> was mentioned earlier. Threads aren't part of the Common Lisp standard, but most implementations provide their own custom interface for working with them. Bordeaux Threads wraps all these implementation-specific interfaces and provides an API so you can write threaded code that will work portably.</p>
-<p>  If you're looking for something like Java's <code>new Thread(() -&gt; foo()).start()</code>, this is what you want.</p>
-<h4 id="cffi">CFFI</h4>
-<p>  <a href="https://common-lisp.net/project/cffi/">CFFI</a> is a foreign-function interface library that lets you load C libraries (e.g. <code>foo.dylib</code> or <code>foo.so</code>) and call the functions in them. It works by wrapping implementation-specific interfaces, because this isn't part of the Common Lisp standard.</p>
-<p>  Unfortunately it has the same name as Python's FFI library, so if you're searching for documentation make sure you're looking at the right version.</p>
-<h4 id="cl-ppcre">CL-PPCRE</h4>
-<p>  <a href="https://edicl.github.io/cl-ppcre/">CL-PPCRE</a> is an implementation of Perl-compatible regular expressions. If you're looking to use regular expressions in Common Lisp, this is what you want.</p>
-<h4 id="drakma">Drakma</h4>
-<p>  <a href="https://edicl.github.io/drakma/">Drakma</a> is an HTTP client. If you need to make an HTTP request, this is what you want. There are other HTTP clients around, but Drakma is commonly used and is fine for almost anything you might need.</p>
-<h4 id="iterate">Iterate</h4>
-<p>  <a href="https://common-lisp.net/project/iterate/">Iterate</a> is a replacement for the <code>loop</code> macro. It works similarly, but has a more Lispy syntax and a well-defined API for extending it with new iteration constructs. I really like it myself, but beware: if you get used to <code>iterate</code> going back to vanilla <code>loop</code> will feel painful.</p>
-<h4 id="local-time">local-time</h4>
-<p>  <a href="https://common-lisp.net/project/local-time/">local-time</a> is a library for working with time and dates in Common Lisp. The standard has some basic support for times built in, but if you want to do much calculation with times (including timezones) this is probably what you want. If you're looking for something like Joda Time in Common Lisp, this is as close as you're going to get.</p>
-<h4 id="lparallel">lparallel</h4>
-<p>  <a href="https://lparallel.org/">lparallel</a> is a library that builds on top of Bordeaux Threads to make common parallel processing operations much easier. Think of it as <a href="https://www.gnu.org/software/parallel/">GNU Parallel</a> for Lisp, with a few extra features (e.g. channels and tasks).</p>
-<p>  For example: if you've got a big vector you're mapping over with <code>(map 'vector #'work some-vector)</code> you can split it into chunks and run in multiple threads by changing it to <code>(lparallel:pmap 'vector #'work some-vector)</code>.</p>
-<h4 id="named-readtables">Named Readtables</h4>
-<p>  <a href="https://github.com/melisgl/named-readtables">Named readtables</a> is a library that adds namespaces for readtables.</p>
-<p>  One painful part of the standard is that reader macros are added and removed to the global readtable on the fly, so if you load multiple systems that define the same reader macros things can get messy. Named readtables adds some much-needed hygiene to that process. If you're working with reader macros at all you absolutely want to use this.</p>
-<h4 id="roswell">Roswell</h4>
-<p>  <a href="https://github.com/roswell/roswell">Roswell</a> is a couple of things rolled into one. It's a C program that handles installing and running multiple different Common Lisp implementations (kind of like NVM or rvm), and it also provides a unified way to write small shell scripts in Common Lisp and compile them into binaries.</p>
-<p>  I used Roswell for a little over a year, but I eventually stopped and now I don't think it's worth the trouble, for a couple of reasons.</p>
-<p>  First: if you write portable code you generally don't need to worry running a particular version of an implementation, because Common Lisp is so stable. I usually just install the latest version of each implementation I use with a package manager or by building from source.</p>
-<p>  Second: after using it for a while I found that Roswell was always very brittle to upgrade, and whenever things broke it would spew an almost JVM-sized stack trace without a decent error message.</p>
-<p>  For me, the negatives outweighed the positives. I'd recommend simply using the latest version of the implementations you care about and writing portable code. For the compiling-into-binaries functionality I'd recommend using your implementation's built-in support for this, or using UIOP's wrapper around that, or using a separate library like Deploy.</p>
-<p>  Of course your mileage might vary. If you find yourself really needing to run specific versions of specific Common Lisp implementations in rapid succession, you should look into Roswell.</p>
-<h4 id="series">SERIES</h4>
-<p>  <a href="https://www.cliki.net/Series">SERIES</a> was almost included in Common Lisp (it's in <a href="https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node347.html">Appendix A of CLtL2</a>), but didn't quite make it. It's a library for writing functional code that looks like the traditional <code>map</code> and <code>filter</code> and <code>reduce</code> operations but which compiles down to efficient loops.</p>
-<p>  If you're looking for Clojure's transducers in Common Lisp, this is what you want.</p>
-<h4 id="st-json">st-json</h4>
-<p>  JSON support in Common Lisp is a god damn mess. There are <a href="https://sites.google.com/site/sabraonthehill/home/json-libraries">an absurd number of JSON libraries</a> and I don't really <em>like</em> any of them.</p>
-<p>  For me, the most important quality I need in a JSON library is an unambiguous, one-to-one mapping of types. For example: some libraries will deserialize JSON arrays as Lisp lists, and JSON <code>true</code>/<code>false</code> as <code>t</code>/<code>nil</code>. But this means <code>[]</code> and <code>false</code> both deserialize to <code>nil</code>, so you can't reliably round trip anything!</p>
-<p>  I've settled on using <a href="https://marijnhaverbeke.nl/st-json/">st-json</a> and wrapping it up to be a little more ergonomic with some glue code. It's not the fastest solution out there, but it works for my needs. There are plenty of other options out there, so if you have different needs than me you should look into them.</p>
-<h4 id="usocket">usocket</h4>
-<p>  <a href="https://common-lisp.net/project/usocket/">usocket</a>is a library for networking sockets. Sockets and networking aren't part of the Common Lisp standard, but most implementations provide a custom interface for working with them. usocket wraps the implementation-specific interfaces and provides an API so you can write networking code portably.</p>
-<p>  If you want to make Lisp listen on a port and read streams of bytes from clients, or want to connect to a port and send raw bytes to it, this is what you want.</p>
-<h2 id="good-luck">Good Luck</h2>
-<p>  Common Lisp是一门古老的编程语言，绝非轻而易举能够学会的，你为此花费的时间精力，必将获得回报。</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[内存分页]]></title>
         <id>https://alaskasquirrel.github.io/post/memorymanagement/</id>
@@ -418,24 +20,6 @@ NIL
 内存分页</p>
 <p>参考资料：<br>
 <a href="https://blog.burhanuday.tech/paging-the-secret-behind-the-modern-computers-efficient-memory-management">The secret behind the modern computer's efficient memory management</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研读📚Moses Schönfinkel（1889-1942）]]></title>
-        <id>https://alaskasquirrel.github.io/post/MosesSchonfinkel/</id>
-        <link href="https://alaskasquirrel.github.io/post/MosesSchonfinkel/">
-        </link>
-        <updated>2020-10-13T15:09:43.000Z</updated>
-        <content type="html"><![CDATA[<p>Moses Schönfinkel</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研读📚John McCarthy（1927-2011）]]></title>
-        <id>https://alaskasquirrel.github.io/post/johnmccarthy/</id>
-        <link href="https://alaskasquirrel.github.io/post/johnmccarthy/">
-        </link>
-        <updated>2020-10-13T10:15:27.000Z</updated>
-        <content type="html"><![CDATA[<p>John Mccarthy</p>
 ]]></content>
     </entry>
     <entry>
@@ -1082,27 +666,35 @@ number theoretical questions undecidable for the human mind.</li>
         </link>
         <updated>2020-06-12T10:16:42.000Z</updated>
         <content type="html"><![CDATA[<ol>
+<li>&lt; <a href="http://yourehiredtrump.com/">You're Hired!</a>  Untold Successes and Failures of a Populist President &gt; September 3, 2020. <a href="https://twitter.com/caseybmulligan">Casey B. Mulligan</a> is an American economist and author. He is a Professor in Economics at the University of Chicago. He served as chief economist for <a href="https://www.whitehouse.gov/cea/">the Council of Economic Advisers</a> in the Trump Administration from September 6, 2018 to August 2019.</li>
+</ol>
+<p>  His blog &quot;<a href="https://caseymulligan.blogspot.com/">Supply and Demand</a>&quot;.</p>
+<ol start="2">
 <li><a href="https://www.youtube.com/watch?v=Mh0vEaac78U">Bridgewater’s Ray Dalio Discusses the Impact of China’s Growth on the World Economy</a>  <strong>Aug 6, 2019</strong> &amp; <a href="https://www.bridgewater.com/china/">Our Views on China</a></li>
 </ol>
 <ul>
-<li>Ray Dalio 预测，中国经济未来必将超越美国，领导全球经济。其考量领域(近五百年全球储备货币变迁；前沿科技风险投资对比；全球独角兽企业占比；中国资本市场发展；中美GDP购买力平价对比）</li>
-<li>倘若有所变数，主要因素是：<strong>中美冲突、气候问题、流行疾病、政治问题</strong>。</li>
+<li>
+<p>Ray Dalio 预测，中国经济未来必将超越美国，领导全球经济。其考量领域(近五百年全球储备货币变迁；前沿科技风险投资对比；全球独角兽企业占比；中国资本市场发展；中美GDP购买力平价对比）</p>
+</li>
+<li>
+<p>倘若有所变数，主要因素是：<strong>中美冲突、气候问题、流行疾病、政治问题</strong>。</p>
+</li>
 </ul>
-<ol start="2">
+<ol start="3">
 <li>AEI(The American Enterprise Institute, 美国企业研究所) Derek Scissors :  <a href="https://www.aei.org/research-products/report/chinas-economic-miracle-in-context/">China's economic 'miracle' in context</a> <strong>Aug 26, 2019</strong>.</li>
 </ol>
 <ul>
 <li><u><a href="https://www.aei.org/profile/derek-m-scissors">Derek Scissors</a></u> 尝试将中日韩三国的经济腾飞阶段建立起比较，呈现三国在经济改革相似历史时间节点上的表现，描述出多维度的差异。结论：<u><strong>多指标上来看，中国的发展水平不如同期的韩国，接近日本</strong></u>。中国的“经济奇迹”并未超越一般性的战后重建。现阶段，日韩都已进入相对停滞时期，而中国似乎难逃经济诅咒。对比(个人收入增长、劳动力生产率增速、社会受教育年限、债务/GDP比率、M2/GDP比率、研发支出/GDP...)</li>
 <li>Scissors早先的一篇报告  <a href="https://www.aei.org/research-products/report/us-china-who-is-bigger-and-when/">US-China: Who is bigger and when</a> March 26, 2019. 中国经济体量想要在2030年超越美国，似乎不可能。参考(债务增长、老龄化加剧、统计数据真实度...)</li>
 </ul>
-<ol start="3">
+<ol start="4">
 <li>
 <p>Tinyfool (郝培强) 曾通过文字及视频简述过以上两种经济分析:<br>
-3.1. <a href="https://codechina.org/2019/08/ray-dalio-china-usa/">桥水基金Ray Dalio谈中美贸易冲突和中国崛起对世界的影响</a> &amp; <u><a href="https://www.youtube.com/watch?v=xr77JK1jvTs">视频</a></u><br>
-3.2. <a href="https://codechina.org/2019/09/aei-derek-scissors-china/">美国智库AEI最新报告：中国经济&quot;奇迹&quot;的来龙去脉</a> &amp; <u><a href="https://www.youtube.com/watch?v=Kyh-RnwxHHA">视频</a></u><br>
-3.3. Tinyfool (郝培强) 另有两篇博文值得玩味：<br>
-3.3.1 <a href="https://codechina.org/2019/08/shanghai-beijing-hongkong-taiwan-taipei/">北京、上海，大陆发达城市和香港、台湾省城市的经济数据对比</a><br>
-3.3.2 <a href="https://codechina.org/2019/08/hongkong-taiwan-mainland-cpi-coi-gdp/">香港、台湾、大陆贫富差距和消费数据对比</a></p>
+4.1. <a href="https://codechina.org/2019/08/ray-dalio-china-usa/">桥水基金Ray Dalio谈中美贸易冲突和中国崛起对世界的影响</a> &amp; <u><a href="https://www.youtube.com/watch?v=xr77JK1jvTs">视频</a></u><br>
+4.2. <a href="https://codechina.org/2019/09/aei-derek-scissors-china/">美国智库AEI最新报告：中国经济&quot;奇迹&quot;的来龙去脉</a> &amp; <u><a href="https://www.youtube.com/watch?v=Kyh-RnwxHHA">视频</a></u><br>
+4.3. Tinyfool (郝培强) 另有两篇博文值得玩味：<br>
+4.3.1 <a href="https://codechina.org/2019/08/shanghai-beijing-hongkong-taiwan-taipei/">北京、上海，大陆发达城市和香港、台湾省城市的经济数据对比</a><br>
+4.3.2 <a href="https://codechina.org/2019/08/hongkong-taiwan-mainland-cpi-coi-gdp/">香港、台湾、大陆贫富差距和消费数据对比</a></p>
 </li>
 <li>
 <p><a href="https://www.acton.org/publications/transatlantic/2019/08/27/americas-poorest-are-richer-most-average-europeans-study/">America's poorest are richer than most average Europeans: Study</a>  August 27, 2019. 美国'穷人'具有惊人的消费购买力，超过一般意义上的发达国家。<br>
@@ -1113,9 +705,9 @@ the U.S. Bureau of Economic Analysis基于2010年的研究报告，比较世界�
 </li>
 <li>
 <p><a href="https://cafehayek.com">Cafe Hayek——where orders emerge</a><br>
-5.1 《<strong>The American Dream Is Not Dead: (But Populism Could Kill It)</strong>》 <a href="https://www.michaelrstrain.com/">Michael R. Strain</a>，February 2020. <a href="https://www.youtube.com/watch?v=QtG53mAdFzE">视频</a><br>
+6.1 《<strong>The American Dream Is Not Dead: (But Populism Could Kill It)</strong>》 <a href="https://www.michaelrstrain.com/">Michael R. Strain</a>，February 2020. <a href="https://www.youtube.com/watch?v=QtG53mAdFzE">视频</a><br>
  从经济机会和生活质量的角度衡量，在美国活着没有比现在更好的时刻啦。长期以来的政府福利政策并未降低贫困率，而贫富悬殊或许是贫困群体&quot;享受人生&quot;的后果。<br>
-5.2 <strong><a href="https://eig.org/dcieop">Is the American Dream Alive or Dead? It Depends on Where You Look</a></strong><br>
+6.2 <strong><a href="https://eig.org/dcieop">Is the American Dream Alive or Dead? It Depends on Where You Look</a></strong><br>
 （下图: Raj Chetty and Nathaniel Hendren, “The Effects of Neighborhood on Intergenerational Mobility,” 2015. Obtained from the Equality of Opportunity Project website, “Online Data Table 4 County Causal Effects,” in Summer 2016）<br>
 <img src="https://alaskasquirrel.github.io/post-images/1601362701742.png" alt="" loading="lazy"><br>
  依据报告，美国51%郡县对低收入儿童的经济流动产生了负面影响，而1,660个县中有60％的18岁以下美国人居住于此。</p>
@@ -1128,9 +720,6 @@ the U.S. Bureau of Economic Analysis基于2010年的研究报告，比较世界�
 </li>
 <li>
 <p>影视：<a href="https://v.qq.com/x/cover/i7sc2ih3x6qhzra/f0019al8ax5.html">《乡村里的中国》</a>2013</p>
-</li>
-<li>
-<p>&lt; <a href="http://yourehiredtrump.com/">You're Hired!</a>  Untold Successes and Failures of a Populist President &gt; September 3, 2020. <a href="https://twitter.com/caseybmulligan">Casey B. Mulligan</a> is an American economist and author. He is a Professor in Economics at the University of Chicago. He served as chief economist for <a href="https://www.whitehouse.gov/cea/">the Council of Economic Advisers</a> in the Trump Administration from September 6, 2018 to August 2019. His blog &quot;<a href="https://caseymulligan.blogspot.com/">Supply and Demand</a>&quot;.</p>
 </li>
 <li>
 <p><a href="https://americalostfilm.com/">America Lost</a></p>
