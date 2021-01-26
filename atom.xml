@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2021-01-25T02:06:11.905Z</updated>
+    <updated>2021-01-26T11:36:47.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -139,35 +139,6 @@ The Tokyoiterは、だいすきなアーティストたちの作品をもっと�
 <a href="https://www.armscontrolwonk.com/">Arms Control Wonk</a><br>
 <a href="http://alert5.com/">Alert5 - Military Aviation News</a><br>
 <a href="https://usnc.com/ultra-safe-nuclear-technologies-delivers-advanced-nuclear-thermal-propulsion-design-to-nasa/">Ultra Safe Nuclear Technologies Delivers Advanced Nuclear Thermal Propulsion Design To NASA</a> New Propulsion Concept To Facilitate Rapid Transportation To The Moon And Mars</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet🕶️Security]]></title>
-        <id>https://alaskasquirrel.github.io/post/internetsecurity/</id>
-        <link href="https://alaskasquirrel.github.io/post/internetsecurity/">
-        </link>
-        <updated>2020-09-01T09:45:29.000Z</updated>
-        <content type="html"><![CDATA[<p>👁<br>
-<a href="https://paper.seebug.org">SeeBug Paper 安全技术精粹</a><br>
-<a href="https:krebsonsecurity.com">KrebsOnSecurity</a><br>
-<a href="https://www.schneier.com">️️Bruce Schneier on Security</a><br>
-<a href="http://wiki.ioin.in">Sec-News 安全文摘</a><br>
-<a href="https://citizenlab.ca">The Citizen Lab</a><br>
-<a href="https://gfw.report/">GFW Report</a><br>
-<a href="https://seclists.org">SecLists.Org Security Mailing List Archive</a><br>
-<a href="https://public-interest-tech.com">Public-Interest Technology Resources</a><br>
-<a href="https://www.cryptolux.org/index.php/Home">CryptoLUX</a>盧森堡大學<br>
-<a href="https://crypto.stanford.edu">Applied Cryptography Group</a><br>
-<a href="http://seclab.stanford.edu">Stanford Computer Security Laboratory</a><br>
-🈲<br>
-<a href="https://privacytools.twngo.xyz/">網路隱私工具</a><br>
-<a href="https://github.com/Atarity/deploy-your-own-saas">Deploy your own SaaS</a><br>
-<a href="https://github.com/ffffffff0x/Digital-Privacy">Digital-Privacy</a><br>
-<a href="https://thatoneprivacysite.net">VPN comparison by That One Privacy Guy</a><br>
-<a href="https://degoogle.jmoore.dev">Cutting Google out of your life</a><br>
-<a href="https://github.com/StreisandEffect/streisand">Streisand</a><br>
-<a href="https://github.com/WireGuard">WireGuard</a><br>
-<a href="https://trailofbits.github.io/algo">Algo</a></p>
 ]]></content>
     </entry>
     <entry>
@@ -484,6 +455,7 @@ number theoretical questions undecidable for the human mind.</li>
         <content type="html"><![CDATA[<p>免责声明：下述内容仅供学习和研究使用，与我本人无任何利害关系。</p>
 <hr>
 <ul>
+<li><a href="#open-source">Open Source</a></li>
 <li><a href="#windows">Windows</a></li>
 <li><a href="#ios">iOS</a></li>
 <li><a href="#android">Android</a></li>
@@ -491,6 +463,9 @@ number theoretical questions undecidable for the human mind.</li>
 </ul>
 <p>搜索引擎：👁‍🗨</p>
 <ul>
+<li>
+<p>Searx https://searx.me/</p>
+</li>
 <li>
 <p>DogeDoge多吉搜索 https://www.dogedoge.com</p>
 </li>
@@ -501,6 +476,72 @@ number theoretical questions undecidable for the human mind.</li>
 <p>Startpage https://www.startpage.com</p>
 </li>
 </ul>
+<p>News：</p>
+<ul>
+<li>
+<p>DC residents get visits from FBI as agents track cell phones that pinged near the Capitol 【 FBI 记录分析20210106国会山游行参与者的手机信号 】</p>
+</li>
+<li>
+<p><a href="https://paper.seebug.org/">SeeBug 安全技术精粹</a> , <a href="https://paper.seebug.org/rss/">RSS</a>。</p>
+</li>
+<li>
+<p><a href="https://www.sec-wiki.com/news">SecWiki News</a> . <a href="https://www.sec-wiki.com/news/rss">RSS</a>。</p>
+</li>
+<li>
+<p><a href="https:krebsonsecurity.com">KrebsOnSecurity</a></p>
+</li>
+<li>
+<p><a href="https://www.schneier.com">️️Bruce Schneier on Security</a></p>
+</li>
+<li>
+<p><a href="http://wiki.ioin.in">Sec-News 安全文摘</a></p>
+</li>
+<li>
+<p><a href="https://citizenlab.ca">The Citizen Lab</a></p>
+</li>
+<li>
+<p><a href="https://gfw.report/">GFW Report</a></p>
+</li>
+<li>
+<p><a href="https://seclists.org">SecLists.Org Security Mailing List Archive</a></p>
+</li>
+<li>
+<p><a href="https://public-interest-tech.com">Public-Interest Technology Resources</a></p>
+</li>
+<li>
+<p><a href="https://www.cryptolux.org/index.php/Home">CryptoLUX</a></p>
+</li>
+<li>
+<p><a href="https://crypto.stanford.edu">Applied Cryptography Group</a></p>
+</li>
+<li>
+<p><a href="http://seclab.stanford.edu">Stanford Computer Security Laboratory</a></p>
+</li>
+<li>
+<p><a href="https://prism-break.org/">PRISM Break</a> 粉碎棱镜</p>
+</li>
+<li>
+<p><a href="https://www.privacytools.io/">PrivacyTools - Encryption Against Global Mass Surveillance</a> &amp; <a href="https://privacytools.twngo.xyz/">網路隱私工具</a></p>
+</li>
+<li>
+<p><a href="https://github.com/Atarity/deploy-your-own-saas">Deploy your own SaaS</a></p>
+</li>
+<li>
+<p><a href="https://github.com/ffffffff0x/Digital-Privacy">Digital-Privacy</a></p>
+</li>
+<li>
+<p><a href="https://thatoneprivacysite.net">VPN comparison by That One Privacy Guy</a></p>
+</li>
+<li>
+<p><a href="https://degoogle.jmoore.dev">Cutting Google out of your life</a></p>
+</li>
+</ul>
+<h1 id="open-source">Open Source</h1>
+<p><a href="https://nextcloud.com/">Nextcloud</a></p>
+<p><a href="https://github.com/DNSCrypt">DNSCrypt</a></p>
+<p><a href="https://github.com/StreisandEffect/streisand">Streisand</a></p>
+<p><a href="https://github.com/WireGuard">WireGuard</a></p>
+<p><a href="https://trailofbits.github.io/algo">Algo</a></p>
 <h1 id="windows">Windows</h1>
 <p><a href="https://support.microsoft.com/zh-cn/help/3159635/windows-10-update-assistant">Windows 10 更新助手</a></p>
 <p><a href="https://www.w10privacy.de/english-home/">W10Privacy</a> 禁用追踪监控功能</p>
@@ -568,6 +609,7 @@ number theoretical questions undecidable for the human mind.</li>
 <p><a href="https://useum.org/download-artworks">桌面背景壁纸</a></p>
 <h1 id="linux">Linux</h1>
 <p><a href="https://madaidans-insecurities.github.io/guides/linux-hardening.html">Linux Hardening Guide</a></p>
+<p><u><a href="https://www.digi77.com/linux-kodachi/">Kodachi The Secure OS</a></u></p>
 <p>Cloudflare DNS ：<a href="https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1">1.1.1.1</a></p>
 <p><a href="https://github.com/Eloston/ungoogled-chromium">ungoogled-chromium</a> 浏览器 sans integration with Google， 扩展插件：</p>
 <ul>
@@ -855,6 +897,7 @@ number theoretical questions undecidable for the human mind.</li>
 <p>1980 《近代来华外国人名辞典》中国社会科学院近代史所翻译室编</p>
 <p>1980年 东洋文库近代中国研究委员会编《明治以降日本人的中国旅行记：解题》(『明治以降日本人の中国旅行記：解題』)</p>
 <p>1985年 《走向世界：近代中国知识分子考察西方的历史》 钟叔河 中华书局</p>
+<p>&lt; Modernity on Endless Trial &gt; 科拉科夫斯基</p>
 <p>1993 《简明中国移民史》，葛剑雄、曹树基、吴松弟著</p>
 <p>1997年 小岛晋治监修《幕末明治中国见闻录集成》全20卷，ゆまに书房，二十卷</p>
 <p>《五四新論：既非文藝復興，亦非啓蒙運動》（[五四]八十周年紀念論文集）余英時等著</p>
