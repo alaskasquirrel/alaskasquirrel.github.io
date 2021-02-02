@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2021-01-26T11:36:47.198Z</updated>
+    <updated>2021-02-02T10:16:44.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -561,9 +561,8 @@ number theoretical questions undecidable for the human mind.</li>
 <li>
 <p><a href="https://github.com/lukesampson/scoop">Scoop</a> 软件包搜索安装管理，开源软件替代商业应用：</p>
 <ul>
-<li>PotPlayer 影音视频播放器</li>
 <li>7zip 解压软件</li>
-<li>ccleaner 缓存清理 ，亦可通过它卸载某些软件.</li>
+<li>BleachBit 清除缓存</li>
 <li>Everything 文件搜索</li>
 <li>GoldenDict 词典</li>
 <li>SumatraPDF 阅读器</li>
