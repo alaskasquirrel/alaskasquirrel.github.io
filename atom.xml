@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2021-02-02T10:19:32.500Z</updated>
+    <updated>2021-02-05T20:28:38.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -11,7 +11,139 @@
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, NewOld </rights>
     <entry>
-        <title type="html"><![CDATA[林毓生2014香港城市大學中國文化中心學術專題講座]]></title>
+        <title type="html"><![CDATA[楊振寧《美與物理學》2015年]]></title>
+        <id>https://alaskasquirrel.github.io/post/楊振寧/</id>
+        <link href="https://alaskasquirrel.github.io/post/楊振寧/">
+        </link>
+        <updated>2021-01-31T20:16:09.000Z</updated>
+        <content type="html"><![CDATA[<p>楊振寧，華裔物理學家。他與李政道共同提出理論物理學中弱作用力宇稱不守恆理論，共同獲得1957年諾貝爾物理學獎。他們是最早的華人諾貝爾獎得主。</p>
+<p>臺灣大學物理系特邀諾貝爾獎物理獎得主、臺大名譽博士楊振寧，進行科學演講。</p>
+<p>◕ 題目：科普演講 – 美與物理學</p>
+<p>◕ 時間：2015年3月19日（四）15:00-17:00</p>
+<p>◕ 地點：集思台大會議中心-<strong>國際會議廳</strong></p>
+<p>主辦單位：臺灣大學物理學系<br>
+協辦單位：臺灣大學科學教育發展中心</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【转】 What's so cool about Scheme?]]></title>
+        <id>https://alaskasquirrel.github.io/post/scheme/</id>
+        <link href="https://alaskasquirrel.github.io/post/scheme/">
+        </link>
+        <updated>2020-12-15T19:01:13.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p><a href="https://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html">What's so cool about Scheme?</a></p>
+</blockquote>
+<p>To: &quot;Guy Steele - Sun Microsystems Labs&quot;</p>
+<p>Subject: RE: What's so cool about Scheme?</p>
+<p>From: &quot;Anton van Straaten&quot;</p>
+<p>Date: Wed, 4 Jun 2003</p>
+<hr>
+<p>Guy Steele wrote:<br>
+&gt;      Mike Newhall wrote:<br>
+&gt;      At 08:23 PM 2003.06.03 -0400, Anton van Straaten wrote:<br>
+&gt;      &gt;I can sort of agree with that, but really, without closures,<br>
+&gt;      &gt;people will - and do - use all sorts of hacks anyway -<br>
+&gt;      &gt;objects, for example ;o)<br>
+&gt;<br>
+&gt;        As an aside, although I don't remember the exact argument, Christian<br>
+&gt;      Queinnec in LISP In Small Pieces made the case that, although<br>
+&gt;      many people consider objects to be 'poor man's closures', closures<br>
+&gt;      are in fact poor man's objects (in his opinion).<br>
+&gt;<br>
+&gt; A closure is an object that supports exactly one method: &quot;apply&quot;.</p>
+<p>That's true from one perspective, and was what I was thinking of related to<br>
+objects being used as hacks to work around lack of closures.  A closure's<br>
+simplicity can be an asset: classes and interfaces can get in the way of<br>
+simple parameterization of behavior.  Anyone who's tried functional<br>
+programming in Java or C++ has encountered this - it can be done, but it's<br>
+more tedious.  If all you want to do is e.g. (map somefun mylist), being<br>
+able to concisely define executable &quot;objects&quot; (closures), inline if<br>
+necessary, is very useful.</p>
+<p>But from another perspective, the apply &quot;method&quot; of a closure can be used as<br>
+a low-level method dispatch mechanism, so closures can be, and are, used to<br>
+implement very effective objects with multiple methods.  Oleg Kiselyov has a<br>
+short article on the subject:<br>
+<u>http://okmij.org/ftp/Scheme/oop-in-fp.txt</u></p>
+<p>Used in this way, closures can be said to be richer than objects because<br>
+they can support many more capabilities than just a single language-provided<br>
+method dispatch mechanism.  With closures seen as a building block with<br>
+which to implement objects, it's clear that objects are a poor man's<br>
+closures.</p>
+<p>But a Smalltalker might say hold on, if you're going to all the trouble to<br>
+implement these closure thingies in your language, since they're already a<br>
+lot like objects, why not go all the way and make them &quot;real&quot; objects that<br>
+can support an arbitrary number of methods, so that a closure is just one<br>
+special-case kind of object?  If your language only has these restricted<br>
+closures, and you're forced to build an object system on top of them, it's<br>
+clear that closures are a poor man's objects.</p>
+<p>Given this tension between opposites, I maintain that the question of<br>
+closures vs. objects should really be a koan.  I'll take some koanic license<br>
+and combine Norman Adams (alleged source of &quot;objects are a poor man's<br>
+closures&quot;) and Christian Queinnec (&quot;closures are a poor man's objects&quot;) into<br>
+a single great Zen language master named Qc Na.  I'll also take the<br>
+un-humble step of inserting myself as student, since as I mentioned in the<br>
+last paragraph of this message:<br>
+<u>http://www.ai.mit.edu/~gregs/ll1-discuss-archive-html/msg01488.html</u></p>
+<p>...I believe I did in fact gain some enlightenment from considering these<br>
+two apparently opposing positions.  Here goes:</p>
+<p>  The venerable master Qc Na was walking with his student, Anton.  Hoping to<br>
+prompt the master into a discussion, Anton said &quot;Master, I have heard that<br>
+objects are a very good thing - is this true?&quot;  Qc Na looked pityingly at<br>
+his student and replied, &quot;Foolish pupil - objects are merely a poor man's<br>
+closures.&quot;</p>
+<p>  Chastised, Anton took his leave from his master and returned to his cell,<br>
+intent on studying closures.  He carefully read the entire &quot;Lambda: The<br>
+Ultimate...&quot; series of papers and its cousins, and implemented a small<br>
+Scheme interpreter with a closure-based object system.  He learned much, and<br>
+looked forward to informing his master of his progress.</p>
+<p>  On his next walk with Qc Na, Anton attempted to impress his master by<br>
+saying &quot;Master, I have diligently studied the matter, and now understand<br>
+that objects are truly a poor man's closures.&quot;  Qc Na responded by hitting<br>
+Anton with his stick, saying &quot;When will you learn? Closures are a poor man's<br>
+object.&quot;  At that moment, Anton became enlightened.</p>
+<hr>
+<p>《<a href="https://mitpress.mit.edu/books/little-schemer-fourth-edition">The Little Schemer</a>》:</p>
+<p>scheme 中基本元素:</p>
+<p>atom（原子）,</p>
+<p>list（列表），</p>
+<p>car（取列表的第一项），</p>
+<p>cdr（取列表除第一项的余下作为列表），</p>
+<p>cons(把 a 元素加到 b 列表中）,</p>
+<p>null?(判断是否为空) ,</p>
+<p>eq?(是否相等)。</p>
+<p>以上就是全部了，之后的所有东西就靠以上关键字实现，包括 sheme 解释器，y 组合子，删除列表第 x 项元素。</p>
+<p>引入函数lambda以及or 关键词（if lese 作用），引入递归概念，实现函数lat?（判断列表里是否全为atom 原子），member？（列表是否包含xx）等为例子。</p>
+<p>用 cons 构筑恢宏<br>
+通过实现 rember（删除列表某元素）引入 cons 构建/拼接列表，实现 first（取列表第一项），实现 insertR（在列表的某项后插入一个元素），multiinsertR（在列表的某项后插入一个列表内所有元素——听到这个用递归做是否就有点不习惯了呢）。</p>
+<p>实现数字中的 +， -，*，/等方法，就是自己来做数字的这些功能，可能这样说对没有接触过丘奇计数的人有点奇怪</p>
+<p>此章中重新实现以前实现过的函数的泛化版本（都在函数名后加一个*，所以说都是星星）。</p>
+<p>比如rember*（这次接受的第二个参数不是原子了，是列表，列表中出现过的都要删掉）；insertR*（同理）等, eqlists(判断两个列表是否全等)。就是参数都为列表了，让递归来的更猛烈一些。</p>
+<p>引入算术表达式，如 1+3，3*4+12 等并写算术表达式解释器，算出结果。</p>
+<p>另外，值得一提的是又提了一遍丘奇数，如：</p>
+<blockquote>
+<p>4 代表概念上的四。因为人们更习惯阿拉巴表示法，所以我们选择了这个符号。但，(() () () ())也有同样效果，(I V)也可以。我们可以用() 代表 0， 1就是 ( () )，2 就是（（）（））</p>
+</blockquote>
+<p>那么加法就可以用 cons 做列表拼接 (cons (quote()) (quote()) ) 结果就是(())也就是 1。</p>
+<p>作者最后用了一个函数lat来说明在做高级抽象时应该注意不适用的陷阱（阴影），也就是本章标题的含义。</p>
+<p>写一个 set?函数（判断列表是否为 set也就是没有重复出现的元素），makeset(从列表中构建一个 set)，subset（b 是否 a 的子集），eqset?， interset?等。</p>
+<p>lambda 终结者<br>
+在把函数当做数据类型，作为参数传入函数使用时，引入 Curry-ing（柯里化）的概念：</p>
+<pre><code> (lambda (a)
+     (lambda (x)
+       (eq? x z))
+ )
+</code></pre>
+<p>如上，传入参数 apple 的时候，会返回函数</p>
+<pre><code>(lambda (apple)
+  (eq? apple z))
+</code></pre>
+<p>如上就可以构造出一个函数，传给 rember函数（根据条件删除列表中元素）作为参数使用。</p>
+<p>《<a href="https://letoverlambda.com/">Let Over Lambda — 50 Years of Lisp</a>》：</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[林毓生2014年香港城市大學中國文化中心學術專題講座]]></title>
         <id>https://alaskasquirrel.github.io/post/林毓生/</id>
         <link href="https://alaskasquirrel.github.io/post/林毓生/">
         </link>

@@ -110,6 +110,14 @@
                         </a>
                     </li>
                 
+                    <li>
+                        <a href="https://alaskasquirrel.github.io/atom"
+                        
+                        >
+                            RSS
+                        </a>
+                    </li>
+                
             </ul>
             <div class="col-lg-12 col-md-12 text-center">
                 <h1 id="fh5co-logo">
@@ -131,17 +139,17 @@
         <article class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
             <figure class="animate-box">
                 
-                    <img src="https://alaskasquirrel.github.io/post-images/scheme.png" alt="[转] What&#39;s so cool about Scheme?" class="img-responsive">
+                    <img src="https://alaskasquirrel.github.io/post-images/scheme.png" alt="【转】 What&#39;s so cool about Scheme?" class="img-responsive">
                 
             </figure>
             <span class="fh5co-meta animate-box">
                 
             </span>
-            <h2 class="fh5co-article-title animate-box">[转] What&#39;s so cool about Scheme?</h2>
+            <h2 class="fh5co-article-title animate-box">【转】 What&#39;s so cool about Scheme?</h2>
             <ol class="breadcrumb fh5co-meta fh5co-date animate-box" style="margin-bottom:0; background-color:#f8f9fa">
                 <li>2020-12-16</li>
-                <li>746字</li>
-                <li>5 min read</li>
+                <li>1453字</li>
+                <li>8 min read</li>
             </ol>
 
             <div class="col-lg-12 col-lg-offset-0 col-md-12 col-md-offset-0 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-left content-article">
@@ -218,6 +226,44 @@ saying &quot;Master, I have diligently studied the matter, and now understand<br
 that objects are truly a poor man's closures.&quot;  Qc Na responded by hitting<br>
 Anton with his stick, saying &quot;When will you learn? Closures are a poor man's<br>
 object.&quot;  At that moment, Anton became enlightened.</p>
+<hr>
+<p>《<a href="https://mitpress.mit.edu/books/little-schemer-fourth-edition">The Little Schemer</a>》:</p>
+<p>scheme 中基本元素:</p>
+<p>atom（原子）,</p>
+<p>list（列表），</p>
+<p>car（取列表的第一项），</p>
+<p>cdr（取列表除第一项的余下作为列表），</p>
+<p>cons(把 a 元素加到 b 列表中）,</p>
+<p>null?(判断是否为空) ,</p>
+<p>eq?(是否相等)。</p>
+<p>以上就是全部了，之后的所有东西就靠以上关键字实现，包括 sheme 解释器，y 组合子，删除列表第 x 项元素。</p>
+<p>引入函数lambda以及or 关键词（if lese 作用），引入递归概念，实现函数lat?（判断列表里是否全为atom 原子），member？（列表是否包含xx）等为例子。</p>
+<p>用 cons 构筑恢宏<br>
+通过实现 rember（删除列表某元素）引入 cons 构建/拼接列表，实现 first（取列表第一项），实现 insertR（在列表的某项后插入一个元素），multiinsertR（在列表的某项后插入一个列表内所有元素——听到这个用递归做是否就有点不习惯了呢）。</p>
+<p>实现数字中的 +， -，*，/等方法，就是自己来做数字的这些功能，可能这样说对没有接触过丘奇计数的人有点奇怪</p>
+<p>此章中重新实现以前实现过的函数的泛化版本（都在函数名后加一个*，所以说都是星星）。</p>
+<p>比如rember*（这次接受的第二个参数不是原子了，是列表，列表中出现过的都要删掉）；insertR*（同理）等, eqlists(判断两个列表是否全等)。就是参数都为列表了，让递归来的更猛烈一些。</p>
+<p>引入算术表达式，如 1+3，3*4+12 等并写算术表达式解释器，算出结果。</p>
+<p>另外，值得一提的是又提了一遍丘奇数，如：</p>
+<blockquote>
+<p>4 代表概念上的四。因为人们更习惯阿拉巴表示法，所以我们选择了这个符号。但，(() () () ())也有同样效果，(I V)也可以。我们可以用() 代表 0， 1就是 ( () )，2 就是（（）（））</p>
+</blockquote>
+<p>那么加法就可以用 cons 做列表拼接 (cons (quote()) (quote()) ) 结果就是(())也就是 1。</p>
+<p>作者最后用了一个函数lat来说明在做高级抽象时应该注意不适用的陷阱（阴影），也就是本章标题的含义。</p>
+<p>写一个 set?函数（判断列表是否为 set也就是没有重复出现的元素），makeset(从列表中构建一个 set)，subset（b 是否 a 的子集），eqset?， interset?等。</p>
+<p>lambda 终结者<br>
+在把函数当做数据类型，作为参数传入函数使用时，引入 Curry-ing（柯里化）的概念：</p>
+<pre><code> (lambda (a)
+     (lambda (x)
+       (eq? x z))
+ )
+</code></pre>
+<p>如上，传入参数 apple 的时候，会返回函数</p>
+<pre><code>(lambda (apple)
+  (eq? apple z))
+</code></pre>
+<p>如上就可以构造出一个函数，传给 rember函数（根据条件删除列表中元素）作为参数使用。</p>
+<p>《<a href="https://letoverlambda.com/">Let Over Lambda — 50 Years of Lisp</a>》：</p>
  </p>
                     </div>
                 </div>
@@ -229,7 +275,7 @@ object.&quot;  At that moment, Anton became enlightened.</p>
                                 <div class="next">下一篇</div>
                                 <a href="https://alaskasquirrel.github.io/post/林毓生/">
                                     <h3 class="post-title">
-                                        林毓生2014香港城市大學中國文化中心學術專題講座
+                                        林毓生2014年香港城市大學中國文化中心學術專題講座
                                     </h3>
                                 </a>
                             </div>
