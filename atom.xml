@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2021-02-21T20:54:01.667Z</updated>
+    <updated>2021-02-21T21:31:07.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -560,6 +560,9 @@ number theoretical questions undecidable for the human mind.</li>
 <li><a href="https://noscript.net/">NoScript</a></li>
 <li><a href="https://decentraleyes.org/">Decentraleyes</a></li>
 <li><a href="https://github.com/Cookie-AutoDelete/Cookie-AutoDelete">Cookie AutoDelete</a></li>
+<li><a href="https://github.com/tarampampam/random-user-agent">Random User-Agent</a></li>
+<li><a href="https://github.com/gorhill/uBlock">uBlock Orgin</a></li>
+<li><a href="https://www.localcdn.org/">LocalCDN</a></li>
 </ul>
 <p>RIME 开源输入法 https://rime.im</p>
 <p>VLC 视频播放器 https://www.videolan.org/vlc/</p>
@@ -575,7 +578,6 @@ number theoretical questions undecidable for the human mind.</li>
 <p><a href="https://support.microsoft.com/zh-cn/help/3159635/windows-10-update-assistant">Windows 10 更新助手</a></p>
 <p><a href="https://www.w10privacy.de/english-home/">W10Privacy</a> 禁用追踪监控功能</p>
 <p><a href="https://greatis.com/stopupdates10/">StopUpdates10</a> DWS Lite</p>
-<p><a href="https://www.oo-software.com/en/shutup10">O&amp;O ShutUp10</a> 隐私保护和设置优化工具</p>
 <ul>
 <li>
 <p><a href="https://github.com/lukesampson/scoop">Scoop</a> 软件包搜索安装管理，开源软件替代商业应用：</p>
@@ -586,6 +588,7 @@ number theoretical questions undecidable for the human mind.</li>
 <li>GoldenDict 词典</li>
 <li>SumatraPDF 阅读器</li>
 <li>Emacs</li>
+<li>O&amp;O ShutUp10 隐私保护和设置优化工具</li>
 </ul>
 </li>
 </ul>
@@ -599,7 +602,8 @@ number theoretical questions undecidable for the human mind.</li>
 <p><a href="https://sneak.berlin/20201112/your-computer-isnt-yours/">Your Computer Isn't Yours</a> &amp; <a href="https://sneak.berlin/i18n/2020-11-12-your-computer-isnt-yours.zh/">你的电脑不属于你</a></p>
 <h1 id="android">Android</h1>
 <ul>
-<li><a href="https://f-droid.org/en/">F-Droid</a> 专门收录自由软件的安卓应用商店
+<li>
+<p><a href="https://f-droid.org/en/">F-Droid</a> 专门收录自由软件的安卓应用商店</p>
 <ul>
 <li>Aurora Store 无需登录 Google 帐号和服务的 Play Store</li>
 <li>AntennaPod 播客管理器</li>
@@ -609,7 +613,8 @@ number theoretical questions undecidable for the human mind.</li>
 <li>Trime 输入法</li>
 </ul>
 </li>
-<li>Root
+<li>
+<p>Root</p>
 <ul>
 <li><a href="https://lineageos.org/">LineageOS</a> 基于Android面向智能手机以及平板电脑的开源操作系统</li>
 </ul>
