@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2021-03-04T01:21:28.272Z</updated>
+    <updated>2021-03-10T08:26:55.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -32,7 +32,7 @@
         </link>
         <updated>2020-10-10T14:36:08.000Z</updated>
         <content type="html"><![CDATA[<p>林毓生(封面拍摄于2008年) [臺灣中央研究院院士、美國威斯康星大學麥迪遜校區歷史學系榮譽教授]</p>
-<div align=center> 【反思現代性與中國革命經驗】  </div>
+<div align=center> <u>【反思現代性與中國革命經驗】</u></div>
 <p>1、導論：現代性的定義，中西現代史的共同現象與不同特徵</p>
 <p>2、西方現代性的主要論述(I)：韋伯(Max Weber)</p>
 <p>3、西方現代性的主要論述(II)：科拉考斯基(Leszek Kolakowski)、泰勒(Charles Taylor)</p>
@@ -43,6 +43,12 @@
 <p>8、五四新文化運動、極端反傳統主義的興起、中國共產主義運動的特色(道德想像與工具性)</p>
 <p>9、『毛澤東思想』的政治宗教性與烏托邦極權主義</p>
 <p>10、反思與展望</p>
+<hr>
+<p>附：</p>
+<figure data-type="image" tabindex="1"><img src="https://alaskasquirrel.github.io/post-images/1615190672422.jpg" alt="" loading="lazy"></figure>
+<p>《公民社會基本觀念》林毓生 主編 2014年6月出版</p>
+<figure data-type="image" tabindex="2"><img src="https://alaskasquirrel.github.io/post-images/1615190594074.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://alaskasquirrel.github.io/post-images/1615190606330.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -51,7 +57,7 @@
         <link href="https://alaskasquirrel.github.io/post/余英時/">
         </link>
         <updated>2020-10-08T12:28:13.000Z</updated>
-        <content type="html"><![CDATA[<p>20140919 演講實況 諸多視頻平臺可見。<a href="http://ccsdb.ncl.edu.tw/ccs/image/02_034_001_01_01.pdf">《漢學研究通訊》34卷1期</a>特載</p>
+        <content type="html"><![CDATA[<p>20140919 演講實況 諸多視頻平臺可見。<a href="http://ccsdb.ncl.edu.tw/ccs/image/02_034_001_01_01.pdf">《漢學研究通訊》34卷1期</a> 特載</p>
 ]]></content>
     </entry>
     <entry>
@@ -545,6 +551,7 @@ number theoretical questions undecidable for the human mind.</li>
 <p>Cloudflare DNS ：<a href="https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1">1.1.1.1</a></p>
 <p><a href="https://github.com/Eloston/ungoogled-chromium">ungoogled-chromium</a> 浏览器 sans integration with Google， 扩展插件：</p>
 <ul>
+<li><a href="https://github.com/NeverDecaf/chromium-web-store">Chromium Web Store</a></li>
 <li><a href="https://privacybadger.org/">Privacy Badger</a></li>
 <li><a href="https://www.eff.org/https-everywhere">HTTPS Everywhere</a></li>
 <li><a href="https://noscript.net/">NoScript</a></li>
@@ -575,9 +582,9 @@ number theoretical questions undecidable for the human mind.</li>
 <li>BleachBit 清除缓存</li>
 <li>Everything 文件搜索</li>
 <li>GoldenDict 词典</li>
-<li>MusicBee 播放器 电台、播客、音乐</li>
+<li>MusicBee 播放器：电台、播客、音乐</li>
 <li>SumatraPDF 阅读器</li>
-<li>Emacs</li>
+<li>Emacs 编辑器</li>
 <li>O&amp;O ShutUp10 隐私保护和设置优化工具</li>
 </ul>
 </li>
@@ -586,9 +593,9 @@ number theoretical questions undecidable for the human mind.</li>
 <p>TMAC https://technitium.com/tmac 修改网卡MAC地址</p>
 <p><a href="https://windowsawesome.com/">Windows Awesome</a></p>
 <p><a href="https://github.com/Awesome-Windows/Awesome">Awesome Windows</a></p>
-<h1 id="apple-ios">Apple iOS</h1>
+<h1 id="apple-ios">Apple iOS ：</h1>
 <p><a href="https://sneak.berlin/20201112/your-computer-isnt-yours/">Your Computer Isn't Yours</a> &amp; <a href="https://sneak.berlin/i18n/2020-11-12-your-computer-isnt-yours.zh/">你的电脑不属于你</a></p>
-<h1 id="android-开源">Android 开源</h1>
+<h1 id="android-开源刷机">Android 开源/刷机</h1>
 <ul>
 <li>
 <p><a href="https://f-droid.org/en/">F-Droid</a> 专门收录自由软件的安卓应用商店</p>
@@ -602,10 +609,9 @@ number theoretical questions undecidable for the human mind.</li>
 </ul>
 </li>
 <li>
-<p>Root</p>
+<p>Root 刷机</p>
 <ul>
 <li><a href="https://lineageos.org/">LineageOS</a> 基于Android面向智能手机以及平板电脑的开源操作系统</li>
-<li><a href="https://carbonrom.org/">CarbonROM</a></li>
 </ul>
 </li>
 </ul>
