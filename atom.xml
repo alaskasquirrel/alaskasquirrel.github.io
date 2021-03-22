@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2021-03-10T08:42:47.653Z</updated>
+    <updated>2021-03-22T12:42:31.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -58,6 +58,8 @@
         </link>
         <updated>2020-10-08T12:28:13.000Z</updated>
         <content type="html"><![CDATA[<p>20140919 演講實況 諸多視頻平臺可見。<a href="http://ccsdb.ncl.edu.tw/ccs/image/02_034_001_01_01.pdf">《漢學研究通訊》34卷1期</a> 特載</p>
+<p>附：</p>
+<p>《<a href="https://book.douban.com/subject/2982228/">五四新論：既非文藝復興，亦非啓蒙運動</a>》</p>
 ]]></content>
     </entry>
     <entry>
@@ -488,68 +490,62 @@ number theoretical questions undecidable for the human mind.</li>
 </li>
 </ul>
 <p>News：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"></th>
+<th style="text-align:center"></th>
+<th style="text-align:center"></th>
+<th style="text-align:center"></th>
+<th style="text-align:center"></th>
+<th style="text-align:center"></th>
+<th style="text-align:center"></th>
+<th style="text-align:center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><a href="https://paper.seebug.org/">SeeBug 安全技术精粹</a> , <a href="https://paper.seebug.org/rss/">RSS</a>。</td>
+<td style="text-align:center"><a href="https://www.sec-wiki.com/news">SecWiki News</a> . <a href="https://www.sec-wiki.com/news/rss">RSS</a>。</td>
+<td style="text-align:center"><a href="http://wiki.ioin.in">Sec-News 安全文摘</a></td>
+<td style="text-align:center"><a href="https:krebsonsecurity.com">KrebsOnSecurity</a></td>
+<td style="text-align:center"><a href="https://www.schneier.com">️️Bruce Schneier on Security</a></td>
+<td style="text-align:center"><a href="https://citizenlab.ca">The Citizen Lab</a></td>
+<td style="text-align:center"><a href="https://gfw.report/">GFW Report</a></td>
+<td style="text-align:center"><a href="https://seclists.org">SecLists.Org Security Mailing List Archive</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://public-interest-tech.com">Public-Interest Technology Resources</a></td>
+<td style="text-align:center"><a href="https://www.cryptolux.org/index.php/Home">CryptoLUX</a></td>
+<td style="text-align:center"><a href="https://crypto.stanford.edu">Applied Cryptography Group</a></td>
+<td style="text-align:center"><a href="http://seclab.stanford.edu">Stanford Computer Security Laboratory</a></td>
+<td style="text-align:center"><a href="https://prism-break.org/">PRISM Break</a> 粉碎棱镜</td>
+<td style="text-align:center"><a href="https://www.privacytools.io/">PrivacyTools - Encryption Against Global Mass Surveillance</a> &amp; <a href="https://privacytools.twngo.xyz/">網路隱私工具</a></td>
+<td style="text-align:center"><a href="https://github.com/Atarity/deploy-your-own-saas">Deploy your own SaaS</a></td>
+<td style="text-align:center"><a href="https://github.com/ffffffff0x/Digital-Privacy">Digital-Privacy</a> 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://thatoneprivacysite.net">VPN comparison by That One Privacy Guy</a></td>
+<td style="text-align:center"><a href="https://degoogle.jmoore.dev">Cutting Google out of your life</a></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
 <ul>
-<li>
-<p>DC residents get visits from FBI as agents track cell phones that pinged near the Capitol 【 FBI 记录分析20210106国会山游行参与者的手机信号 】</p>
-</li>
-<li>
-<p><a href="https://paper.seebug.org/">SeeBug 安全技术精粹</a> , <a href="https://paper.seebug.org/rss/">RSS</a>。</p>
-</li>
-<li>
-<p><a href="https://www.sec-wiki.com/news">SecWiki News</a> . <a href="https://www.sec-wiki.com/news/rss">RSS</a>。</p>
-</li>
-<li>
-<p><a href="https:krebsonsecurity.com">KrebsOnSecurity</a></p>
-</li>
-<li>
-<p><a href="https://www.schneier.com">️️Bruce Schneier on Security</a></p>
-</li>
-<li>
-<p><a href="http://wiki.ioin.in">Sec-News 安全文摘</a></p>
-</li>
-<li>
-<p><a href="https://citizenlab.ca">The Citizen Lab</a></p>
-</li>
-<li>
-<p><a href="https://gfw.report/">GFW Report</a></p>
-</li>
-<li>
-<p><a href="https://seclists.org">SecLists.Org Security Mailing List Archive</a></p>
-</li>
-<li>
-<p><a href="https://public-interest-tech.com">Public-Interest Technology Resources</a></p>
-</li>
-<li>
-<p><a href="https://www.cryptolux.org/index.php/Home">CryptoLUX</a></p>
-</li>
-<li>
-<p><a href="https://crypto.stanford.edu">Applied Cryptography Group</a></p>
-</li>
-<li>
-<p><a href="http://seclab.stanford.edu">Stanford Computer Security Laboratory</a></p>
-</li>
-<li>
-<p><a href="https://prism-break.org/">PRISM Break</a> 粉碎棱镜</p>
-</li>
-<li>
-<p><a href="https://www.privacytools.io/">PrivacyTools - Encryption Against Global Mass Surveillance</a> &amp; <a href="https://privacytools.twngo.xyz/">網路隱私工具</a></p>
-</li>
-<li>
-<p><a href="https://github.com/Atarity/deploy-your-own-saas">Deploy your own SaaS</a></p>
-</li>
-<li>
-<p><a href="https://github.com/ffffffff0x/Digital-Privacy">Digital-Privacy</a> 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗</p>
-</li>
-<li>
-<p><a href="https://thatoneprivacysite.net">VPN comparison by That One Privacy Guy</a></p>
-</li>
-<li>
-<p><a href="https://degoogle.jmoore.dev">Cutting Google out of your life</a></p>
-</li>
+<li>DC residents get visits from FBI as agents track cell phones that pinged near the Capitol 【 FBI 记录分析20210106国会山游行参与者的手机信号 】</li>
 </ul>
 <h1 id="open-source">Open Source</h1>
+<p><a href="https://github.com/DNSCrypt">DNSCrypt</a></p>
 <p>Cloudflare DNS ：<a href="https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1">1.1.1.1</a></p>
-<p><a href="https://github.com/Eloston/ungoogled-chromium">ungoogled-chromium</a> 浏览器 sans integration with Google， 扩展插件：</p>
+<p><a href="https://dnscrypt.one/">dnscrypt.one | DNSCrypt resolver and relay in Germany</a></p>
+<p><a href="https://nextdns.io/">NextDNS - The new firewall for the modern Internet.<br>
+</a></p>
+<p><a href="https://github.com/Eloston/ungoogled-chromium">ungoogled-chromium</a> 浏览器 sans integration with Google，<a href="https://spyware.neocities.org/articles/index.html">Comparison between web browsers — Spyware Watchdog</a> 扩展插件：</p>
 <ul>
 <li><a href="https://github.com/NeverDecaf/chromium-web-store">Chromium Web Store</a></li>
 <li><a href="https://privacybadger.org/">Privacy Badger</a></li>
@@ -564,7 +560,6 @@ number theoretical questions undecidable for the human mind.</li>
 <p>RIME 开源输入法 https://rime.im</p>
 <p>VLC 视频播放器 https://www.videolan.org/vlc/</p>
 <p><a href="https://nextcloud.com/">Nextcloud</a></p>
-<p><a href="https://github.com/DNSCrypt">DNSCrypt</a></p>
 <p><a href="https://github.com/StreisandEffect/streisand">Streisand</a></p>
 <p><a href="https://github.com/WireGuard">WireGuard</a></p>
 <p><a href="https://trailofbits.github.io/algo">Algo</a></p>
@@ -589,6 +584,7 @@ number theoretical questions undecidable for the human mind.</li>
 </ul>
 </li>
 </ul>
+<p><a href="https://www.simplednscrypt.org/">Simple DNSCrypt - A simple management tool for dnscrypt-proxy</a></p>
 <p>GlassWire https://www.glasswire.com 监控应用流量</p>
 <p>TMAC https://technitium.com/tmac 修改网卡MAC地址</p>
 <p><a href="https://windowsawesome.com/">Windows Awesome</a></p>
@@ -1571,29 +1567,8 @@ http://www.cpu-world.com/CPUs/4004/index.html<br>
 <a href="https://www.cs.utah.edu/~mflatt/past-courses/cs7520/public_html/s06/notes.pdf">Programming Languages and Lambda Calculi</a><br>
 &lt; <em>Type and Programming Languages</em> &gt; 译《类型和程序设计语言》<br>
 <a href="http://lambda-the-ultimate.org">Lambda the Ultimate</a><br>
-<a href="https://theory.cs.princeton.edu/complexity/book.pdf">&lt; Computational Complexity: A Modern Approach &gt;</a></p>
-<p><a href="https://github.com/alaskasquirrel/Lisp-China">Lisp-China</a> ：</p>
-<ul>
-<li><a href="https://www.whoishostingthis.com/resources/lisp/">Learn Lisp Programming:Intro,Versions,and More</a></li>
-<li><a href="https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/">A Road to Common Lisp</a></li>
-<li><a href="http://www.softwarepreservation.org/projects/LISP">History of Lisp</a> - <a href="https://mcjones.org/">Paul Mcjones</a></li>
-<li><a href="https://european-lisp-symposium.org">European Lisp Symposium</a></li>
-<li>&lt; <em>Scheme and the Art of Programing</em> &gt;</li>
-<li>&lt; <em>Essentials of Programming Languages</em> &gt;</li>
-<li>&lt;<a href="https://www.scheme.com/tspl4">The Scheme Programming Language, 4th Edition</a>&gt;</li>
-<li>&lt;<a href="https://www.cs.cmu.edu/afs/cs.cmu.edu/project/ai-repository/ai/html/cltl/cltl2.html">Common Lisp the Language, 2nd Edition</a>&gt; by  Guy L. Steele Jr. &amp;全面且详细</li>
-<li><a href="http://paulgraham.com/onlisptext.html">&lt; On Lisp: Advanced Techniques for Common Lisp&gt;</a>Paul Graham 高级编程 &amp;  <a href="https://sourceforge.net/projects/onlisp-cn/files/onlisp-cn_20140217.pdf/download">中文翻译</a></li>
-<li><a href="https://letoverlambda.com/textmode.cl"><Let Over Lambda></a>Doug Hoyte 《On《On Lisp》》</li>
-<li><a href="https://www.gigamonkeys.com/book/"><Practical Common Lisp></a>Peter Seibel 译《实用Common Lisp编程》田春</li>
-<li>&lt; <em>Object-Oriented Programming in Common LISP: A Programmer's Guide to CLOS</em> &gt;Sonja E. Keene</li>
-<li>&lt; <em>ANSI Common Lisp</em> &gt;Paul Graham <a href="https://acl.readthedocs.io/en/latest/zhCN/index.html">中文翻译</a> &amp; 基础教程</li>
-<li>&lt;<a href="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html">Structure and Interpretation of Computer Programs</a>&gt; 译《计算机程序的构造与解释》</li>
-<li>&lt; <em>Lisp in Small Pieces</em>&gt; Christian Queinnec</li>
-<li>&lt;<a href="https://github.com/norvig/paip-lisp">Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp</a>&gt; &amp; 经典AI算法，侧重逻辑和推理。study lisp.</li>
-<li><a href="https://legacy-cs.sice.indiana.edu/~dfried/">&lt;小人书&gt;</a>Daniel P. Friedman</li>
-<li>&lt; <em>Clojure Programming</em> &gt;</li>
-</ul>
-<p>&lt;<a href="https://www.cs.cmu.edu/~rwh/pfpl/">Practical Foundations for Programming Languages</a>&gt;  Second Editon by Robert Harper<br>
+<a href="https://theory.cs.princeton.edu/complexity/book.pdf">&lt; Computational Complexity: A Modern Approach &gt;</a><br>
+&lt;<a href="https://www.cs.cmu.edu/~rwh/pfpl/">Practical Foundations for Programming Languages</a>&gt;  Second Editon by Robert Harper<br>
 &lt; <em>Programming Language Pragmatics</em>&gt; 译《程序设计语言——实践之路》Michael L. Scott<br>
 &lt;<a href="https://norvig.com/design-patterns/design-patterns.pdf">Design Patterns in Dynamic Programming</a>&gt;  by <a href="http://norvig.com/">Peter Norvig</a><br>
 &lt; <em>Inside The Python Virtual Machine</em>&gt; Obi ike-Nwosu<br>
