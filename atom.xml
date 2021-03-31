@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2021-03-25T12:12:38.807Z</updated>
+    <updated>2021-03-31T08:20:51.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -10,6 +10,90 @@
     <logo>https://alaskasquirrel.github.io/images/avatar.png</logo>
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, NewOld </rights>
+    <entry>
+        <title type="html"><![CDATA[内存管理的秘密]]></title>
+        <id>https://alaskasquirrel.github.io/post/memory/</id>
+        <link href="https://alaskasquirrel.github.io/post/memory/">
+        </link>
+        <updated>2021-02-06T00:05:22.000Z</updated>
+        <content type="html"><![CDATA[<p>分页--现代计算机高效内存管理背后的秘密。</p>
+<p>我们来看看最早的计算机是如何处理将程序加载到内存中的。IBM OS/360使用的操作系统叫MFT，它使用了一种非常简单的方法来分配内存给程序。</p>
+<ul>
+<li>
+<p>内存被划分成几个固定大小的分区。</p>
+</li>
+<li>
+<p>每个分区可以正好包含一个进程</p>
+</li>
+<li>
+<p>当一个分区空闲时，从待处理队列中选择一个进程，并将其加载到空闲分区中。</p>
+</li>
+<li>
+<p>当进程终止时，内存将被重新分配，并重新成为空闲分区。</p>
+</li>
+</ul>
+<p>后来又推出了一个更先进的版本，称为MVT。它的工作原理如下。</p>
+<ul>
+<li>
+<p>操作系统有一张表，显示内存中哪些部分可用，哪些部分被占用。</p>
+</li>
+<li>
+<p>最初，整个内存都是空的，它被认为是一个大块的可用内存，称为洞。</p>
+</li>
+<li>
+<p>当一个进程需要内存时，我们就会寻找一个足够大的洞，以适应进程的需要。当我们找到一个这样的洞时，我们只分配了进程所需要的内存。剩余的内存会形成另一个洞，供其他进程使用。</p>
+</li>
+</ul>
+<p>在任何时候，操作系统都有一个可用的孔及其大小的列表，它还会跟踪待处理的进程队列。如果没有足够大的孔来容纳一个进程，操作系统将不得不等待内存被deallocated，或者跳过该进程，进入队列。</p>
+<p>在固定分区系统中，有三种常用的分配内存的策略。它们分别是first-fit、best-fit和worse-fit。我不会在本文中介绍它们，但你可以在<a href="https://www.geeksforgeeks.org/partition-allocation-methods-in-memory-management/">这里</a>阅读更多内容。</p>
+<p>为什么这种方法不好呢？<br>
+随着越来越多的进程从内存中添加和删除，内存空间会被分解成小块。由于内存空间不连续，即使所需内存可用，操作系统也无法为进程分配内存。这就是所谓的外部碎片。</p>
+<blockquote>
+<p>当有足够的总内存空间来满足一个进程的要求，但可用的内存空间并不抢手时，就存在外部碎片。</p>
+</blockquote>
+<p>操作系统面临的另一个问题是内部碎片的问题。</p>
+<ul>
+<li>
+<p>假设一个进程需要9998字节的内存，而有一个10000字节的空洞。</p>
+</li>
+<li>
+<p>如果我们给它分配它所需要的准确的内存量，它将留下2个字节的洞。</p>
+</li>
+<li>
+<p>追踪这2个字节的开销要比2个字节本身的开销大。</p>
+</li>
+<li>
+<p>给进程分配一些额外的内存是比较合理的。进程未使用的额外内存会造成内部碎片--分配给分区但未使用的内存。</p>
+</li>
+</ul>
+<p>Here comes paging</p>
+<blockquote>
+<p>分页是一种内存管理方案，它使分配给进程的内存地址在物理内存上是非连续的。</p>
+</blockquote>
+<ul>
+<li>
+<p>实现分页的基本方法是维护两个地址空间--逻辑地址空间和物理地址空间。</p>
+</li>
+<li>
+<p>逻辑存储器被划分为固定大小的块，称为页。物理存储器被划分为相同大小的块，称为帧。</p>
+</li>
+<li>
+<p>CPU产生的每个地址分为两部分：页号（p）和页偏移量（d）。</p>
+</li>
+<li>
+<p>页号作为页表的索引。页表中包含了物理存储器内每一页的基址（p）。这个基址(f)与页偏移量(d)结合起来，就可以得到发送到内存单元的物理内存地址。</p>
+</li>
+</ul>
+<figure data-type="image" tabindex="1"><img src="https://alaskasquirrel.github.io/post-images/1612570748752.png" alt="" loading="lazy"></figure>
+<p>碎片问题</p>
+<p>在使用寻呼时，我们不存在外部碎片化的问题。但是，内部碎片可能仍然存在。如果一个进程的内存需求与页面大小不一致，最后一帧可能不会被完全使用。</p>
+<p>如果进程大小与页面大小无关，内部碎片预计每个进程有半页，如果页面大小较小，内部碎片并不是很巨大。</p>
+<p>速度分析</p>
+<p>引入的中间步骤可能会对每个操作产生额外的延迟。出于这个原因，使用了<a href="https://en.wikipedia.org/wiki/Translation_lookaside_buffer">翻译旁观缓冲区</a>，这是一个特殊的缓存表，存储了最常用的地址。</p>
+<p>参考：<br>
+https://blog.burhanuday.tech/paging-the-secret-behind-the-modern-computers-efficient-memory-management</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[楊振寧《美與物理學》2015年]]></title>
         <id>https://alaskasquirrel.github.io/post/楊振寧/</id>
@@ -23,6 +107,123 @@
 <p>◕ 地點：集思台大會議中心-<strong>國際會議廳</strong></p>
 <p>主辦單位：臺灣大學物理學系<br>
 協辦單位：臺灣大學科學教育發展中心</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【转】 What's so cool about Scheme?]]></title>
+        <id>https://alaskasquirrel.github.io/post/scheme/</id>
+        <link href="https://alaskasquirrel.github.io/post/scheme/">
+        </link>
+        <updated>2020-12-15T19:01:13.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p><a href="https://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html">What's so cool about Scheme?</a></p>
+</blockquote>
+<p>To: &quot;Guy Steele - Sun Microsystems Labs&quot;</p>
+<p>Subject: RE: What's so cool about Scheme?</p>
+<p>From: &quot;Anton van Straaten&quot;</p>
+<p>Date: Wed, 4 Jun 2003</p>
+<hr>
+<p>Guy Steele wrote:<br>
+&gt;      Mike Newhall wrote:<br>
+&gt;      At 08:23 PM 2003.06.03 -0400, Anton van Straaten wrote:<br>
+&gt;      &gt;I can sort of agree with that, but really, without closures,<br>
+&gt;      &gt;people will - and do - use all sorts of hacks anyway -<br>
+&gt;      &gt;objects, for example ;o)<br>
+&gt;<br>
+&gt;        As an aside, although I don't remember the exact argument, Christian<br>
+&gt;      Queinnec in LISP In Small Pieces made the case that, although<br>
+&gt;      many people consider objects to be 'poor man's closures', closures<br>
+&gt;      are in fact poor man's objects (in his opinion).<br>
+&gt;<br>
+&gt; A closure is an object that supports exactly one method: &quot;apply&quot;.</p>
+<p>That's true from one perspective, and was what I was thinking of related to<br>
+objects being used as hacks to work around lack of closures.  A closure's<br>
+simplicity can be an asset: classes and interfaces can get in the way of<br>
+simple parameterization of behavior.  Anyone who's tried functional<br>
+programming in Java or C++ has encountered this - it can be done, but it's<br>
+more tedious.  If all you want to do is e.g. (map somefun mylist), being<br>
+able to concisely define executable &quot;objects&quot; (closures), inline if<br>
+necessary, is very useful.</p>
+<p>But from another perspective, the apply &quot;method&quot; of a closure can be used as<br>
+a low-level method dispatch mechanism, so closures can be, and are, used to<br>
+implement very effective objects with multiple methods.  Oleg Kiselyov has a<br>
+short article on the subject:<br>
+<u>http://okmij.org/ftp/Scheme/oop-in-fp.txt</u></p>
+<p>Used in this way, closures can be said to be richer than objects because<br>
+they can support many more capabilities than just a single language-provided<br>
+method dispatch mechanism.  With closures seen as a building block with<br>
+which to implement objects, it's clear that objects are a poor man's<br>
+closures.</p>
+<p>But a Smalltalker might say hold on, if you're going to all the trouble to<br>
+implement these closure thingies in your language, since they're already a<br>
+lot like objects, why not go all the way and make them &quot;real&quot; objects that<br>
+can support an arbitrary number of methods, so that a closure is just one<br>
+special-case kind of object?  If your language only has these restricted<br>
+closures, and you're forced to build an object system on top of them, it's<br>
+clear that closures are a poor man's objects.</p>
+<p>Given this tension between opposites, I maintain that the question of<br>
+closures vs. objects should really be a koan.  I'll take some koanic license<br>
+and combine Norman Adams (alleged source of &quot;objects are a poor man's<br>
+closures&quot;) and Christian Queinnec (&quot;closures are a poor man's objects&quot;) into<br>
+a single great Zen language master named Qc Na.  I'll also take the<br>
+un-humble step of inserting myself as student, since as I mentioned in the<br>
+last paragraph of this message:<br>
+<u>http://www.ai.mit.edu/~gregs/ll1-discuss-archive-html/msg01488.html</u></p>
+<p>...I believe I did in fact gain some enlightenment from considering these<br>
+two apparently opposing positions.  Here goes:</p>
+<p>  The venerable master Qc Na was walking with his student, Anton.  Hoping to<br>
+prompt the master into a discussion, Anton said &quot;Master, I have heard that<br>
+objects are a very good thing - is this true?&quot;  Qc Na looked pityingly at<br>
+his student and replied, &quot;Foolish pupil - objects are merely a poor man's<br>
+closures.&quot;</p>
+<p>  Chastised, Anton took his leave from his master and returned to his cell,<br>
+intent on studying closures.  He carefully read the entire &quot;Lambda: The<br>
+Ultimate...&quot; series of papers and its cousins, and implemented a small<br>
+Scheme interpreter with a closure-based object system.  He learned much, and<br>
+looked forward to informing his master of his progress.</p>
+<p>  On his next walk with Qc Na, Anton attempted to impress his master by<br>
+saying &quot;Master, I have diligently studied the matter, and now understand<br>
+that objects are truly a poor man's closures.&quot;  Qc Na responded by hitting<br>
+Anton with his stick, saying &quot;When will you learn? Closures are a poor man's<br>
+object.&quot;  At that moment, Anton became enlightened.</p>
+<hr>
+<p>《<a href="https://mitpress.mit.edu/books/little-schemer-fourth-edition">The Little Schemer</a>》:</p>
+<p>scheme 中基本元素:</p>
+<p>atom（原子）,</p>
+<p>list（列表），</p>
+<p>car（取列表的第一项），</p>
+<p>cdr（取列表除第一项的余下作为列表），</p>
+<p>cons(把 a 元素加到 b 列表中）,</p>
+<p>null?(判断是否为空) ,</p>
+<p>eq?(是否相等)。</p>
+<p>以上就是全部了，之后的所有东西就靠以上关键字实现，包括 sheme 解释器，y 组合子，删除列表第 x 项元素。</p>
+<p>引入函数lambda以及or 关键词（if lese 作用），引入递归概念，实现函数lat?（判断列表里是否全为atom 原子），member？（列表是否包含xx）等为例子。</p>
+<p>用 cons 构筑恢宏<br>
+通过实现 rember（删除列表某元素）引入 cons 构建/拼接列表，实现 first（取列表第一项），实现 insertR（在列表的某项后插入一个元素），multiinsertR（在列表的某项后插入一个列表内所有元素——听到这个用递归做是否就有点不习惯了呢）。</p>
+<p>实现数字中的 +， -，*，/等方法，就是自己来做数字的这些功能，可能这样说对没有接触过丘奇计数的人有点奇怪</p>
+<p>此章中重新实现以前实现过的函数的泛化版本（都在函数名后加一个*，所以说都是星星）。</p>
+<p>比如rember*（这次接受的第二个参数不是原子了，是列表，列表中出现过的都要删掉）；insertR*（同理）等, eqlists(判断两个列表是否全等)。就是参数都为列表了，让递归来的更猛烈一些。</p>
+<p>引入算术表达式，如 1+3，3*4+12 等并写算术表达式解释器，算出结果。</p>
+<p>另外，值得一提的是又提了一遍丘奇数，如：</p>
+<blockquote>
+<p>4 代表概念上的四。因为人们更习惯阿拉巴表示法，所以我们选择了这个符号。但，(() () () ())也有同样效果，(I V)也可以。我们可以用() 代表 0， 1就是 ( () )，2 就是（（）（））</p>
+</blockquote>
+<p>那么加法就可以用 cons 做列表拼接 (cons (quote()) (quote()) ) 结果就是(())也就是 1。</p>
+<p>作者最后用了一个函数lat来说明在做高级抽象时应该注意不适用的陷阱（阴影），也就是本章标题的含义。</p>
+<p>写一个 set?函数（判断列表是否为 set也就是没有重复出现的元素），makeset(从列表中构建一个 set)，subset（b 是否 a 的子集），eqset?， interset?等。</p>
+<p>lambda 终结者<br>
+在把函数当做数据类型，作为参数传入函数使用时，引入 Curry-ing（柯里化）的概念：</p>
+<pre><code> (lambda (a)
+     (lambda (x)
+       (eq? x z))
+ )
+</code></pre>
+<p>如上，传入参数 apple 的时候，会返回函数</p>
+<pre><code>(lambda (apple)
+  (eq? apple z))
+</code></pre>
+<p>如上就可以构造出一个函数，传给 rember函数（根据条件删除列表中元素）作为参数使用。</p>
+<p>《<a href="https://letoverlambda.com/">Let Over Lambda — 50 Years of Lisp</a>》：</p>
 ]]></content>
     </entry>
     <entry>
@@ -484,9 +685,6 @@ number theoretical questions undecidable for the human mind.</li>
 </li>
 <li>
 <p>Searx https://searx.me/</p>
-</li>
-<li>
-<p>DogeDoge多吉搜索 https://www.dogedoge.com</p>
 </li>
 </ul>
 <p>News：</p>

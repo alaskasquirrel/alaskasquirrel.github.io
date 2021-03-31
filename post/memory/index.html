@@ -139,29 +139,98 @@
         <article class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2 col-xs-12 col-xs-offset-0">
             <figure class="animate-box">
                 
-                    <img src="https://alaskasquirrel.github.io/post-images/楊振寧.jpg" alt="楊振寧《美與物理學》2015年" class="img-responsive">
+                    <img src="https://alaskasquirrel.github.io/post-images/memory.png" alt="内存管理的秘密" class="img-responsive">
                 
             </figure>
             <span class="fh5co-meta animate-box">
                 
             </span>
-            <h2 class="fh5co-article-title animate-box">楊振寧《美與物理學》2015年</h2>
+            <h2 class="fh5co-article-title animate-box">内存管理的秘密</h2>
             <ol class="breadcrumb fh5co-meta fh5co-date animate-box" style="margin-bottom:0; background-color:#f8f9fa">
-                <li>2021-02-01</li>
-                <li>160字</li>
-                <li>1 min read</li>
+                <li>2021-02-06</li>
+                <li>1085字</li>
+                <li>4 min read</li>
             </ol>
 
             <div class="col-lg-12 col-lg-offset-0 col-md-12 col-md-offset-0 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-left content-article">
                 <div class="row">
                     <div class="col-md-12 animate-box post-content">
-                        <p> <p>楊振寧，華裔物理學家。他與李政道共同提出理論物理學中弱作用力宇稱不守恆理論，共同獲得1957年諾貝爾物理學獎。他們是最早的華人諾貝爾獎得主。</p>
-<p>臺灣大學物理系特邀諾貝爾獎物理獎得主、臺大名譽博士楊振寧，進行科學演講。</p>
-<p>◕ 題目：科普演講 – 美與物理學</p>
-<p>◕ 時間：2015年3月19日（四）15:00-17:00</p>
-<p>◕ 地點：集思台大會議中心-<strong>國際會議廳</strong></p>
-<p>主辦單位：臺灣大學物理學系<br>
-協辦單位：臺灣大學科學教育發展中心</p>
+                        <p> <p>分页--现代计算机高效内存管理背后的秘密。</p>
+<p>我们来看看最早的计算机是如何处理将程序加载到内存中的。IBM OS/360使用的操作系统叫MFT，它使用了一种非常简单的方法来分配内存给程序。</p>
+<ul>
+<li>
+<p>内存被划分成几个固定大小的分区。</p>
+</li>
+<li>
+<p>每个分区可以正好包含一个进程</p>
+</li>
+<li>
+<p>当一个分区空闲时，从待处理队列中选择一个进程，并将其加载到空闲分区中。</p>
+</li>
+<li>
+<p>当进程终止时，内存将被重新分配，并重新成为空闲分区。</p>
+</li>
+</ul>
+<p>后来又推出了一个更先进的版本，称为MVT。它的工作原理如下。</p>
+<ul>
+<li>
+<p>操作系统有一张表，显示内存中哪些部分可用，哪些部分被占用。</p>
+</li>
+<li>
+<p>最初，整个内存都是空的，它被认为是一个大块的可用内存，称为洞。</p>
+</li>
+<li>
+<p>当一个进程需要内存时，我们就会寻找一个足够大的洞，以适应进程的需要。当我们找到一个这样的洞时，我们只分配了进程所需要的内存。剩余的内存会形成另一个洞，供其他进程使用。</p>
+</li>
+</ul>
+<p>在任何时候，操作系统都有一个可用的孔及其大小的列表，它还会跟踪待处理的进程队列。如果没有足够大的孔来容纳一个进程，操作系统将不得不等待内存被deallocated，或者跳过该进程，进入队列。</p>
+<p>在固定分区系统中，有三种常用的分配内存的策略。它们分别是first-fit、best-fit和worse-fit。我不会在本文中介绍它们，但你可以在<a href="https://www.geeksforgeeks.org/partition-allocation-methods-in-memory-management/">这里</a>阅读更多内容。</p>
+<p>为什么这种方法不好呢？<br>
+随着越来越多的进程从内存中添加和删除，内存空间会被分解成小块。由于内存空间不连续，即使所需内存可用，操作系统也无法为进程分配内存。这就是所谓的外部碎片。</p>
+<blockquote>
+<p>当有足够的总内存空间来满足一个进程的要求，但可用的内存空间并不抢手时，就存在外部碎片。</p>
+</blockquote>
+<p>操作系统面临的另一个问题是内部碎片的问题。</p>
+<ul>
+<li>
+<p>假设一个进程需要9998字节的内存，而有一个10000字节的空洞。</p>
+</li>
+<li>
+<p>如果我们给它分配它所需要的准确的内存量，它将留下2个字节的洞。</p>
+</li>
+<li>
+<p>追踪这2个字节的开销要比2个字节本身的开销大。</p>
+</li>
+<li>
+<p>给进程分配一些额外的内存是比较合理的。进程未使用的额外内存会造成内部碎片--分配给分区但未使用的内存。</p>
+</li>
+</ul>
+<p>Here comes paging</p>
+<blockquote>
+<p>分页是一种内存管理方案，它使分配给进程的内存地址在物理内存上是非连续的。</p>
+</blockquote>
+<ul>
+<li>
+<p>实现分页的基本方法是维护两个地址空间--逻辑地址空间和物理地址空间。</p>
+</li>
+<li>
+<p>逻辑存储器被划分为固定大小的块，称为页。物理存储器被划分为相同大小的块，称为帧。</p>
+</li>
+<li>
+<p>CPU产生的每个地址分为两部分：页号（p）和页偏移量（d）。</p>
+</li>
+<li>
+<p>页号作为页表的索引。页表中包含了物理存储器内每一页的基址（p）。这个基址(f)与页偏移量(d)结合起来，就可以得到发送到内存单元的物理内存地址。</p>
+</li>
+</ul>
+<figure data-type="image" tabindex="1"><img src="https://alaskasquirrel.github.io/post-images/1612570748752.png" alt="" loading="lazy"></figure>
+<p>碎片问题</p>
+<p>在使用寻呼时，我们不存在外部碎片化的问题。但是，内部碎片可能仍然存在。如果一个进程的内存需求与页面大小不一致，最后一帧可能不会被完全使用。</p>
+<p>如果进程大小与页面大小无关，内部碎片预计每个进程有半页，如果页面大小较小，内部碎片并不是很巨大。</p>
+<p>速度分析</p>
+<p>引入的中间步骤可能会对每个操作产生额外的延迟。出于这个原因，使用了<a href="https://en.wikipedia.org/wiki/Translation_lookaside_buffer">翻译旁观缓冲区</a>，这是一个特殊的缓存表，存储了最常用的地址。</p>
+<p>参考：<br>
+https://blog.burhanuday.tech/paging-the-secret-behind-the-modern-computers-efficient-memory-management</p>
  </p>
                     </div>
                 </div>
@@ -171,9 +240,9 @@
                         
                             <div class="next-post">
                                 <div class="next">下一篇</div>
-                                <a href="https://alaskasquirrel.github.io/post/scheme/">
+                                <a href="https://alaskasquirrel.github.io/post/楊振寧/">
                                     <h3 class="post-title">
-                                        【转】 What&#39;s so cool about Scheme?
+                                        楊振寧《美與物理學》2015年
                                     </h3>
                                 </a>
                             </div>
