@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2021-03-31T08:20:51.084Z</updated>
+    <updated>2021-04-07T13:11:38.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -10,6 +10,192 @@
     <logo>https://alaskasquirrel.github.io/images/avatar.png</logo>
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, NewOld </rights>
+    <entry>
+        <title type="html"><![CDATA[【译】The uninvited Internet of things]]></title>
+        <id>https://alaskasquirrel.github.io/post/the-uninvited-internet-of-things/</id>
+        <link href="https://alaskasquirrel.github.io/post/the-uninvited-internet-of-things/">
+        </link>
+        <updated>2021-04-02T06:37:39.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>https://lwn.net/SubscriberLink/850218/9c0f0946579fe577/ By Jonathan Corbet<br>
+March 26, 2021.</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[译：16th Century Mathematics]]></title>
+        <id>https://alaskasquirrel.github.io/post/16th-century-mathematics/</id>
+        <link href="https://alaskasquirrel.github.io/post/16th-century-mathematics/">
+        </link>
+        <updated>2021-04-01T16:07:26.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>https://www.storyofmathematics.com/16th.html</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[译：17th Century Mathematics]]></title>
+        <id>https://alaskasquirrel.github.io/post/17th-century-mathematics/</id>
+        <link href="https://alaskasquirrel.github.io/post/17th-century-mathematics/">
+        </link>
+        <updated>2021-04-01T16:06:38.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>https://www.storyofmathematics.com/17th.html</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[译：18th Century Mathematics]]></title>
+        <id>https://alaskasquirrel.github.io/post/18th-century-mathematics/</id>
+        <link href="https://alaskasquirrel.github.io/post/18th-century-mathematics/">
+        </link>
+        <updated>2021-04-01T16:05:36.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>https://www.storyofmathematics.com/18th.html</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[译：19th Century Mathematics]]></title>
+        <id>https://alaskasquirrel.github.io/post/19th-century-mathematics/</id>
+        <link href="https://alaskasquirrel.github.io/post/19th-century-mathematics/">
+        </link>
+        <updated>2021-04-01T16:04:05.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>https://www.storyofmathematics.com/19th.html</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【转】“文化：中国与世界”暨“现代西方学术文库”三十年（1986-2016）]]></title>
+        <id>https://alaskasquirrel.github.io/post/文化：中国与世界/</id>
+        <link href="https://alaskasquirrel.github.io/post/文化：中国与世界/">
+        </link>
+        <updated>2021-03-10T14:36:08.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>三联学术通讯 https://site.douban.com/162358/widget/notes/192512379/note/595575797/</p>
+</blockquote>
+<p><img src="https://alaskasquirrel.github.io/post-images/1617249347697.jpg" alt="" loading="lazy"><br>
+（1986年12月10日《光明日报》发布的系列丛书广告）</p>
+<figure data-type="image" tabindex="1"><img src="https://alaskasquirrel.github.io/post-images/1617249553122.jpg" alt="" loading="lazy"></figure>
+<p>（1986年12月号《读书》杂志封底）</p>
+<p>★ 关于“文化：中国与世界”编委会</p>
+<p>  1985年，国内的“文化热”拉开序幕，短短四年间造就了“五四”以来规模最大的一次文化反思运动。“文化：中国与世界”编委会在其中“占据比较主要的地位”（陈来语，见其1987年的文章：《思想出路的三动向》）。</p>
+<p>  这个以甘阳为首（主编）、以研究西方人文学为主的知青一代青年学者组成的编委会，以他们营造的人文思想共同体的氛围和一系列扎扎实实、影响深远的学术工作，短短三四年间主持出版了“现代西方学术文库”、“新知文库”、“人文研究丛书”，以及《文化：中国与世界集刊》等上百种出版物。其中“现代西方学术文库”影响力最大，生命力最长。</p>
+<p>  编委会本着“扩大文化积累、拓展中国学术思想资源”的宗旨，与生活·读书·新知三联书店精诚合作，从1986年12月丛书第一本《悲剧的诞生：尼采美学文选》起，十余年间遴选、翻译、出版了五十余种现代西方的经典名著，《存在与时间》《存在与虚无》《新教伦理与资本主义精神》《资本主义文化矛盾》《变化社会中的政治秩序》《小说的兴起》《在约伯的天平上》等等已经成为这三十年中国学界的必读经典，某种意义上参与了当代中国人文精神和学术思想的锻造与凝练。在译介西方近现代经典名著的同时，他们也注重青年学人原创著作的出版，著名学者苏国勋、刘小枫、陈平原、夏晓虹、汪晖、杜小真、钱理群、赵园、梁治平等最初的重要著作都是在编委会主编的“人文研究丛书”（由上海人民出版社刊行）里出版的。</p>
+<p>  “文化：中国与世界集刊”是编委会成员重要的思想阵地，虽然前后只发刊五期，但影响巨大，首印达到了今天不可想象的三万的印量。《集刊》开卷语说——“中国要走向世界，理所当然地要使中国的文化也走向世界；中国要实现现代化，理所当然地必须首先中国文化的现代化——这是八十年代每一有识之士的共同信念，这是当代中国伟大历史腾飞的逻辑必然。”</p>
+<p>  集刊以“中国文化研究”、“西方文化研究”、“比较文化研究”、“文化学基本理论”为主要讨论专题，集合了冯友兰、熊伟、李泽厚、余英时、余敦康、杜维明、苏国勋、甘阳、陈来、倪梁康、阎步克、周国平、王庆节、钱理群、梁治平、陈平原、张隆溪、张伯伟、张旭东、崔之元等当时各个年龄段优秀学者的文章，这些文章几乎每篇都有大量的读者，在当时的学术思想界引起了很大的反响。尤其是甘阳原本为《集刊》发刊词而写的三万字长文《八十年代文化讨论的几个问题》（发表于《集刊》第一期第一篇），不仅代表了编委会对八十年代思想讨论的总体性看法，而且也成为了八十年代最重要的思想文献之一。</p>
+<p>  在“文化热”渐趋降温的前夕，甘阳于1988年选编了一本《中国当代文化意识》。此书以“反叛”与“彷徨”为题，将18篇文章分为上下编，意在对这一场轰轰烈烈的“文化反思”进行一个阶段性的总结，并将此定性为“不成熟的过渡性时代下面所流动着的一般 ‘意识’及其所蕴涵着的可能趋向”。该书1989年先后由香港三联书店和台湾风云时代出版公司出版，2006年由上海人民出版社再版。甘阳在《再版前言》中说 ————</p>
+<p>  八十年代似乎已经是一个非常遥远的时代。八十年代的“文化热”在今天的人看来或许不可思议：“文化”是什么？这虚无缥缈的东西有什么可讨论的？不以经济为中心，却以文化为中心，足见八十年代的人是多么地迂腐、可笑、不现代！但不管怎样，持续近四年（1985—1988）的“八十年代文化热”已经成为中国历史意识的一部分，而对许多参与者而言，八十年代不但是一个充满青春激情的年代，而且也是一个纯真素朴、较少算计之心的年代。</p>
+<p>  作为与编委会合作最密切的出版机构，生活·读书·新知三联书店在九十年代以后根据国内思想文化的整体状况而相应调整了出版方向，开始有计划地梳理20世纪中文学术研究的成果积累，并大力倡导当代原创人文思想学术的出版；与此同时，承继“现代西方学术文库”的精神，依然对西方当代学术理论前沿保持了高度关注，先后推出了“学术前沿”、“社会与思想丛书”、 “西学源流”等大型丛书，是国内三十年来从文化的维度对“中国与世界”之间不断变换的复杂关系予以长期关注与思考的出版重镇。</p>
+<p>  九十年代以后，当年编委会的成员（以及“文化：中国与世界”系列丛书的各位译者、作者）仍然一如既往地支持三联书店的编辑出版工作，与三联保持着密切的合作关系。“文化：中国与世界”编委会的工作已为时代烙下了深深的印迹，与中文读书界的读者一起，营造了共同思考和阅读的人文空间。“三十年为一世”，我们特此编选发布一组文献、资料，纪念这风云激荡三十年（1986-2016）的努力与辛劳。</p>
+<figure data-type="image" tabindex="2"><img src="https://alaskasquirrel.github.io/post-images/1617249410254.jpg" alt="" loading="lazy"></figure>
+<p>★ 《文化：中国与世界》<br>
+开卷语</p>
+<p>  中国要走向世界，理所当然地要使中国的文化也走向世界；中国要实现现代化，理所当然地必须实现“中国文化的现代化”——这是八十年代每一有识之士的共同信念，这是当代中国伟大历史腾飞的逻辑必然。</p>
+<p>  《文化：中国与世界》正是在这样一种时代氛围中诞生的。她以“文化”作为战略研究对象，力图对中国文化和世界文化的过去、现在、未来进行全面的、持久的、深入的总体性研究和系统性比较，以此为建设当代中国文化作坚实的理论准备和艰苦的实践探索。</p>
+<p>  当代中国文化的建设和形成必须具备三个最基本的要素或环节：一、坚持马克思主义、发展马克思主义；二、继承中国文化传统、光大中国文化传统；三、吸取世界文化成果、把握世界文化趋势——《文化：中国与世界》以此三点作为她的基本方针和奋斗目标。</p>
+<p>  为富有想象力地创造出当代中国文化的崭新形态，为满怀自信心地眺望中国文化与世界文化交融会合的远景，我们愿意竭尽绵薄，与大家共同努力。</p>
+<pre><code>            《文化：中国与世界》编委会
+               一九八六年一月于北京
+</code></pre>
+<p>《文化：中国与世界》第一辑<br>
+【1987年6月，首印30000册，定价2.10元】</p>
+<p>开卷语<br>
+△ 中国文化研究<br>
+八十年代文化讨论的几个问题（甘阳）<br>
+从价值系统看中国文化的现代意义——中国文化与现代生活总论（余英时）<br>
+自在者说（组诗十六首）（杨炼）<br>
+析杨炼的《自在者说》（宇峰）<br>
+△ 比较研究<br>
+恬然于不居所成——在北美海德格尔学会第十六届年会上的发言（熊伟）<br>
+为旋风命名：曹雪芹与海德格尔（[美]L.米勒）<br>
+△ 外国文化研究<br>
+马克思·韦伯与“资本主义精神”（苏国勋）<br>
+“上帝死了！”——论尼采“重估一切价值”的思想（周国平）<br>
+日本现代化与日本哲学（卞崇道）<br>
+文化学基本理论<br>
+深描说：迈向解释的文化理论（[美]克利福德·吉尔兹）<br>
+本辑文章英文提要</p>
+<p>《文化：中国与世界》第二辑<br>
+【1987年10月，首印10000册，定价3.45元】</p>
+<p>△ 中国文化研究<br>
+“以意逆志”法的源与流——中国古代文艺批评方法论之一（张伯伟）<br>
+说“诗史”——兼论中国诗歌的叙事功能（陈平原）<br>
+中国绘画与中国文化（杨煦生 麦荔红）<br>
+儒学第三期发展的前景问题（[美]杜维明）<br>
+十七世纪中国学人对西方文化传入的态度（萧萐父）<br>
+△ 比较文化研究<br>
+“道”与“逻各斯”——关于德里达对逻各斯中心论所作批判的评注（张隆溪）<br>
+中国“诗言志”论与西方“诗言回忆”论——兼论中西诗的起源与特质（王一川）<br>
+语言与存在——中西方思维方式与心智深层结构（胡伟希）<br>
+△ 西方文化研究<br>
+胡塞尔：通向先验本质现象学之路——论现象学的方法（倪梁康）<br>
+论胡塞尔的“生活世界”（海外专稿）（[瑞士]凯恩）<br>
+海德格尔《存在与时间》一书主要概念译名讨论——《存在与时间》中译本后记（陈嘉映 王庆节）<br>
+“突入澄明之境“（海外专稿）（[美]萨利士）<br>
+《存在与虚无》——萨特的伦理世界观体系——《存在与虚无》译后（陈宣良）<br>
+传统·影响·误读——哈罗德·布鲁姆对立实用批评理论述评（唐小兵）<br>
+论奈瓦尔诗中的分裂与循环（金丝燕）<br>
+诗人何为——论德国新浪漫派诗群（刘小枫）<br>
+文化学基本理论<br>
+文化学（[美]怀特）<br>
+文化的整合（[美]本尼迪克特）<br>
+本辑文章英文提要</p>
+<p>《文化：中国与世界》第三辑<br>
+【1987年12月，首印5000册，定价3.25元】</p>
+<p>略论现代新儒家（李泽厚）<br>
+熊十力哲学及当代新儒家哲学的界定与评价（成中英）<br>
+梁启超对传统文学观念的反叛与复归（夏晓虹）<br>
+梁启超论中西文化（任天成）<br>
+鲁迅：先驱者心灵的探寻（钱理群）<br>
+金岳霖的意念论之分析（王中江）<br>
+康德哲学在近现代中国的影响（陈少明）<br>
+《中国哲学史新编》回顾及其他（冯友兰）<br>
+说“治”（梁治平）<br>
+儒家伦理思想与中国传统文化（余敦康）<br>
+东西方人道主义：儒家传统与斯多葛传统（比肖普）<br>
+东汉名节论（阎步克）<br>
+“知识分子”：一个社会角色范畴（塔·帕森斯）<br>
+“儒士阶层”（马·韦伯）<br>
+本辑文章英文提要</p>
+<p>《文化：中国与世界》第四辑<br>
+【1988年11月，首印6500册，定价4.70元】</p>
+<p>论梵文本《圣胜慧到彼岸功德宝集偈》（季羡林）<br>
+一种兼收并容的现代神学——麦奎利的基督教系统神学（何光沪）<br>
+莫特曼的希望神学（安德华）<br>
+理查·尼布尔及其《基督与文化》（张贤勇）<br>
+布尔特曼和他的神学思想（赛宁 编译）<br>
+意大利文艺复兴时期的罗马教廷（安希孟）<br>
+克尔凯戈尔手机十则（[丹麦]克尔凯戈尔）<br>
+印度教的宇宙人生哲学（立人）<br>
+论中国历史上的政教合一（范艾）<br>
+禅与现代人的主体性问题（尤西林）<br>
+禅净异同论（赖永海）<br>
+论僧肇的“有”、“无”观（邓晓芒）<br>
+论宋代佛教的基本特点（潘桂明）<br>
+本辑英文提要</p>
+<p>《文化：中国与世界》第五辑<br>
+【1988年11月，首印30000册，定价4.70元】</p>
+<p>中国文化中的理性思维（唐逸）<br>
+神秘主义与儒学传统（陈来）<br>
+风水观念与徽州传统村落形态（张十庆）<br>
+中国小说叙事角度的转变——从“新小说”到“现代小说”（陈平原）<br>
+晚清维新派的语文宪章——《马氏文通》（申小龙）<br>
+梁启超与日本明治文化（夏晓虹）<br>
+卫礼贤与中国文化在西方的传播（杨武能）<br>
+人文科学的批判哲学——福柯和他的话语理论（徐贲）<br>
+解释学的边界性（张志扬）<br>
+超越实在论与反实在论——海德格尔和戴维森（[美]罗蒂）<br>
+一种以“社会批判理论”为基础的伦理学——弗洛姆《为自己的人》译后（孙依依）<br>
+体验与寓言：本雅明的意义（张旭东）<br>
+帕累托条件与个人自由的不相容性（崔之元）<br>
+书林概览<br>
+海德格尔：《尼采》（傅海健）/布尔特曼：《原基督教》（刘小枫）/斯库尔曼：《想象的见证人》（赵越胜）/里斯曼：《孤独的人群》（郑永年）/舍斯托夫：《在约伯的天平上》（徐荣庆）/索洛维约夫：《善的证明》（默默）/玛里翁与德普兰：《理性的激情》（杜小真）/两部英语世界的法律辞书（梁治平）/伊恩·瓦特：《小说的兴起》（陈平原）/马丁：《近年叙事理论种种》（伍晓明）<br>
+本辑英文提要</p>
+<figure data-type="image" tabindex="3"><img src="https://alaskasquirrel.github.io/post-images/1617249433509.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[内存管理的秘密]]></title>
         <id>https://alaskasquirrel.github.io/post/memory/</id>
@@ -95,6 +281,66 @@ https://blog.burhanuday.tech/paging-the-secret-behind-the-modern-computers-effic
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【转】 计算机科学经典论文 Classical CS Texts]]></title>
+        <id>https://alaskasquirrel.github.io/post/ClassicalSC/</id>
+        <link href="https://alaskasquirrel.github.io/post/ClassicalSC/">
+        </link>
+        <updated>2021-02-02T06:40:30.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>https://web.archive.org/web/20080704034627/http://zafar.se/bkz/Articles/ClassicCompScienceTexts<br>
+https://dylanninin.com/blog/2013/12/12/classical_cs_texts.html<br>
+https://blog.csdn.net/g9yuayon/article/details/1512851</p>
+</blockquote>
+<div class="vspace"></div><ul><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.spatial.maine.edu/~worboys/processes/hoare%20axiomatic.pdf" rel="nofollow">An axiomatic basis for computer programming</a><br/>     C. A. R. Hoare 名下的公理化语义（ Axiomatic Semantics ）。著名的 Hoare Triples, P{C}Q, 就是从这里来的。论文不长，双列 6 页。前辈们就是这样的， 6 页纸就能开宗立派。不像俺， 6 页纸连介绍部分都写不周全。哪位老大想知道怎么证明程序正确。前置条件，不变条件，后置条件的妙用，可以用这篇论文开牙。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.usingcsp.com/" rel="nofollow">Communicating Sequential Processes (CSP)</a><br/>     C. A. R. Hoare 链接的文档应该不算论文，而算专著。 260 页。从 1985 年推出到现在 20 多年过去，这本书的引用率在 CS 历史上排名第三，可见其影响之深。对并发编程有强烈兴趣的老大可以去钻研一把。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://homepages.inf.ed.ac.uk/gdp/publications/cbn_cbv_lambda.pdf" rel="nofollow">Call-by-name, call-by-value, and the lambda calculus</a><br/>     Gordon Plotkin 只见 LtU 介绍过。 Gordon 老大这篇论文的要点之一是要想顺利地对程序进行推导，就需要有合适的 lambda 理论。想深入理解 call-by-name ， call-by-value ，和 lambda 算子的老大们可以上了。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/ftp://ftp.cs.cmu.edu/user/jcr/theotypestr.pdf" rel="nofollow">Towards a theory of type structure</a><br/>     John C. Reynolds 号称经典中的经典。不过也没读过。类型系统一直是编程语言研发的热点，也是非常有趣的方向 ―― 类型系统的编程好比让机器证明一系列定理。 Reynolds 在论文里讨论了什么才是正确的类型结构，和句法正确必须独立于任何具体的类型表达形式，并且给出了带类型的 lambda 算子的一种扩展，允许他描述用户自定义类型和多态函数。满篇公式，有勇气去读的老大要有心理准备。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://pplab.snu.ac.kr/courses/adv_pl05/papers/p261-knuth.pdf" rel="nofollow">Structured Programming with go to Statements</a><br/>     Donald E. Knuth 这篇论文详细结构化编程时讨论了什么时候用 goto ，什么时候不用 goto 。高爷爷精细务实的态度非常值得学习。高老太爷用了一辈子 goto(MIX 和 MMIX 程序里没了 Goto 怎么玩儿得转嗫？ ) ，岂能轻易被 Dijkstra 对 goto 的批评吓退？他仔细探讨了几种不同的程序，考察 goto 用在那些程序里的利弊。最后得出结论， goto 在某些程序里仍然高效实用。虽然论文是 30 年前的，但里面的分析手法和利用 goto 的优化技术至今可用。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/ftp://ftp.cs.cmu.edu/user/jcr/defint.ps.gz" rel="nofollow">Definitional interpreters for higher-order programming languages</a><br/>     John C. Reynolds ”Metacircular” 这个性感的概念就是在这篇论文里首次提出的。想深入了解用一门语言写出的解释器定义这门语言自身的神奇理念，这篇论文是必读材料。有兴趣的老大可以先读 SICP 的第四章。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.slac.stanford.edu/pubs/slacreports/slac-r-114.html" rel="nofollow">An APL Machine 1970</a><br/>     Philip S. Abrams 只知道 APL 是门有历史意义的语言。顺便说一句， APL 这个名字太土了。 A Programming Language ＝＝ APL 。象什么话嘛。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.pipeline.com/~hbaker1/" rel="nofollow">Henry Baker's Archive of Research Papers (many classic Lisp papers)</a><br/>     Henry Baker<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www-db.stanford.edu/pub/papers/google.pdf" rel="nofollow">The Anatomy of a Large-Scale Hypertextual Web Search Engine</a><br/>     Sergey Brin and Lawrence Page 网络是个大的矩阵 (transition probability matrix of Markov Chain) 。网页的声誉 (page rank) 就是这个巨大矩阵的 principle eigenvector 的某个元素。嗯，反正我只有佩服的份儿。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www-inst.eecs.berkeley.edu/~maratb/readings/NoSilverBullet.html" rel="nofollow">No Silver Bullet: Essence and Accidents of Software Engineering</a><br/>     Frederic P. Brooks, Jr.<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.unil.ch/webdav/site/ling/shared/ElementStatText/Shannon1948.pdf" rel="nofollow">A Mathematical Theory of Communication</a><br/>     Claude Shannon Bell 实验室当年辉煌一时。出了名的叫人做 A ，结果发明了 B 。香农老大就是其中杰出代表。香农进了 Bell 实验室后，居然没人吩咐他干嘛。香农老大转念一想，自己喜欢数学， Bell 的生意尽在通讯，干嘛不看看把数学应用到通讯上有什么结果呢？于是 1948 年这篇论文问世乐。搞通讯的人崩溃乐。现代信息理论就诞生乐。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.cs.ucla.edu/~jkong/research/security/shannon1949.pdf" rel="nofollow">Communication Theory of Secrecy Systems</a><br/>     Claude Shannon <br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.cs.ubc.ca/~murphyk/Bayes/Charniak_91.pdf" rel="nofollow">Bayesian Networks without Tears</a><br/>     Eugene Charniak 贝叶斯理论热了好几年了。估计还会继续热下去。现在信息越来越多，我们已经审美疲劳。大家渴望的不是信息，而是知识。靠个人的力量把信息提炼成知识太慢，我们需要机器的帮忙。机器学习不热都难，而贝叶斯理论在机器学习里有很好的应用。这篇文章行为浅显，可以轻松读完。对了，那个人人喝骂的微软回形针的智能引擎就是用贝叶斯网络实现的。br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.stanford.edu/class/ee398a/resources/ziv:77-SDC.pdf" rel="nofollow">A Universal Algorithm for Sequential Data Compression</a><br/>     Jacob Ziv and Abraham Lempel<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.cs.duke.edu/~junyang/cps216/papers/codd-1970.pdf" rel="nofollow">A Relational Model of Data for Large Shared Data Banks 1970</a><br/>     Edgar F. Codd 没有关系代数，人类将会怎样？ Codd 划时代的论文奠定了现代数据库的基础。嘿嘿，其实俺也没有读过这篇论文。顺便说一句，现在的 ORM 试图把 data schema 和对象系统映射起来。问题是， data schema 只是对关系的一种表达方式而已，还和具体的系统实现有关。也许把对象间的结构和关系映射起来才是正道。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://compilers.iecc.com/crenshaw/" rel="nofollow">Let's Build a Compiler 1988-1995</a><br/>     Jack Crenshaw 教你一步一步写出一坨编译器。不算论文吧。一篇相当不错的指南。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://gnowledge.sourceforge.net/damashek-ngrams.pdf" rel="nofollow">Gauging Similarity via N-Grams: Language-Independent Sorting...</a><br/>     Marc Damashek<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.dreamsongs.com/WorseIsBetter.html" rel="nofollow">Worse Is Better</a><br/>     Richard P. Gabriel 网上脍炙人口的文章。很有教育意义。简单说， worse is better 包括下面几点：
+-- 简单：设计要简单。但如果接口和实现不能两全，追求实现的简单。文章里给出的 Unix vs Multics 的例子非常有意思。
+-- 正确：程序必须在所有可见的方面正确。其它地方，如果简单和正确不能两全，追求简单。
+-- 一致性：程序不能太不一致。但为了简单，可以在少数地方不一致。
+-- 完备性：程序应该尽可能照顾到重要的地方，但是不能牺牲简洁。
+<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.cs.berkeley.edu/~necula/cs263/handouts/hoarehints.pdf" rel="nofollow">Hints on Programming Language Design</a><br/>     C.A.R. Hoare Hoare 对设计语言的经验总结。这些经验至今有效。文章很容易读，读后绝对增长程序设计的功力。
+<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.math.chalmers.se/~rjmh/Papers/whyfp.pdf" rel="nofollow">Why Functional Programming Matters</a><br/>     John Hughes 为普通程序员准备的大餐，所以写得通俗。没有公式，也没有拗口的术语。着重展示了 Fold 和 Map 的强大抽象能力。不由想到我在大学里修的一门课，编程语言。课是好课，老师是一流老师。课上我们学习了浅显的程序语言理论，重点学习了函数编程（用 Common Lisp ）和逻辑编程（用 Prolog ）。这门课彻底改变我对编程的理解，明白了 imperative programming 和 OO programming 外还有精彩世界。至今想来都觉得幸运。那门课的作业也很有意思，实现一个驻留内存的数据库，支持关系代数里的常见操作。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.ccs.neu.edu/scheme/pubs/scp91-felleisen.ps.gz" rel="nofollow">On the Expressive Power of Programming Languages</a><br/>     Matthias Felleisen<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.research.ibm.com/journal/rd/174/ibmrd1704F.pdf" rel="nofollow">The Design of APL</a><br/>     Kenneth E. Iverson<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.metaobject.com/papers/Smallhistory.pdf" rel="nofollow">The Early History Of Smalltalk</a><br/>     30 年前 Alan Kay 就做出来 Smalltalk ，现在想来仍然让人惊叹。引一段文章 Alan Kay 评述 Smalltalk 的话： In computer terms, Smalltalk is a recursion on the notion of computer itself. Instead of dividing "computer stuff" into things each less strong than the whole--like data structures, procedures, and functions which are the usual paraphernalia of programming languages--each Smalltalk object is a recursion on the entire possibilities of the computer. Thus its semantics are a bit like having thousands and thousands of computer all hooked together by a very fast network. Questions of concrete representation can thus be postponed almost indefinitely because we are mainly concerned that the computers behave appropriately, and are interested in particular strategies only if the results are off or come back too slowly.<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://fresh.homeunix.net/~luke/misc/knuth-turingaward.pdf" rel="nofollow">Computer Programming as an Art</a><br/>     Donald E. Knuth 高老太爷在 1974 年图灵奖仪式上的致词。真是顶尖 geek 的风范啊。高太爷在文章里解释了问什么他的书取名为《编程的艺术》。明显他对人们谈到编程时把科学置于艺术之上很不了然。高爷爷追溯“艺术”的词源，说艺术的本意就是技能，也是技术和技巧两次的起源。从这里开始，他开始讨论艺术和科学的关联，讨论艺术在编程里的表现形式和意义。用他的话说，他作为教育者和作者的毕生目标就是叫人写美妙的程序。读起来让人心潮彭湃的说。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.cs.utah.edu/~wilson/compilers/old/papers/p157-landin.pdf" rel="nofollow">The next 700 programming languages</a><br/>     Peter J. Landin 42 年前的论文，影响深远。 Peter 在论文里描述的函数语言 ISWIM （ If You See What I Mean ）现在没有几个人知道了。但他对 lambda 算子的推崇和对函数语言的论述影响了后来的函数语言设计。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www-formal.stanford.edu/jmc/recursive.html" rel="nofollow">Recursive Functions of Symbolic Expressions and their Computation by Machine (Part I) 1960</a><br/>     John <span class="wikiword">McCarthy 47 年前提出 LISP 的那篇著名论文。没读过。动态类型检查， Garbage Collection, 递归函数， S-expression,  程序及数据。。。可谓贡献辉煌。</span><br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.cs.wisc.edu/~bolo/shipyard/4th_1970/4th_1970.html" rel="nofollow">FORTH - A Language for Interactive Computing</a><br/>     Charles H.Moore 只知道 Forth 是一门 stack oriented 的编程语言，影响了后来的一些语言，比如 CAT 。其它的就不知道了。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.norvig.com/21-days.html" rel="nofollow">Teach Yourself Programming in Ten Years 2001</a><br/>     Peter Norvig 大牛之所以为大牛，原因之一就是目光深远。这篇文章批评那些《 24 秒学会 C ＋＋》之类教材的无稽，讨论了学习编程，从菜鸟变成鲲鹏的方法。中文版已经传得满世界都是，赶快找来看吧。 Peter Norvig 的网站上还有很多高质量的文章。强烈推荐一读。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.nhplace.com/kent/PS/About-PS.html" rel="nofollow">Parenthetically Speaking, a collection of essays from the 1990s</a><br/>     Kent M. Pitman<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/ftp://publications.ai.mit.edu/ai-publications/500-999/AITR-595.ps" rel="nofollow">The Definition and Implementation of a Computer Language based on constraints</a><br/>     Guy Lewis Steele Jr. 好像是 Guy Steels 的硕士论文。没读过。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.cs.umbc.edu/331/resources/papers/gls-grow-lang.pdf" rel="nofollow">Growing a Language</a><br/>     Guy Lewis Steele Jr. 好文！ G 老大在 OOPSLA 98 上的主题演讲。 G 老大主张应该采取渐进的方式设计一门可以被自由扩展的语言（ LISP 圈子里的牛人们多半都持这种观点吧？）。这篇演讲稿针对该观点做了精练地论述。说起进化的观点，可以参看另外一篇好文章， SICP 作者之一， [Jay Sussman的近作](http://swiss.csail.mit.edu/classes/symbolic/spring07/readings/robust-systems.pdf) 。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html" rel="nofollow">Epigrams on Programming</a><br/>     Alan J. Perlis A 老大发表的一系列关于编程的格言。幽默而深刻。每读必笑。笑后必哭。嗯嗯嗯，夸张一下。不要当真。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://www.cs.helsinki.fi/u/gionis/cc05/cook.pdf" rel="nofollow">The Complexity of Theorem Proving Procedures</a><br/>     Stephen A. Cook 仙风道骨的库克爷爷的成名作。这篇文章一出，好比有人在加州荒漠里发现第一块狗头金，立刻掀起开发加州的狂潮。计算复杂性理论迅速遍地开花。相比这篇论文开创性的贡献，库克因此得到图灵奖不过小小点缀。 NP-Complete 在这篇论文里被严格定义。更重要的是，库克证明了第一个 NP-Complete 的问题， SAT(Boolean Satisfiability Problem) 。有了 SAT ，再加上折磨了无数学生的 Polynomial Reducibility ， 无数的 NPC 问题就出现乐。。。别看俺在这里唾沫横飞，当年做有关计算理论的证明题还是相当吃力的，没有少熬夜。奇怪的是，某一天我给同学讲解我的解法， NPC 的相关定义突然变得清晰起来。当初让我绞尽脑汁的证明竟然变得相当机械。后来知道，给人讲解（包括写作）是非常有效地学习方法。怀着备课的目标读文章，假设自己给别人讲解正在读的文章，有助快速理解所读内容。SAT的证明相当复杂，我反正没有耐心读完。<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://web.media.mit.edu/~minsky/papers/steps.html" rel="nofollow">Steps Toward Artificial Intelligence</a><br/>     Marvin Minsky AI 的奠基论文。不过我没读过。
+<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://library.readscheme.org/page1.html" rel="nofollow">The Original 'Lambda Papers'</a><br/>     Guy Steele and Gerald Sussman 一系列讲解 lambda 算子和 scheme 设计的经典论文。学 scheme 时读过，对理解 scheme 的设计理念很有帮助。
+<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://theory.lcs.mit.edu/~rivest/rsapaper.pdf" rel="nofollow">A Method for Obtaining Digital Signatures and Public-Key Cryptosystems</a><br/>     R.L. Rivest, A. Shamir, and L. Adleman<br/><br/>
+</li><li>   <a class="urllink" href="https://web.archive.org/web/20080704034627/http://cm.bell-labs.com/cm/cs/who/dmr/cacm.html" rel="nofollow">The UNIX Time-Sharing System</a><br/>     Dennis Ritchie and Ken Thompson 作者不用介绍了吧？这篇文章里介绍的 Unix 特性早为人熟知。不过第八部分 (VIII Perspective) 讨论了作者的设计理念，仍然值得一读。
+<br/><br/>
+</li></ul>
+</div>  ]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[楊振寧《美與物理學》2015年]]></title>
         <id>https://alaskasquirrel.github.io/post/楊振寧/</id>
         <link href="https://alaskasquirrel.github.io/post/楊振寧/">
@@ -107,6 +353,30 @@ https://blog.burhanuday.tech/paging-the-secret-behind-the-modern-computers-effic
 <p>◕ 地點：集思台大會議中心-<strong>國際會議廳</strong></p>
 <p>主辦單位：臺灣大學物理學系<br>
 協辦單位：臺灣大學科學教育發展中心</p>
+<p>附：</p>
+<p>★ 美与物理</p>
+<p>  十九世纪物理学最重要的两个贡献，一个是电磁学，一个是统计力学。统计力学最主要的创建人是三个，一个是麦克斯韦，一个玻尔兹曼，一个叫做吉布斯，其中玻尔兹曼写过很多通俗的文章，那么我今天就从他的一段话来跟大家开始谈谈。他说，&quot;一个音乐家在听到几个音节以后，就能辨认出来莫扎特、贝多芬或者舒伯特的音乐，同样一个数学家或物理学家，也能在念了几页文字以后，就辨认出来柯西、高斯、雅可比、亥姆霍兹或者克尔期豪夫的工作&quot;，他的这段话我觉得很有意思，为了解释这段话，我曾经跟几个朋友讲这样几句，我说，&quot;大家知道，每一个画家、音乐家、作家都有他自己独特的风格，也许有人会以为，科学与文艺不同，科学是研究事实的，事实就是事实，什么叫做风格，要讨论这一点，让我们拿物理学来讲，物理学的原理有它的结构，这个结构有它的美跟妙的地方，而各个物理学工作者对于这个结构的不同的美跟妙的地方的感受，有不同的了解，因为大家有不同的感受，所以每一个工作者就会发展他自己独特的研究方向跟研究方法，也就是说他会形成他自己的风格&quot;，那么这段话我希望在底下几十分钟给大家详细解释一下。</p>
+<p>  为了做这件事情，我先给大家介绍两个二十世纪的大物理学家，第一位叫做狄拉克，他是英国人，1902年出生,是一个非常有意思的人，他很少讲话，而你要听他讲话的话，你觉得他这个想法跟一般的人都不一样，那么关于他的故事非常之多，所以我给大家只讲一两个。狄拉克讲话很少，他讲话了你要听的话，他有他自己的思维方法跟他的逻辑，我给大家只举两个例子。</p>
+<p>  第一个例子，是他有一天在演讲，演讲完了以后有个学生说&quot;狄拉克教授，我不懂你刚才这个所讲的理论&quot;，于是狄拉克就又解释了一下，解释完了以后，那个学生说&quot;狄拉克教授你刚才讲的这个，跟你以前所讲的每一个字都是一样的&quot;，狄拉克说&quot;这不稀奇，因为这是最好的讲法&quot;。另外一个故事是，他在普林斯顿的一个演讲，普林斯顿的介绍他的教授，在他演讲完了以后就说&quot;狄拉克教授可以回答你们的问题&quot;，有的学生就说&quot;狄拉克教授你刚才那个方程式（3），是怎么从方程式（2）演化出来的？&quot;，狄拉克不讲话，于是介绍他的人等了几分钟，就说&quot;狄拉克教授，请你回答他的问题&quot;，狄拉克说&quot;他只讲了一句话，他没有问问题&quot;。</p>
+<p>  狄拉克最重要的工作，是在1928年，他写了一篇文章，这个文章上面有一个很简单的一个方程式，一个非常简单的一个方程式，可是这个方程式有不得了的贡献，它奠定了今天原子、分子结构的基础，它解释了为什么电子有自旋，自旋的意思就是每一个电子都是在那儿象陀螺一样在那儿转，电子有自旋这个事情不是狄拉克发现的，在那以前几年，已经有人提出来，电子一定有一个自旋，可是不知道为什么要有自旋，刚才我说的这个简单的方程式，你去了解了它的真正的意义以后，你自然而然就知道，电子一定要有一个自旋。而且这个电子的自旋跟自旋在一起的是一个磁矩，就是象一个小磁铁，这个磁铁，电子这个有自旋有磁铁这件事情也不是狄拉克发现的，是当时已经知道了，可是没有人知道为什么要有磁矩，而用刚才所念出来这个方程式就很自然的知道有磁矩，而且这个磁矩可以定量的用这个方程式算出来。而且这个磁矩跟电子轨道行动的关系，也是一个本来猜想到了，可是不懂为什么缘故是那样，也是被他的这个方程式所解释了。你想这样简单的一个方程式，把当时困扰大家的三个重要的问题都解决了，所以这个当然是震惊了当时物理学界。</p>
+<p>  Dirac equation,http://en.wikipedia.org/wiki/Dirac_equation</p>
+<p>  我想最好的方法来描述这个，就是这是一个神来之笔，可是这个神来之笔并不这么简单，就被所有的人都认为是绝对对的，因为它出了一个新的问题，这个新的问题叫做负能问题，Negative energy，大家知道通常&quot;能&quot;都是正的，他这个方程式，你去算了一下以后，会得出来一个非常稀奇的现象，说电子可有负能，这个负能当时是不可思议的一件事情，所以很多人懂了他的这个工作的第一步以后，觉得这个东西是妙不可言，可是又觉得这个里头有非常奇怪的、不能够了解的、绝对不会对的事情，那么所以以后几年，就有种种人批评狄拉克，说他这个工作，看起来对是碰巧，其实是不对的。可是狄拉克坚持，到了1931年，他更进一步，他说&quot;不但这个负能是应该有的，而且有了这个负能以后，就会发现一个新的，重要的一个现象&quot;，当时还没有看见，就是说任何一个电子，都会跟它俱来的有一个叫做反粒子，anti-particle，每一个粒子都有一个反粒子，这个反粒子跟这个粒子完全一样，可是它的电荷是相反的，这个当时又是大家所不能接受的。人家说你从来没有看见过任何一个反粒子，你怎么随便就讲有个反粒子呢？可是过了一年以后，加州理工大学有一个年轻的，他其实是博士生，叫做卡尔·安德森，他在第二年，用云雾室照出来了一个轨道，这个轨道是一个正电子，就是正是刚才所讲的，狄拉克所讲的电子的反电子，因为它反粒子，因为它是带着正电，这一来的话，大家知道狄拉克的这个方程式不但是对，而且完全是对的，他预言出来了一个从前大家不晓得的一个新的现象。</p>
+<p>  所以，如果你想一想狄拉克，他是一个人话讲得很少，可是他话的内涵有简单的、直接的、原始的逻辑性，懂了他的想法以后，你会拍案叫绝。我想了想，用什么样子的中国的传统的话，可以描述看了他的文章以后，叹服了他这个工作的重要性以后的对于他这个文章的看法是什么，我想最好是说&quot;秋水文章不染尘&quot;，因为他的这个文章确实是里头一点渣滓都没有的，是清楚极了，假如你懂他的逻辑的思维方法。</p>
+<p>  我曾经想，要想跟我的文史的朋友介绍看了狄拉克的文章的感受，应该怎么样讲法呢？那么最后我发现到了，唐朝的诗人高适，他有一首诗《答侯少府》，上面有这样两句&quot;性灵出万象，风骨超常伦&quot;，我觉得这两句话用来形容狄拉克的风格是最好的。为什么呢？&quot;性灵出万象&quot;，这个&quot;万象&quot;用来描述狄拉克方程式的影响，那是再恰当不过了，它解释了无数的物理、化学的现象，它是今天的原子、分子结构的最重要的一个方程式。为什么说&quot;风骨超常伦&quot;呢？这也是我刚才已经跟大家大概介绍了一下，他在1928年到1932年四年之间，他不顾当时最有名的几个物理学家的反对，的冷讥热嘲，这几个最有名的物理学家，包括尼尔斯·玻尔，包括海森伯，包括泡利，他们都是在嘲笑狄拉克，说狄拉克想入非非，他做的东西是不对的，可是这个狄拉克是坚持的，所以他确实是&quot;风骨超常伦&quot;。那么什么叫做&quot;性灵&quot;呢，&quot;性灵&quot;据我所知道，是在明朝公安派的文学批评家&quot;三袁&quot;，他们所最早提出来的，其中袁宏道讲他的弟弟袁中道的诗，我念这个他讲他弟弟的诗，&quot;独抒性灵，不拘格套，非从自己胸臆流出，不肯下笔&quot;。这几句话拿来形容狄拉克的风格是最恰当不过了。</p>
+<p>  底下我要给大家介绍另外一个二十世纪的大物理学家，叫做海森伯，我想很多人会以为海森伯比起狄拉克还要略胜一筹，海森伯是德国人，1901年出生，1976年过去的，我也带了一个海森伯的相片，这个是他24岁的时候还没有做出来他最重要的工作的时候的相片，今年12月，是他的100周年生日，要在慕尼黑有一个庆祝。</p>
+<p>  他所做的工作是开始了量子力学的第一步，二十世纪物理学里头，最最重要的几个发展里头之一就是量子力学，在二十世纪以前，物理里头的数目、数据都是连续的，你说是这个东西的家数是A，这个A是一个连续的，不是一个是跳跃的，可是在二十世纪的头二十年，发现到这个跟原子、分子物理不符合，所以后来就产生出来量子的这个观念。可是量子化的这件事情是一个非常困难的，因为要把牛顿，从牛顿开始建立起来的物理系统整个要改观，那么这个革命性的发展不是一天两天所能做到的，所以二十世纪头25年是有种种的纷扰。在50年代美国一个重要的物理学家叫做奥本海默，大家也许晓得，奥本海默非常有名的地方是因为他在打仗的时候主持了美国的原子弹的制造的工作，他是非常会讲话的一个人，他在50年代在英国的一个演讲里头，描述了那个头25年物理学的一个工作者之间的一个空气，他说，&quot;那是一个在实验室里耐心工作的时代，有许多关键性的实验和大胆的决策，有许多错误的尝试和不成熟的假设，那是一个真挚通讯与匆忙会议的时代，有许多激烈地辩论跟无情的批评，里面充满了巧妙的数学性的挡驾方法，对于那些参加者，那是一个创新的时代，自宇宙结构的新认识中，他们得到了激奋，也尝到了恐惧，这段历史恐怕永远不会被完全记录下来，要写这段历史需要有象欧迪帕斯或象克伦威尔那样的笔力，可是由于涉及的知识距离日常生活是如此遥远，实在很难想象有任何诗人或史家能胜任&quot;。</p>
+<p>  所以这二十几年的经历确实是被奥本海默所描述的很恰当的，那么在那样困难的时候，一个年轻的24岁的海森伯出现了，他写了一篇文章，这个文章象一个方向迈了一步，这个方向现在叫做量子力学，而这个方向后来发扬光大，就变成了二十世纪以后的几乎是全体物理学里头最最重要的几个原则之一。年轻的海森伯怎么忽然能够走了这一步，从前人没有走过的呢？他在晚年的时候，曾经有过一篇文章上讲这个经历，海森伯喜欢爬山，所以很自然的他就把爬山拿来做一个例子，他说&quot;爬山的时候，你想爬某个山峰，但往往到处是雾，你有地图或别的缩影之类的东西，知道你的目的地，但是人堕入雾中，不知道要向什么方向走，然后忽然你模糊的自雾中看到一些形象，你说哦，这就是我要找的大石头，整个情形从此而发生了突变，因为虽然你仍然不知道你能不能爬到那块大石，但是在那一瞬间，你说我现在知道我在什么地方，我必须爬近那块大石，然后就可能知道该如何前进了&quot;，他这几句话确实是描述了他的第一篇文章里头所讲的事情，因为他并没有完全懂他在第一篇文章里所讲的，他是一个尝试，是一个很模糊的一个印象，他这个文章写出来了以后，他要去渡假，他就把它留给他的导师叫做玻恩，玻恩比他年长了十几岁，玻恩有数学的修养，是海森伯所没有的，玻恩看了他这个文章以后，知道海森伯里边所讲的数学，是一个从前物理学家没有用的数学，叫做矩阵，海森伯因为数学修养不够，所以不知道他所做的东西是矩阵，结果玻恩就跟另外一个比较年轻的物理学家写了一篇文章，然后海森伯回来了以后，他们三个人又合写了一篇文章，这三篇文章奠定量子力学的基础，今天物理里头叫做one man paper 、two men paper、three men paper，这三篇文章的开始，就是量子力学的奠基的地方。</p>
+<p>  量子力学是物理学史上的大革命，我想也是人类的历史上一个大革命，不讲它对于纯粹物理学的贡献，单讲大家可以了解到的对于日常生活的贡献，核能发电、核武器、激光、半导体元件以及今天的计算机通信工程，所有这些工程都不可能发生，假如没有量子力学。海森伯24岁的时候写了这个文章，到了26岁，他就变成莱比锡（大学），理论物理学系的主任，他爱打乒乓球，打得很好，所以独霸那一系，而他是很好胜的，一直到一个从美国来的博士后，这个博士后来了以后，海森伯只得屈居亚军，打败海森伯这位乒乓球的博士后的名字，我想大家都是熟悉的，叫做周培源。</p>
+<p>  那么，海森伯跟比如说狄拉克之间的关系是什么呢？他们的关系很好，可是也有激烈的竞争，因为他们都是站在最前沿上面的，所以他们都知道对方的工作是非常重要的，所以每一个工作都仔细注意。在1928年狄拉克写出来了他的，刚才我给大家介绍的狄拉克方程式以后，海森伯跟泡利，泡利是他最熟的物理学家朋友，不懂狄拉克怎么能够想出来他这个奇怪的方程式，因为这个方程式是历史上从来没有人向那个方面写的，所以他们不懂。那么，因为这样子，他有点困扰，今天我们可以从海森伯给他的朋友泡利写的一封信上面看到他当时的心情。他的信上面说&quot;为了不持续的被狄拉克所烦扰，我换了一个题目做&quot;，这就是代表他跟泡利不懂，这个狄拉克怎么能够出这种稀奇的想法，而得出来非常重要的结果，那么海森伯在这封信上说我换了一个题目做，然后底下说得到了一些成果，这个成果又是一个惊人的贡献，大家知道为什么有磁铁？磁铁里头有很多电子，那些个电子自旋都向同一个方向，所以整个加起来，它的磁矩加起来就变成了一个磁铁。可是为什么缘故，什么力量使得这许多磁矩向一个方向走呢？这个是当时不懂的，而且是一个困扰了很久的题目，海森伯，他说他换了一个题目，他就是不去研究一个一个电子的结构，他去研究很多电子的结构的时候，他看出来一个苗头，这个苗头就是今天我们了解为什么磁铁能够成为磁铁的道理，所以这又是一个极为重要的工作。</p>
+<p>  如果我们总结一下，狄拉克跟海森伯的不同的地方，那么第一样我们就了解到，狄拉克的研究方法跟海森伯的研究方法是很不一样的，狄拉克的研究方法可以说是循着独特的、新的逻辑，无畏地前进，这是他的风格；海森伯的研究方法，就象他刚才我给大家念的故事里头所讲的，你觉得他的文章是在雾里头摸索，这是他的一个文章给你的一个感受。狄拉克的文章你看了以后，跟海森伯的文章看了以后，有相同的地方，有不同的地方。相同的地方是，他们都可以出其不意，有极强的独创力，向一个从前人没有想象的方向走，这是他们共同的地方。他们不同的地方呢？是狄拉克的文章非常清楚、非常直接，你看了他的文章觉得里头没有渣滓，相反的，海森伯的文章是朦胧、绕弯、不清楚，而且有渣滓。你看了狄拉克的文章了，你觉得这个领域已经没有什么东西可以做了，因为凡是正确的话，狄拉克都讲过了。海森伯的文章完全不一样，他的每一篇文章里头，会有非常深入的见解，也有错误的想法，所以，海森伯的文章必须要仔细看，你如果能够把海森伯文章看了，知道他哪个是对的、哪个是不对的，你就可以把他不对的那个改正了，得出来很重要的贡献。所以他们这个文章给你看的，感受是不一样的。</p>
+<p>  那好了，当然你就会问了，说是为什么两个这么聪明的大物理学家，他们的风格会这样不一样呢？我想，这一部分当然没有问题是他们的个性不一样，海森伯的个性比较不接近数学，狄拉克的个性比较接近数学，比较接近数学的价值观，可是这个还不是唯一的道理，另外还有个道理，是与物理自己的结构有密切的关系，物理学现在是很大的一个学问，我觉得可以分成三个领域。</p>
+<p>  第一个领域是实验的领域，我们叫它叫&quot;（1）&quot;；第二个领域叫做唯象理论，我们叫它叫&quot;（2）&quot;；第三个领域叫理论架构，我们叫它叫&quot;（3）&quot;，而这个理论架构呢是跟数学比较接近的，我们叫它叫&quot;（4）&quot;。如果你用这样子的一个宏观的分野来看的话呢，那么就觉得原来这个历史的发展，是与这个分野有很密切的关系。</p>
+<p>  海森伯在年轻的时候，他不喜欢数学，我刚才已经跟大家讲过了，他的一个最重要的文章写的时候，他没有学过方阵，是后来那个two men paper跟three menpaper才把他所做的事情跟方阵连在一起。可是到了海森伯晚年，他改过来了，通过了几十年的经验，他了解到数学是非常重要的，他在74岁的时候，写的一篇文章上讲，&quot;1921、1922到1927年间，我们经常讨论，可是总是遇到各种矛盾与困难，我们就是无法理性的方法来解决这些困难，有人赞成波动理论，有人赞成粒子理论，所以后来有了一个数学结构的时候，这个数学结构就是量子力学，实际上我们的心态已达到了十分沮丧的地步，这个数学结构对我们来说是一个奇迹，我们看到了数学能做出我们做不出的东西，那当然是一个非常奇异的经历&quot;，请大家注意这句话，&quot;数学能做出我们做不出的东西&quot;，这句话就表示了他当时的心态，他们左冲右突做了很多年，包括他们的老师，前后做了二十几年，可是做不出来东西，觉得实际的实验的结果跟以前的想法有对的地方、有不对的地方，是一种非常困难的地方，所以当时他们觉得他们已经没有办法了，忽然引进了矩阵这个观点以后，数学做出来了我们做不出来的东西，这就是他晚年回想他在24岁时候的工作的时候的一个感受。</p>
+<p>  既然讲到数学跟物理有这么密切的关系，当然可以问，数学跟物理整个的关系是什么呢？或者可以问，是许多同学，物理系的同学常常要问的，是说&quot;我作为物理系的学生，我应该学多少数学？&quot;，这个是一个很复杂的问题，不能有一个很简单的解释，我曾经想过，我把数学跟物理的关系，比喻做两个树叶子，一个树叶子向这个方向，一个树叶子向这个方向，一个是物理，一个是数学，这两个叶子是大多数的地方都是不重叠的，可是在根的地方有一小块地方是重叠的，这一小块地方不是很大的，只是占每一个领域的也许5％、10％这样子，在这个重叠的地方，非常奇怪的，是这两个领域，享有共同的观点，所以它们在根源上面的关系是非常密切的，可是，我底下要讲的，虽然物理与数学有如此密切的关系，可是二者共同的地方并不多，它们有各自的目的跟截然不同的价值观，以及不同的传统，在最基本观念的层面，他们令人惊讶的共享某些观念，但是即使在这个领域里头，这两个学科的生命力仍然按着各自的脉络成长，一个向这个方向走，一个向这个方向走。把这个落实到对于研究生的建议是什么呢？就是假如你是念物理的研究生，那么你必须要对于这个根源的这个地方有一些了解，可是，更重要的，除了你对于这个了解以外，你要了解到要向前途是什么方向发展，换句话说，你要了解物理的价值观，假如你不了解物理的价值观，那么你很可能是走到另外一个方向去了，当然走到另外一个方向，你在数学上做很大的贡献也很好，不过这也许与你当初想要做一个好的物理学家的初衷略微不一样就是了。</p>
+<p>  关于数学跟物理之间的分别，爱因斯坦在他的晚年也有过很有意思的一个分析，他问，因为他的一生的工作对于物理跟数学后来都有极大的影响，那么，他在晚年的时候问了他自己这样一个问题，说为什么他做了一个物理学家，而不是做一个数学家，他说&quot;在数学领域里头，我的直觉不够，不能辨认哪些是真正重要的研究，哪些只是不重要的题目，在物理领域里头，我很快学到怎样找到基本的问题来下工夫&quot;，这几句话对极了，因为在他26岁的时候，在一个很不重要的瑞士伯尔尼的一个专利局里头做一个小职员的时候，他写了三篇震惊世界的文章，这三篇每一篇都引导出来物理学里头的一个革命，这就是代表他有一个直觉的观念，知道物理里头哪一个是最重要的问题，哪个是琐碎的、没有什么大意义的问题，而他的这个能力，能够辨别到什么是重要的问题，什么是不重要的问题，在历史上我想只有牛顿能够跟他比。</p>
+<p>  让我现在回到主题，&quot;美与物理学&quot;，物理学我刚才讲了有三个领域，大的领域，（1）、（2）、（3），这三个领域，每一个领域有不同的美。先讲在实验，比如说是我们讲虹跟霓，我想在座每一位，小时候看见了虹跟霓都会说这是非常之美，等到你年纪稍微大了一点的话，你如果会做实验的话，那么你可以量那个虹是多少度，霓是多少度，你如果去量了以后，你就发现虹是42度，就是它这个角是42度，而霓是50度，而且你继续观测以后，你就知道红在外、紫在内，霓是反过来的，是红在内、紫在外，这些都是你观测了以后了解到的，这个非常美妙的现象是实验的美。可是你进步到了唯象理论以后，你就懂为什么会有虹和霓呢？是因为太阳光在水珠子里头可以有一个全反射，一次全反射就出来虹，两次全反射就出来霓，而且你经过全反射这个计算可以算出来，一个是42度、一个是50度，这个是唯象理论的美，我想任何一个学生，第一次算出来这个42度和50度的时候，不可能没有一个非常深的感受，觉得这真是妙不可言。可是这个还不够，为什么要有全反射、为什么要有折射？这些要到理论架构里头，到了麦克斯韦方程出现以后，你就可以了解到，为什么缘故要有全反射，而且可以知道为什么在水里头要有折射，这个把它的根源找出来，所以这个是更高层的美。</p>
+<p>  今天我们如果看物理学的理论架构，上边有，里面有也许八九个、九十个方程式，其中刚才我给大家已经介绍了狄拉克的方程式，我也给大家大概介绍了海森伯方程式、麦克斯韦的方程式、牛顿的方程式、爱因斯坦的方程式，这许多方程式里边所描述的是宇宙的秘密，这些许多方程式，大可以讨论到星云群里头的现象，小可以讨论到基本粒子里头的内部的结构，时间长，可以讨论到十亿年，短，可以到十的负二十七次方秒，这样子大的，这么多包罗万象的东西，它的解释都建筑在这几个支柱上边，所以，而且他们都是非常浓缩的语言，所以我想了解了这些以后，你会同意我讲这几个基本的结构是造物者的诗篇。说它是诗不只是因为它们是非常之浓缩的语言、浓缩的符号，还因为它们的内涵，往往随着物理学的发展而产生新的、当初所完全没有想到的意义，比如说是爱因斯坦在1916年写出来他的&quot;广义相对论&quot;的时候，他并没有能够完全了解到那个里边的含义，而这个含义最近这三四十年，通过宇宙学的发展，比如说是黑洞，这个里头有非常深邃，现在还没有能完全了解的一些新的内涵，那么这个当然跟诗一样，你们大家都晓得你在10岁的时候所念的诗，到20岁时候再看，原来10岁时候没有完全懂，你到30岁时候再看，你就了解到你20岁的时候也还没有完全懂这个诗，诗有这个现象，而刚才我所讲的这几个基本结构是也有这个现象的。所以我想如果要描述一个学物理的人或者是一个做物理工作的人，在了解到一个基本的结构的时候是什么感受？最好用诗人的话来描述。200年以前威廉·布莱克曾经说&quot;To see a World in a Grain of Sand，Anda Heaven in a Wild Flower， Hold Infinite in the palm of your hand AndEternity in an hour &quot;，这个台湾有一个散文家把它翻译成一粒沙里有一个世界、一朵花里有一个天堂，把无穷无尽握于手掌，永恒宁非是刹那时光。</p>
+<p>  在牛顿过去的时候，一个大诗人蒲柏写了这样两句&quot;Nature and nature'slaw lay hid in night：God said，let Newton be！And all was light。&quot;，我把这个翻译成&quot;自然与自然规律为黑暗隐蔽，上帝说让牛顿来，一切遂真光明&quot;，这些用诗人的语言来描述物理学的美，当然是描写得很好，可是我觉得不够，一个对于物理学的基本结构了解，知道它们能够对于那么多的复杂的现象给一个那么准确的解释的时候，还有一些美的感受，这个感受是诗人所没有写出来的，是什么感受呢？是一个庄严感、是一个神圣感、是一个第一次看见宇宙的秘密的时候的畏惧感。那么我想这个所缺少的感，正是哥德式建筑的建筑师，他们在设计哥德式这个建筑的时候，他们所要歌颂的，他们所要歌颂的是崇高美、灵魂美、宗教美、是最终极的美。</p>
 ]]></content>
     </entry>
     <entry>
@@ -678,6 +948,7 @@ number theoretical questions undecidable for the human mind.</li>
         <updated>2020-06-26T12:15:51.000Z</updated>
         <content type="html"><![CDATA[<p>免责声明：下述内容仅供学习和研究使用，与我本人无任何利害关系。</p>
 <hr>
+<p><a href="https://mp.weixin.qq.com/s/_kObp0peUyajqnDACJDlqg">暗网取证研究</a> 《信息安全与通信保密》2021年第3期.</p>
 <p>搜索引擎：👁‍🗨</p>
 <ul>
 <li>
@@ -738,12 +1009,13 @@ number theoretical questions undecidable for the human mind.</li>
 <li>DC residents get visits from FBI as agents track cell phones that pinged near the Capitol 【 FBI 记录分析20210106国会山游行参与者的手机信号 】</li>
 </ul>
 <h1 id="open-source">Open Source</h1>
-<p><a href="https://github.com/DNSCrypt">DNSCrypt</a></p>
-<p>Cloudflare DNS ：<a href="https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1">1.1.1.1</a></p>
-<p><a href="https://dnscrypt.one/">dnscrypt.one | DNSCrypt resolver and relay in Germany</a></p>
-<p><a href="https://nextdns.io/">NextDNS - The new firewall for the modern Internet.<br>
-</a></p>
-<p><a href="https://github.com/Eloston/ungoogled-chromium">ungoogled-chromium</a> 浏览器 sans integration with Google，<a href="https://spyware.neocities.org/articles/index.html">Comparison between web browsers — Spyware Watchdog</a> 扩展插件：</p>
+<p><img src="https://coreboot.org/assets/images/banner.svg" width="30"> <a href="https://coreboot.org/">coreboot - Fast, secure and flexible OpenSource firmware</a></p>
+<p><a href="https://github.com/DNSCrypt">DNSCrypt</a>：</p>
+<ul>
+<li>Cloudflare DNS <a href="https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1">1.1.1.1</a> |||| <a href="https://dnscrypt.one/">dnscrypt.one | DNSCrypt resolver and relay in Germany</a> |||| <a href="https://nextdns.io/">NextDNS - The new firewall for the modern Internet.<br>
+</a></li>
+</ul>
+<p><a href="https://github.com/Eloston/ungoogled-chromium">ungoogled-chromium</a> 浏览器 sans integration with Google，<u><a href="https://spyware.neocities.org/articles/index.html">Comparison between web browsers — Spyware Watchdog</a></u> 扩展插件：</p>
 <ul>
 <li><a href="https://github.com/NeverDecaf/chromium-web-store">Chromium Web Store</a></li>
 <li><a href="https://privacybadger.org/">Privacy Badger</a></li>
@@ -784,16 +1056,16 @@ number theoretical questions undecidable for the human mind.</li>
 </li>
 </ul>
 <p><a href="https://www.simplednscrypt.org/">Simple DNSCrypt - A simple management tool for dnscrypt-proxy</a></p>
-<p>GlassWire https://www.glasswire.com 监控应用流量</p>
+<p><a href="https://www.glasswire.com">GlassWire</a> 商业软件，隐私条款简明友好，可用于监控应用流量。</p>
 <p>TMAC https://technitium.com/tmac 修改网卡MAC地址</p>
 <p><a href="https://windowsawesome.com/">Windows Awesome</a></p>
 <p><a href="https://github.com/Awesome-Windows/Awesome">Awesome Windows</a></p>
-<h1 id="apple-ios">Apple iOS ：</h1>
+<h1 id="apple-ios">Apple iOS</h1>
 <p><a href="https://sneak.berlin/20201112/your-computer-isnt-yours/">Your Computer Isn't Yours</a> &amp; <a href="https://sneak.berlin/i18n/2020-11-12-your-computer-isnt-yours.zh/">你的电脑不属于你</a></p>
 <h1 id="android-开源刷机">Android 开源/刷机</h1>
 <ul>
 <li>
-<p><a href="https://f-droid.org/en/">F-Droid</a> 专门收录自由软件的安卓应用商店</p>
+<p><img src="https://f-droid.org/assets/fdroid-logo-text.svg" width="50"><a href="https://f-droid.org/en/">F-Droid</a> 专门收录自由软件的安卓应用商店：</p>
 <ul>
 <li>Aurora Store 无需登录 Google 帐号和服务的 Play Store</li>
 <li>AntennaPod 播客管理器</li>
@@ -806,14 +1078,15 @@ number theoretical questions undecidable for the human mind.</li>
 <li>
 <p>Root 刷机</p>
 <ul>
-<li><a href="https://lineageos.org/">LineageOS</a> 基于Android面向智能手机以及平板电脑的开源操作系统</li>
-<li><a href="https://lineage.microg.org/">LineageOS for microG</a> The full Android experience without Google Apps</li>
+<li><a href="https://grapheneos.org/">GrapheneOS</a> is a privacy and security focused mobile OS with Android app compatibility developed as a non-profit open source project. 现仅支持Google Pixel 设备。</li>
+<li><a href="https://lineageos.org/">LineageOS</a> 基于Android面向智能手机以及平板电脑的开源操作系统 <img src="https://lineage.microg.org/images/screen_logo.jpg" width="25"> <a href="https://lineage.microg.org/">LineageOS for microG</a> The full Android experience without Google Apps</li>
 </ul>
 </li>
 </ul>
 <h1 id="linux">Linux</h1>
 <p><a href="https://madaidans-insecurities.github.io/guides/linux-hardening.html">Linux Hardening Guide</a></p>
-<p><u><a href="https://www.digi77.com/linux-kodachi/">Kodachi The Secure OS</a></u></p>
+<p><img src="https://www.digi77.com/wp-content/uploads/2013/10/kodachi-box-136x136.png" width="30"><u><a href="https://www.digi77.com/linux-kodachi/">Kodachi The Secure OS</a></u></p>
+<p><a href="https://fwupd.org/">Fwupd - The Linux Vendor Firmware Service is a secure portal which allows hardware vendors to upload firmware updates</a></p>
 <h1 id="freebsd">FreeBSD</h1>
 ]]></content>
     </entry>
@@ -1541,7 +1814,8 @@ Dave Dyer (from USC ISI)<br>
         <link href="https://alaskasquirrel.github.io/post/amd-intel/">
         </link>
         <updated>2020-05-20T10:14:38.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://www.computerhope.com/history/processor.htm">Computer processor history</a><br>
+        <content type="html"><![CDATA[<p><a href="http://bl.ocks.org/anonymous/raw/99a16bea3bceece7f4d2/">Intel x86 considered harmful - Joanna Rutkowska 2015</a> ，<a href="https://blog.invisiblethings.org/papers/2015/x86_harmful.pdf">PDF</a>.</p>
+<p><a href="https://www.computerhope.com/history/processor.htm">Computer processor history</a><br>
 http://www.cpu-zone.com/4004.htm<br>
 <img src="https://alaskasquirrel.github.io/post-images/1594604346746.jpg" alt="" loading="lazy"><br>
 On the lower right-hand corner of the 4004 chip are the initials F.F. for Federico Faggin, the project leader and author of the silicon design.<br>
@@ -1714,81 +1988,77 @@ http://www.cpu-world.com/CPUs/4004/index.html<br>
         </link>
         <updated>2020-05-16T13:09:28.000Z</updated>
         <content type="html"><![CDATA[<p>计算机科学：✴️</p>
-<p>黑客道与教育传统的复兴 - 洪峰<br>
-<a href="https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/">As We May Think</a>   Vannevar Bush 1945  译&lt;诚如我们的想象&gt;<br>
-<a href="https://www.cs.cmu.edu/~rwh/courses/ppl/phil.html">Why Study Programming Languages?</a> by Robert Harper<br>
-<a href="http://ed-thelen.org/comp-hist/EarlyBritish.html">Early British Computers</a><br>
-<a href="http://ed-thelen.org/comp-hist/CBC.html">Computing Before Computers</a><br>
-&lt; <em>The Pattern on the Stone</em>&gt; Danny Hillis &amp; 解释计算机如何运转<br>
-<a href="https://www.bbc.com/news/technology-18327261">Prof Simon Lavington (Computer historian) - &quot;Alan Turing: Is he really the father of computing?&quot;</a><br>
-<a href="https://people.cs.clemson.edu/~mark/uprog.html">A Brief History of Microprogramming</a><br>
-<a href="https://people.freebsd.org/~lstewart/articles/cpumemory.pdf">What every Programmer should know about Memory</a>    Ulrich Drepper 2007<br>
-&lt; <em>Memory Systems: Cache、DRAM、Disk</em> &gt;Bruce Jacob, Spencer W.Ng, David T.Wang<br>
-<a href="https://www.cs.uoregon.edu/research/summerschool/archives.html">Oregon Programming Languages Summer School</a><br>
-<a href="http://okmij.org/ftp/">FTP Index</a><br>
-<a href="http://settheory.net">Set Theory and Foundations of Mathematics</a><br>
-<a href="http://www.goodmath.org/blog/">Good Math/Bad Math</a><br>
-<a href="https://sbseminar.wordpress.com">Secret Blogging Seminar</a><br>
-《数学极客：探索数学、逻辑、计算之美》Mark C. Chu-Carroll 机械出版社2018年出版。<br>
-《哥德尔证明》欧内斯特·内格尔(Ernest Nagel),詹姆士 R. 纽曼(James R. Newman).<br>
-《<em>From Mathematics to Philosophy</em>》 王浩 1974.<br>
-&lt; <em>On the building blocks of mathematical logic</em>&gt; Moses Schonfinkel 1924<br>
-《数理逻辑是什么》John N. Crossley 中国轻工业出版社。<br>
-《数理逻辑导引》冯琦 科学出版社2017年9月出版。<br>
-《数理逻辑   证明及其限度》杨跃、郝兆宽、杨睿之<br>
-《数理逻辑通俗讲话》王浩 著， 科学出版社1981年2月出版。<br>
-《数理逻辑发展史：从莱布尼茨到哥德尔》张家龙 社会科学文献出版社1993年8月出版。<br>
-《数学·计算·逻辑》陆汝铃 湖南教育出版社1993年4月出版。<br>
-《哥德尔》王浩 著，康宏逵 译， 上海译文出版社2002年9月出版。<br>
-&lt; <em>Collected Works: Kurt Godel</em> &gt;哥德尔文集<br>
-<a href="https://www.britishwittgensteinsociety.org">British Wittgenstein Society</a><br>
-《逻辑之旅——从哥德尔到哲学》王浩 著，邢滔滔 郝兆宽 汪蔚 译，浙江大学出版社2009年2月出版。<br>
-《计算机科学中的离散结构》王元元 张桂荟 编著 机械工业出版社<br>
-《计算机科学中的现代逻辑学》王元元 编<br>
-《人工智能简史》尼克 人民邮电出版社。<br>
-《计算机与人脑》冯·诺伊曼 商务印书馆<br>
-《人工智能哲学》玛格丽特·博登   上海译文出版社2001年11月出版。<br>
-<a href="http://logic.fudan.edu.cn/home">Mathematical Logic at Fudan</a><br>
-<a href="https://logic.pku.edu.cn/index.htm">北京大学 - 逻辑、语言与认知研究中心</a><br>
-<a href="https://openlogicproject.org">Open Logic Project</a><br>
-<a href="https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic">Handbook of the History of Logic</a><br>
-<a href="https://www.logicmatters.net">Logic Matters</a><br>
-<a href="https://www.seas.harvard.edu/courses/cs252/2016fa/">History of Programming Languages</a><br>
-<a href="https://learnxinyminutes.com">Learn X in Y Minutes</a><br>
-<a href="https://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html">Crash Course on Notation in Programming Language Theory</a><br>
-<a href="http://math.hws.edu/FoundationsOfComputation/">Foundations of Computation</a><br>
-<a href="https://steshaw.org/plt/">Programming Language Theory</a><br>
-<a href="https://www.cs.cmu.edu/~crary/819-f09/">Classic Papers in Programming Languages and Logic</a> by <a href="https://www.cs.cmu.edu/~crary/">Karl Crary</a><br>
-<a href="https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksinPL.shtml">Great Works in Programming Languages</a> Collected by Benjamin C. Pierce<br>
-<a href="https://softwarefoundations.cis.upenn.edu/index.html">The Software Foundations series is a broad introduction to the mathematical underpinnings of reliable software.</a> &amp; <a href="https://coq-zh.github.io/SF-zh/">中译版《软件基础》</a><br>
-&lt; <em>The Calculi of Lambda-Conversion</em> &gt;  Alonzo Church<br>
-<a href="https://hbr.github.io/Lambda-Calculus/">Lambda Calculus</a><br>
-<a href="https://turing100.acm.org/lambda_calculus_timeline.pdf">λ-Calculus: Then &amp; Now</a>     Dana S. Scott<br>
-<a href="https://www.cs.utah.edu/~mflatt/past-courses/cs7520/public_html/s06/notes.pdf">Programming Languages and Lambda Calculi</a><br>
-&lt; <em>Type and Programming Languages</em> &gt; 译《类型和程序设计语言》<br>
-<a href="http://lambda-the-ultimate.org">Lambda the Ultimate</a><br>
-<a href="https://theory.cs.princeton.edu/complexity/book.pdf">&lt; Computational Complexity: A Modern Approach &gt;</a><br>
-&lt;<a href="https://www.cs.cmu.edu/~rwh/pfpl/">Practical Foundations for Programming Languages</a>&gt;  Second Editon by Robert Harper<br>
-&lt; <em>Programming Language Pragmatics</em>&gt; 译《程序设计语言——实践之路》Michael L. Scott<br>
-&lt;<a href="https://norvig.com/design-patterns/design-patterns.pdf">Design Patterns in Dynamic Programming</a>&gt;  by <a href="http://norvig.com/">Peter Norvig</a><br>
-&lt; <em>Inside The Python Virtual Machine</em>&gt; Obi ike-Nwosu<br>
-<a href="https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice">10 Papers Every Developer Should Read</a><br>
-&lt; <em>The Golden Ticket</em>&gt; 2013 &amp; 介绍NP完全问题和P=NP问题<br>
-&lt; <em>From Frege to Godel A Source Book in Mathematical Logic, 1879-1931</em> &gt;<br>
-&lt; <em>The Annotated Turing</em>&gt; Charles Petzold 2008<br>
-《数学哲学：对数学的思考》Stewart Shapiro 郝兆宽(译) 杨睿之(译)<br>
-《图灵的秘密：他的生平、思想及论文解读》Charles Petzold<br>
-《逻辑的引擎》Martin Davis<br>
-《可计算性与不可解性》Martin Davis<br>
-《逻辑与计算机设计基础》M.Morris Mano/Charles R.Kime<br>
-《奇思妙想-15位计算机天才及其重大发现》4e. Dennis E.Shasha/Cathy A.Lazere<br>
-《编程人生 - 15位软件先驱访谈录》Peter Seibel<br>
-《编程之魂-与27位编程语言创始人对话》Federico Biancuzzi /Shane Wardern<br>
-《七周七语言：理解多种编程范型》Bruce A. Tate 2010<br>
-《没有时间的世界：爱因斯坦与哥德尔被遗忘的财富》Palle Yourgrau 2009<br>
-&lt; <em>Godel Meets Einstein: Time Travel in the Godel Universe</em>&gt; Palle Yourgrau 1999<br>
-《数学之美》吴军<br>
-《人工智能》上下册 陆汝钤</p>
+<p>黑客道与教育传统的复兴 - 洪峰</p>
+<p><a href="https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/">As We May Think</a>   Vannevar Bush 1945  译&lt;诚如我们的想象&gt;</p>
+<p><a href="https://www.cs.cmu.edu/~rwh/courses/ppl/phil.html">Why Study Programming Languages?</a> by Robert Harper</p>
+<p><a href="http://ed-thelen.org/comp-hist/EarlyBritish.html">Early British Computers</a></p>
+<p><a href="http://ed-thelen.org/comp-hist/CBC.html">Computing Before Computers</a></p>
+<p>&lt; <em>The Pattern on the Stone</em>&gt; Danny Hillis &amp; 解释计算机如何运转</p>
+<p><a href="https://www.bbc.com/news/technology-18327261">Prof Simon Lavington (Computer historian) - &quot;Alan Turing: Is he really the father of computing?&quot;</a></p>
+<p><a href="https://people.cs.clemson.edu/~mark/uprog.html">A Brief History of Microprogramming</a></p>
+<p><a href="https://people.freebsd.org/~lstewart/articles/cpumemory.pdf">What every Programmer should know about Memory</a>    Ulrich Drepper 2007</p>
+<p>&lt; <em>Memory Systems: Cache、DRAM、Disk</em> &gt;Bruce Jacob, Spencer W.Ng, David T.Wang</p>
+<p><a href="https://www.cs.uoregon.edu/research/summerschool/archives.html">Oregon Programming Languages Summer School</a></p>
+<p><a href="http://okmij.org/ftp/">FTP Index</a></p>
+<p><a href="http://settheory.net">Set Theory and Foundations of Mathematics</a></p>
+<p><a href="http://www.goodmath.org/blog/">Good Math/Bad Math</a></p>
+<p><a href="https://sbseminar.wordpress.com">Secret Blogging Seminar</a></p>
+<p>《数学极客：探索数学、逻辑、计算之美》Mark C. Chu-Carroll 机械出版社2018年出版。</p>
+<p>《哥德尔证明》欧内斯特·内格尔(Ernest Nagel),詹姆士 R. 纽曼(James R. Newman).</p>
+<p>《<em>From Mathematics to Philosophy</em>》 王浩 1974.</p>
+<p>&lt; <em>On the building blocks of mathematical logic</em>&gt; Moses Schonfinkel 1924</p>
+<p>《数理逻辑是什么》John N. Crossley 中国轻工业出版社。</p>
+<p>《数理逻辑导引》冯琦 科学出版社2017年9月出版。</p>
+<p>《数理逻辑   证明及其限度》杨跃、郝兆宽、杨睿之</p>
+<p>《数理逻辑通俗讲话》王浩 著， 科学出版社1981年2月出版。</p>
+<p>《数理逻辑发展史：从莱布尼茨到哥德尔》张家龙 社会科学文献出版社1993年8月出版。</p>
+<p><a href="https://www.britishwittgensteinsociety.org">British Wittgenstein Society</a></p>
+<p>《计算机科学中的离散结构》王元元 张桂荟 编著 机械工业出版社</p>
+<p>《计算机科学中的现代逻辑学》王元元 编</p>
+<p>《人工智能简史》尼克 人民邮电出版社。</p>
+<p>《计算机与人脑》冯·诺伊曼 商务印书馆</p>
+<p>《人工智能哲学》玛格丽特·博登   上海译文出版社2001年11月出版。</p>
+<p><a href="http://logic.fudan.edu.cn/home">Mathematical Logic at Fudan</a></p>
+<p><a href="https://logic.pku.edu.cn/index.htm">北京大学 - 逻辑、语言与认知研究中心</a></p>
+<p><a href="https://openlogicproject.org">Open Logic Project</a></p>
+<p><a href="https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic">Handbook of the History of Logic</a></p>
+<p><a href="https://www.logicmatters.net">Logic Matters</a></p>
+<p><a href="https://www.seas.harvard.edu/courses/cs252/2016fa/">History of Programming Languages</a></p>
+<p><a href="https://learnxinyminutes.com">Learn X in Y Minutes</a></p>
+<p><a href="https://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html">Crash Course on Notation in Programming Language Theory</a></p>
+<p><a href="http://math.hws.edu/FoundationsOfComputation/">Foundations of Computation</a></p>
+<p><a href="https://steshaw.org/plt/">Programming Language Theory</a></p>
+<p><a href="https://www.cs.cmu.edu/~crary/819-f09/">Classic Papers in Programming Languages and Logic</a> by <a href="https://www.cs.cmu.edu/~crary/">Karl Crary</a></p>
+<p><a href="https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksinPL.shtml">Great Works in Programming Languages</a> Collected by Benjamin C. Pierce</p>
+<p><a href="https://softwarefoundations.cis.upenn.edu/index.html">The Software Foundations series is a broad introduction to the mathematical underpinnings of reliable software.</a> &amp; <a href="https://coq-zh.github.io/SF-zh/">中译版《软件基础》</a><br>
+&lt; <em>The Calculi of Lambda-Conversion</em> &gt;  Alonzo Church</p>
+<p><a href="https://hbr.github.io/Lambda-Calculus/">Lambda Calculus</a></p>
+<p><a href="https://turing100.acm.org/lambda_calculus_timeline.pdf">λ-Calculus: Then &amp; Now</a>     Dana S. Scott</p>
+<p><a href="https://www.cs.utah.edu/~mflatt/past-courses/cs7520/public_html/s06/notes.pdf">Programming Languages and Lambda Calculi</a></p>
+<p>&lt; <em>Type and Programming Languages</em> &gt; 译《类型和程序设计语言》</p>
+<p><a href="http://lambda-the-ultimate.org">Lambda the Ultimate</a></p>
+<p><a href="https://theory.cs.princeton.edu/complexity/book.pdf">&lt; Computational Complexity: A Modern Approach &gt;</a></p>
+<p>&lt;<a href="https://www.cs.cmu.edu/~rwh/pfpl/">Practical Foundations for Programming Languages</a>&gt;  Second Editon by Robert Harper</p>
+<p>&lt; <em>Programming Language Pragmatics</em>&gt; 译《程序设计语言——实践之路》Michael L. Scott</p>
+<p>&lt;<a href="https://norvig.com/design-patterns/design-patterns.pdf">Design Patterns in Dynamic Programming</a>&gt;  by <a href="http://norvig.com/">Peter Norvig</a></p>
+<p>&lt; <em>Inside The Python Virtual Machine</em>&gt; Obi ike-Nwosu</p>
+<p><a href="https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice">10 Papers Every Developer Should Read</a></p>
+<p>&lt; <em>The Golden Ticket</em>&gt; 2013 &amp; 介绍NP完全问题和P=NP问题</p>
+<p>&lt; <em>From Frege to Godel A Source Book in Mathematical Logic, 1879-1931</em> &gt;</p>
+<p>&lt; <em>The Annotated Turing</em>&gt; Charles Petzold 2008</p>
+<p>《数学哲学：对数学的思考》Stewart Shapiro 郝兆宽(译) 杨睿之(译)</p>
+<p>《图灵的秘密：他的生平、思想及论文解读》Charles Petzold</p>
+<p>《逻辑的引擎》Martin Davis</p>
+<p>《可计算性与不可解性》Martin Davis</p>
+<p>《逻辑与计算机设计基础》M.Morris Mano/Charles R.Kime</p>
+<p>《奇思妙想-15位计算机天才及其重大发现》4e. Dennis E.Shasha/Cathy A.Lazere</p>
+<p>《编程人生 - 15位软件先驱访谈录》Peter Seibel</p>
+<p>《编程之魂-与27位编程语言创始人对话》Federico Biancuzzi /Shane Wardern</p>
+<p>《七周七语言：理解多种编程范型》Bruce A. Tate 2010</p>
+<p>《没有时间的世界：爱因斯坦与哥德尔被遗忘的财富》Palle Yourgrau 2009</p>
+<p>&lt; <em>Godel Meets Einstein: Time Travel in the Godel Universe</em>&gt; Palle Yourgrau 1999</p>
+<p>《数学之美》吴军</p>
+<p>《人工智能》上下册 陆汝钤</p>
 <p>Channel 9:</p>
 <ul>
 <li><a href="https://https://channel9.msdn.com/Blogs/Charles/Anders-Hejlsberg-and-Guy-Steele-Comcurrency-and-Language-Design">Anders Hejlsberg and Guy Steele: Concurrency and Language Design</a> October 6, 2008.</li>
