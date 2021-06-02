@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2021-05-02T07:25:56.298Z</updated>
+    <updated>2021-06-02T11:05:20.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -1033,22 +1033,23 @@ number theoretical questions undecidable for the human mind.</li>
 <h1 id="open-source">Open Source</h1>
 <p><img src="https://coreboot.org/assets/images/banner.svg" width="30"> <a href="https://coreboot.org/">coreboot - Fast, secure and flexible OpenSource firmware</a></p>
 <p><img src="https://libreboot.org/logo/logo.svg" width="30"><a href="https://libreboot.org/">Libreboot</a> is freedom-respecting boot firmware, initialising the hardware and booting an operating system.</p>
-<p><a href="https://github.com/DNSCrypt">DNSCrypt</a>：<img src="https://dnscrypt.info/_nuxt/img/dnscrypt.481dbb4.png" width="30"></p>
+<p><a href="https://github.com/DNSCrypt">DNSCrypt</a><img src="https://dnscrypt.info/_nuxt/img/dnscrypt.481dbb4.png" width="30">:</p>
 <ul>
-<li>Cloudflare DNS <a href="https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1">1.1.1.1</a>  |||| <a href="https://nextdns.io/">NextDNS - The new firewall for the modern Internet.<br>
-</a></li>
+<li><u> Cloudflare DNS <a href="https://developers.cloudflare.com/1.1.1.1/setting-up-1.1.1.1">1.1.1.1</a>  |||| <a href="https://nextdns.io/">NextDNS - The new firewall for the modern Internet.<br>
+</a>|||| <a href="https://dnscrypt.ca/">DnsCrypt.CA</a> </u></li>
 </ul>
 <p><a href="https://github.com/Eloston/ungoogled-chromium">ungoogled-chromium</a> 浏览器 sans integration with Google，<u><a href="https://spyware.neocities.org/articles/index.html">Comparison between web browsers — Spyware Watchdog</a></u> 扩展插件：</p>
 <ul>
 <li><a href="https://github.com/NeverDecaf/chromium-web-store">Chromium Web Store</a></li>
 <li><a href="https://privacybadger.org/">Privacy Badger</a></li>
 <li><a href="https://www.eff.org/https-everywhere">HTTPS Everywhere</a></li>
-<li><a href="https://noscript.net/">NoScript</a></li>
-<li><a href="https://github.com/Cookie-AutoDelete/Cookie-AutoDelete">Cookie AutoDelete</a></li>
+<li><a href="https://noscript.net/">NoScript</a><img width="25" src="https://noscript.net/noscript/logo.png"></li>
+<li><a href="https://github.com/Cookie-AutoDelete/Cookie-AutoDelete">Cookie AutoDelete</a><img width="25" src="https://addons.cdn.mozilla.net/user-media/addon_icons/784/784287-64.png?modified=mcrushed"></li>
 <li><a href="https://github.com/tarampampam/random-user-agent">Random User-Agent</a></li>
 <li><a href="https://github.com/gorhill/uBlock">uBlock Orgin</a></li>
-<li><a href="https://www.localcdn.org/">LocalCDN</a></li>
-<li><a href="https://clearurls.xyz/">ClearURLs</a></li>
+<li><a href="https://decentraleyes.org/">Decentraleys</a><img width="50" src="https://decentraleyes.org/images/logo.svg?v=30062018"></li>
+<li><a href="https://www.localcdn.org/">LocalCDN</a><img width="20" src="https://www.localcdn.org/img/logo-protected.svg"></li>
+<li><a href="https://clearurls.xyz/">ClearURLs</a><img width="20" src="https://clearurls.xyz/assets/img/clearurls.png"></li>
 </ul>
 <p>RIME 开源输入法 https://rime.im</p>
 <p>VLC 视频播放器 https://www.videolan.org/vlc/ <img src="https://images.videolan.org/images/logoOrange.png" width="40"></p>
@@ -1061,7 +1062,7 @@ number theoretical questions undecidable for the human mind.</li>
 <h1 id="windows">Windows</h1>
 <p>系统设置：🔒 <a href="https://fix10.isleaked.com">可选项一律 off 关闭</a></p>
 <p><a href="https://support.microsoft.com/zh-cn/help/3159635/windows-10-update-assistant">Windows 10 更新助手</a></p>
-<p><a href="https://www.w10privacy.de/english-home/">W10Privacy</a> 禁用追踪监控功能</p>
+<p><a href="https://www.w10privacy.de/english-home/">W10Privacy</a> 禁用追踪监控功能<img width="50" src="https://image.jimcdn.com/app/cms/image/transf/dimension=429x10000:format=jpg/path/sf91b3285d9193eec/image/id4f43297f6bdd592/version/1579362051/image.jpg"></p>
 <p><a href="https://greatis.com/stopupdates10/">StopUpdates10</a> DWS Lite</p>
 <ul>
 <li>
@@ -1072,14 +1073,17 @@ number theoretical questions undecidable for the human mind.</li>
 <li>Everything 文件搜索</li>
 <li>GoldenDict 词典</li>
 <li>MusicBee 播放器：电台、播客、音乐</li>
+<li>SimpleWall 简易防火墙</li>
 <li>SumatraPDF 阅读器</li>
 <li>Emacs 编辑器</li>
 <li>O&amp;O ShutUp10 隐私保护和设置优化工具</li>
+<li>vscode 编辑器</li>
+<li>Windowsspyblocker 阻止windows间谍/遥测，捕获流量</li>
 </ul>
 </li>
 </ul>
-<p><a href="https://www.simplednscrypt.org/">Simple DNSCrypt - A simple management tool for dnscrypt-proxy</a></p>
-<p><a href="https://www.glasswire.com">GlassWire</a> 商业软件，隐私条款简明友好，可用于监控应用流量。</p>
+<p><a href="https://www.simplednscrypt.org/">Simple DNSCrypt - A simple management tool for dnscrypt-proxy</a> <img width="50" src="https://raw.githubusercontent.com/bitbeans/SimpleDnsCrypt/master/img/simplednscrypt_256.png"></p>
+<p><a href="https://www.glasswire.com">GlassWire</a> 商业软件，隐私条款简明友好，可用于监控应用流量。<img width="50" src="https://www.glasswire.com/img/GlassWire_Firewall_Logo.svg"></p>
 <p>TMAC https://technitium.com/tmac 修改网卡MAC地址</p>
 <p><a href="https://windowsawesome.com/">Windows Awesome</a></p>
 <p><a href="https://github.com/Awesome-Windows/Awesome">Awesome Windows</a></p>
@@ -1102,7 +1106,8 @@ number theoretical questions undecidable for the human mind.</li>
 <p>Root 刷机</p>
 <ul>
 <li><img src="https://grapheneos.org/mask-icon.svg" width="30"><a href="https://grapheneos.org/">GrapheneOS</a> is a privacy and security focused mobile OS with Android app compatibility developed as a non-profit open source project. 现仅支持Google Pixel 设备。</li>
-<li><a href="https://lineageos.org/">LineageOS</a> 基于Android面向智能手机以及平板电脑的开源操作系统 <img src="https://lineage.microg.org/images/screen_logo.jpg" width="25"> <a href="https://lineage.microg.org/">LineageOS for microG</a> The full Android experience without Google Apps</li>
+<li><img src="https://lineageosroms.com/wp-content/uploads/2019/09/lineage.png" width="30"> <a href="https://lineageos.org/">LineageOS</a> 基于Android面向智能手机以及平板电脑的开源操作系统 <img src="https://lineage.microg.org/images/screen_logo.jpg" width="25"> <a href="https://lineage.microg.org/">LineageOS for microG</a> The full Android experience without Google Apps</li>
+<li><img src="https://omnirom.org/images/omnirom_logo_white.png" width="30"> <a href="https://omnirom.org/">OmniROM</a> Based on the Android Open Source Project (AOSP) and enriched by our developers with lots of custom enhancements, OmniROM has set out to give you a great Android experience on your mobile. <a href="https://dl.omnirom.org/">OmniROM for MicroG</a></li>
 </ul>
 </li>
 </ul>
@@ -1657,22 +1662,99 @@ Permissioned 区块链网络允许等更为传统的角色 管理员、用户、
         <content type="html"><![CDATA[<p>（<em>封面 https://www.landmarkdividend.com/self-driving-car/</em>）<br>
 机器一样的人，机器一样的心。<br>
 'However ,as John McCarthy pointed out, the philosophy of AI is ' unlikely to have any more effect on the practice of AI research than philosophy of science generally has on the practice of science.' Thus, we'll continue investigating systems that are helpful in solving practice problems without asking too much whether they are intelligent or just behave as if they were.'</p>
-<p>學習：👹<br>
-&lt; The Quest for Artificial Intelligence&gt;Nils Nilsson 2010 &amp; 介绍早期人工智能<br>
-<a href="https://www.zybuluo.com/hanbingtao/note/433855">韩炳涛: 零基础入门深度学习系列</a><br>
-<a href="https://lexfridman.com/">Lex Fridman</a><br>
-<a href="http://speech.ee.ntu.edu.tw/~tlkagk/">李宏毅 Hung-yi Lee</a><br>
-<a href="https://colah.github.io/">Christopher Olah</a><br>
-<a href="https://www.52nlp.cn">我爱自然语言处理</a><br>
-<a href="https://ruder.io/">Sebastian Ruder</a><br>
-<a href="https://www.henryailabs.com">Henry AI Labs</a><br>
-<a href="https://www.nature.com/articles/s41599-020-0494-4">Why general artificial intelligence will not be realized</a><br>
-<a href="https://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/">The Man Who Would Teach Machines to Think</a><br>
-&lt; The Logical Road to Human Level&gt;John McCarthy 2005<br>
-&lt; What is Artificial Interlligence?&gt;John McCarthy 2007<br>
-<a href="https://deepmind.com/blog/">DeepMind</a><br>
-<a href="https://openai.com">OpenAI</a><br>
-<a href="https://www.fast.ai/">Fast.AI</a></p>
+<p>學習：👹</p>
+<p>&lt; The Quest for Artificial Intelligence&gt;Nils Nilsson 2010 &amp; 介绍早期人工智能</p>
+<p><a href="https://shc2000.sjtu.edu.cn/20120630/MIT.htm">《计算机仍然不能做什么——人工理性批判》MIT版导言</a></p>
+<p><a href="https://www.machine-learning.news/list/general">ML-News 日本</a></p>
+<p><a href="https://www.zybuluo.com/hanbingtao/note/433855">韩炳涛: 零基础入门深度学习系列</a></p>
+<p><a href="https://lexfridman.com/">Lex Fridman</a></p>
+<p><a href="http://speech.ee.ntu.edu.tw/~tlkagk/">李宏毅 Hung-yi Lee</a></p>
+<p><a href="https://colah.github.io/">Christopher Olah</a></p>
+<p><a href="https://www.52nlp.cn">我爱自然语言处理</a></p>
+<p><a href="https://ruder.io/">Sebastian Ruder</a></p>
+<p><a href="https://www.henryailabs.com">Henry AI Labs</a></p>
+<p><a href="https://www.nature.com/articles/s41599-020-0494-4">Why general artificial intelligence will not be realized</a></p>
+<p><a href="https://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/">The Man Who Would Teach Machines to Think</a></p>
+<p>&lt; The Logical Road to Human Level&gt;John McCarthy 2005</p>
+<p>&lt; What is Artificial Interlligence?&gt;John McCarthy 2007</p>
+<p><a href="https://deepmind.com/blog/">DeepMind</a></p>
+<p><a href="https://openai.com">OpenAI</a></p>
+<p><a href="https://www.fast.ai/">Fast.AI</a></p>
+  <li><a href="#视频教材" id="markdown-toc-视频教材">视频教材</a></li>
+  <li><a href="#资源收集" id="markdown-toc-资源收集">资源收集</a></li>
+  <li><a href="#机器学习实战" id="markdown-toc-机器学习实战">机器学习实战</a>    <ul>
+      <li><a href="#个人网站jack-cui" id="markdown-toc-个人网站jack-cui">个人网站：Jack Cui</a></li>
+    </ul>
+  </li>
+  <li><a href="#深度学习" id="markdown-toc-深度学习">深度学习</a>    <ul>
+      <li><a href="#公众号搜索与推荐wiki" id="markdown-toc-公众号搜索与推荐wiki">公众号：搜索与推荐Wiki</a></li>
+      <li><a href="#hanbingtao" id="markdown-toc-hanbingtao">@hanbingtao</a></li>
+      <li><a href="#公众号远洋号" id="markdown-toc-公众号远洋号">公众号：远洋号</a></li>
+    </ul>
+  </li>
+  <li><a href="#优化函数" id="markdown-toc-优化函数">优化函数</a>    <ul>
+      <li><a href="#公众号搜索与推荐wiki-1" id="markdown-toc-公众号搜索与推荐wiki-1">公众号：搜索与推荐Wiki</a></li>
+      <li><a href="#csdn史丹利复合田" id="markdown-toc-csdn史丹利复合田">CSDN:史丹利复合田</a></li>
+    </ul>
+  </li>
+</ul>
+<blockquote>
+  <p>使用机器学习来学习人类，人类再去学习机器学习的结果。</p>
+  <p align="right">—-jabingu　　</p>
+</blockquote>
+<blockquote>
+  <p>目前还缺少的是新的方法:比如gen网络，注意力机制等等。之后把这些进行整理。</p>
+</blockquote>
+<h2 id="视频教材">视频教材</h2>
+<p><a href="https://www.bilibili.com/video/av9912938?from=search&amp;seid=10310828645516476483">机器学习（Machine Learning）- 吴恩达（Andrew Ng）</a></p>
+<h2 id="资源收集">资源收集</h2>
+<p><a href="https://blog.csdn.net/icefire_tyh/article/details/52064910">机器学习(周志华西瓜书)参考答案总目录</a></p>
+<p><a href="https://blog.csdn.net/soulmeetliang/article/details/77461607">[机器学习入门] 经典台大李宏毅机器学习课程从这里开始</a></p>
+<p><a href="https://www.cnblogs.com/dyntao/p/8648969.html">机器学习资源收集、索引</a></p>
+<p><a href="https://blog.csdn.net/aliceyangxi1987/article/details/71911003">机器学习 人工智能 博文链接汇总</a></p>
+<h2 id="机器学习实战">机器学习实战</h2>
+<h3 id="个人网站jack-cui">个人网站：Jack Cui</h3>
+<p><a href="https://cuijiahua.com/blog/2017/11/ml_1_knn.html">机器学习实战教程（一）：K-近邻算法（史诗级干货长文）</a></p>
+<p><a href="https://cuijiahua.com/blog/2017/11/ml_2_decision_tree_1.html">机器学习实战教程（二）：决策树基础篇之让我们从相亲说起</a></p>
+<p><a href="https://cuijiahua.com/blog/2017/11/ml_3_decision_tree_2.html">机器学习实战教程（三）：决策树实战篇之为自己配个隐形眼镜</a></p>
+<p><a href="https://cuijiahua.com/blog/2017/11/ml_4_bayes_1.html">机器学习实战教程（四）：朴素贝叶斯基础篇之言论过滤器</a></p>
+<p><a href="https://cuijiahua.com/blog/2017/11/ml_5_bayes_2.html">机器学习实战教程（五）：朴素贝叶斯实战篇之新浪新闻分类</a></p>
+<p><a href="https://cuijiahua.com/blog/2017/11/ml_6_logistic_1.html">机器学习实战教程（六）：Logistic回归基础篇之梯度上升算法</a></p>
+<p><a href="https://cuijiahua.com/blog/2017/11/ml_7_logistic_2.html">机器学习实战教程（七）：Logistic回归实战篇之预测病马死亡率</a></p>
+<p><a href="https://cuijiahua.com/blog/2017/11/ml_8_svm_1.html">机器学习实战教程（八）：支持向量机原理篇之手撕线性SVM</a></p>
+<p><a href="https://cuijiahua.com/blog/2017/11/ml_9_svm_2.html">机器学习实战教程（九）：支持向量机实战篇之再撕非线性SVM</a></p>
+<p><a href="https://cuijiahua.com/blog/2017/11/ml_10_adaboost.html">机器学习实战教程（十）：提升分类器性能利器-AdaBoost</a></p>
+<p><a href="https://cuijiahua.com/blog/2017/11/ml_11_regression_1.html">机器学习实战教程（十一）：线性回归基础篇之预测鲍鱼年龄</a></p>
+<p><a href="https://cuijiahua.com/blog/2017/12/ml_12_regression_2.html">机器学习实战教程（十二）：线性回归提高篇之乐高玩具套件二手价预测</a></p>
+<p><a href="https://cuijiahua.com/blog/2017/12/ml_13_regtree_1.html">机器学习实战教程（十三）：树回归基础篇之CART算法与树剪枝</a></p>
+<h2 id="深度学习">深度学习</h2>
+<h3 id="公众号搜索与推荐wiki">公众号：搜索与推荐Wiki</h3>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzI2MDU3OTgyOQ==&amp;mid=2247485365&amp;idx=1&amp;sn=6599f17f954968b2225b4ba9ef060bd3&amp;chksm=ea66cf2fdd1146394a3f377af9773d9d6eda02149dc8b2fa93e6dd0843c323f05f0f9eafc50f&amp;scene=21#wechat_redirect">常见的五种神经网络(1)-前馈神经网络</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzI2MDU3OTgyOQ==&amp;mid=2247485598&amp;idx=1&amp;sn=3a7ff3c6d5a9dc3d88bc325f714d9f9b&amp;chksm=ea66c004dd11491204297b1c87d02cee86fded584e96c2a77a861949c75160977e5731aa866c&amp;scene=21#wechat_redirect">常见的五种神经网络(2)-卷积神经网络</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzI2MDU3OTgyOQ==&amp;mid=2247485661&amp;idx=1&amp;sn=aeaba5397ba00f1bf7d379cb07e1ac69&amp;chksm=ea66c047dd1149516c49888a7a13cec5b5e2185aee481b078e6d1c060d2acec89e275fe90c40&amp;scene=21#wechat_redirect">常见的五种神经网络(3)-循环神经网络（上）篇</a></p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MzI2MDU3OTgyOQ==&amp;mid=2247485860&amp;idx=1&amp;sn=99fb91b1932374ab3c3812e261a481bb&amp;chksm=ea66c13edd1148287fd4013d87d0abe6b25932f145199f2e1b79e2c2e4947ca5ffaceaeda8f3&amp;scene=21#wechat_redirect">常见的五种神经网络(3)-循环神经网络（下）篇</a></p>
+<h3 id="hanbingtao">@hanbingtao</h3>
+<p><a href="https://www.zybuluo.com/hanbingtao/note/433855">零基础入门深度学习(1) - 感知器</a></p>
+<p><a href="https://www.zybuluo.com/hanbingtao/note/448086">零基础入门深度学习(2) - 线性单元和梯度下降</a></p>
+<p><a href="https://www.zybuluo.com/hanbingtao/note/476663">零基础入门深度学习(3) - 神经网络和反向传播算法</a></p>
+<p><a href="https://www.zybuluo.com/hanbingtao/note/485480">零基础入门深度学习(4) - 卷积神经网络</a></p>
+<p><a href="https://zybuluo.com/hanbingtao/note/541458">零基础入门深度学习(5) - 循环神经网络</a></p>
+<p><a href="https://zybuluo.com/hanbingtao/note/581764">零基础入门深度学习(6) - 长短时记忆网络(LSTM)</a></p>
+<p><a href="https://zybuluo.com/hanbingtao/note/626300">零基础入门深度学习(7) - 递归神经网络</a></p>
+<h3 id="公众号远洋号">公众号：远洋号</h3>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&amp;mid=2247484912&amp;idx=1&amp;sn=e073c55b0ed6bd838df88af4913e68af&amp;chksm=a69da8ce91ea21d87253c5c3fe92453c176d10fe83c3e4333c06fc5f720cd9285a452f657bdb&amp;scene=21#wechat_redirect">2018汇总深度学习篇</a></p>
+<h2 id="优化函数">优化函数</h2>
+<h3 id="公众号搜索与推荐wiki-1">公众号：搜索与推荐Wiki</h3>
+<p><a href="https://mp.weixin.qq.com/s/wwV2ZL1dQ9duVWAL_Dugsw">神经网络中的网络优化和正则化（一）之学习率衰减和动态梯度方向</a></p>
+<p><a href="https://mp.weixin.qq.com/s?src=11&amp;timestamp=1569376689&amp;ver=1873&amp;signature=QT*56qzOaGnqaVAurUgA7Rltrk6BWwSCwXUv0UDfqWExDamCmyRShyZq7DV8MdbOg-4dkq7u-hyrrWqPIKMdxs2IaRv0i*hxhjp95aUKSsXWmPtR4tiscfMG9gd8WZ62&amp;new=1">神经网络中的网络优化和正则化（二）之参数初始化/数据预处理/逐层归一化</a></p>
+<h3 id="csdn史丹利复合田">CSDN:史丹利复合田</h3>
+<p><a href="https://blog.csdn.net/tsyccnh/article/details/75714791">深度学习优化函数详解（0）– 线性回归问题</a></p>
+<p><a href="https://blog.csdn.net/tsyccnh/article/details/75948021">深度学习优化函数详解（1）– Gradient Descent 梯度下降法</a></p>
+<p><a href="https://blog.csdn.net/tsyccnh/article/details/76064087">深度学习优化函数详解（2）– SGD 随机梯度下降</a></p>
+<p><a href="https://blog.csdn.net/tsyccnh/article/details/76136771">深度学习优化函数详解（3）– mini-batch SGD 小批量随机梯度下降</a></p>
+<p><a href="https://blog.csdn.net/tsyccnh/article/details/76270707">深度学习优化函数详解（4）– momentum 动量法</a></p>
+<p><a href="https://blog.csdn.net/tsyccnh/article/details/76673073">深度学习优化函数详解（5）– Nesterov accelerated gradient (NAG)</a></p>
+<p><a href="https://blog.csdn.net/tsyccnh/article/details/76769232">深度学习优化函数详解（6）– adagrad</a></p>
 <p>🤖 至于我这样不考驾照的人，自动驾驶简直福音，尤记得第一次听晓GoogleWaymo时的激动不已，此后再面对劝考驾照的人，终有所说词啦。<br>
   万万未想到索尼竟会推出<a href="https://www.sony.net/SonyInfo/vision-s/">Sony Vision-S</a>，官方说明: corresponds to Level 2+driver assistance. 基于33个感测器的安全方案，利用支持HDR的高分辨率<a href="https://www.sony.net/SonyInfo/technology/stories/IMX490/">CMOS</a>影像传感器(路面、物体侦测、色彩识别)、固态LiDAR(日间、夜间视觉和物体探测)和ToF感测器(辨别车内外人、物)为车辆提供360度的全方位保护。(注：CMOS全球份额多半被索尼占据)<br>
 Camera：(https://www.sony.net/SonyInfo/vision-s/safety.html)<br>
