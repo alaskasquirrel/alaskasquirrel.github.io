@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alaskasquirrel.github.io</id>
     <title>NewOld </title>
-    <updated>2021-06-02T16:55:57.372Z</updated>
+    <updated>2021-07-02T09:07:02.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://alaskasquirrel.github.io"/>
     <link rel="self" href="https://alaskasquirrel.github.io/atom.xml"/>
@@ -10,6 +10,52 @@
     <logo>https://alaskasquirrel.github.io/images/avatar.png</logo>
     <icon>https://alaskasquirrel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, NewOld </rights>
+    <entry>
+        <title type="html"><![CDATA[宇宙空间]]></title>
+        <id>https://alaskasquirrel.github.io/post/yu-zhou-kong-jian/</id>
+        <link href="https://alaskasquirrel.github.io/post/yu-zhou-kong-jian/">
+        </link>
+        <updated>2021-06-03T08:41:08.000Z</updated>
+        <content type="html"><![CDATA[<p>宇宙绝对不是分形的，但宇宙网的某些部分仍然具有有趣的分形性质。例如，被称为&quot;晕&quot;的暗物质团承载着星系及星系团，形成嵌套结构和子结构；暗物质晕也包含着次级和次次级的分支结构。宇宙中的空洞并非完全是空无一物的。它们确实包含少数黯淡的矮星系，而它们就排列在一个精细、稀薄的宇宙网中。</p>
+<p>几十年来，物理学家一直在寻找宇宙中看不见摸不着的“暗物质”。最初，当科学家观察宇宙时，发现了一些难以解释的引力效应，并以此推测宇宙中存在着比常规物质多得多的质量。他们相信，宇宙中一定存在某种我们目前技术看不见的东西，才能解释所有这些额外的引力。一个关于暗物质的理论认为，轴子(axion)是这些无形物质引起可观测引力效应的原因（最近的一项研究认为，这些轴子可能会在中子星的核心突然出现或消失）。</p>
+<p>对暗物质的描述一直与爱因斯坦在1917年提出的所谓宇宙常数有关，它指的是一种未知的排斥性的宇宙力量。</p>
+<p>最基本也是最流行的暗物质理论认为，暗物质是由所谓的“弱相互作用大质量粒子( weakly interacting massive particle WIMP)”构成的。</p>
+<p>多年来，科学家付出巨大的努力和大量的资金，希望了解可能构成大部分宇宙的无形物质到底是什么，但迄今为止所有的科学实验都未能探测到任何暗物质候选粒子。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[转] 编程语言简史]]></title>
+        <id>https://alaskasquirrel.github.io/post/historyofprogramminglanguage/</id>
+        <link href="https://alaskasquirrel.github.io/post/historyofprogramminglanguage/">
+        </link>
+        <updated>2021-06-02T17:11:06.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>http://knowthyself.cn/blog/one.lsp?pinyin=bian-cheng-yu-yan-jian-shi</p>
+</blockquote>
+<p>  我从14年就开始构思这篇文章。当时，我还在业余时间学习编译原理，现在，投入到这方面的时间更少了。没有在工作岗位上做相关的工作，只能买编译器方面的书读一读而已。我一直认为，对于编程语言、编译器的学习，是程序员的基本功，是无论工作了多少年，都需要不断深入下去的。关于研究历史的重要性，相信这是不言而喻的。以史为镜，可以知兴替。如果我们想要预见数学的将来，适当的途径是研究这门科学的历史和现状 --庞加莱。知技术的兴替与未来，可是了不起的才能。在这里，我只想简单的总结一下，对我们刚学习编程的同学有点参考作用。这个话题可以做的很大，希望有专业研究者来做详尽深入的剖析。</p>
+<p>  50年代，出现。最早的电子计算设备出现于二战，那时候的机器计算能力实在有限，而且专注于做数学计算，所以，人们直接写机器码或者汇编，但是，这样非常容易出错。50年代开始，计算机语言开始了革命性的发展，从汇编到 高级语言，发生了质变。Fortran（1955），LISP（1958，注意，是全大写），COBOL（1959），三个语言的出现，对先进的语言有着极大的影响。其中，Fortran的设计者和实现者约翰·巴科斯，提出了BNF，是一种描述高级语言表达方式的方法，是一种描述”上下文无关文法“的语言。现今的大多数语言多采用其衍生的版本 EBNF来描述，计算机语言便如同数学一样准确无歧义。不得不提到一个和计算机学科无关的人，诺姆·乔姆斯基，是一位自然语言学家，他于1956年提出了著名了语言分级理论，正好被计算机语言研究的人用上了。</p>
+<p>  60年代，ALGOL 60，是一门具有里程碑式意义的编程语言，是第一个清晰定义的语言，其语法是用严格公式化的方法说明的，引进了很多新的概念，如：局部性概念，动态，递归，BNF等，给后续的编程语言带来了很大的影响，它标志这程序语言设计成为一门独立的学科。它的第一个编译器是艾兹赫尔·戴克斯特拉实现的，对，就是是操作系统大神，计算机科学家，图灵奖获得者。</p>
+<p>  70年代，是快速发展的时代。最早的计算机只是用来做计算的，到后来，就更多的被用来处理通用事务。由于不同类型事务需要不同特点的语言来写程序，比如，操作系统不能再由汇编来写了，也不能用太高级的语言，需要在性能和工程上做出平衡，所以，C是一个不错的选择；做更大的系统，需要面向对象的概念；做逻辑学研究，需要Prolog；做结构化查询，需要SQL。在这时，便逐渐兴起了编程范式的概念：函数式，结构化编程，面向过程，面向对象，逻辑式等等，像反射式/自省，面向切面等由于硬件开销很大，出现的时间就晚了。这十年，出现了C，Pascal，Prolog，SQL，Smalltalk，Simula，ML等语言。<br>
+面向切面并不是Java独有或者提出的，这个概念最早出现于LISP语言，在90年代初为LISP添加面向对象特性--CLOS提出的。所以，因此而崇拜Java的同学可以哭一秒了。</p>
+<p>  80年代，编程语言被增强。这10年，基本上没有出现新的编程范式，大家都对上个10年出现的开创性语言做功能增强。对编译器的研究开始红火。在那个年代，不只是机器硬件的价格惊人，编译器的价格也惊人。非大公司、研究机构，也没谁买得起了。</p>
+<p>  90年代，互联网时代。新兴的语言有：PHP，Java，JavaScript，Ruby，VB，Python，Delphi，HTML，Lua，Haskell等。这些语言中不少都和万维网的兴起有关。这非常具有时代的特点。这是，机器的性能也有了长足的发展，面向对象这样大开销的特征也慢慢被接受了，垃圾回收在Web系统中也能容忍。相关的语言设计、算法都有了发展。</p>
+<p>  21世纪，在工业和学术界，编程语言研究都还是取得了进步的。语言的可靠性与安全性被注重，元编程、反射这样的高一个数量级计算量的特征也被容忍了，分布式计算、异构编程等新研究领域也有发展。新的语言有：C#，F#，Scala，Go，Swift等，但是，可以看到，他们并没有引起巨大的影响，多是对传统语言的改善而已。所以，大家不必盲目追求学习新的语言。</p>
+<p>  SICP中提到，所谓的计算机科学，CS（Computer Science）既无关计算机，也无关科学。想想也有点道理。我们大多数程序员，既不做CPU体系研究，也不做编程语言理论的研究，只是用一下语言而已。</p>
+<p>  有人说，编程语言理论方面的研究，在上世纪90年代就基本结束了，已经没有什么好研究的了，该研究的都已经研究了，没有搞出来的，我们现在的智力也不太够了，等着以后吧。</p>
+<p>  “Visualizing Influence Relations of Programming Languages”这个项目是非常有意思的，大家可以看看[10]，项目作者以可视化的方式呈现了历史上各种编程语言的影响力。这个项目还是挺受推崇的，也有一定的可信度，虽然不知作者的的评判标准。大家看看就行，大概有个概念就行，也不可尽信这个图画。</p>
+<p>ref</p>
+<p>http://en.wikipedia.org/wiki/History_of_programming_languages<br>
+http://www.youtube.com/watch?v=tzUbxALPcyw<br>
+http://www.smashingmagazine.com/2010/06/06/designing-the-world-of-programming-infographic/<br>
+http://www.soimort.org/posts/160/<br>
+http://www.zcom.com/articlew/70198/<br>
+http://www.cnblogs.com/rush/archive/2011/06/03/2072204.html<br>
+http://www.i-programmer.info/news/98-languages/5778-a-brief-history-of-programming-languages.html<br>
+http://foorious.com/articles/brief-history-of-programming-languages/<br>
+https://en.wikipedia.org/wiki/Programming_language<br>
+https://exploringdata.github.io/vis/programming-languages-influence-network/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【译】The uninvited Internet of things]]></title>
         <id>https://alaskasquirrel.github.io/post/the-uninvited-internet-of-things/</id>
@@ -2092,85 +2138,27 @@ http://www.cpu-world.com/CPUs/4004/index.html<br>
         <link href="https://alaskasquirrel.github.io/post/learning/">
         </link>
         <updated>2020-05-16T13:09:28.000Z</updated>
-        <content type="html"><![CDATA[<p>计算机科学：✴️</p>
-<p>黑客道与教育传统的复兴 - 洪峰</p>
-<p><a href="https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/">As We May Think</a>   Vannevar Bush 1945  译&lt;诚如我们的想象&gt;</p>
-<p><a href="https://www.cs.cmu.edu/~rwh/courses/ppl/phil.html">Why Study Programming Languages?</a> by Robert Harper</p>
-<p><a href="http://ed-thelen.org/comp-hist/EarlyBritish.html">Early British Computers</a></p>
+        <content type="html"><![CDATA[<p><a href="http://ed-thelen.org/comp-hist/EarlyBritish.html">Early British Computers</a></p>
 <p><a href="http://ed-thelen.org/comp-hist/CBC.html">Computing Before Computers</a></p>
-<p>&lt; <em>The Pattern on the Stone</em>&gt; Danny Hillis &amp; 解释计算机如何运转</p>
 <p><a href="https://www.bbc.com/news/technology-18327261">Prof Simon Lavington (Computer historian) - &quot;Alan Turing: Is he really the father of computing?&quot;</a></p>
 <p><a href="https://people.cs.clemson.edu/~mark/uprog.html">A Brief History of Microprogramming</a></p>
 <p><a href="https://people.freebsd.org/~lstewart/articles/cpumemory.pdf">What every Programmer should know about Memory</a>    Ulrich Drepper 2007</p>
-<p>&lt; <em>Memory Systems: Cache、DRAM、Disk</em> &gt;Bruce Jacob, Spencer W.Ng, David T.Wang</p>
-<p><a href="https://www.cs.uoregon.edu/research/summerschool/archives.html">Oregon Programming Languages Summer School</a></p>
-<p><a href="http://okmij.org/ftp/">FTP Index</a></p>
 <p><a href="http://settheory.net">Set Theory and Foundations of Mathematics</a></p>
 <p><a href="http://www.goodmath.org/blog/">Good Math/Bad Math</a></p>
 <p><a href="https://sbseminar.wordpress.com">Secret Blogging Seminar</a></p>
-<p>《数学极客：探索数学、逻辑、计算之美》Mark C. Chu-Carroll 机械出版社2018年出版。</p>
-<p>《哥德尔证明》欧内斯特·内格尔(Ernest Nagel),詹姆士 R. 纽曼(James R. Newman).</p>
-<p>《<em>From Mathematics to Philosophy</em>》 王浩 1974.</p>
-<p>&lt; <em>On the building blocks of mathematical logic</em>&gt; Moses Schonfinkel 1924</p>
-<p>《数理逻辑是什么》John N. Crossley 中国轻工业出版社。</p>
-<p>《数理逻辑导引》冯琦 科学出版社2017年9月出版。</p>
-<p>《数理逻辑   证明及其限度》杨跃、郝兆宽、杨睿之</p>
-<p>《数理逻辑通俗讲话》王浩 著， 科学出版社1981年2月出版。</p>
-<p>《数理逻辑发展史：从莱布尼茨到哥德尔》张家龙 社会科学文献出版社1993年8月出版。</p>
 <p><a href="https://www.britishwittgensteinsociety.org">British Wittgenstein Society</a></p>
-<p>《计算机科学中的离散结构》王元元 张桂荟 编著 机械工业出版社</p>
-<p>《计算机科学中的现代逻辑学》王元元 编</p>
-<p>《人工智能简史》尼克 人民邮电出版社。</p>
-<p>《计算机与人脑》冯·诺伊曼 商务印书馆</p>
-<p>《人工智能哲学》玛格丽特·博登   上海译文出版社2001年11月出版。</p>
-<p><a href="http://logic.fudan.edu.cn/home">Mathematical Logic at Fudan</a></p>
-<p><a href="https://logic.pku.edu.cn/index.htm">北京大学 - 逻辑、语言与认知研究中心</a></p>
-<p><a href="https://openlogicproject.org">Open Logic Project</a></p>
-<p><a href="https://www.elsevier.com/books/book-series/handbook-of-the-history-of-logic">Handbook of the History of Logic</a></p>
-<p><a href="https://www.logicmatters.net">Logic Matters</a></p>
-<p><a href="https://www.seas.harvard.edu/courses/cs252/2016fa/">History of Programming Languages</a></p>
-<p><a href="https://learnxinyminutes.com">Learn X in Y Minutes</a></p>
 <p><a href="https://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html">Crash Course on Notation in Programming Language Theory</a></p>
 <p><a href="http://math.hws.edu/FoundationsOfComputation/">Foundations of Computation</a></p>
 <p><a href="https://steshaw.org/plt/">Programming Language Theory</a></p>
 <p><a href="https://www.cs.cmu.edu/~crary/819-f09/">Classic Papers in Programming Languages and Logic</a> by <a href="https://www.cs.cmu.edu/~crary/">Karl Crary</a></p>
 <p><a href="https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksinPL.shtml">Great Works in Programming Languages</a> Collected by Benjamin C. Pierce</p>
-<p><a href="https://softwarefoundations.cis.upenn.edu/index.html">The Software Foundations series is a broad introduction to the mathematical underpinnings of reliable software.</a> &amp; <a href="https://coq-zh.github.io/SF-zh/">中译版《软件基础》</a><br>
-&lt; <em>The Calculi of Lambda-Conversion</em> &gt;  Alonzo Church</p>
 <p><a href="https://hbr.github.io/Lambda-Calculus/">Lambda Calculus</a></p>
-<p><a href="https://turing100.acm.org/lambda_calculus_timeline.pdf">λ-Calculus: Then &amp; Now</a>     Dana S. Scott</p>
 <p><a href="https://www.cs.utah.edu/~mflatt/past-courses/cs7520/public_html/s06/notes.pdf">Programming Languages and Lambda Calculi</a></p>
-<p>&lt; <em>Type and Programming Languages</em> &gt; 译《类型和程序设计语言》</p>
 <p><a href="http://lambda-the-ultimate.org">Lambda the Ultimate</a></p>
 <p><a href="https://theory.cs.princeton.edu/complexity/book.pdf">&lt; Computational Complexity: A Modern Approach &gt;</a></p>
 <p>&lt;<a href="https://www.cs.cmu.edu/~rwh/pfpl/">Practical Foundations for Programming Languages</a>&gt;  Second Editon by Robert Harper</p>
 <p>&lt; <em>Programming Language Pragmatics</em>&gt; 译《程序设计语言——实践之路》Michael L. Scott</p>
-<p>&lt;<a href="https://norvig.com/design-patterns/design-patterns.pdf">Design Patterns in Dynamic Programming</a>&gt;  by <a href="http://norvig.com/">Peter Norvig</a></p>
-<p>&lt; <em>Inside The Python Virtual Machine</em>&gt; Obi ike-Nwosu</p>
-<p><a href="https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice">10 Papers Every Developer Should Read</a></p>
-<p>&lt; <em>The Golden Ticket</em>&gt; 2013 &amp; 介绍NP完全问题和P=NP问题</p>
-<p>&lt; <em>From Frege to Godel A Source Book in Mathematical Logic, 1879-1931</em> &gt;</p>
-<p>&lt; <em>The Annotated Turing</em>&gt; Charles Petzold 2008</p>
-<p>《数学哲学：对数学的思考》Stewart Shapiro 郝兆宽(译) 杨睿之(译)</p>
-<p>《图灵的秘密：他的生平、思想及论文解读》Charles Petzold</p>
-<p>《逻辑的引擎》Martin Davis</p>
-<p>《可计算性与不可解性》Martin Davis</p>
-<p>《逻辑与计算机设计基础》M.Morris Mano/Charles R.Kime</p>
-<p>《奇思妙想-15位计算机天才及其重大发现》4e. Dennis E.Shasha/Cathy A.Lazere</p>
-<p>《编程人生 - 15位软件先驱访谈录》Peter Seibel</p>
-<p>《编程之魂-与27位编程语言创始人对话》Federico Biancuzzi /Shane Wardern</p>
-<p>《七周七语言：理解多种编程范型》Bruce A. Tate 2010</p>
-<p>《没有时间的世界：爱因斯坦与哥德尔被遗忘的财富》Palle Yourgrau 2009</p>
-<p>&lt; <em>Godel Meets Einstein: Time Travel in the Godel Universe</em>&gt; Palle Yourgrau 1999</p>
-<p>《数学之美》吴军</p>
-<p>《人工智能》上下册 陆汝钤</p>
-<p>Channel 9:</p>
-<ul>
-<li><a href="https://https://channel9.msdn.com/Blogs/Charles/Anders-Hejlsberg-and-Guy-Steele-Comcurrency-and-Language-Design">Anders Hejlsberg and Guy Steele: Concurrency and Language Design</a> October 6, 2008.</li>
-<li><a href="https://channel9.msdn.com/Blogs/Charles/Anders-Heljsberf-and-Gilad-Bracha-Perspectives-on-Programming-Language-Design">Anders Hejlsberg and Gilad Bracha: Perspectives on Programming Language Design</a> April 29, 2009.</li>
-<li><a href="https://channel9.msdn.com/Blog/mtthijs/Anders-Hejlsberg-Trends-and-Future-Directions-in-Programming-Languages-DevDays-2010-Keynote">Anders Hejlsberg Trends and Future Directions in Programming Languages</a> April 20, 2010.</li>
-<li><a href="https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction">Anders Hejlsberg on Modern Compiler Construction</a> May 13, 2016.</li>
-</ul>
+<p>&lt;<a href="https://norvig.com/design-patterns/design-patterns.pdf">Design Patterns in Dynamic Programming</a>&gt;  Peter Norvig</p>
 ]]></content>
     </entry>
 </feed>
